@@ -107,135 +107,90 @@
 - Outras referências: Lc 3:37
 
 ---
-
-# 07. Jarede
-
+## 07. Jarede
 - Marido: Jarede
-    
 - Mulher(es): Não nomeada
-    
 - Concubina(s): —
-    
 - Tipo: Monogâmico (implícito)
-    
 - Filhos:
-    
     - Enoque (Gn 5:18)
-        
+
 - Problemas no casamento:
-    
     - Não registrados
-        
+
 - Pontos positivos:
-    
     - Não registrados
-        
+
 - Outras referências: Lc 3:37
-    
 
 ---
-
-# 08. Enoque
-
+## 08. Enoque
 - Marido: Enoque
-    
 - Mulher(es): Não nomeada
-    
 - Concubina(s): —
-    
 - Tipo: Monogâmico (implícito)
-    
 - Filhos:
-    
     - Metusalém (Gn 5:21)
-        
+
 - Problemas no casamento:
-    
     - Não registrados
-        
+
 - Pontos positivos:
-    
     - Andou com Deus (Gn 5:22–24)
-        
+
 - Outras referências: Hb 11:5; Jd 1:14–15
-    
 
 ---
-
-# 09. Metusalém
-
+## 09. Metusalém
 - Marido: Metusalém
-    
 - Mulher(es): Não nomeada
-    
 - Concubina(s): —
-    
 - Tipo: Monogâmico (implícito)
-    
+
 - Filhos:
-    
     - Lameque (Gn 5:25)
-        
+
 - Problemas no casamento:
-    
     - Não registrados
-        
+
 - Pontos positivos:
-    
     - Não registrados
-        
+
 - Outras referências: Lc 3:37
-    
 
 ---
-
-# 10. Lameque (linhagem de Sete)
-
+## 10. Lameque (linhagem de Sete)
 - Marido: Lameque
-    
 - Mulher(es): Não nomeada
-    
 - Concubina(s): —
-    
+
 - Tipo: Monogâmico (implícito)
-    
+
 - Filhos:
-    
     - Noé (Gn 5:28–29)
-        
+
 - Problemas no casamento:
-    
     - Não registrados
-        
+
 - Pontos positivos:
-    
     - Profecia de descanso (Gn 5:29)
-        
+
 - Outras referências: Lc 3:36
-    
 
 ---
-
-# 11. Noé
-
+## 11. Noé
 - Marido: Noé
-    
 - Mulher(es): Não nomeada
-    
 - Concubina(s): —
-    
 - Tipo: Monogâmico
-    
+
 - Filhos:
-    
     - Sem, Cam, Jafé (Gn 5:32)
-        
+
 - Problemas no casamento:
-    
     - Conflito familiar pós-dilúvio (Gn 9:20–25)
-        
+
 - Pontos positivos:
-    
     - Família preservada por Deus (Gn 6:18; 7:7)
-        
+
 - Outras referências: Hb 11:7; 1Pe 3:20
