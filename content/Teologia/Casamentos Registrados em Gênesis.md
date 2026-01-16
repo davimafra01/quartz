@@ -210,7 +210,7 @@
 
 ---
 # 3. INDETERMINADOS
-## 01. Sete
+## 3.1 Sete
 - Marido: Sete
 - Mulher(es): Não nomeada
 - Concubina(s): —
@@ -228,7 +228,7 @@
 - Outras referências: Lc 3:38
 
 ---
-## 02. Enos
+## 3.2 Enos
 - Marido: Enos
 - Mulher(es): Não nomeada
 - Concubina(s): —
@@ -246,7 +246,7 @@
 - Outras referências: Lc 3:38
 
 ---
-## 03. Cainã
+## 3.3 Cainã
 - Marido: Cainã
 - Mulher(es): Não nomeada
 - Concubina(s): —
@@ -264,7 +264,7 @@
 - Outras referências: Lc 3:37
 
 ---
-## 04. Maalalel
+## 3.4 Maalalel
 - Marido: Maalalel
 - Mulher(es): Não nomeada
 - Concubina(s): —
@@ -282,7 +282,7 @@
 - Outras referências: Lc 3:37
 
 ---
-## 05. Jarede
+## 3.5 Jarede
 - Marido: Jarede
 - Mulher(es): Não nomeada
 - Concubina(s): —
@@ -300,7 +300,7 @@
 - Outras referências: Lc 3:37
 
 ---
-## 06. Enoque
+## 3.6 Enoque
 - Marido: Enoque
 - Mulher(es): Não nomeada
 - Concubina(s): —
@@ -318,7 +318,7 @@
 - Outras referências: Hb 11:5; Jd 1:14–15
 
 ---
-## 07. Matusalém
+## 3.7 Matusalém
 - Marido: Matusalém
 - Mulher(es): Não nomeada
 - Concubina(s): —
@@ -336,7 +336,7 @@
 - Outras referências: Lc 3:37
 
 ---
-## 08. Lameque (pai de Noé)
+## 3.8 Lameque (pai de Noé)
 - Marido: Lameque
 - Mulher(es): Não nomeada
 - Concubina(s): —
@@ -354,7 +354,7 @@
 - Outras referências: Lc 3:36
 
 ---
-## 09. Sem
+## 3.9 Sem
 - Marido: Sem
 - Mulher(es): Não nomeada
 - Concubina(s): —
@@ -372,7 +372,7 @@
 - Outras referências: Lc 3:36; Gn 11:10
 
 ---
-## 10. Arfaxade
+## 3.10 Arfaxade
 - Marido: Arfaxade
 - Mulher(es): Não nomeada
 - Concubina(s): —
@@ -390,7 +390,7 @@
 - Outras referências: Lc 3:36
 
 ---
-## 11. Selá
+## 3.11 Selá
 - Marido: Selá
 - Mulher(es): Não nomeada
 - Concubina(s): —
@@ -408,7 +408,7 @@
 - Outras referências: Lc 3:35
 
 ---
-## 12. Éber
+## 3.12 Éber
 - Marido: Éber
 - Mulher(es): Não nomeada
 - Concubina(s): —
@@ -426,7 +426,7 @@
 - Outras referências: Lc 3:35
 
 ---
-## 13. Pelegue
+## 3.13 Pelegue
 - Marido: Pelegue
 - Mulher(es): Não nomeada
 - Concubina(s): —
@@ -444,7 +444,7 @@
 - Outras referências: Lc 3:35
 
 ---
-## 14. Reú
+## 3.14 Reú
 - Marido: Reú
 - Mulher(es): Não nomeada
 - Concubina(s): —
@@ -462,7 +462,7 @@
 - Outras referências: Lc 3:35
 
 ---
-## 15. Serugue
+## 3.15 Serugue
 - Marido: Serugue
 - Mulher(es): Não nomeada
 - Concubina(s): —
@@ -480,7 +480,7 @@
 - Outras referências: Lc 3:35
 
 ---
-## 16. Naor
+## 3.16 Naor
 - Marido: Naor
 - Mulher(es): Não nomeada
 - Concubina(s): —
