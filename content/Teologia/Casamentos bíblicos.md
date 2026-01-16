@@ -210,7 +210,7 @@ Outras referências:
 
 At 7:8; Ap 7
 
-9. Judá
+# 09. Judá
 
 Marido: Judá
 Mulher(es): Não nomeada (cananeia)
@@ -237,7 +237,7 @@ Outras referências:
 
 Mt 1:3
 
-10. José
+# 10. José
 
 Marido: José
 Mulher(es): Asenate
@@ -262,7 +262,7 @@ Outras referências:
 
 Hb 11:22
 
-11. Demais filhos de Jacó (casamentos implícitos)
+# 11. Demais filhos de Jacó (casamentos implícitos)
 
 Maridos: Filhos de Jacó
 Mulher(es): Não nomeadas
