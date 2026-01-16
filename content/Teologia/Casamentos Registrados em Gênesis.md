@@ -150,91 +150,63 @@
 
 ---
 ## 2.4 Esaú
-
 - Marido: Esaú
-    
 - Mulher(es): Judite, Basemate, Maalate
-    
 - Concubina(s): —
-    
 - Tipo: Poligâmico
-    
+
 - Filhos (por esposa):
-    
     - Descendência mencionada de forma geral (Gn 36:1–5)
-        
+
 - Problemas no casamento:
-    
     - Desagrado dos pais por esposas estrangeiras (Gn 26:34–35)
-        
     - Casamentos usados como afronta espiritual (Gn 28:8–9)
-        
+
 - Pontos positivos:
-    
     - Formação do povo edomita (Gn 36)
-        
+
 - Outras referências:  
-    Hb 12:16; Rm 9:13
-    
+    - Hb 12:16; Rm 9:13
 
 ---
-
 ## 2.5 Elifaz (filho de Esaú)
-
 - Marido: Elifaz
-    
 - Mulher(es): —
-    
 - Concubina(s): Timna
-    
 - Tipo: Poligâmico
-    
+
 - Filhos (por esposa):
-    
     - Timna (concubina): Amaleque (Gn 36:12)
-        
+
 - Problemas no casamento:
-    
     - Origem de Amaleque, inimigo histórico de Israel (Gn 36:12)
-        
+
 - Pontos positivos:
-    
     - Não relatados
-        
+
 - Outras referências:  
-    Êx 17:8–16; Dt 25:17–19
-    
+	- Êx 17:8–16; Dt 25:17–19
 
 ---
-
 ## 2.6 Judá
-
 - Marido: Judá
-    
 - Mulher(es): filha de Sua
-    
 - Concubina(s): Tamar (relação levirática irregular)
-    
 - Tipo: Poligâmico
-    
+
 - Filhos (por esposa):
-    
     - Filha de Sua: Er, Onã, Selá (Gn 38:3–5)
-        
     - Tamar: Perez, Zerá (Gn 38:27–30)
-        
+
 - Problemas no casamento:
-    
     - Morte de Er e Onã por perversidade (Gn 38:7–10)
-        
     - Engano e prostituição simulada (Gn 38:14–18)
-        
+
 - Pontos positivos:
-    
     - Linhagem messiânica preservada por Perez (Gn 38:29)
-        
+
 - Outras referências:  
-    Mt 1:3; Rt 4:18–22
+	- Mt 1:3; Rt 4:18–22
 
 ---
 # 3. INDETERMINADOS
