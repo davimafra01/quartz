@@ -105,25 +105,18 @@
 ## 2.2 Abraão
 - Marido: Abraão
 - Mulher(es): Sara, Quetura
-    
 - Concubina(s): Agar
-    
 - Tipo: Poligâmico
-    
+
 - Filhos (por esposa):
-    
     - Sara: Isaque (Gn 21:1–3)
-        
     - Agar (concubina): Ismael (Gn 16:15)
-        
     - Quetura: Zinrã, Jocsã, Medã, Midiã, Isbaque, Suá (Gn 25:1–2)
-        
+
 - Problemas no casamento:
-    
     - Conflito entre Sara e Agar (Gn 16:4–6)
-        
-    - Expulsão de Agar e Ismael (Gn 21:9–14)
-        
+    - Expulsão de Agar e Ismael (Gn 21:9–14)]
+
 - Pontos positivos:
     
     - Cumprimento da promessa messiânica por Sara (Gn 21:1–3)
