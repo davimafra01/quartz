@@ -81,7 +81,6 @@
 - Hb 11:22; Js 17:17
 
 # POLIGÂMICOS
-
 ## 01. Lameque
 
 - Marido: Lameque
@@ -216,7 +215,7 @@
 
 ---
 
-# 05. Elifaz (filho de Esaú)
+## 05. Elifaz (filho de Esaú)
 
 - Marido: Elifaz
     
@@ -244,7 +243,7 @@
 
 ---
 
-# 06. Judá
+## 06. Judá
 
 - Marido: Judá
     
