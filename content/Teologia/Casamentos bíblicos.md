@@ -37,25 +37,18 @@
 - Outras referências: Hb 11:4; 1Jo 3:12
 
 ---
-
 ## 03. Sete
-
 - Marido: Sete
-    
 - Mulher(es): Não nomeada
-    
 - Concubina(s): —
-    
 - Tipo: Monogâmico (implícito)
-    
+
 - Filhos:
-    
     - Enos (Gn 5:6), outros filhos e filhas (Gn 5:7)
-        
+
 - Problemas no casamento:
-    
     - Não registrados
-        
+
 - Pontos positivos:
     
     - Linhagem piedosa (Gn 4:26)
