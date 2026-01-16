@@ -306,3 +306,29 @@ Outras referências:
     - Unidade conjugal (“uma só carne”) (Gn 2:24)
         
 - Outras referências: Mt 19:4–6; Ef 5:31; 1Co 15:45
+
+# 01. Adão
+
+- Marido: Adão
+    
+- Mulher(es): Eva
+    
+- Concubina(s): —
+    
+- Tipo: Monogâmico
+    
+- Filhos (por esposa):
+    
+    - Eva: Caim (Gn 4:1), Abel (Gn 4:2), Sete (Gn 4:25), outros filhos e filhas (Gn 5:4)
+        
+- Problemas no casamento:
+    
+    - Queda e culpa compartilhada (Gn 3:6–13)
+        
+    - Dor, conflito e hierarquia após o pecado (Gn 3:16)
+        
+- Pontos positivos:
+    
+    - Instituição divina do casamento (Gn 2:21–24)
+        
+    - Unidade conjugal (“uma só carne”) (Gn 2:24)
