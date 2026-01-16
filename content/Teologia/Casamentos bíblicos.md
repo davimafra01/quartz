@@ -146,7 +146,7 @@ Outras referências:
 
 Hb 11:20
 
-7. Esaú
+# 07. Esaú
 
 Marido: Esaú
 Mulher(es):
@@ -177,7 +177,7 @@ Outras referências:
 
 Hb 12:16
 
-8. Jacó
+# 08. Jacó
 
 Marido: Jacó
 Mulher(es): Leia, Raquel
