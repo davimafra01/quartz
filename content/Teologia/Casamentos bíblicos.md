@@ -1,5 +1,5 @@
-# MONOGÂMICOS
-## 01. Adão
+# 1. MONOGÂMICOS
+## 1.1 Adão
 - Marido: Adão
 - Mulher(es): Eva
 - Concubina(s): —
@@ -20,7 +20,7 @@
 	- Mt 19:4–6; Ef 5:31; 1Co 15:45
 
 ---
-## 02. Noé
+## 1.2 Noé
 - Marido: Noé
 - Mulher(es): esposa de Noé (nome não revelado)
 - Concubina(s): —
@@ -40,7 +40,7 @@
 	- Hb 11:7; 1Pe 3:20
 
 ---
-## 03. Isaque
+## 1.3 Isaque
 - Marido: Isaque
 - Mulher(es): Rebeca
 - Concubina(s): —
@@ -61,7 +61,7 @@
 	- Rm 9:10; Hb 11:20
 
 ---
-## 04. José
+## 1.4 José
 - Marido: José
 - Mulher(es): Asenate
 - Concubina(s): —
@@ -80,8 +80,9 @@
 - Outras referências:  
 - Hb 11:22; Js 17:17
 
-# POLIGÂMICOS
-## 01. Lameque
+---
+# 2. POLIGÂMICOS
+## 2.1 Lameque
 
 - Marido: Lameque
     
@@ -111,7 +112,7 @@
 
 ---
 
-## 02. Abraão
+## 2.2 Abraão
 
 - Marido: Abraão
     
@@ -147,7 +148,7 @@
 
 ---
 
-## 03. Jacó
+## 2.3 Jacó
 
 - Marido: Jacó
     
@@ -185,7 +186,7 @@
 
 ---
 
-## 04. Esaú
+## 2.4 Esaú
 
 - Marido: Esaú
     
@@ -215,7 +216,7 @@
 
 ---
 
-## 05. Elifaz (filho de Esaú)
+## 2.5 Elifaz (filho de Esaú)
 
 - Marido: Elifaz
     
@@ -243,7 +244,7 @@
 
 ---
 
-## 06. Judá
+## 2.6 Judá
 
 - Marido: Judá
     
@@ -271,8 +272,9 @@
         
 - Outras referências:  
     Mt 1:3; Rt 4:18–22
-# INDETERMINADOS
+
 ---
+# INDETERMINADOS
 ## 02. Caim
 - Marido: Caim
 - Mulher(es): Não nomeada
