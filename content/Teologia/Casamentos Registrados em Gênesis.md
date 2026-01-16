@@ -99,7 +99,7 @@
     - Desenvolvimento cultural e técnico por seus descendentes (Gn 4:20–22)
 
 - Outras referências:  
-    Rm 5:14 (tipologia adâmica indireta)
+	- Rm 5:14 (tipologia adâmica indireta)
 
 ---
 ## 2.2 Abraão
@@ -115,17 +115,14 @@
 
 - Problemas no casamento:
     - Conflito entre Sara e Agar (Gn 16:4–6)
-    - Expulsão de Agar e Ismael (Gn 21:9–14)]
+    - Expulsão de Agar e Ismael (Gn 21:9–14)
 
 - Pontos positivos:
-    
     - Cumprimento da promessa messiânica por Sara (Gn 21:1–3)
-        
     - Abraão como pai de muitas nações (Gn 17:4–5)
-        
+
 - Outras referências:  
-    GI 4:22–31; Hb 11:8–19; Rm 4
-    
+	- GI 4:22–31; Hb 11:8–19; Rm 4
 
 ---
 
