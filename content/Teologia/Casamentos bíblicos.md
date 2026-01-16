@@ -75,34 +75,23 @@
 ## 05. Cainã
 - Marido: Cainã
 - Mulher(es): Não nomeada
-    
 - Concubina(s): —
-    
 - Tipo: Monogâmico (implícito)
-    
 - Filhos:
-    
     - Maalalel (Gn 5:12)
-        
+
 - Problemas no casamento:
-    
     - Não registrados
-        
+
 - Pontos positivos:
-    
     - Não registrados
-        
+
 - Outras referências: Lc 3:37
-    
 
 ---
-
-# 06. Maalalel
-
+## 06. Maalalel
 - Marido: Maalalel
-    
 - Mulher(es): Não nomeada
-    
 - Concubina(s): —
     
 - Tipo: Monogâmico (implícito)
