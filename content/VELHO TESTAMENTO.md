@@ -1,1 +1,1 @@
-Começamos aqui uma página de estudos.
+Começamos aqui uma página de estudos. Veremos!
