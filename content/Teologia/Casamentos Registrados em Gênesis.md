@@ -125,21 +125,14 @@
 	- GI 4:22–31; Hb 11:8–19; Rm 4
 
 ---
-
 ## 2.3 Jacó
-
 - Marido: Jacó
-    
 - Mulher(es): Leia, Raquel
-    
 - Concubina(s): Bila, Zilpa
-    
 - Tipo: Poligâmico
-    
+
 - Filhos (por esposa):
-    
     - Leia: Rúben, Simeão, Levi, Judá, Issacar, Zebulom, Diná (Gn 29:31–35; Gn 30:17–21)
-        
     - Raquel: José, Benjamim (Gn 30:22–24; Gn 35:16–18)
         
     - Bila (concubina): Dã, Naftali (Gn 30:3–8)
