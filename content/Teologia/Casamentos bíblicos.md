@@ -63,19 +63,15 @@
 - Filhos:
     - Cainã (Gn 5:9)
 
-- Problemas no casamento:
-  
+- Problemas no casamento:  
     - Não registrados
-        
+  
 - Pontos positivos:
-    
     - Continuidade da linhagem messiânica
-        
+
 - Outras referências: Lc 3:37
-    
 
 ---
-
 # 05. Cainã
 
 - Marido: Cainã
