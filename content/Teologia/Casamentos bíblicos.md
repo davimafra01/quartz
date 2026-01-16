@@ -50,30 +50,21 @@
     - Não registrados
 
 - Pontos positivos:
-    
     - Linhagem piedosa (Gn 4:26)
-        
+
 - Outras referências: Lc 3:38
-    
 
 ---
-
-# 04. Enos
-
+## 04. Enos
 - Marido: Enos
-    
 - Mulher(es): Não nomeada
-    
 - Concubina(s): —
-    
 - Tipo: Monogâmico (implícito)
-    
 - Filhos:
-    
     - Cainã (Gn 5:9)
-        
+
 - Problemas no casamento:
-    
+  
     - Não registrados
         
 - Pontos positivos:
