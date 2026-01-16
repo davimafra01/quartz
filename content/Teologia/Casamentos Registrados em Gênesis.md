@@ -1,4 +1,4 @@
-# 1. MONOGÂMICOS
+# 1. MONOGÂMICOS (4)
 ## 1.1 Adão
 - Marido: Adão
 - Mulher(es): Eva
@@ -81,7 +81,7 @@
 - Hb 11:22; Js 17:17
 
 ---
-# 2. POLIGÂMICOS
+# 2. POLIGÂMICOS (6)
 ## 2.1 Lameque
 - Marido: Lameque
 - Mulher(es): Ada, Zilá
