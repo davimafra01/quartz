@@ -83,35 +83,25 @@
 ---
 # 2. POLIGÂMICOS
 ## 2.1 Lameque
-
 - Marido: Lameque
-    
 - Mulher(es): Ada, Zilá
-    
 - Concubina(s): —
-    
 - Tipo: Poligâmico
-    
+
 - Filhos (por esposa):
-    
     - Ada: Jabal (Gn 4:20), Jubal (Gn 4:21)
-        
     - Zilá: Tubalcaim (Gn 4:22), Naamá (Gn 4:22)
-        
+
 - Problemas no casamento:
-    
     - Associação com violência e vanglória homicida (Gn 4:23–24)
-        
+
 - Pontos positivos:
-    
     - Desenvolvimento cultural e técnico por seus descendentes (Gn 4:20–22)
-        
+
 - Outras referências:  
     Rm 5:14 (tipologia adâmica indireta)
-    
 
 ---
-
 ## 2.2 Abraão
 
 - Marido: Abraão
@@ -274,7 +264,7 @@
     Mt 1:3; Rt 4:18–22
 
 ---
-# INDETERMINADOS
+# 3. INDETERMINADOS
 ## 02. Caim
 - Marido: Caim
 - Mulher(es): Não nomeada
