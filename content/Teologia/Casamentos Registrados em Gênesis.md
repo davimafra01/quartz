@@ -210,285 +210,289 @@
 
 ---
 # 3. INDETERMINADOS
-## 02. Caim
-- Marido: Caim
-- Mulher(es): Não nomeada
-- Concubina(s): —
-- Tipo: Monogâmico (implícito)
-
-- Filhos:
-    - Enoque (Gn 4:17)
-
-- Problemas no casamento:
-    - Casamento em contexto de fratricídio e exílio (Gn 4:8–16)
-
-- Pontos positivos:
-    - Formação de família e cidade (Gn 4:17)
-
-- Outras referências: Hb 11:4; 1Jo 3:12
-
----
-## 11. Noé
-- Marido: Noé
-- Mulher(es): Não nomeada
-- Concubina(s): —
-- Tipo: Monogâmico
-
-- Filhos:
-    - Sem, Cam, Jafé (Gn 5:32)
-
-- Problemas no casamento:
-    - Conflito familiar pós-dilúvio (Gn 9:20–25)
-
-- Pontos positivos:
-    - Família preservada por Deus (Gn 6:18; 7:7)
-
-- Outras referências: Hb 11:7; 1Pe 3:20
-
----
-## 12. Sem
-- Marido: Sem
-- Mulher(es): Não nomeada
-- Concubina(s): —
-- Tipo: Monogâmico (implícito)
-
-- Filhos:
-    - Arfaxade (Gn 11:10)
-
-- Problemas no casamento:
-    - Não registrados
-
-- Pontos positivos:
-    - Linhagem abençoada por Noé (Gn 9:26)
-    - Origem do povo semita
-
-- Outras referências: Lc 3:36
-
----
-## 13. Cam
-- Marido: Cam
-- Mulher(es): Não nomeada
-- Concubina(s): —
-- Tipo: Monogâmico (implícito)
-
-- Filhos:
-    - Cuxe, Mizraim, Pute, Canaã (Gn 10:6)
-
-- Problemas no casamento:
-    - Desonra familiar grave envolvendo o pai (Gn 9:22)
-
-- Pontos positivos:
-    - Não registrados
-
-- Outras referências: Sl 105:23
-
----
-## 14. Jafé
-- Marido: Jafé
-- Mulher(es): Não nomeada
-- Concubina(s): —
-- Tipo: Monogâmico (implícito)
-
-- Filhos:
-    - Gômer, Magogue, Madai, Javã, Tubal, Meseque, Tiras (Gn 10:2)
-
-- Problemas no casamento:
-    - Não registrados
-
-- Pontos positivos:
-    - Promessa de expansão territorial (Gn 9:27)
-
-- Outras referências: —
-
----
-## 15. Arfaxade
-- Marido: Arfaxade
-- Mulher(es): Não nomeada
-- Concubina(s): —
-- Tipo: Monogâmico (implícito)
-
-- Filhos:
-    - Selá (Gn 11:12)
-
-- Problemas no casamento:
-    - Não registrados
-
-- Pontos positivos:
-    - Continuidade da linhagem de Sem
-
-- Outras referências: Lc 3:36
-
----
-## 16. Selá
-- Marido: Selá
-- Mulher(es): Não nomeada
-- Concubina(s): —
-- Tipo: Monogâmico (implícito)
-
-- Filhos:
-    - Héber (Gn 11:14)
-
-- Problemas no casamento:
-    - Não registrados
-
-- Pontos positivos:
-    - Continuidade da linhagem patriarcal
-
-- Outras referências: Lc 3:35
-
----
-## 17. Héber
-- Marido: Héber
-- Mulher(es): Não nomeada
-- Concubina(s): —
-- Tipo: Monogâmico (implícito)
-
-- Filhos:
-    - Pelegue, Joctã (Gn 11:16–19)
-
-- Problemas no casamento:
-    - Divisão da terra nos dias de Pelegue (Gn 10:25)
-
-- Pontos positivos:
-    - Associado à origem do termo “hebreu”
-
-- Outras referências: Lc 3:35
-## 03. Sete
+## 01. Sete
 - Marido: Sete
 - Mulher(es): Não nomeada
 - Concubina(s): —
-- Tipo: Monogâmico (implícito)
+- Tipo: Indeterminado
 
 - Filhos:
-    - Enos (Gn 5:6), outros filhos e filhas (Gn 5:7)
+    - Enos (Gn 4:26)
 
 - Problemas no casamento:
-    - Não registrados
+    - Não relatados
 
 - Pontos positivos:
-    - Linhagem piedosa (Gn 4:26)
+    - Continuidade da linhagem piedosa (Gn 4:26)
 
 - Outras referências: Lc 3:38
 
 ---
-## 04. Enos
+## 02. Enos
 - Marido: Enos
 - Mulher(es): Não nomeada
 - Concubina(s): —
-- Tipo: Monogâmico (implícito)
+- Tipo: Indeterminado
+
 - Filhos:
     - Cainã (Gn 5:9)
 
-- Problemas no casamento:  
-    - Não registrados
-  
-- Pontos positivos:
-    - Continuidade da linhagem messiânica
+- Problemas no casamento:
+    - Não relatados
 
-- Outras referências: Lc 3:37
+- Pontos positivos:
+    - Início da invocação do nome do Senhor (Gn 4:26)
+
+- Outras referências: Lc 3:38
 
 ---
-## 05. Cainã
+## 03. Cainã
 - Marido: Cainã
 - Mulher(es): Não nomeada
 - Concubina(s): —
-- Tipo: Monogâmico (implícito)
+- Tipo: Indeterminado
+
 - Filhos:
     - Maalalel (Gn 5:12)
 
 - Problemas no casamento:
-    - Não registrados
+    - Não relatados
 
 - Pontos positivos:
-    - Não registrados
+    - Continuidade da linhagem de Sete (Gn 5:12)
 
 - Outras referências: Lc 3:37
 
 ---
-## 06. Maalalel
+## 04. Maalalel
 - Marido: Maalalel
 - Mulher(es): Não nomeada
 - Concubina(s): —
-- Tipo: Monogâmico (implícito)
+- Tipo: Indeterminado
 
 - Filhos:
     - Jarede (Gn 5:15)
 
 - Problemas no casamento:
-    - Não registrados
+    - Não relatados
 
 - Pontos positivos:
-    - Não registrados
+    - Continuidade genealógica (Gn 5:15)
 
 - Outras referências: Lc 3:37
 
 ---
-## 07. Jarede
+## 05. Jarede
 - Marido: Jarede
 - Mulher(es): Não nomeada
 - Concubina(s): —
-- Tipo: Monogâmico (implícito)
+- Tipo: Indeterminado
+
 - Filhos:
     - Enoque (Gn 5:18)
 
 - Problemas no casamento:
-    - Não registrados
+    - Não relatados
 
 - Pontos positivos:
-    - Não registrados
+    - Pai de Enoque, que andou com Deus (Gn 5:22)
 
 - Outras referências: Lc 3:37
 
 ---
-## 08. Enoque
+## 06. Enoque
 - Marido: Enoque
 - Mulher(es): Não nomeada
 - Concubina(s): —
-- Tipo: Monogâmico (implícito)
+- Tipo: Indeterminado
+
 - Filhos:
-    - Metusalém (Gn 5:21)
+    - Matusalém (Gn 5:21)
 
 - Problemas no casamento:
-    - Não registrados
+    - Não relatados
 
 - Pontos positivos:
-    - Andou com Deus (Gn 5:22–24)
+    - Andou com Deus e foi trasladado (Gn 5:22–24)
 
 - Outras referências: Hb 11:5; Jd 1:14–15
 
 ---
-## 09. Metusalém
-- Marido: Metusalém
+## 07. Matusalém
+- Marido: Matusalém
 - Mulher(es): Não nomeada
 - Concubina(s): —
-- Tipo: Monogâmico (implícito)
+- Tipo: Indeterminado
 
 - Filhos:
     - Lameque (Gn 5:25)
 
 - Problemas no casamento:
-    - Não registrados
+    - Não relatados
 
 - Pontos positivos:
-    - Não registrados
+    - Maior longevidade registrada (Gn 5:27)
 
 - Outras referências: Lc 3:37
 
 ---
-## 10. Lameque (linhagem de Sete)
+## 08. Lameque (pai de Noé)
 - Marido: Lameque
 - Mulher(es): Não nomeada
 - Concubina(s): —
-
-- Tipo: Monogâmico (implícito)
+- Tipo: Indeterminado
 
 - Filhos:
     - Noé (Gn 5:28–29)
 
 - Problemas no casamento:
-    - Não registrados
+    - Não relatados
 
 - Pontos positivos:
-    - Profecia de descanso (Gn 5:29)
+    - Esperança de alívio da maldição da terra (Gn 5:29)
 
 - Outras referências: Lc 3:36
+
+---
+## 09. Sem
+- Marido: Sem
+- Mulher(es): Não nomeada
+- Concubina(s): —
+- Tipo: Indeterminado
+
+- Filhos:
+    - Elão, Assur, Arfaxade, Lude, Arã (Gn 10:22)
+
+- Problemas no casamento:
+    - Não relatados
+
+- Pontos positivos:
+    - Linhagem abençoada pelo Senhor (Gn 9:26)
+
+- Outras referências: Lc 3:36; Gn 11:10
+
+---
+## 10. Arfaxade
+- Marido: Arfaxade
+- Mulher(es): Não nomeada
+- Concubina(s): —
+- Tipo: Indeterminado
+
+- Filhos:
+    - Selá (Gn 11:12)
+
+- Problemas no casamento:
+    - Não relatados
+
+- Pontos positivos:
+    - Continuidade da linhagem abraâmica (Gn 11:10–26)
+
+- Outras referências: Lc 3:36
+
+---
+## 11. Selá
+- Marido: Selá
+- Mulher(es): Não nomeada
+- Concubina(s): —
+- Tipo: Indeterminado
+
+- Filhos:
+    - Éber (Gn 11:14)
+
+- Problemas no casamento:
+    - Não relatados
+
+- Pontos positivos:
+    - Ascendência dos hebreus (Gn 11:14–16)
+
+- Outras referências: Lc 3:35
+
+---
+## 12. Éber
+- Marido: Éber
+- Mulher(es): Não nomeada
+- Concubina(s): —
+- Tipo: Indeterminado
+
+- Filhos:
+    - Pelegue, Joctã (Gn 10:25)
+
+- Problemas no casamento:
+    - Não relatados
+
+- Pontos positivos:
+    - Divisão da terra nos dias de Pelegue (Gn 10:25)
+
+- Outras referências: Lc 3:35
+
+---
+## 13. Pelegue
+- Marido: Pelegue
+- Mulher(es): Não nomeada
+- Concubina(s): —
+- Tipo: Indeterminado
+
+- Filhos:
+    - Reú (Gn 11:18)
+
+- Problemas no casamento:
+    - Não relatados
+
+- Pontos positivos:
+    - Marco histórico da dispersão humana (Gn 10:25)
+
+- Outras referências: Lc 3:35
+
+---
+## 14. Reú
+- Marido: Reú
+- Mulher(es): Não nomeada
+- Concubina(s): —
+- Tipo: Indeterminado
+
+- Filhos:
+    - Serugue (Gn 11:20)
+
+- Problemas no casamento:
+    - Não relatados
+
+- Pontos positivos:
+    - Continuidade genealógica até Abraão (Gn 11)
+
+- Outras referências: Lc 3:35
+
+---
+## 15. Serugue
+- Marido: Serugue
+- Mulher(es): Não nomeada
+- Concubina(s): —
+- Tipo: Indeterminado
+
+- Filhos:
+    - Naor (Gn 11:22)
+
+- Problemas no casamento:
+    - Não relatados
+
+- Pontos positivos:
+    - Parte da linhagem patriarcal (Gn 11)
+
+- Outras referências: Lc 3:35
+
+---
+## 16. Naor
+- Marido: Naor
+- Mulher(es): Não nomeada
+- Concubina(s): —
+- Tipo: Indeterminado
+
+- Filhos:
+    - Terá (Gn 11:24)
+
+- Problemas no casamento:
+    - Não relatados
+
+- Pontos positivos:
+    - Pai de Terá, ancestral de Abraão (Gn 11:24–26)
+
+- Outras referências: Lc 3:34
