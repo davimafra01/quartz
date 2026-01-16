@@ -1,4 +1,4 @@
-# 1. Adão
+# 01. Adão
 - Marido: Adão
 - Mulher(es): Eva
 - Concubina(s): —
@@ -17,7 +17,7 @@
 
 - Outras referências: Mt 19:4–6; Ef 5:31; 1Co 15:45
 
-# 2. Caim
+# 02. Caim
 
 Marido: Caim
 Mulher(es): Não nomeada
@@ -40,7 +40,7 @@ Outras referências:
 
 Hb 11:4; 1Jo 3:12
 
-3. Lameque (linhagem de Caim)
+# 03. Lameque (linhagem de Caim)
 
 Marido: Lameque
 Mulher(es): Ada, Zilá
@@ -64,7 +64,7 @@ Desenvolvimento cultural e tecnológico (Gn 4:20–22)
 Outras referências:
 
 Nenhuma positiva posterior
-
+]3
 4. Noé
 
 Marido: Noé
