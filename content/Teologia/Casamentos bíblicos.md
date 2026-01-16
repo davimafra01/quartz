@@ -82,7 +82,196 @@
 
 # POLIGÂMICOS
 
+## 01. Lameque
 
+- Marido: Lameque
+    
+- Mulher(es): Ada, Zilá
+    
+- Concubina(s): —
+    
+- Tipo: Poligâmico
+    
+- Filhos (por esposa):
+    
+    - Ada: Jabal (Gn 4:20), Jubal (Gn 4:21)
+        
+    - Zilá: Tubalcaim (Gn 4:22), Naamá (Gn 4:22)
+        
+- Problemas no casamento:
+    
+    - Associação com violência e vanglória homicida (Gn 4:23–24)
+        
+- Pontos positivos:
+    
+    - Desenvolvimento cultural e técnico por seus descendentes (Gn 4:20–22)
+        
+- Outras referências:  
+    Rm 5:14 (tipologia adâmica indireta)
+    
+
+---
+
+## 02. Abraão
+
+- Marido: Abraão
+    
+- Mulher(es): Sara, Quetura
+    
+- Concubina(s): Agar
+    
+- Tipo: Poligâmico
+    
+- Filhos (por esposa):
+    
+    - Sara: Isaque (Gn 21:1–3)
+        
+    - Agar (concubina): Ismael (Gn 16:15)
+        
+    - Quetura: Zinrã, Jocsã, Medã, Midiã, Isbaque, Suá (Gn 25:1–2)
+        
+- Problemas no casamento:
+    
+    - Conflito entre Sara e Agar (Gn 16:4–6)
+        
+    - Expulsão de Agar e Ismael (Gn 21:9–14)
+        
+- Pontos positivos:
+    
+    - Cumprimento da promessa messiânica por Sara (Gn 21:1–3)
+        
+    - Abraão como pai de muitas nações (Gn 17:4–5)
+        
+- Outras referências:  
+    GI 4:22–31; Hb 11:8–19; Rm 4
+    
+
+---
+
+## 03. Jacó
+
+- Marido: Jacó
+    
+- Mulher(es): Leia, Raquel
+    
+- Concubina(s): Bila, Zilpa
+    
+- Tipo: Poligâmico
+    
+- Filhos (por esposa):
+    
+    - Leia: Rúben, Simeão, Levi, Judá, Issacar, Zebulom, Diná (Gn 29:31–35; Gn 30:17–21)
+        
+    - Raquel: José, Benjamim (Gn 30:22–24; Gn 35:16–18)
+        
+    - Bila (concubina): Dã, Naftali (Gn 30:3–8)
+        
+    - Zilpa (concubina): Gade, Aser (Gn 30:9–13)
+        
+- Problemas no casamento:
+    
+    - Rivalidade intensa entre Leia e Raquel (Gn 29:30–31)
+        
+    - Uso de servas como instrumento de competição (Gn 30:1–13)
+        
+- Pontos positivos:
+    
+    - Formação das doze tribos de Israel (Gn 35:22–26)
+        
+    - Fidelidade de Deus apesar do caos familiar (Gn 28:13–15)
+        
+- Outras referências:  
+    Êx 1:1–4; Ap 7:5–8
+    
+
+---
+
+## 04. Esaú
+
+- Marido: Esaú
+    
+- Mulher(es): Judite, Basemate, Maalate
+    
+- Concubina(s): —
+    
+- Tipo: Poligâmico
+    
+- Filhos (por esposa):
+    
+    - Descendência mencionada de forma geral (Gn 36:1–5)
+        
+- Problemas no casamento:
+    
+    - Desagrado dos pais por esposas estrangeiras (Gn 26:34–35)
+        
+    - Casamentos usados como afronta espiritual (Gn 28:8–9)
+        
+- Pontos positivos:
+    
+    - Formação do povo edomita (Gn 36)
+        
+- Outras referências:  
+    Hb 12:16; Rm 9:13
+    
+
+---
+
+# 05. Elifaz (filho de Esaú)
+
+- Marido: Elifaz
+    
+- Mulher(es): —
+    
+- Concubina(s): Timna
+    
+- Tipo: Poligâmico
+    
+- Filhos (por esposa):
+    
+    - Timna (concubina): Amaleque (Gn 36:12)
+        
+- Problemas no casamento:
+    
+    - Origem de Amaleque, inimigo histórico de Israel (Gn 36:12)
+        
+- Pontos positivos:
+    
+    - Não relatados
+        
+- Outras referências:  
+    Êx 17:8–16; Dt 25:17–19
+    
+
+---
+
+# 06. Judá
+
+- Marido: Judá
+    
+- Mulher(es): filha de Sua
+    
+- Concubina(s): Tamar (relação levirática irregular)
+    
+- Tipo: Poligâmico
+    
+- Filhos (por esposa):
+    
+    - Filha de Sua: Er, Onã, Selá (Gn 38:3–5)
+        
+    - Tamar: Perez, Zerá (Gn 38:27–30)
+        
+- Problemas no casamento:
+    
+    - Morte de Er e Onã por perversidade (Gn 38:7–10)
+        
+    - Engano e prostituição simulada (Gn 38:14–18)
+        
+- Pontos positivos:
+    
+    - Linhagem messiânica preservada por Perez (Gn 38:29)
+        
+- Outras referências:  
+    Mt 1:3; Rt 4:18–22
 # INDETERMINADOS
 ---
 ## 02. Caim
