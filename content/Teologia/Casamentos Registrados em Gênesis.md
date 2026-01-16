@@ -134,29 +134,21 @@
 - Filhos (por esposa):
     - Leia: Rúben, Simeão, Levi, Judá, Issacar, Zebulom, Diná (Gn 29:31–35; Gn 30:17–21)
     - Raquel: José, Benjamim (Gn 30:22–24; Gn 35:16–18)
-        
     - Bila (concubina): Dã, Naftali (Gn 30:3–8)
-        
     - Zilpa (concubina): Gade, Aser (Gn 30:9–13)
-        
+
 - Problemas no casamento:
-    
     - Rivalidade intensa entre Leia e Raquel (Gn 29:30–31)
-        
     - Uso de servas como instrumento de competição (Gn 30:1–13)
-        
+
 - Pontos positivos:
-    
     - Formação das doze tribos de Israel (Gn 35:22–26)
-        
     - Fidelidade de Deus apesar do caos familiar (Gn 28:13–15)
-        
+
 - Outras referências:  
-    Êx 1:1–4; Ap 7:5–8
-    
+	- Êx 1:1–4; Ap 7:5–8
 
 ---
-
 ## 2.4 Esaú
 
 - Marido: Esaú
