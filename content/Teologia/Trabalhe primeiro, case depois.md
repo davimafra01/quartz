@@ -1,0 +1,1 @@
+Deus diz que não é bom que o homem fique sozinho mas só o dá uma esposa depois que ele faz o seu trabalho.
