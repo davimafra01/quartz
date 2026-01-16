@@ -4,7 +4,7 @@
 - Mulher(es): Eva
 - Concubina(s): —
 - Tipo: Monogâmico
-
+ 
 - Filhos (por esposa):
     - Eva: Caim (Gn 4:1), Abel (Gn 4:2), Sete (Gn 4:25), outros filhos e filhas (Gn 5:4)
 
