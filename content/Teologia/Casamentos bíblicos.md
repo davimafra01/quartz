@@ -72,10 +72,8 @@
 - Outras referências: Lc 3:37
 
 ---
-# 05. Cainã
-
+## 05. Cainã
 - Marido: Cainã
-    
 - Mulher(es): Não nomeada
     
 - Concubina(s): —
