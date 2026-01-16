@@ -103,9 +103,7 @@
 
 ---
 ## 2.2 Abraão
-
 - Marido: Abraão
-    
 - Mulher(es): Sara, Quetura
     
 - Concubina(s): Agar
