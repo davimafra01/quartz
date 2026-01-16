@@ -1,0 +1,1 @@
+Diferentemente dos animais, não foi apenas
