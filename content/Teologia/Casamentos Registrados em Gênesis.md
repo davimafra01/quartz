@@ -209,7 +209,7 @@
 	- Mt 1:3; Rt 4:18–22
 
 ---
-# 3. INDETERMINADOS
+# 3. INDETERMINADOS (16)
 ## 3.1 Sete
 - Marido: Sete
 - Mulher(es): Não nomeada
