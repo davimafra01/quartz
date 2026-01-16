@@ -1,3 +1,1 @@
-Rascunho.
-
-Let's go again...
+Confiabilidade e imutabilidade bí
