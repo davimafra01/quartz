@@ -4,6 +4,88 @@
 - Mulher(es): Eva
 - Concubina(s): —
 - Tipo: Monogâmico
+
+- Filhos (por esposa):
+    - Eva: Caim (Gn 4:1), Abel (Gn 4:2), Sete (Gn 4:25), outros filhos e filhas (Gn 5:4)
+
+- Problemas no casamento:
+    - Queda e culpa compartilhada (Gn 3:6–13)
+    - Dor, conflito e hierarquia após o pecado (Gn 3:16)
+
+- Pontos positivos:
+    - Instituição divina do casamento (Gn 2:21–24)
+    - Unidade conjugal (“uma só carne”) (Gn 2:24)
+
+- Outras referências:  
+	- Mt 19:4–6; Ef 5:31; 1Co 15:45
+
+---
+## 02. Noé
+- Marido: Noé
+- Mulher(es): esposa de Noé (nome não revelado)
+- Concubina(s): —
+- Tipo: Monogâmico
+
+- Filhos (por esposa):
+    - Esposa de Noé: Sem, Cam e Jafé (Gn 5:32; Gn 6:10)
+
+- Problemas no casamento:
+    - Não relatados
+
+- Pontos positivos:
+    - Casamento preservado durante o Dilúvio (Gn 7:7)
+    - Unidade familiar na obediência a Deus (Gn 6:22)
+
+- Outras referências:  
+	- Hb 11:7; 1Pe 3:20
+
+---
+## 03. Isaque
+- Marido: Isaque
+- Mulher(es): Rebeca
+- Concubina(s): —
+- Tipo: Monogâmico
+
+- Filhos (por esposa):
+    - Rebeca: Esaú e Jacó (Gn 25:24–26)
+
+- Problemas no casamento:
+    - Esterilidade inicial de Rebeca (Gn 25:21)
+    - Favoritismo parental (Gn 25:28)
+
+- Pontos positivos:
+    - Casamento formado sob direção divina (Gn 24)
+    - Fidelidade conjugal (Gn 24:67)
+
+- Outras referências:  
+	- Rm 9:10; Hb 11:20
+
+---
+## 04. José
+- Marido: José
+- Mulher(es): Asenate
+- Concubina(s): —
+- Tipo: Monogâmico
+
+- Filhos (por esposa):
+    - Asenate: Manassés e Efraim (Gn 41:50–52)
+
+- Problemas no casamento:
+    - Não relatados
+
+- Pontos positivos:
+    - Casamento estável em contexto estrangeiro (Gn 41:45)
+    - Continuidade da linhagem de Israel (Gn 48)
+
+- Outras referências:  
+- Hb 11:22; Js 17:17
+
+# POLIGÂMICOS
+## 01. Adão
+- Marido: Adão
+- Mulher(es): Eva
+- Concubina(s): —
+- Tipo: Monogâmico
  
 - Filhos (por esposa):
     - Eva: Caim (Gn 4:1), Abel (Gn 4:2), Sete (Gn 4:25), outros filhos e filhas (Gn 5:4)
