@@ -64,8 +64,8 @@ Desenvolvimento cultural e tecnológico (Gn 4:20–22)
 Outras referências:
 
 Nenhuma positiva posterior
-]3
-4. Noé
+
+# 04. Noé
 
 Marido: Noé
 Mulher(es): Não nomeada
@@ -88,7 +88,7 @@ Outras referências:
 
 Hb 11:7; 1Pe 3:20
 
-5. Abraão
+# 05. Abraão
 
 Marido: Abraão
 Mulher(es): Sara
@@ -119,7 +119,7 @@ Outras referências:
 
 Rm 4; Gl 4:21–31; Hb 11:8–12
 
-6. Isaque
+# 06. Isaque
 
 Marido: Isaque
 Mulher(es): Rebeca
