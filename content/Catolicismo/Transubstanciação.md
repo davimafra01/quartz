@@ -25,4 +25,6 @@ Se a violação é ontológica, a doutrina católica da transubstanciação cai 
 
 Vamos (i) pressupor que a violação tem caráter teológico, que (ii) Jesus foi literal em sua afirmação e (iii) levar em consideração o entendimento católico de que, no momento da Eucaristia, bebe-se a substância do sangue de Cristo, e não seu acidente.
 
-Se isso é verdade, colocamo-nos diante de um obstáculo, que é inexequibilidade da ordem dada por Jesus. Seria possível realizar uma ação física com algo pertencente a uma realidade metafísica ou até mesmo espiritual? Bo
+Se isso é verdade, colocamo-nos diante de um obstáculo, que é inexequibilidade da ordem dada por Jesus. Seria possível realizar uma ação física com algo pertencente a uma realidade metafísica ou até mesmo espiritual?
+
+É evidente que ações físicas podem reverberar espi
