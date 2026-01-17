@@ -1,0 +1,1 @@
+# 1. A proibição em Gênesis 9 e Levítico
