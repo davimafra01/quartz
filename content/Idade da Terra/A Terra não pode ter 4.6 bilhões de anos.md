@@ -2,4 +2,4 @@ A velocidade do movimento de translação do planeta Terra está diminuindo (mar
 
 Leap second. (they have to add 1 second to the clock)
 
-Lunar recession (it's leaving us behind 1.5in every year)
+Lunar recession (it's leaving us behind 1.5in every year). If we go back in time too, Earth couldn't be older than 1.2 billion years old, cause more than that, the moon would be too close to the Earth and colide with it.
