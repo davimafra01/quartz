@@ -21,9 +21,9 @@ Se a violação é ontológica, a doutrina católica da transubstanciação cai 
 
 \** Está implícito que a autodoação por parte de qualquer outro ser humano não implica em validez sobre o ato de "beber sangue", pois ninguém pode doar aquilo que não tem, a mesmo a nossa vida, não nos pertence.
 
-# 2. Literalidade = Ordem Inexequível
+# 2. Violação Teológica & Literalidade = Ordem Inexequível
 
-Vamos (i) pressupor que a violação tem caráter teológico, que (ii) Jesus foi literal em sua afirmação e (iii) levar em consideração o entendimento católico de que, no momento da Eucaristia, bebe-se a substância do sangue de Cristo, e não seu acidente.
+Vamos (i) pressupor que a violação tem caráter teológico, que (ii) Jesus foi literal em sua afirmação e (iii) levar em consideração o entendimento católico de que, no momento da Eucaristia, bebe-se a substância do sangue de Cristo, e não o seu acidente.
 
 Se isso é verdade, colocamo-nos diante de um obstáculo, que é inexequibilidade da ordem dada por Jesus, pois como seria possível realizar uma ação física (beber) com algo pertencente a uma realidade metafísica (substância do sangue de Cristo) ou até mesmo espiritual?
 
