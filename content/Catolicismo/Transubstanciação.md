@@ -1,5 +1,8 @@
 # 1. A proibição em Gênesis, Levítico, Deuteronômio e Atos
-Beber sangue é expressamente proibido em nos livros de Gênesis, Levítico, Deuteronômio e em Atos. Contudo, é necessário entender que esta pode ser uma violação de caráter ontológico ou teológico:
+
+Beber sangue é expressamente proibido nos livros de Gênesis, Levítico, Deuteronômio e Atos, além de existir relatos da desaprovação e punição divina em 1 Samuel e Ezequiel.
+
+Contudo, é necessário entender que esta pode ser tanto uma violação de caráter ontológico, como teológico, já que o texto não deixa clara a sua natureza. Vejamos:
 - **Violação ontológica**:
 - **Violação teológica**: visa preservar a ordem da justiça entre criatura e Criador, na medida em que, apesar de entregar os animais para a alimentação do homem, deixa claro que toda vida - representada pelo sangue - pertence a Deus. Desse modo, o foco desta violação não reside na substância, mas no entendimento correto do lugar do ser humano como criatura, em relação ao Criador, apresentando-se então como uma proibição didática e coerente*.
 
