@@ -1,4 +1,4 @@
 ---
 title: Study Notes
 ---
-Apenas uma organização do estudos que tenho feito.
+Apenas uma organização dos estudos que tenho feito.
