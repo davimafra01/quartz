@@ -8,6 +8,8 @@ Contudo, é necessário entender que esta pode ser tanto uma violação de cará
 
 - **Violação teológica**: visa preservar a ordem da justiça entre criatura e Criador, na medida em que, apesar de entregar os animais para a alimentação do homem, deixa claro que toda vida - representada pelo sangue - pertence a Deus. Desse modo, o foco desta violação não está na substância e nem mesmo no acidente, mas no entendimento correto do lugar do ser humano como criatura em relação ao Criador, apresentando-se então como uma proibição didática e coerente*. Isso significa que a autodoação divina muda o enquadramento moral do ato, pois apenas aquele que tem a propriedade de algo pode escolher oferecê-la a alguém**.
 
+## 1.1 Violação
+
 \* Se a minha filha de 3 anos expressa desejo de beber alguma bebida alcoólica, é completamente razoável que eu apenas diga: "não, você não beberá isso e ponto final". Mesmo sabendo que 15 anos à frente ela poderá beber, se assim quiser, eu não preciso explicar isso para ela, pois ainda há muito tempo pela frente até que esse momento chegue. Desse modo, podemos dizer que Deus não ter dado mais detalhes em Gênesis 9 a respeito desta violação é completamente plausível.
 
 \** Está implícito que a autodoação por parte de qualquer outro ser humano não implica em validez sobre o ato de "beber sangue", pois ninguém pode doar aquilo que não tem, a mesmo a nossa vida, não nos pertence.
