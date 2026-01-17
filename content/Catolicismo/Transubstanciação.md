@@ -37,4 +37,4 @@ Podemos afirmar que isso não é possível. É evidente que ações físicas pod
 
 No evento da Eucaristia, come-se o acidente do pão, bebe-se o acidente do vinho e a execução desses atos sensíveis produzem - exclusivamente pela vontade do Criador - a comunhão real com a substância de Cristo, que, por sua vez, tem poder sobre a realidade espiritual. Contudo, pressupomos que Jesus ordenou que bebêssemos de seu sangue, e gerar comunhão real com a substância de Cristo não é o mesmo que beber o seu sangue. Retornamos então à inexequibilidade da ordenação do Filho.
 
-Além disso, somos levados a uma 
+Além disso, com esse raciocínio, somos levados a flexibilizar a literalidade do que Jesus disse, já que, agora, o que se faz não é exatamente "beber a substância do sangue de Cristo" - já que isso é impossível -, 
