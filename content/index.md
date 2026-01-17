@@ -1,3 +1,3 @@
 ---
-title: Study Notes | Davi
+title: Study Notes
 ---
