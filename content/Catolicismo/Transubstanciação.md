@@ -10,7 +10,7 @@ Contudo, é necessário entender que esta pode ser tanto uma violação de cará
 
 ## 1.1 Violação ontológica
 
-Se a violação é ontológica, a doutrina católica da transubstanciação cai por terra, já que beber sangue seria, por definição, ilícito, o que significaria que Jesus não poderia estar sendo literal quando disse para comermos o seu corpo e bebermos o seu sangue. Contudo, há uma possibilidade de defesa católica:
+Se a violação é ontológica, a doutrina católica da transubstanciação cai por terra, já que beber sangue seria, por definição, ilícito, o que significaria que Jesus não poderia estar sendo literal quando disse para comermos o seu corpo e bebermos o seu sangue. Contudo, há uma possibilidade de defesa católica, que é afirmar que o que é bebido na Eucaristia não é o sangue de Cristo
 
 
 ## 1.2 Violação teológica
