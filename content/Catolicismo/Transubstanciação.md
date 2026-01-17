@@ -25,9 +25,9 @@ Se a violação é ontológica, a doutrina católica da transubstanciação cai 
 
 Vamos (i) pressupor que a violação tem caráter teológico, que (ii) Jesus foi literal em sua afirmação e (iii) levar em consideração o entendimento católico de que, no momento da Eucaristia, bebe-se a substância do sangue de Cristo, e não o seu acidente.
 
-Se isso é verdade, colocamo-nos diante de um obstáculo, que é inexequibilidade da ordem dada por Jesus, pois como seria possível realizar uma ação física (beber) com algo pertencente a uma realidade metafísica (substância do sangue de Cristo) ou até mesmo espiritual?
+Se isso é verdade, colocamo-nos diante de um obstáculo, que é inexequibilidade da ordem dada por Jesus, pois como seria possível realizar uma ação física (beber) sobre algo pertencente a uma realidade metafísica (substância do sangue de Cristo) ou até mesmo espiritual?
 
-É evidente que ações físicas podem ter efeito espiritual, como o batismo, a oração, a imposição de mãos e a unção com óleo, mas todos esses atos instrumentalizam uma realidade espiritual, não havendo sua manipulação direta. Nós agimos, mas é Deus quem opera e, sem ele, a nossa ação não reverberaria no plano espiritual.
+Podemos afirmar que isso não é possível. É evidente que ações físicas podem ter efeito espiritual, como é o caso do batismo, da oração, da imposição de mãos e da unção com óleo, mas todos esses atos instrumentalizam uma realidade espiritual, não havendo sua manipulação direta. Nós agimos, mas é Deus quem opera e, sem ele, a nossa ação não reverberaria no plano espiritual.
 
 No evento da Eucaristia, come-se o acidente do pão, bebe-se o acidente do vinho e a execução desses atos sensíveis produzem - exclusivamente pela vontade do Criador - a comunhão real com a substância de Cristo, que, por sua vez, tem poder sobre a realidade espiritual. Contudo, pressupomos que Jesus ordenou que bebêssemos de seu sangue, e gerar comunhão real com a substância de Cristo não é o mesmo que beber o seu sangue. Retornamos então à inexequibilidade da ordenação do Filho.
 
