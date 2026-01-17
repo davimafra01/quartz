@@ -29,4 +29,4 @@ Se isso é verdade, colocamo-nos diante de um obstáculo, que é inexequibilidad
 
 É evidente que ações físicas podem ter efeito espiritual, como o batismo, a oração, a imposição de mãos e a unção com óleo, mas todos esses atos instrumentalizam uma realidade espiritual, não havendo sua manipulação direta. Nós agimos, mas é Deus quem opera e, sem ele, a nossa ação não reverberaria no plano espiritual.
 
-No ato da Eucaristia, come-se o acidente do pão, bebe-se o acidente do vinho e a consequência desses atos sensíveis é 
+No ato da Eucaristia, come-se o acidente do pão, bebe-se o acidente do vinho e a execução dess
