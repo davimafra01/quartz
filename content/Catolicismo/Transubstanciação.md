@@ -10,7 +10,7 @@ Contudo, é necessário entender que esta pode ser tanto uma violação de cará
 
 ## 1.1 Violação ontológica
 
-Se a violação é ontológica, a doutrina católica da transubstanciação cai por terra, pois há duas possibilidade de defesa contra ess
+Se a violação é ontológica, a doutrina católica da transubstanciação cai por terra, já que 
 
 
 
