@@ -2,4 +2,4 @@ A velocidade do movimento de translação do planeta Terra está diminuindo (mar
 
 Leap second. (they have to add 1 second to the clock)
 
-Lunar 
+Lunar recession (it's leaving us behind 1.5in every year)
