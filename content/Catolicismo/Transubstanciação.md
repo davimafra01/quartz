@@ -15,7 +15,7 @@ Se a violação é ontológica, a doutrina católica da transubstanciação cai 
 
 ## 1.2 Violação teológica
 
-
+Rascunho
 
 \* Se a minha filha de 3 anos expressa desejo de beber alguma bebida alcoólica, é completamente razoável que eu apenas diga: "não, você não beberá isso e ponto final". Mesmo sabendo que 15 anos à frente ela poderá beber, se assim quiser, eu não preciso explicar isso para ela, pois ainda há muito tempo pela frente até que esse momento chegue. Desse modo, podemos dizer que Deus não ter dado mais detalhes em Gênesis 9 a respeito desta violação é completamente plausível.
 
