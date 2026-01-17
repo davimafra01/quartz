@@ -29,10 +29,6 @@ Se isso é verdade, colocamo-nos diante de um obstáculo, que é inexequibilidad
 
 Podemos afirmar que isso não é possível. É evidente que ações físicas podem ter efeito espiritual, como é o caso do batismo, da oração, da imposição de mãos e da unção com óleo, mas todos esses atos instrumentalizam uma realidade espiritual, não havendo sua manipulação direta. Nós agimos, mas é Deus quem opera e, sem ele, a nossa ação não reverberaria no plano espiritual.
 
-Ora, como 
-
-Diante disso, mudamos o nosso terceiro pressuposto de "bebe-se a substância do sangue de Cristo" para "bebe-se o acidente do pão, que produz efeito espiritual".
-
 No evento da Eucaristia, come-se o acidente do pão, bebe-se o acidente do vinho e a execução desses atos sensíveis produzem - exclusivamente pela vontade do Criador - a comunhão real com a substância de Cristo, que, por sua vez, tem poder sobre a realidade espiritual. Contudo, pressupomos que Jesus ordenou que bebêssemos de seu sangue, e gerar comunhão real com a substância de Cristo não é o mesmo que beber o seu sangue. Retornamos então à inexequibilidade da ordenação do Filho.
 
 Além disso, somos levados a uma 
