@@ -27,4 +27,4 @@ Vamos (i) pressupor que a violação tem caráter teológico, que (ii) Jesus foi
 
 Se isso é verdade, colocamo-nos diante de um obstáculo, que é inexequibilidade da ordem dada por Jesus, pois como seria possível realizar uma ação física (beber) com algo pertencente a uma realidade metafísica (substância do sangue de Cristo) ou até mesmo espiritual?
 
-É evidente que ações físicas podem ter efeito espiritual, como a oração e a interseção por imposição de mãos, por exemplo.
+É evidente que ações físicas podem ter efeito espiritual, como o batismo, a oração, a imposição de mãos e a unção com óleo.
