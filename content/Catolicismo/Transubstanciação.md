@@ -8,7 +8,7 @@ Contudo, é necessário entender que esta pode ser tanto uma violação de cará
 
 \* Se a minha filha de 3 anos expressa desejo de beber alguma bebida alcoólica, é completamente razoável que eu apenas diga: "não, você não beberá isso e ponto final". Mesmo sabendo que 15 anos à frente ela poderá beber, se assim quiser, eu não preciso explicar isso para ela, pois ainda há muito tempo pela frente até que esse momento chegue. Desse modo, podemos dizer que Deus não ter dado mais detalhes em Gênesis 9 a respeito desta violação é completamente plausível.
 
-\* Está implícito que a autodoação
+\* Está implícito que a autodoação por parte de qualquer outro ser humano não implica em valide
 
 # 2. Literalidade = Ordem Inexequível
 
