@@ -1,1 +1,1 @@
-# 1. A proibição em Gênesis 9 e Levítico
+# 1. A proibição em Gênesis, Levítico, Deuteronômio e Atos
