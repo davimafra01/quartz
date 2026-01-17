@@ -8,14 +8,16 @@ Contudo, é necessário entender que esta pode ser tanto uma violação de cará
 
 - **Violação teológica**: visa preservar a ordem da justiça entre criatura e Criador, na medida em que, apesar de entregar os animais para a alimentação do homem, deixa claro que toda vida - representada pelo sangue - pertence a Deus. Desse modo, o foco desta violação não está na substância e nem mesmo no acidente, mas no entendimento correto do lugar do ser humano como criatura em relação ao Criador, apresentando-se então como uma proibição didática e coerente*. Isso significa que a autodoação divina muda o enquadramento moral do ato, pois apenas aquele que tem a propriedade de algo pode escolher oferecê-la a alguém**.
 
+---
 ## 1.1 Violação ontológica
 
 Se a violação é ontológica, a doutrina católica da transubstanciação cai por terra, já que beber sangue seria, por definição, ilícito, o que significaria que Jesus não poderia estar sendo literal quando disse para comermos o seu corpo e bebermos o seu sangue. Contudo, há uma possibilidade de defesa católica, que é afirmar que o que é bebido na Eucaristia não é o sangue biológico de Cristo, mas a sua substância. Ou seja: é um sangue sacramental, cristológico e redentor.
 
 Ainda assim, pode-se argumentar que, se beber um acidente do sangue seria uma ofensa ao Criador, mais ainda seria beber a substância da qual origina todo acidente, já que as realidade metafísicas e espirituais são superiores à realidade física e material.
 
-"Mas Deus proibiu beber o sangue, e não a substância". 
+"Mas Deus proibiu beber o sangue, e não a substância". Se estamos levando em conta que aquela foi uma violação ontológica, estamos afirmando que se trata de uma violação que toca na essência do objeto, ou seja, na sua substância.
 
+---
 ## 1.2 Violação teológica
 
 Rascunho
@@ -24,6 +26,7 @@ Rascunho
 
 \** Está implícito que a autodoação por parte de qualquer outro ser humano não implica em validez sobre o ato de "beber sangue", pois ninguém pode doar aquilo que não tem, a mesmo a nossa vida, não nos pertence.
 
+---
 # 2. Violação Teológica & Literalidade = Ordem Inexequível
 
 Vamos (i) pressupor que a violação tem caráter teológico, que (ii) Jesus foi literal em sua afirmação e (iii) levar em consideração o entendimento católico de que, no momento da Eucaristia, bebe-se a substância do sangue de Cristo sob os acidentes do vinho.
