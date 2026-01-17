@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Study Notes | Davi
 ---
 
 This is a blank Quartz installation.
