@@ -23,4 +23,4 @@ Se a violação é ontológica, a doutrina católica da transubstanciação cai 
 
 # 2. Literalidade = Ordem Inexequível
 
-Vamos considerar que 
+Vamos considerar que a violação tem caráter teológico 
