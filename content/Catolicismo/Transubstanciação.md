@@ -14,6 +14,8 @@ Se a violação é ontológica, a doutrina católica da transubstanciação cai 
 
 Ainda assim, pode-se argumentar que, se beber um acidente do sangue seria uma ofensa ao Criador, mais ainda seria beber a substância da qual origina todo acidente, já que as realidade metafísicas e espirituais são superiores à realidade física e material.
 
+"Mas Deus proibiu beber o sangue, e não a substância". 
+
 ## 1.2 Violação teológica
 
 Rascunho
