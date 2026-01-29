@@ -3,4 +3,4 @@ Analisando o gráfico mensal do "Bitcoin Liquid Index", podemos ver que, de acor
 
 ![[Pasted image 20260129140049.png]]
 
-Dito isso, tenho
+Dito isso, tenho cerca de 1 
