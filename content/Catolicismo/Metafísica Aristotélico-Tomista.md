@@ -1,4 +1,4 @@
-# Conceitos importantes:
+# Conceitos iniciais importantes
 - Substância e acidentes;
 - Forma e matéria;
 - Ato e potência;
