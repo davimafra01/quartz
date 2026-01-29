@@ -1,12 +1,13 @@
-Substância e acidentes
-Forma e matéria
-Ato e potência
-Ente
-Suposto (Tomás de Aquino)
-Diferença entre metafísico, físico e concreto
-Como predicação e ação só fazem sentido no nível do suposto
+# Conceitos importantes:
+- Substância e acidentes;
+- Forma e matéria;
+- Ato e potência;
+- Ente;
+- Suposto (Tomás de Aquino);
+- Diferença entre metafísico, físico e concreto;
+- Como predicação e ação só fazem sentido no nível do suposto.
 
-Perfeito. Vou te dar um **resumo único, articulado e coerente**, como se fosse um “mapa mental contínuo” do que você aprendeu até aqui, sem tópicos soltos, mas mostrando como tudo se encaixa.
+---
 
 O objetivo da **metafísica aristotélico-tomista** é o **ente enquanto ente**, isto é, tudo aquilo que de algum modo é. O conceito de ente é o mais universal: tanto a substância quanto os acidentes são entes, mas em sentidos diferentes. A substância é o ente que existe em si, enquanto os acidentes são entes que existem em outro, isto é, dependem da substância para existir. A substância é, portanto, o núcleo ontológico da realidade, aquilo que faz uma coisa ser o que ela é, ao passo que os acidentes são apenas modos de ser dessa coisa, como quantidade, qualidade, relação, lugar, etc.
 
