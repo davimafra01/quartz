@@ -87,12 +87,12 @@ Mudam metilação do DNA, acetilação de histonas.
 # 3. Disruptores endócrinos mais comuns
 
 **BPA (Bisfenol A)**
-Origem: Sintético
-Evidência: Classe A
-Via: Alimentar, cutânea
-Sistema afetado: Estrogênico, tireoidiano
-Mecanismo: Agonista estrogênico, modulador de receptores nucleares
-Relevância:
+- Origem: Sintético
+- Evidência: Classe A
+- Via: Alimentar, cutânea
+- Sistema afetado: Estrogênico, tireoidiano
+- Mecanismo: Agonista estrogênico, modulador de receptores nucleares
+- Relevância:
 Usado em plásticos e resinas epóxi. Presente em garrafas plásticas, latas de comida, mamadeiras antigas, recibos térmicos. É um dos xenoestrógenos mais estudados do mundo. Atua imitando estrogênio e está associado a infertilidade, puberdade precoce, obesidade e alterações neurológicas.
 
 **Ftalatos (DEHP, DBP, BBP, DINP)**
