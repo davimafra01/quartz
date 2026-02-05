@@ -244,4 +244,10 @@ Aqui estão alguns exemplos de onde esses compostos são encontrados:
 - **Creme dental antibacteriano antigo** → triclosan
 - **Lenços umedecidos** → parabenos
 - **Protetor solar** → benzofenona, octocrileno, homosalato
--
+- **Transformadores elétricos antigos** → PCBs
+- **Lixões industriais** → dioxinas
+- **Queima de lixo** → dioxinas + furanos
+- **Fumaça de incineradores** → dioxinas
+- **Tintas industriais** → nonilfenol
+- **Óleo isolante elétrico** → PCBs
+- **Resíduos de guerra química** → disruptores estrogênicos
