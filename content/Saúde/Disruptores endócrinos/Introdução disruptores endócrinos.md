@@ -149,31 +149,25 @@ Transplacentária: Mãe → feto.
 	Relevância:
 	Herbicida muito usado. Famoso por feminizar sapos machos em experimentos.
 
-Nonilfenol
-Origem: Industrial
-Evidência: Classe B
-Via: Alimentar, hídrica
-Sistema: Estrogênico
-Mecanismo: Agonista estrogênico
-Relevância:
-Presente em detergentes, tintas, plásticos, pesticidas. Contamina rios.
+**Nonilfenol**
+	Origem: Industrial
+	Evidência: Classe B
+	Via: Alimentar, hídrica
+	Sistema: Estrogênico
+	Mecanismo: Agonista estrogênico
+	Relevância:
+	Presente em detergentes, tintas, plásticos, pesticidas. Contamina rios.
 
-9. PFOA / PFOS (compostos perfluorados)
+**PFOA / PFOS (compostos perfluorados)**
+	Origem: Sintético
+	Evidência: Classe B
+	Via: Alimentar
+	Sistema: Tireoideano, metabólico
+	Mecanismo: Modulador de receptores PPAR
+	Relevância:
+	Presentes em panelas antiaderentes, embalagens, tecidos impermeáveis. Chamados de *forever chemicals*.
 
-Classificações
 
-Origem: Sintético
-
-Evidência: Classe B
-
-Via: Alimentar
-
-Sistema: Tireoideano, metabólico
-
-Mecanismo: Modulador de receptores PPAR
-
-Relevância:
-Presentes em panelas antiaderentes, embalagens, tecidos impermeáveis. Chamados de forever chemicals.
 # 4. Onde são encontrados
 Aqui estão alguns exemplos de onde esses compostos são encontrados:
 - Tintas de berços antigos → chumbo + ftalatos
