@@ -28,26 +28,25 @@ Ao classificarmos os disruptores endócrinos estudados nessa série de textos, u
 
 ## 2.2 Pelo mecanismo de ação biológica
 	Efeito agonista: imitar hormônios
-	A substância “finge” ser um hormônio.
-	Ex: imita estrogênio → ativa receptores como se fosse estrogênio real.
+		A substância “finge” ser um hormônio.
+		Ex: imita estrogênio → ativa receptores como se fosse estrogênio real.
 	
 	Efeito antagonista: bloquear hormônios
-	Impede o hormônio verdadeiro de agir.
-	Ex: ocupa o receptor e não deixa a testosterona atuar.
+		Impede o hormônio verdadeiro de agir.
+		Ex: ocupa o receptor e não deixa a testosterona atuar.
 	
 	Moduladores de síntese hormonal
-	Aumenta ou diminui a quantidade de hormônios produzidos.
+		Aumenta ou diminui a quantidade de hormônios produzidos.
 	
 	2.1.4 Moduladores de metabolismo hormonal
-	Alteram degradação, transporte ou excreção.
+		Alteram degradação, transporte ou excreção.
 	
 	2.1.5 Moduladores epigenéticos
-	Alteram expressão gênica ligada a hormônios.
-	Mudam metilação do DNA, acetilação de histonas.
+		Alteram expressão gênica ligada a hormônios.
+		Mudam metilação do DNA, acetilação de histonas.
 
 ## 2.3 Pelo sistema hormonal afetado
-	2.3.1 Estrogênicos
-	Afetam estrogênio.
+	2.3.1 Estrogênicos: Afetam estrogênio.
 	
 	2.3.2 Androgênicos
 	Afetam testosterona.
