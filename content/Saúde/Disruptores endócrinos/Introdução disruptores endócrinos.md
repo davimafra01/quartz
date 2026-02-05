@@ -144,21 +144,19 @@ Mudam metilação do DNA, acetilação de histonas.
 
 **Nonilfenol**
 - Origem: Industrial
-Evidência: Classe B
-Via: Alimentar, hídrica
-Sistema: Estrogênico
-Mecanismo: Agonista estrogênico
-Relevância:
-Presente em detergentes, tintas, plásticos, pesticidas. Contamina rios.
+- Evidência: Classe B
+- Via: Alimentar, hídrica
+- Sistema: Estrogênico
+- Mecanismo: Agonista estrogênico
+- Relevância: Presente em detergentes, tintas, plásticos, pesticidas. Contamina rios.
 
 **PFOA / PFOS (compostos perfluorados)**
-Origem: Sintético
-Evidência: Classe B
-Via: Alimentar
-Sistema: Tireoideano, metabólico
-Mecanismo: Modulador de receptores PPAR
-Relevância:
-Presentes em panelas antiaderentes, embalagens, tecidos impermeáveis. Chamados de *forever chemicals*.
+- Origem: Sintético
+- Evidência: Classe B
+- Via: Alimentar
+- Sistema: Tireoideano, metabólico
+- Mecanismo: Modulador de receptores PPAR
+- Relevância: Presentes em panelas antiaderentes, embalagens, tecidos impermeáveis. Chamados de *forever chemicals*.
 
 **BPS / BPF (substitutos do BPA)**
 Origem: Sintético
