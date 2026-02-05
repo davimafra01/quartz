@@ -108,17 +108,15 @@ Mudam metilação do DNA, acetilação de histonas.
 - Via: Cutânea, oral
 - Sistema: Tireoideano, estrogênico
 - Mecanismo: Antagonista tireoidiano
-- Relevância:
-	sado como antibacteriano em desodorantes, sabonetes, cremes dentais. Interfere diretamente em T3 e T4. Foi banido ou restrito em vários países.
+- Relevância: Usado como antibacteriano em desodorantes, sabonetes, cremes dentais. Interfere diretamente em T3 e T4. Foi banido ou restrito em vários países.
 
 **PCBs (Bifenilos Policlorados)**
-	Origem: Sintético industrial
-	Evidência: Classe A
-	Via: Alimentar, inalatória
-	Sistema: Estrogênico, tireoidiano
-	Mecanismo: Modulador de receptores nucleares
-	Relevância:
-	Usados como fluidos industriais e isolantes elétricos. Persistem no ambiente por décadas. Bioacumulam em peixes e gorduras animais.
+- Origem: Sintético industrial
+- Evidência: Classe A
+Via: Alimentar, inalatória
+Sistema: Estrogênico, tireoidiano
+Mecanismo: Modulador de receptores nucleares
+Relevância: Usados como fluidos industriais e isolantes elétricos. Persistem no ambiente por décadas. Bioacumulam em peixes e gorduras animais.
 
 **DDT**
 	Origem: Sintético (agrotóxico)
