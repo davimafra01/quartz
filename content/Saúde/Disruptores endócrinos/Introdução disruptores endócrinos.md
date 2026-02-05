@@ -22,7 +22,7 @@ Ao classificarmos os disruptores endócrinos estudados nessa série de textos, u
 	Fitoestrógenos (soja, linhaça);
 	Micotoxinas.
 
-Sintéticos:
+**Sintéticos:**
 	BPA;
 	Ftalatos;
 	PCBs;
