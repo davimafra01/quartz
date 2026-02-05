@@ -265,84 +265,82 @@ Hospitais:
 # 5. Curiosidades para estudar depois
 
 ***Timing is more important than dose***
-→ O momento da exposição é mais importante que a dose.
+O momento da exposição é mais importante que a dose.
 Exposição mínima no período fetal pode ser mais grave do que uma exposição alta no adulto.
 
 ***Windows of susceptibility***
-→ Janelas críticas de desenvolvimento.
-Existem períodos biológicos “hipersensíveis”:
-vida intrauterina, primeira infância, puberdade.
+Janelas críticas de desenvolvimento.
+Existem períodos biológicos “hipersensíveis”: vida intrauterina, primeira infância, puberdade.
 
 ***Programming effect***
-→ Efeito de programação biológica.
-O disruptor “programa” o organismo para doenças futuras:
-obesidade, infertilidade, câncer.
+Efeito de programação biológica.
+O disruptor “programa” o organismo para doenças futuras: obesidade, infertilidade, câncer.
 
 ***Silent damage***
-→ Dano silencioso.
+Dano silencioso.
 Não causa sintomas imediatos, mas altera trajetórias fisiológicas.
 
 ***Endocrine disruption without toxicity***
-→ Pode haver disrupção sem toxicidade clássica.
+Pode haver disrupção sem toxicidade clássica.
 Não há morte celular, inflamação nem necrose — só sinalização errada.
 
 ***Non-monotonic dose-response curve***
-→ Curva dose–resposta não monotônica.
+Curva dose–resposta não monotônica.
 Pequenas doses podem ter efeitos maiores que doses altas.
 Isso quebra toda a toxicologia clássica.
 
 ***Mixture paradox***
-→ Paradoxo da mistura.
+Paradoxo da mistura.
 Cada substância isolada é “segura”, mas juntas são disruptivas.
 
 ***Low-dose chronic exposure***
-→ Exposição crônica de baixa dose.
+Exposição crônica de baixa dose.
 Não é envenenamento agudo, é micro-interferência diária.
 
 ***Bioaccumulation***
-→ Bioacumulação.
+Bioacumulação.
 Disruptores lipossolúveis acumulam em gordura corporal.
 
 ***Biomagnification***
-→ Biomagnificação.
+Biomagnificação.
 A concentração aumenta ao subir na cadeia alimentar.
 
 ***Developmental origins of health and disease (DOHaD)***
-→ Origem desenvolvimental das doenças do adulto.
+Origem desenvolvimental das doenças do adulto.
 Doenças adultas começam na vida fetal.
 
 ***Transgenerational effects***
-→ Efeitos transgeracionais.
+Efeitos transgeracionais.
 Netos sofrem efeitos de exposição que só a avó teve.
 
 ***Epigenetic inheritance***
-→ Herança epigenética.
+Herança epigenética.
 Não muda o DNA, muda como ele é lido.
 
 ***Hormone mimicry***
-→ Mimetismo hormonal.
+Mimetismo hormonal.
 Molécula não é hormônio, mas “engana” o receptor.
 
 ***Receptor promiscuity***
-→ Promiscuidade dos receptores hormonais.
+Promiscuidade dos receptores hormonais.
 O mesmo receptor responde a dezenas de moléculas diferentes.
 
 ***Endocrine system is a network, not a chain***
-→ Sistema endócrino é uma rede, não uma linha.
+Sistema endócrino é uma rede, não uma linha.
 Alterar um hormônio afeta vários outros.
 
 ***Critical thresholds do not exist***
-→ Não existe dose segura universal.
+Não existe dose segura universal.
 Depende do indivíduo, idade, sexo, genética.
 
 ***Sex-specific effects***
-→ Efeitos dependem do sexo.
+Efeitos dependem do sexo.
 Mesmo disruptor age diferente em homens e mulheres.
 
 ***Latency period***
-→ Período de latência.
+Período de latência.
 Exposição hoje, doença daqui a 30 anos.
 
 ***Environmental hormones***
-→ Ambiente como sistema endócrino externo.
+Ambiente como sistema endócrino externo.
 Vivemos dentro de um “hormônio coletivo”.
