@@ -187,32 +187,19 @@ Presente em protetores solares, perfumes, esmaltes.
 
 Octocrileno
 Origem: Sintético
-
 Evidência: Classe C
-
 Via: Cutânea
-
 Sistema: Estrogênico
-
 Mecanismo: Modulador hormonal
-
 Relevância:
 Filtro solar comum, acumula no organismo.
 
-13. Genisteína (soja)
-
-Classificações
-
+Genisteína (soja)
 Origem: Natural (fitoestrógeno)
-
 Evidência: Classe C
-
 Via: Alimentar
-
 Sistema: Estrogênico
-
 Mecanismo: Agonista estrogênico fraco
-
 Relevância:
 Presente em soja, tofu, leite de soja. Natural, mas biologicamente ativo.
 
