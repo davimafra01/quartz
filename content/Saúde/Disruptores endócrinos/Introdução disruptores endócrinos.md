@@ -175,22 +175,20 @@ Mudam metilação do DNA, acetilação de histonas.
 - Relevância: Presente em protetores solares, perfumes, esmaltes.
 
 **Octocrileno**
-Origem: Sintético
-Evidência: Classe C
-Via: Cutânea
-Sistema: Estrogênico
-Mecanismo: Modulador hormonal
-Relevância:
-Filtro solar comum, acumula no organismo.
+- Origem: Sintético
+- Evidência: Classe C
+- Via: Cutânea
+- Sistema: Estrogênico
+- Mecanismo: Modulador hormonal
+- Relevância: Filtro solar comum, acumula no organismo.
 
 **Genisteína (soja)**
-Origem: Natural (fitoestrógeno)
-Evidência: Classe C
-Via: Alimentar
-Sistema: Estrogênico
-Mecanismo: Agonista estrogênico fraco
-Relevância:
-Presente em soja, tofu, leite de soja. Natural, mas biologicamente ativo.
+- Origem: Natural (fitoestrógeno)
+- Evidência: Classe C
+- Via: Alimentar
+- Sistema: Estrogênico
+- Mecanismo: Agonista estrogênico fraco
+- Relevância: Presente em soja, tofu, leite de soja. Natural, mas biologicamente ativo.
 
 **Zearalenona**
 Origem: Micotoxina (fungos)
