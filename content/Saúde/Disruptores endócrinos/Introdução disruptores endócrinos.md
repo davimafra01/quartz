@@ -203,22 +203,16 @@ Mecanismo: Agonista estrogênico fraco
 Relevância:
 Presente em soja, tofu, leite de soja. Natural, mas biologicamente ativo.
 
-14. Zearalenona
-
-Classificações
-
+Zearalenona
 Origem: Micotoxina (fungos)
-
 Evidência: Classe C
-
 Via: Alimentar
-
 Sistema: Estrogênico
-
 Mecanismo: Agonista estrogênico
-
 Relevância:
 Toxina de fungos em grãos. Causa infertilidade em animais.
+
+---
 # 4. Onde são encontrados
 Aqui estão alguns exemplos de onde esses compostos são encontrados:
 - Tintas de berços antigos → chumbo + ftalatos
