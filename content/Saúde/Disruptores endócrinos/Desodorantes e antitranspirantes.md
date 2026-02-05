@@ -18,9 +18,9 @@ O aspecto mais preocupante do ponto de vista biológico é que a **exposição �
 Do ponto de vista toxicológico moderno, o risco não está em um único produto isolado, mas no chamado **efeito coquetel**: múltiplos disruptores diferentes, em baixas doses, atuando simultaneamente sobre diferentes eixos hormonais ao longo de anos.
 
 Por isso, atualmente há uma tendência de mercado e de saúde pública para:
-- desodorantes “sem parabenos”;
-- “sem ftalatos”;
-- “sem triclosan”
-- e, em alguns casos, “sem alumínio”.
+- desodorantes sem parabenos;
+- “sem ftalatos;
+- “sem triclosan;
+- e, em alguns casos, sem alumínio.
 
 Do ponto de vista científico, os mais bem estabelecidos como **disruptores endócrinos reais** em desodorantes são **parabenos, ftalatos e triclosan**. O alumínio permanece como **hipótese controversa**, mais ligada a toxicologia geral do que à endocrinologia estrita.
