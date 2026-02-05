@@ -6,9 +6,10 @@ Disruptores endócrinos são **substâncias químicas que interferem no sistema 
 
 Em termos simples: são substâncias que “confundem” os hormônios do organismo.
 
+---
 # 2. Como eles atuam?
 
-Imitar hormônios (efeito agonista)
+## 2.1. Imitar hormônios (efeito agonista)
 
 A substância “finge” ser um hormônio.
 
