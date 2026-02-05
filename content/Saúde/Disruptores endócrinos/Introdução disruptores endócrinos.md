@@ -39,48 +39,92 @@ Ao classificarmos os disruptores endócrinos estudados nessa série de textos, u
 	Dados preliminares.
 
 ## 2.3 Por via de exposição
-	Alimentar: Plásticos, agrotóxicos, conservantes.
-	
-	Cutâne: Cosméticos.
-	
-	Inalatória: Poluentes industriais.
-	
-	Transplacentária: Mãe → feto.
+Alimentar: Plásticos, agrotóxicos, conservantes.
+
+Cutâne: Cosméticos.
+
+Inalatória: Poluentes industriais.
+
+Transplacentária: Mãe → feto.
 
 ## 2.4 Pelo sistema hormonal afetado
-	Estrogênicos: afetam estrogênio.
+**Estrogênicos:** afetam estrogênio.
 	
-	Androgênicos: afetam testosterona.
+**Androgênicos:** afetam testosterona.
 	
-	Tireoideanos: afetam T3/T4.
+**Tireoideanos:** afetam T3/T4.
 	
-	Glicocorticoides: afetam cortisol.
+**Glicocorticoides:** afetam cortisol.
 	
-	Insulínicos/metabólicos: afetam metabolismo e obesidade (obesogênicos).
+**Insulínicos/metabólicos:** afetam metabolismo e obesidade (obesogênicos).
 	
-	Neuroendócrinos: afetam eixo hipotálamo-hipófise.
+**Neuroendócrinos:** afetam eixo hipotálamo-hipófise.
 
 ## 2.5 Pelo mecanismo de ação biológica
-	Efeito agonista: imitar hormônios
-		A substância “finge” ser um hormônio.
-		Ex: imita estrogênio → ativa receptores como se fosse estrogênio real.
-	
-	Efeito antagonista: bloquear hormônios
-		Impede o hormônio verdadeiro de agir.
-		Ex: ocupa o receptor e não deixa a testosterona atuar.
-	
-	Moduladores de síntese hormonal
-		Aumenta ou diminui a quantidade de hormônios produzidos.
-	
-	Moduladores de metabolismo hormonal
-		Alteram degradação, transporte ou excreção.
-	
-	Moduladores epigenéticos
-		Alteram expressão gênica ligada a hormônios.
-		Mudam metilação do DNA, acetilação de histonas.
+**Efeito agonista: imitar hormônios**
+	A substância “finge” ser um hormônio.
+	Ex: imita estrogênio → ativa receptores como se fosse estrogênio real.
+
+**Efeito antagonista: bloquear hormônios**
+	Impede o hormônio verdadeiro de agir.
+	Ex: ocupa o receptor e não deixa a testosterona atuar.
+
+**Moduladores de síntese hormonal**
+	Aumenta ou diminui a quantidade de hormônios produzidos.
+
+**Moduladores de metabolismo hormonal**
+	Alteram degradação, transporte ou excreção.
+
+**Moduladores epigenéticos**
+	Alteram expressão gênica ligada a hormônios.
+	Mudam metilação do DNA, acetilação de histonas.
 
 # 3. Disruptores endócrinos mais comuns
 
+**BPA (Bisfenol A)**
+	Origem: Sintético
+	Evidência: Classe A
+	Via: Alimentar, cutânea
+	Sistema afetado: Estrogênico, tireoidiano
+	Mecanismo: Agonista estrogênico, modulador de receptores nucleares
+	Relevância:
+	Usado em plásticos e resinas epóxi. Presente em garrafas plásticas, latas de comida, mamadeiras antigas, recibos térmicos. É um dos xenoestrógenos mais estudados do mundo. Atua imitando estrogênio e está associado a infertilidade, puberdade precoce, obesidade e alterações neurológicas.
+
+**Ftalatos (DEHP, DBP, BBP, DINP)**
+	Origem: Sintético
+	Evidência: Classe A
+	Via: Alimentar, cutânea, inalatória
+	Sistema: Androgênico, reprodutivo
+	Mecanismo: Antagonista androgênico
+	Relevância:
+	Presentes em plásticos flexíveis, fragrâncias, cosméticos, brinquedos, cortinas de banheiro, tubos hospitalares. Afetam principalmente o desenvolvimento sexual masculino. São famosos por causarem redução da testosterona fetal.
+
+**Triclosan**
+	Origem: Sintético
+	Evidência: Classe A
+	Via: Cutânea, oral
+	Sistema: Tireoideano, estrogênico
+	Mecanismo: Antagonista tireoidiano
+	Relevância:
+	Usado como antibacteriano em desodorantes, sabonetes, cremes dentais. Interfere diretamente em T3 e T4. Foi banido ou restrito em vários países.
+
+**PCBs (Bifenilos Policlorados)**
+	Origem: Sintético industrial
+	Evidência: Classe A
+	Via: Alimentar, inalatória
+	Sistema: Estrogênico, tireoidiano
+	Mecanismo: Modulador de receptores nucleares
+	Relevância:
+	Usados como fluidos industriais e isolantes elétricos. Persistem no ambiente por décadas. Bioacumulam em peixes e gorduras animais.
+
+**DDT**
+	Origem: Sintético (agrotóxico)
+	Evidência: Classe A
+	Via: Alimentar
+	Sistema: Estrogênico
+	Mecanismo: Agonista estrogênico
+	Relevância:
+	Inseticida histórico. Banido, mas ainda presente no solo e em cadeias alimentares. Exemplo clássico de disruptor endócrino ambiental.
 
 # 4. Onde são encontrados
 Aqui estão alguns exemplos de onde esses compostos são encontrados:
