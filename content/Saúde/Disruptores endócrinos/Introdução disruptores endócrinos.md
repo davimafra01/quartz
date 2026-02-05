@@ -53,15 +53,15 @@ Transplacentária: Mãe → feto.
 ## 2.4 Pelo sistema hormonal afetado
 
 **Estrogênicos:** afetam estrogênio.
-	
+
 **Androgênicos:** afetam testosterona.
-	
+
 **Tireoideanos:** afetam T3/T4.
-	
+
 **Glicocorticoides:** afetam cortisol.
-	
+
 **Insulínicos/metabólicos:** afetam metabolismo e obesidade (obesogênicos).
-	
+
 **Neuroendócrinos:** afetam eixo hipotálamo-hipófise.
 
 ## 2.5 Pelo mecanismo de ação biológica
