@@ -153,31 +153,31 @@ Relevância:
 Presente em detergentes, tintas, plásticos, pesticidas. Contamina rios.
 
 **PFOA / PFOS (compostos perfluorados)**
-	Origem: Sintético
-	Evidência: Classe B
-	Via: Alimentar
-	Sistema: Tireoideano, metabólico
-	Mecanismo: Modulador de receptores PPAR
-	Relevância:
-	Presentes em panelas antiaderentes, embalagens, tecidos impermeáveis. Chamados de *forever chemicals*.
+Origem: Sintético
+Evidência: Classe B
+Via: Alimentar
+Sistema: Tireoideano, metabólico
+Mecanismo: Modulador de receptores PPAR
+Relevância:
+Presentes em panelas antiaderentes, embalagens, tecidos impermeáveis. Chamados de *forever chemicals*.
 
 **BPS / BPF (substitutos do BPA)**
-	Origem: Sintético
-	Evidência: Classe C
-	Via: Alimentar
-	Sistema: Estrogênico
-	Mecanismo: Agonista estrogênico
-	Relevância:
-	Usados em plásticos “BPA free”. Ironia: agem quase igual ao BPA.
+Origem: Sintético
+Evidência: Classe C
+Via: Alimentar
+Sistema: Estrogênico
+Mecanismo: Agonista estrogênico
+Relevância:
+Usados em plásticos “BPA free”. Ironia: agem quase igual ao BPA.
 
 **Benzofenona (filtro UV)**
-	Origem: Sintético
-	Evidência: Classe C
-	Via: Cutânea
-	Sistema: Estrogênico
-	Mecanismo: Agonista estrogênico
-	Relevância:
-	Presente em protetores solares, perfumes, esmaltes.
+Origem: Sintético
+Evidência: Classe C
+Via: Cutânea
+Sistema: Estrogênico
+Mecanismo: Agonista estrogênico
+Relevância:
+Presente em protetores solares, perfumes, esmaltes.
 
 **Octocrileno**
 	Origem: Sintético
