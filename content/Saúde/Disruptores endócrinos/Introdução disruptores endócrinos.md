@@ -92,16 +92,15 @@ Mudam metilação do DNA, acetilação de histonas.
 - Via: Alimentar, cutânea
 - Sistema afetado: Estrogênico, tireoidiano
 - Mecanismo: Agonista estrogênico, modulador de receptores nucleares
-- Relevância:
-Usado em plásticos e resinas epóxi. Presente em garrafas plásticas, latas de comida, mamadeiras antigas, recibos térmicos. É um dos xenoestrógenos mais estudados do mundo. Atua imitando estrogênio e está associado a infertilidade, puberdade precoce, obesidade e alterações neurológicas.
+- Relevância: Usado em plásticos e resinas epóxi. Presente em garrafas plásticas, latas de comida, mamadeiras antigas, recibos térmicos. É um dos xenoestrógenos mais estudados do mundo. Atua imitando estrogênio e está associado a infertilidade, puberdade precoce, obesidade e alterações neurológicas.
 
 **Ftalatos (DEHP, DBP, BBP, DINP)**
-	Origem: Sintético
-	Evidência: Classe A
-	Via: Alimentar, cutânea, inalatória
-	Sistema: Androgênico, reprodutivo
-	Mecanismo: Antagonista androgênico
-	Relevância:
+- Origem: Sintético
+-Evidência: Classe A
+- Via: Alimentar, cutânea, inalatória
+- Sistema: Androgênico, reprodutivo
+- Mecanismo: Antagonista androgênico
+- Relevância:
 	Presentes em plásticos flexíveis, fragrâncias, cosméticos, brinquedos, cortinas de banheiro, tubos hospitalares. Afetam principalmente o desenvolvimento sexual masculino. São famosos por causarem redução da testosterona fetal.
 
 **Triclosan**
