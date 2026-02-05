@@ -13,14 +13,14 @@ Os disruptores endócrinos são tão problemáticos porque:
 - Nem sempre seguem a lógica “quanto mais dose, maior o efeito” (não-linearidade).
 
 Ao classificarmos os disruptores endócrinos estudos nessa série de textos, utilizaremos a classificação usada pela OMS, EFSA, ECHA, OCDE:
-**Classe 1 – Disruptor endócrino comprovado**
-Há evidência causal forte em humanos ou animais.
+	**Classe 1 – Disruptor endócrino comprovado**
+	Há evidência causal forte em humanos ou animais.
 
-**Classe 2 – Suspeito de ser disruptor endócrino**
-Evidência parcial.
+	**Classe 2 – Suspeito de ser disruptor endócrino**
+	Evidência parcial.
 
-**Classe 3 – Potencial disruptor**
-Dados preliminares.
+	**Classe 3 – Potencial disruptor**
+	Dados preliminares.
 
 ---
 # 2. Como eles atuam?
