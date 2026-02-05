@@ -27,7 +27,7 @@ Ao classificarmos os disruptores endócrinos estudados nessa série de textos, u
 	Dados preliminares.
 
 ## 2.2 Pelo mecanismo de ação biológica
-	2.1.1 Efeito agonista: imitar hormônios
+	Efeito agonista: imitar hormônios
 	A substância “finge” ser um hormônio.
 	Ex: imita estrogênio → ativa receptores como se fosse estrogênio real.
 	
@@ -76,23 +76,22 @@ Ao classificarmos os disruptores endócrinos estudados nessa série de textos, u
 		Agrotóxicos;
 		Fármacos.
 
----
-# 2. Como eles atuam?
-
-
-
----
-# 3. Naturais x Sintéticos
-Naturais:
-- Fitoestrógenos (soja, linhaça);
-- Micotoxinas.
-
-Sintéticos:
-- BPA;
-- Ftalatos;
-- PCBs;
-- Agrotóxicos;
-- Fármacos.
+## 2.5 Por via de exposição
+	2.5.1 Alimentar
+	Plásticos, agrotóxicos, conservantes.
+	
+	2.5.2 Cutânea
+	Cosméticos.
+	
+	2.5.3 Inalatória
+	Poluentes industriais.
+	
+	2.5.4 Transplacentária
+	Mãe → feto.
 
 ---
-# 4. 
+# 3. Como eles atuam?
+
+
+
+---
