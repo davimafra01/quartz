@@ -64,6 +64,18 @@ Ao classificarmos os disruptores endócrinos estudados nessa série de textos, u
 	2.3.6 Neuroendócrinos
 	Afetam eixo hipotálamo-hipófise.
 
+## 2.4 Pela origem
+	2.4.1 Naturais:
+		Fitoestrógenos (soja, linhaça);
+		Micotoxinas.
+	
+	2.4.2 Sintéticos:
+		BPA;
+		Ftalatos;
+		PCBs;
+		Agrotóxicos;
+		Fármacos.
+
 ---
 # 2. Como eles atuam?
 
