@@ -135,16 +135,15 @@ Mudam metilação do DNA, acetilação de histonas.
 - Relevância: Conservantes em desodorantes, cremes, maquiagens, shampoos. Encontrados em tecido mamário humano.
 
 **Atrazina**
-Origem: Agrotóxico
-Evidência: Classe B
-Via: Alimentar, hídrica
-Sistema: Reprodutivo, estrogênico
-Mecanismo: Indutor de aromatase
-Relevância:
-Herbicida muito usado. Famoso por feminizar sapos machos em experimentos.
+- Origem: Agrotóxico
+- Evidência: Classe B
+- Via: Alimentar, hídrica
+- Sistema: Reprodutivo, estrogênico
+- Mecanismo: Indutor de aromatase
+- Relevância: Herbicida muito usado. Famoso por feminizar sapos machos em experimentos.
 
 **Nonilfenol**
-Origem: Industrial
+- Origem: Industrial
 Evidência: Classe B
 Via: Alimentar, hídrica
 Sistema: Estrogênico
