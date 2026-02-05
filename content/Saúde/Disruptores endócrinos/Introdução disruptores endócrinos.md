@@ -47,7 +47,20 @@ Ao classificarmos os disruptores endócrinos estudados nessa série de textos, u
 	
 	Transplacentária: Mãe → feto.
 
-## 2.2 Pelo mecanismo de ação biológica
+## 2.4 Pelo sistema hormonal afetado
+	Estrogênicos: afetam estrogênio.
+	
+	Androgênicos: afetam testosterona.
+	
+	Tireoideanos: afetam T3/T4.
+	
+	Glicocorticoides: afetam cortisol.
+	
+	Insulínicos/metabólicos: afetam metabolismo e obesidade (obesogênicos).
+	
+	Neuroendócrinos: afetam eixo hipotálamo-hipófise.
+
+## 2.5 Pelo mecanismo de ação biológica
 	Efeito agonista: imitar hormônios
 		A substância “finge” ser um hormônio.
 		Ex: imita estrogênio → ativa receptores como se fosse estrogênio real.
@@ -65,19 +78,6 @@ Ao classificarmos os disruptores endócrinos estudados nessa série de textos, u
 	Moduladores epigenéticos
 		Alteram expressão gênica ligada a hormônios.
 		Mudam metilação do DNA, acetilação de histonas.
-
-## 2.3 Pelo sistema hormonal afetado
-	Estrogênicos: afetam estrogênio.
-	
-	Androgênicos: afetam testosterona.
-	
-	Tireoideanos: afetam T3/T4.
-	
-	Glicocorticoides: afetam cortisol.
-	
-	Insulínicos/metabólicos: afetam metabolismo e obesidade (obesogênicos).
-	
-	Neuroendócrinos: afetam eixo hipotálamo-hipófise.
 
 ---
 # 3. Como eles atuam?
