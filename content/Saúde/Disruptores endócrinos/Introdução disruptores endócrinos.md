@@ -31,11 +31,11 @@ Ao classificarmos os disruptores endócrinos estudados nessa série de textos, u
 	A substância “finge” ser um hormônio.
 	Ex: imita estrogênio → ativa receptores como se fosse estrogênio real.
 	
-	2.1.2 Efeito antagonista: bloquear hormônios
+	Efeito antagonista: bloquear hormônios
 	Impede o hormônio verdadeiro de agir.
 	Ex: ocupa o receptor e não deixa a testosterona atuar.
 	
-	2.1.3 Moduladores de síntese hormonal
+	Moduladores de síntese hormonal
 	Aumenta ou diminui a quantidade de hormônios produzidos.
 	
 	2.1.4 Moduladores de metabolismo hormonal
