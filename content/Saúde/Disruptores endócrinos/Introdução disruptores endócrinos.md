@@ -191,13 +191,12 @@ Mudam metilação do DNA, acetilação de histonas.
 - Relevância: Presente em soja, tofu, leite de soja. Natural, mas biologicamente ativo.
 
 **Zearalenona**
-Origem: Micotoxina (fungos)
-Evidência: Classe C
-Via: Alimentar
-Sistema: Estrogênico
-Mecanismo: Agonista estrogênico
-Relevância:
-Toxina de fungos em grãos. Causa infertilidade em animais.
+- Origem: Micotoxina (fungos)
+- Evidência: Classe C
+- Via: Alimentar
+- Sistema: Estrogênico
+- Mecanismo: Agonista estrogênico
+- Relevância: Toxina de fungos em grãos. Causa infertilidade em animais.
 
 ---
 # 4. Onde são encontrados
