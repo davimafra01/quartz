@@ -50,8 +50,7 @@ Ao classificarmos os disruptores endócrinos estudados nessa série de textos, u
 	
 	Androgênicos: afetam testosterona.
 	
-	2.3.3 Tireoideanos
-	Afetam T3/T4.
+	Tireoideanos: afetam T3/T4.
 	
 	2.3.4 Glicocorticoides
 	Afetam cortisol.
