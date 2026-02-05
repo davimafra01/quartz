@@ -173,31 +173,19 @@ Evidência: Classe C
 Via: Alimentar
 Sistema: Estrogênico
 Mecanismo: Agonista estrogênico
-
 Relevância:
 Usados em plásticos “BPA free”. Ironia: agem quase igual ao BPA.
 
-11. Benzofenona (filtro UV)
-
-Classificações
-
+Benzofenona (filtro UV)
 Origem: Sintético
-
 Evidência: Classe C
-
 Via: Cutânea
-
 Sistema: Estrogênico
-
 Mecanismo: Agonista estrogênico
-
 Relevância:
 Presente em protetores solares, perfumes, esmaltes.
 
-12. Octocrileno
-
-Classificações
-
+Octocrileno
 Origem: Sintético
 
 Evidência: Classe C
