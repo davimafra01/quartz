@@ -78,3 +78,5 @@ Ao classificarmos os disruptores endócrinos estudados nessa série de textos, u
 	Moduladores epigenéticos
 		Alteram expressão gênica ligada a hormônios.
 		Mudam metilação do DNA, acetilação de histonas.
+
+# 3. Disruptores endócrinos mais comuns
