@@ -52,14 +52,11 @@ Ao classificarmos os disruptores endócrinos estudados nessa série de textos, u
 	
 	Tireoideanos: afetam T3/T4.
 	
-	2.3.4 Glicocorticoides
-	Afetam cortisol.
+	Glicocorticoides: afetam cortisol.
 	
-	2.3.5 Insulínicos/metabólicos
-	Afetam metabolismo e obesidade (obesogênicos).
+	Insulínicos/metabólicos: afetam metabolismo e obesidade (obesogênicos).
 	
-	2.3.6 Neuroendócrinos
-	Afetam eixo hipotálamo-hipófise.
+	Neuroendócrinos: afetam eixo hipotálamo-hipófise.
 
 ## 2.4 Pela origem
 	2.4.1 Naturais:
