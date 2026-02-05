@@ -30,10 +30,11 @@ Ao classificarmos os disruptores endócrinos estudados nessa série de textos, u
 	Aumenta ou diminui a quantidade de hormônios produzidos.
 
 	2.1.4 Moduladores de metabolismo hormonal
-	Muda como os hormônios circulam ou são eliminados do corpo.
-
+	Alteram degradação, transporte ou excreção.
+	
 	2.1.5 Moduladores epigenéticos
-	fadsdfda
+	Alteram expressão gênica ligada a hormônios.
+	Mudam metilação do DNA, acetilação de histonas.
 ## 2.2. Pelo nível de evidência científica
 	Classe 1 – Disruptor endócrino comprovado
 	Há evidência causal forte em humanos ou animais.
