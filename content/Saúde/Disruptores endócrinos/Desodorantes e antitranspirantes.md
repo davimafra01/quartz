@@ -23,4 +23,4 @@ Por isso, atualmente há uma tendência de mercado e de saúde pública para:
 - “sem triclosan;
 - e, em alguns casos, sem alumínio.
 
-Do ponto de vista científico, os mais bem estabelecidos como **disruptores endócrinos reais** em desodorantes são **parabenos, ftalatos e triclosan**. O alumínio permanece como **hipótese controversa**, mais ligada a toxicologia geral do que à endocrinologia estrita.
+Do ponto de vista científico, os mais bem estabelecidos como **disruptores endócrinos reais** em desodorantes são **parabenos, ftalatos e triclosan**. O alumínio permanece como **hipótese controversa**, mais ligada à toxicologia geral do que à endocrinologia estrita.
