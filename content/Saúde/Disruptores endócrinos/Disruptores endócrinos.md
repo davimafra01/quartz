@@ -8,9 +8,9 @@ Em termos simples: são substâncias que “confundem” os hormônios do organi
 
 Os disruptores endócrinos são tão problemáticos porque:
 - Atuam em **doses muito baixas**;
-Têm efeitos **cumulativos**;
-Podem causar danos **irreversíveis no desenvolvimento**;
-Nem sempre seguem a lógica “quanto mais dose, maior o efeito” (não-linearidade).
+- Têm efeitos **cumulativos**;
+- Podem causar danos **irreversíveis no desenvolvimento**;
+- Nem sempre seguem a lógica “quanto mais dose, maior o efeito” (não-linearidade).
 
 ---
 # 2. Como eles atuam?
