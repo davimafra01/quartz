@@ -128,29 +128,29 @@ Mudam metilação do DNA, acetilação de histonas.
 
 **Parabenos (metil, propil, butil)**
 - Origem: Sintético
-- 	Evidência: Classe B
+- Evidência: Classe B
 Via: Cutânea
 Sistema: Estrogênico
 Mecanismo: Agonista estrogênico fraco
 Relevância: Conservantes em desodorantes, cremes, maquiagens, shampoos. Encontrados em tecido mamário humano.
 
 **Atrazina**
-	Origem: Agrotóxico
-	Evidência: Classe B
-	Via: Alimentar, hídrica
-	Sistema: Reprodutivo, estrogênico
-	Mecanismo: Indutor de aromatase
-	Relevância:
-	Herbicida muito usado. Famoso por feminizar sapos machos em experimentos.
+Origem: Agrotóxico
+Evidência: Classe B
+Via: Alimentar, hídrica
+Sistema: Reprodutivo, estrogênico
+Mecanismo: Indutor de aromatase
+Relevância:
+Herbicida muito usado. Famoso por feminizar sapos machos em experimentos.
 
 **Nonilfenol**
-	Origem: Industrial
-	Evidência: Classe B
-	Via: Alimentar, hídrica
-	Sistema: Estrogênico
-	Mecanismo: Agonista estrogênico
-	Relevância:
-	Presente em detergentes, tintas, plásticos, pesticidas. Contamina rios.
+Origem: Industrial
+Evidência: Classe B
+Via: Alimentar, hídrica
+Sistema: Estrogênico
+Mecanismo: Agonista estrogênico
+Relevância:
+Presente em detergentes, tintas, plásticos, pesticidas. Contamina rios.
 
 **PFOA / PFOS (compostos perfluorados)**
 	Origem: Sintético
