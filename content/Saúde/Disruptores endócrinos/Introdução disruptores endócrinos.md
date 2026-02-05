@@ -17,26 +17,27 @@ Os disruptores endócrinos são tão problemáticos porque:
 
 Ao classificarmos os disruptores endócrinos estudados nessa série de textos, utilizaremos as seguintes classificações:
 ## 2.1 Pela origem
-	Naturais:
-		Fitoestrógenos (soja, linhaça);
-		Micotoxinas.
-	
-	Sintéticos:
-		BPA;
-		Ftalatos;
-		PCBs;
-		Agrotóxicos;
-		Fármacos.
+
+**Naturais:**
+	Fitoestrógenos (soja, linhaça);
+	Micotoxinas.
+
+Sintéticos:
+	BPA;
+	Ftalatos;
+	PCBs;
+	Agrotóxicos;
+	Fármacos.
 
 ## 2.2 Pelo nível de evidência científica
 
 **Classe 1 – Disruptor endócrino comprovado**
 Há evidência causal forte em humanos ou animais.
 
-Classe 2 – Suspeito de ser disruptor endócrino
+**Classe 2 – Suspeito de ser disruptor endócrino**
 Evidência parcial.
 
-Classe 3 – Potencial disruptor
+**Classe 3 – Potencial disruptor**
 Dados preliminares.
 
 ## 2.3 Por via de exposição
