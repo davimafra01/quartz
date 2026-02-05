@@ -131,7 +131,68 @@ Transplacentária: Mãe → feto.
 	Relevância:
 	Inseticida histórico. Banido, mas ainda presente no solo e em cadeias alimentares. Exemplo clássico de disruptor endócrino ambiental.
 
+Parabenos (metil, propil, butil)
+Origem: Sintético
+Evidência: Classe B
+Via: Cutânea
 
+Sistema: Estrogênico
+
+Mecanismo: Agonista estrogênico fraco
+
+Relevância:
+Conservantes em desodorantes, cremes, maquiagens, shampoos. Encontrados em tecido mamário humano.
+
+7. Atrazina
+
+Classificações
+
+Origem: Agrotóxico
+
+Evidência: Classe B
+
+Via: Alimentar, hídrica
+
+Sistema: Reprodutivo, estrogênico
+
+Mecanismo: Indutor de aromatase
+
+Relevância:
+Herbicida muito usado. Famoso por feminizar sapos machos em experimentos.
+
+8. Nonilfenol
+
+Classificações
+
+Origem: Industrial
+
+Evidência: Classe B
+
+Via: Alimentar, hídrica
+
+Sistema: Estrogênico
+
+Mecanismo: Agonista estrogênico
+
+Relevância:
+Presente em detergentes, tintas, plásticos, pesticidas. Contamina rios.
+
+9. PFOA / PFOS (compostos perfluorados)
+
+Classificações
+
+Origem: Sintético
+
+Evidência: Classe B
+
+Via: Alimentar
+
+Sistema: Tireoideano, metabólico
+
+Mecanismo: Modulador de receptores PPAR
+
+Relevância:
+Presentes em panelas antiaderentes, embalagens, tecidos impermeáveis. Chamados de forever chemicals.
 # 4. Onde são encontrados
 Aqui estão alguns exemplos de onde esses compostos são encontrados:
 - Tintas de berços antigos → chumbo + ftalatos
