@@ -131,6 +131,7 @@ Transplacentária: Mãe → feto.
 	Relevância:
 	Inseticida histórico. Banido, mas ainda presente no solo e em cadeias alimentares. Exemplo clássico de disruptor endócrino ambiental.
 
+
 # 4. Onde são encontrados
 Aqui estão alguns exemplos de onde esses compostos são encontrados:
 - Tintas de berços antigos → chumbo + ftalatos
