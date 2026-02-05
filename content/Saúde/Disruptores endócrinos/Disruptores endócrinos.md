@@ -6,3 +6,4 @@ Disruptores endócrinos são **substâncias químicas que interferem no sistema 
 
 Em termos simples: são substâncias que “confundem” os hormônios do organismo.
 
+# 2. Como eles atuam?
