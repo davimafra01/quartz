@@ -1,1 +1,3 @@
-Draft.
+---
+draft: true
+---

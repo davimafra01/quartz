@@ -1,3 +1,6 @@
+---
+draft: true
+---
 Saímos do egito, pois fomos libertos da escravidão do pecado.
 
 Agora estamos no egito. Somos errantes, forasteiros, peregrinos rumo à TERRA PROMETIDA.
