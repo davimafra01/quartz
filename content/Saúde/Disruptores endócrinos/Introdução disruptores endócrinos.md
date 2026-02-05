@@ -121,19 +121,18 @@ Mudam metilação do DNA, acetilação de histonas.
 **DDT**
 - Origem: Sintético (agrotóxico)
 - Evidência: Classe A
-Via: Alimentar
-Sistema: Estrogênico
-Mecanismo: Agonista estrogênico
-Relevância: Inseticida histórico. Banido, mas ainda presente no solo e em cadeias alimentares. Exemplo clássico de disruptor endócrino ambiental.
+- Via: Alimentar
+- Sistema: Estrogênico
+- Mecanismo: Agonista estrogênico
+- Relevância: Inseticida histórico. Banido, mas ainda presente no solo e em cadeias alimentares. Exemplo clássico de disruptor endócrino ambiental.
 
 **Parabenos (metil, propil, butil)**
-	Origem: Sintético
-	Evidência: Classe B
-	Via: Cutânea
-	Sistema: Estrogênico
-	Mecanismo: Agonista estrogênico fraco
-	Relevância:
-	Conservantes em desodorantes, cremes, maquiagens, shampoos. Encontrados em tecido mamário humano.
+- Origem: Sintético
+- 	Evidência: Classe B
+Via: Cutânea
+Sistema: Estrogênico
+Mecanismo: Agonista estrogênico fraco
+Relevância: Conservantes em desodorantes, cremes, maquiagens, shampoos. Encontrados em tecido mamário humano.
 
 **Atrazina**
 	Origem: Agrotóxico
