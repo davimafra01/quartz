@@ -13,9 +13,8 @@ Em termos simples: são substâncias que “confundem” os hormônios do organi
 A substância “finge” ser um hormônio.
 Ex: imita estrogênio → ativa receptores como se fosse estrogênio real.
 
-## 2.2. Efeito antagonista: bloquear hormônios (efeito antagonista)
+## 2.2. Efeito antagonista: bloquear hormônios
 Impede o hormônio verdadeiro de agir.
-
 Ex: ocupa o receptor e não deixa a testosterona atuar.
 
 3. Alterar a produção hormonal
