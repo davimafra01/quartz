@@ -167,7 +167,83 @@ Transplacentária: Mãe → feto.
 	Relevância:
 	Presentes em panelas antiaderentes, embalagens, tecidos impermeáveis. Chamados de *forever chemicals*.
 
+BPS / BPF (substitutos do BPA)
+Origem: Sintético
+Evidência: Classe C
+Via: Alimentar
+Sistema: Estrogênico
+Mecanismo: Agonista estrogênico
 
+Relevância:
+Usados em plásticos “BPA free”. Ironia: agem quase igual ao BPA.
+
+11. Benzofenona (filtro UV)
+
+Classificações
+
+Origem: Sintético
+
+Evidência: Classe C
+
+Via: Cutânea
+
+Sistema: Estrogênico
+
+Mecanismo: Agonista estrogênico
+
+Relevância:
+Presente em protetores solares, perfumes, esmaltes.
+
+12. Octocrileno
+
+Classificações
+
+Origem: Sintético
+
+Evidência: Classe C
+
+Via: Cutânea
+
+Sistema: Estrogênico
+
+Mecanismo: Modulador hormonal
+
+Relevância:
+Filtro solar comum, acumula no organismo.
+
+13. Genisteína (soja)
+
+Classificações
+
+Origem: Natural (fitoestrógeno)
+
+Evidência: Classe C
+
+Via: Alimentar
+
+Sistema: Estrogênico
+
+Mecanismo: Agonista estrogênico fraco
+
+Relevância:
+Presente em soja, tofu, leite de soja. Natural, mas biologicamente ativo.
+
+14. Zearalenona
+
+Classificações
+
+Origem: Micotoxina (fungos)
+
+Evidência: Classe C
+
+Via: Alimentar
+
+Sistema: Estrogênico
+
+Mecanismo: Agonista estrogênico
+
+Relevância:
+Toxina de fungos em grãos. Causa infertilidade em animais.
 # 4. Onde são encontrados
 Aqui estão alguns exemplos de onde esses compostos são encontrados:
 - Tintas de berços antigos → chumbo + ftalatos
