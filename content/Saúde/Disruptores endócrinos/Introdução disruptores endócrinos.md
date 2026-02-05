@@ -71,14 +71,11 @@ Ao classificarmos os disruptores endócrinos estudados nessa série de textos, u
 		Fármacos.
 
 ## 2.5 Por via de exposição
-	Alimentar
-	Plásticos, agrotóxicos, conservantes.
+	Alimentar: Plásticos, agrotóxicos, conservantes.
 	
-	Cutânea
-	Cosméticos.
+	Cutâne: Cosméticos.
 	
-	Inalatória
-	Poluentes industriais.
+	Inalatória: Poluentes industriais.
 	
 	Transplacentária: Mãe → feto.
 
