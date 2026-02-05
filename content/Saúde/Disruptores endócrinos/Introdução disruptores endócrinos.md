@@ -131,17 +131,14 @@ Transplacentária: Mãe → feto.
 	Relevância:
 	Inseticida histórico. Banido, mas ainda presente no solo e em cadeias alimentares. Exemplo clássico de disruptor endócrino ambiental.
 
-Parabenos (metil, propil, butil)
-Origem: Sintético
-Evidência: Classe B
-Via: Cutânea
-
-Sistema: Estrogênico
-
-Mecanismo: Agonista estrogênico fraco
-
-Relevância:
-Conservantes em desodorantes, cremes, maquiagens, shampoos. Encontrados em tecido mamário humano.
+**Parabenos (metil, propil, butil)**
+	Origem: Sintético
+	Evidência: Classe B
+	Via: Cutânea
+	Sistema: Estrogênico
+	Mecanismo: Agonista estrogênico fraco
+	Relevância:
+	Conservantes em desodorantes, cremes, maquiagens, shampoos. Encontrados em tecido mamário humano.
 
 7. Atrazina
 
