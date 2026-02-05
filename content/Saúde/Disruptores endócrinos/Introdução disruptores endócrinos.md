@@ -42,13 +42,13 @@ Dados preliminares.
 
 ## 2.3 Por via de exposição
 
-Alimentar: Plásticos, agrotóxicos, conservantes.
+**Alimentar:** Plásticos, agrotóxicos, conservantes.
 
-Cutâne: Cosméticos.
+**Cutânea:** Cosméticos.
 
-Inalatória: Poluentes industriais.
+**Inalatória:** Poluentes industriais.
 
-Transplacentária: Mãe → feto.
+**Transplacentária:** Mãe → feto.
 
 ## 2.4 Pelo sistema hormonal afetado
 
