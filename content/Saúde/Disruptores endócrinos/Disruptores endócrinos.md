@@ -18,7 +18,8 @@ Impede o hormônio verdadeiro de agir.
 Ex: ocupa o receptor e não deixa a testosterona atuar.
 
 ## 2.3. Alterar a produção hormonal
-Aumenta ou diminui a quantidade de hormônios produzidos.7
-4. Alterar transporte e degradação
+Aumenta ou diminui a quantidade de hormônios produzidos.
+
+## Alterar transporte e degradação
 
 Muda como os hormônios circulam ou são eliminados do corpo.
