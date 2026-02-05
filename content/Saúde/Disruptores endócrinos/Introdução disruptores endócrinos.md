@@ -230,3 +230,18 @@ Aqui estão alguns exemplos de onde esses compostos são encontrados:
 - **Espumas de estofado** → PBDEs
 - **Velas aromáticas** → ftalatos + compostos fenólicos
 - **Produtos de limpeza** → nonilfenol, alquilfenóis
+- **Potes plásticos no micro-ondas** → BPA, BPS
+- **Garrafa PET reutilizada muitas vezes** → antimoniais + ftalatos
+- **Filme plástico de cozinha** → ftalatos
+- **Comida gordurosa em plástico** → maior migração de BPA
+- **Peixe de rio poluído** → PCBs, dioxinas
+- **Grãos mal armazenados** → zearalenona (micotoxina)
+- **Soja e derivados** → genisteína (fitoestrógeno)
+- **Shampoo e condicionador** → parabenos
+- **Perfumes** → ftalatos (fixadores)
+- **Maquiagem** → parabenos + benzofenona
+- **Esmalte** → ftalatos
+- **Creme dental antibacteriano antigo** → triclosan
+- **Lenços umedecidos** → parabenos
+- **Protetor solar** → benzofenona, octocrileno, homosalato
+-
