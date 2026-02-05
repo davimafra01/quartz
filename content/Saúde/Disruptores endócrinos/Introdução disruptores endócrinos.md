@@ -167,7 +167,7 @@ Transplacentária: Mãe → feto.
 	Relevância:
 	Presentes em panelas antiaderentes, embalagens, tecidos impermeáveis. Chamados de *forever chemicals*.
 
-BPS / BPF (substitutos do BPA)
+**BPS / BPF (substitutos do BPA)**
 Origem: Sintético
 Evidência: Classe C
 Via: Alimentar
@@ -176,7 +176,7 @@ Mecanismo: Agonista estrogênico
 Relevância:
 Usados em plásticos “BPA free”. Ironia: agem quase igual ao BPA.
 
-Benzofenona (filtro UV)
+**Benzofenona (filtro UV)**
 Origem: Sintético
 Evidência: Classe C
 Via: Cutânea
@@ -185,7 +185,7 @@ Mecanismo: Agonista estrogênico
 Relevância:
 Presente em protetores solares, perfumes, esmaltes.
 
-Octocrileno
+**Octocrileno**
 Origem: Sintético
 Evidência: Classe C
 Via: Cutânea
@@ -194,7 +194,7 @@ Mecanismo: Modulador hormonal
 Relevância:
 Filtro solar comum, acumula no organismo.
 
-Genisteína (soja)
+**Genisteína (soja)**
 Origem: Natural (fitoestrógeno)
 Evidência: Classe C
 Via: Alimentar
@@ -203,7 +203,7 @@ Mecanismo: Agonista estrogênico fraco
 Relevância:
 Presente em soja, tofu, leite de soja. Natural, mas biologicamente ativo.
 
-Zearalenona
+**Zearalenona**
 Origem: Micotoxina (fungos)
 Evidência: Classe C
 Via: Alimentar
