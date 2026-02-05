@@ -12,6 +12,8 @@ Os disruptores endócrinos são tão problemáticos porque:
 - Podem causar danos **irreversíveis no desenvolvimento**;
 - Nem sempre seguem a lógica “quanto mais dose, maior o efeito” (não-linearidade).
 
+Ao classificarmos os disruptores endócrinos estudos nessa série de textos, utlizarem
+
 ---
 # 2. Como eles atuam?
 
