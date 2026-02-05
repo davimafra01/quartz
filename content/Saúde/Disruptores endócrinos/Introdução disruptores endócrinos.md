@@ -223,3 +223,10 @@ Aqui estão alguns exemplos de onde esses compostos são encontrados:
 - Filtros solares → benzofenona
 - Leite em lata → resina epóxi (BPA)
 - Rios poluídos → nonilfenol + PCBs
+- **Cortina de banheiro de plástico** → ftalatos
+- **Pisos vinílicos (PVC)** → ftalatos
+- **Tapetes sintéticos** → ftalatos + retardantes de chama
+- **Sofás e colchões** → retardantes de chama (PBDEs)
+- **Espumas de estofado** → PBDEs
+- **Velas aromáticas** → ftalatos + compostos fenólicos
+- **Produtos de limpeza** → nonilfenol, alquilfenóis
