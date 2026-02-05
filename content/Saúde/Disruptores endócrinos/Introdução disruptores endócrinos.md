@@ -16,7 +16,19 @@ Os disruptores endócrinos são tão problemáticos porque:
 # 2. Classificação
 
 Ao classificarmos os disruptores endócrinos estudados nessa série de textos, utilizaremos as seguintes classificações:
-## 2.1 Pelo nível de evidência científica
+## 2.1 Pela origem
+	Naturais:
+		Fitoestrógenos (soja, linhaça);
+		Micotoxinas.
+	
+	Sintéticos:
+		BPA;
+		Ftalatos;
+		PCBs;
+		Agrotóxicos;
+		Fármacos.
+
+## 2.2 Pelo nível de evidência científica
 	Classe 1 – Disruptor endócrino comprovado
 	Há evidência causal forte em humanos ou animais.
 	
@@ -25,6 +37,15 @@ Ao classificarmos os disruptores endócrinos estudados nessa série de textos, u
 	
 	Classe 3 – Potencial disruptor
 	Dados preliminares.
+
+## 2.3 Por via de exposição
+	Alimentar: Plásticos, agrotóxicos, conservantes.
+	
+	Cutâne: Cosméticos.
+	
+	Inalatória: Poluentes industriais.
+	
+	Transplacentária: Mãe → feto.
 
 ## 2.2 Pelo mecanismo de ação biológica
 	Efeito agonista: imitar hormônios
@@ -57,27 +78,6 @@ Ao classificarmos os disruptores endócrinos estudados nessa série de textos, u
 	Insulínicos/metabólicos: afetam metabolismo e obesidade (obesogênicos).
 	
 	Neuroendócrinos: afetam eixo hipotálamo-hipófise.
-
-## 2.4 Pela origem
-	Naturais:
-		Fitoestrógenos (soja, linhaça);
-		Micotoxinas.
-	
-	Sintéticos:
-		BPA;
-		Ftalatos;
-		PCBs;
-		Agrotóxicos;
-		Fármacos.
-
-## 2.5 Por via de exposição
-	Alimentar: Plásticos, agrotóxicos, conservantes.
-	
-	Cutâne: Cosméticos.
-	
-	Inalatória: Poluentes industriais.
-	
-	Transplacentária: Mãe → feto.
 
 ---
 # 3. Como eles atuam?
