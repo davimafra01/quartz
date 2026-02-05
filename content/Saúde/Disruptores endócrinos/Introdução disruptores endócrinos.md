@@ -129,10 +129,10 @@ Mudam metilação do DNA, acetilação de histonas.
 **Parabenos (metil, propil, butil)**
 - Origem: Sintético
 - Evidência: Classe B
-Via: Cutânea
-Sistema: Estrogênico
-Mecanismo: Agonista estrogênico fraco
-Relevância: Conservantes em desodorantes, cremes, maquiagens, shampoos. Encontrados em tecido mamário humano.
+- Via: Cutânea
+- Sistema: Estrogênico
+- Mecanismo: Agonista estrogênico fraco
+- Relevância: Conservantes em desodorantes, cremes, maquiagens, shampoos. Encontrados em tecido mamário humano.
 
 **Atrazina**
 Origem: Agrotóxico
@@ -180,31 +180,31 @@ Relevância:
 Presente em protetores solares, perfumes, esmaltes.
 
 **Octocrileno**
-	Origem: Sintético
-	Evidência: Classe C
-	Via: Cutânea
-	Sistema: Estrogênico
-	Mecanismo: Modulador hormonal
-	Relevância:
-	Filtro solar comum, acumula no organismo.
+Origem: Sintético
+Evidência: Classe C
+Via: Cutânea
+Sistema: Estrogênico
+Mecanismo: Modulador hormonal
+Relevância:
+Filtro solar comum, acumula no organismo.
 
 **Genisteína (soja)**
-	Origem: Natural (fitoestrógeno)
-	Evidência: Classe C
-	Via: Alimentar
-	Sistema: Estrogênico
-	Mecanismo: Agonista estrogênico fraco
-	Relevância:
-	Presente em soja, tofu, leite de soja. Natural, mas biologicamente ativo.
+Origem: Natural (fitoestrógeno)
+Evidência: Classe C
+Via: Alimentar
+Sistema: Estrogênico
+Mecanismo: Agonista estrogênico fraco
+Relevância:
+Presente em soja, tofu, leite de soja. Natural, mas biologicamente ativo.
 
 **Zearalenona**
-	Origem: Micotoxina (fungos)
-	Evidência: Classe C
-	Via: Alimentar
-	Sistema: Estrogênico
-	Mecanismo: Agonista estrogênico
-	Relevância:
-	Toxina de fungos em grãos. Causa infertilidade em animais.
+Origem: Micotoxina (fungos)
+Evidência: Classe C
+Via: Alimentar
+Sistema: Estrogênico
+Mecanismo: Agonista estrogênico
+Relevância:
+Toxina de fungos em grãos. Causa infertilidade em animais.
 
 ---
 # 4. Onde são encontrados
