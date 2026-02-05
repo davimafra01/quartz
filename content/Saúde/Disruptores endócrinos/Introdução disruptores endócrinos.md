@@ -80,3 +80,15 @@ Ao classificarmos os disruptores endócrinos estudados nessa série de textos, u
 		Mudam metilação do DNA, acetilação de histonas.
 
 # 3. Disruptores endócrinos mais comuns
+
+
+# 4. Onde são encontrados
+Aqui estão alguns exemplos de onde esses compostos são encontrados:
+- Tintas de berços antigos → chumbo + ftalatos
+- Recibos de cartão → BPA
+- Desodorantes → parabenos + triclosan
+- Brinquedos de borracha → ftalatos
+- Panelas antiaderentes → PFAS
+- Filtros solares → benzofenona
+- Leite em lata → resina epóxi (BPA)
+- Rios poluídos → nonilfenol + PCBs
