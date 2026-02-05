@@ -44,6 +44,17 @@ Muda como os hormônios circulam ou são eliminados do corpo.
 fadsdfda
 
 ---
-
 # 3. Naturais x Sintéticos
+Naturais:
+- Fitoestrógenos (soja, linhaça);
+- Micotoxinas.
 
+Sintéticos:
+- BPA;
+- Ftalatos;
+- PCBs;
+- Agrotóxicos;
+- Fármacos.
+
+---
+# 4. 
