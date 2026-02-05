@@ -251,3 +251,7 @@ Aqui estão alguns exemplos de onde esses compostos são encontrados:
 - **Tintas industriais** → nonilfenol
 - **Óleo isolante elétrico** → PCBs
 - **Resíduos de guerra química** → disruptores estrogênicos
+- **Milho e soja convencionais** → atrazina
+- **Frutas com agrotóxicos** → organoclorados
+- **Água de poço rural** → atrazina
+- **Inseticidas domésticos** → piretroides (potenciais)
