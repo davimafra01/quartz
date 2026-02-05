@@ -113,19 +113,18 @@ Mudam metilação do DNA, acetilação de histonas.
 **PCBs (Bifenilos Policlorados)**
 - Origem: Sintético industrial
 - Evidência: Classe A
-Via: Alimentar, inalatória
-Sistema: Estrogênico, tireoidiano
-Mecanismo: Modulador de receptores nucleares
-Relevância: Usados como fluidos industriais e isolantes elétricos. Persistem no ambiente por décadas. Bioacumulam em peixes e gorduras animais.
+- Via: Alimentar, inalatória
+- Sistema: Estrogênico, tireoidiano
+- Mecanismo: Modulador de receptores nucleares
+- Relevância: Usados como fluidos industriais e isolantes elétricos. Persistem no ambiente por décadas. Bioacumulam em peixes e gorduras animais.
 
 **DDT**
-	Origem: Sintético (agrotóxico)
-	Evidência: Classe A
-	Via: Alimentar
-	Sistema: Estrogênico
-	Mecanismo: Agonista estrogênico
-	Relevância:
-	Inseticida histórico. Banido, mas ainda presente no solo e em cadeias alimentares. Exemplo clássico de disruptor endócrino ambiental.
+- Origem: Sintético (agrotóxico)
+- Evidência: Classe A
+Via: Alimentar
+Sistema: Estrogênico
+Mecanismo: Agonista estrogênico
+Relevância: Inseticida histórico. Banido, mas ainda presente no solo e em cadeias alimentares. Exemplo clássico de disruptor endócrino ambiental.
 
 **Parabenos (metil, propil, butil)**
 	Origem: Sintético
