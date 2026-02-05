@@ -9,11 +9,11 @@ Em termos simples: são substâncias que “confundem” os hormônios do organi
 ---
 # 2. Como eles atuam?
 
-## 2.1. Efeito agomitar hormônios (efeito agonista)
+## 2.1. Efeito agonista: imitar hormônios
 A substância “finge” ser um hormônio.
 Ex: imita estrogênio → ativa receptores como se fosse estrogênio real.
 
-## 2.2. Bloquear hormônios (efeito antagonista)
+## 2.2. Efeito antagonista: bloquear hormônios (efeito antagonista)
 Impede o hormônio verdadeiro de agir.
 
 Ex: ocupa o receptor e não deixa a testosterona atuar.
