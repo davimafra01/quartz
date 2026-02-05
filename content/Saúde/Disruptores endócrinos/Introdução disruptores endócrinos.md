@@ -276,4 +276,87 @@ Hospitais:
 - **Incubadoras neonatais** → alta exposição a ftalatos
 
 ---
-# 5. Curiosidades
+# 5. Curiosidades para estudar depois
+
+***Timing is more important than dose***
+→ O momento da exposição é mais importante que a dose.
+Exposição mínima no período fetal pode ser mais grave do que uma exposição alta no adulto.
+
+***Windows of susceptibility***
+→ Janelas críticas de desenvolvimento.
+Existem períodos biológicos “hipersensíveis”:
+vida intrauterina, primeira infância, puberdade.
+
+***Programming effect***
+→ Efeito de programação biológica.
+O disruptor “programa” o organismo para doenças futuras:
+obesidade, infertilidade, câncer.
+
+***Silent damage***
+→ Dano silencioso.
+Não causa sintomas imediatos, mas altera trajetórias fisiológicas.
+
+***Endocrine disruption without toxicity***
+→ Pode haver disrupção sem toxicidade clássica.
+Não há morte celular, inflamação nem necrose — só sinalização errada.
+
+***Non-monotonic dose-response curve***
+→ Curva dose–resposta não monotônica.
+Pequenas doses podem ter efeitos maiores que doses altas.
+Isso quebra toda a toxicologia clássica.
+
+***Mixture paradox***
+→ Paradoxo da mistura.
+Cada substância isolada é “segura”, mas juntas são disruptivas.
+
+***Low-dose chronic exposure***
+→ Exposição crônica de baixa dose.
+Não é envenenamento agudo, é micro-interferência diária.
+
+***Bioaccumulation***
+→ Bioacumulação.
+Disruptores lipossolúveis acumulam em gordura corporal.
+
+***Biomagnification***
+→ Biomagnificação.
+A concentração aumenta ao subir na cadeia alimentar.
+
+***Developmental origins of health and disease (DOHaD)***
+→ Origem desenvolvimental das doenças do adulto.
+Doenças adultas começam na vida fetal.
+
+***Transgenerational effects***
+→ Efeitos transgeracionais.
+Netos sofrem efeitos de exposição que só a avó teve.
+
+***Epigenetic inheritance***
+→ Herança epigenética.
+Não muda o DNA, muda como ele é lido.
+
+***Hormone mimicry***
+→ Mimetismo hormonal.
+Molécula não é hormônio, mas “engana” o receptor.
+
+***Receptor promiscuity***
+→ Promiscuidade dos receptores hormonais.
+O mesmo receptor responde a dezenas de moléculas diferentes.
+
+***Endocrine system is a network, not a chain***
+→ Sistema endócrino é uma rede, não uma linha.
+Alterar um hormônio afeta vários outros.
+
+***Critical thresholds do not exist***
+→ Não existe dose segura universal.
+Depende do indivíduo, idade, sexo, genética.
+
+***Sex-specific effects***
+→ Efeitos dependem do sexo.
+Mesmo disruptor age diferente em homens e mulheres.
+
+***Latency period***
+→ Período de latência.
+Exposição hoje, doença daqui a 30 anos.
+
+***Environmental hormones***
+→ Ambiente como sistema endócrino externo.
+Vivemos dentro de um “hormônio coletivo”.
