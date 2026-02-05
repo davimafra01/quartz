@@ -140,37 +140,21 @@ Transplacentária: Mãe → feto.
 	Relevância:
 	Conservantes em desodorantes, cremes, maquiagens, shampoos. Encontrados em tecido mamário humano.
 
-7. Atrazina
+**Atrazina**
+	Origem: Agrotóxico
+	Evidência: Classe B
+	Via: Alimentar, hídrica
+	Sistema: Reprodutivo, estrogênico
+	Mecanismo: Indutor de aromatase
+	Relevância:
+	Herbicida muito usado. Famoso por feminizar sapos machos em experimentos.
 
-Classificações
-
-Origem: Agrotóxico
-
-Evidência: Classe B
-
-Via: Alimentar, hídrica
-
-Sistema: Reprodutivo, estrogênico
-
-Mecanismo: Indutor de aromatase
-
-Relevância:
-Herbicida muito usado. Famoso por feminizar sapos machos em experimentos.
-
-8. Nonilfenol
-
-Classificações
-
+Nonilfenol
 Origem: Industrial
-
 Evidência: Classe B
-
 Via: Alimentar, hídrica
-
 Sistema: Estrogênico
-
 Mecanismo: Agonista estrogênico
-
 Relevância:
 Presente em detergentes, tintas, plásticos, pesticidas. Contamina rios.
 
