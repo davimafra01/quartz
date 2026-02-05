@@ -1,6 +1,3 @@
----
-draft: true
----
 # 1. A proibição em Gênesis, Levítico, Deuteronômio e Atos
 
 Beber sangue é expressamente proibido nos livros de Gênesis, Levítico, Deuteronômio e Atos, além de existir relatos da desaprovação e punição divina em 1Samuel e Ezequiel. Além disso, nenhum dos rituais de Levítico que lida com sangue inclui sua ingestão, apenas manipulação.

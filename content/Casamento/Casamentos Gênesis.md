@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # 1. MONOGÂMICOS (4)
 ## 1.1 Adão
 - Marido: Adão
