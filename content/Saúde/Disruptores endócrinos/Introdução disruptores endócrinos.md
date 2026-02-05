@@ -259,5 +259,4 @@ Aqui estão alguns exemplos de onde esses compostos são encontrados:
 - **Bolsas de sangue** → DEHP
 - **Cateteres** → ftalatos
 - **Luvas hospitalares** → ftalatos
-    
 - **Incubadoras neonatais** → alta exposição a ftalatos
