@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 # 1. O que são os disruptores endócrinos?
 Disruptores endócrinos são **substâncias químicas que interferem no sistema endócrino**, isto é, no sistema hormonal do corpo, (i) imitando, (ii) bloqueando ou (iii) alterando a **ação dos hormônios naturais**. São majoritariamente sintéticas e raramente naturais.
