@@ -38,18 +38,17 @@ Ao classificarmos os disruptores endócrinos estudados nessa série de textos, u
 	Moduladores de síntese hormonal
 		Aumenta ou diminui a quantidade de hormônios produzidos.
 	
-	2.1.4 Moduladores de metabolismo hormonal
+	Moduladores de metabolismo hormonal
 		Alteram degradação, transporte ou excreção.
 	
-	2.1.5 Moduladores epigenéticos
+	Moduladores epigenéticos
 		Alteram expressão gênica ligada a hormônios.
 		Mudam metilação do DNA, acetilação de histonas.
 
 ## 2.3 Pelo sistema hormonal afetado
-	2.3.1 Estrogênicos: Afetam estrogênio.
+	Estrogênicos: afetam estrogênio.
 	
-	2.3.2 Androgênicos
-	Afetam testosterona.
+	Androgênicos: afetam testosterona.
 	
 	2.3.3 Tireoideanos
 	Afetam T3/T4.
