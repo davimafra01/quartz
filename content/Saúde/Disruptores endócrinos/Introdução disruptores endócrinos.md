@@ -19,15 +19,15 @@ Ao classificarmos os disruptores endócrinos estudados nessa série de textos, u
 ## 2.1 Pela origem
 
 **Naturais:**
-	Fitoestrógenos (soja, linhaça);
-	Micotoxinas.
+- Fitoestrógenos (soja, linhaça);
+- Micotoxinas.
 
 **Sintéticos:**
-	BPA;
-	Ftalatos;
-	PCBs;
-	Agrotóxicos;
-	Fármacos.
+- BPA;
+- Ftalatos;
+- PCBs;
+- Agrotóxicos;
+- Fármacos.
 
 ## 2.2 Pelo nível de evidência científica
 
@@ -67,7 +67,7 @@ Dados preliminares.
 ## 2.5 Pelo mecanismo de ação biológica
 
 **Efeito agonista: imitar hormônios**
-	A substância “finge” ser um hormônio.
+A substância “finge” ser um hormônio.
 	Ex: imita estrogênio → ativa receptores como se fosse estrogênio real.
 
 **Efeito antagonista: bloquear hormônios**
