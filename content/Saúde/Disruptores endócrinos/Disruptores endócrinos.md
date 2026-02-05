@@ -7,3 +7,23 @@ Disruptores endócrinos são **substâncias químicas que interferem no sistema 
 Em termos simples: são substâncias que “confundem” os hormônios do organismo.
 
 # 2. Como eles atuam?
+
+Imitar hormônios (efeito agonista)
+
+A substância “finge” ser um hormônio.
+
+Ex: imita estrogênio → ativa receptores como se fosse estrogênio real.
+
+2. Bloquear hormônios (efeito antagonista)
+
+Impede o hormônio verdadeiro de agir.
+
+Ex: ocupa o receptor e não deixa a testosterona atuar.
+
+3. Alterar a produção hormonal
+
+Aumenta ou diminui a quantidade de hormônios produzidos.
+
+4. Alterar transporte e degradação
+
+Muda como os hormônios circulam ou são eliminados do corpo.
