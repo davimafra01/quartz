@@ -96,21 +96,20 @@ Mudam metilação do DNA, acetilação de histonas.
 
 **Ftalatos (DEHP, DBP, BBP, DINP)**
 - Origem: Sintético
--Evidência: Classe A
+- Evidência: Classe A
 - Via: Alimentar, cutânea, inalatória
 - Sistema: Androgênico, reprodutivo
 - Mecanismo: Antagonista androgênico
-- Relevância:
-	Presentes em plásticos flexíveis, fragrâncias, cosméticos, brinquedos, cortinas de banheiro, tubos hospitalares. Afetam principalmente o desenvolvimento sexual masculino. São famosos por causarem redução da testosterona fetal.
+- Relevância: Presentes em plásticos flexíveis, fragrâncias, cosméticos, brinquedos, cortinas de banheiro, tubos hospitalares. Afetam principalmente o desenvolvimento sexual masculino. São famosos por causarem redução da testosterona fetal.
 
 **Triclosan**
-	Origem: Sintético
-	Evidência: Classe A
-	Via: Cutânea, oral
-	Sistema: Tireoideano, estrogênico
-	Mecanismo: Antagonista tireoidiano
-	Relevância:
-	Usado como antibacteriano em desodorantes, sabonetes, cremes dentais. Interfere diretamente em T3 e T4. Foi banido ou restrito em vários países.
+- Origem: Sintético
+- Evidência: Classe A
+- Via: Cutânea, oral
+- Sistema: Tireoideano, estrogênico
+- Mecanismo: Antagonista tireoidiano
+- Relevância:
+	sado como antibacteriano em desodorantes, sabonetes, cremes dentais. Interfere diretamente em T3 e T4. Foi banido ou restrito em vários países.
 
 **PCBs (Bifenilos Policlorados)**
 	Origem: Sintético industrial
