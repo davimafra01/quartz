@@ -23,11 +23,13 @@ Ex: imita estrogênio → ativa receptores como se fosse estrogênio real.
 Impede o hormônio verdadeiro de agir.
 Ex: ocupa o receptor e não deixa a testosterona atuar.
 
-## 2.3. Alterar a produção hormonal
+## 2.3. Moduladores de síntese hormonal
 Aumenta ou diminui a quantidade de hormônios produzidos.
 
-## 2.4. Alterar transporte e degradação
+## 2.4. Moduladores de metabolismo hormonal
 Muda como os hormônios circulam ou são eliminados do corpo.
+
+
 
 ---
 
