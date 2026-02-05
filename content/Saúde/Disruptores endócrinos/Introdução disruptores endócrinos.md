@@ -16,26 +16,7 @@ Os disruptores endócrinos são tão problemáticos porque:
 # 2. Classificação
 
 Ao classificarmos os disruptores endócrinos estudados nessa série de textos, utilizaremos as seguintes classificações:
-
-## 2.1 Pelo mecanismo de ação biológica
-	2.1.1 Efeito agonista: imitar hormônios
-	A substância “finge” ser um hormônio.
-	Ex: imita estrogênio → ativa receptores como se fosse estrogênio real.
-
-	2.1.2 Efeito antagonista: bloquear hormônios
-	Impede o hormônio verdadeiro de agir.
-	Ex: ocupa o receptor e não deixa a testosterona atuar.
-
-	2.1.3 Moduladores de síntese hormonal
-	Aumenta ou diminui a quantidade de hormônios produzidos.
-
-	2.1.4 Moduladores de metabolismo hormonal
-	Alteram degradação, transporte ou excreção.
-	
-	2.1.5 Moduladores epigenéticos
-	Alteram expressão gênica ligada a hormônios.
-	Mudam metilação do DNA, acetilação de histonas.
-## 2.2. Pelo nível de evidência científica
+## 2.1 Pelo nível de evidência científica
 	Classe 1 – Disruptor endócrino comprovado
 	Há evidência causal forte em humanos ou animais.
 	
@@ -45,7 +26,43 @@ Ao classificarmos os disruptores endócrinos estudados nessa série de textos, u
 	Classe 3 – Potencial disruptor
 	Dados preliminares.
 
-## 2.2. 
+## 2.2 Pelo mecanismo de ação biológica
+	2.1.1 Efeito agonista: imitar hormônios
+	A substância “finge” ser um hormônio.
+	Ex: imita estrogênio → ativa receptores como se fosse estrogênio real.
+	
+	2.1.2 Efeito antagonista: bloquear hormônios
+	Impede o hormônio verdadeiro de agir.
+	Ex: ocupa o receptor e não deixa a testosterona atuar.
+	
+	2.1.3 Moduladores de síntese hormonal
+	Aumenta ou diminui a quantidade de hormônios produzidos.
+	
+	2.1.4 Moduladores de metabolismo hormonal
+	Alteram degradação, transporte ou excreção.
+	
+	2.1.5 Moduladores epigenéticos
+	Alteram expressão gênica ligada a hormônios.
+	Mudam metilação do DNA, acetilação de histonas.
+
+## 2.3 Pelo sistema hormonal afetado
+	2.3.1 Estrogênicos
+	Afetam estrogênio.
+	
+	2.3.2 Androgênicos
+	Afetam testosterona.
+	
+	2.3.3 Tireoideanos
+	Afetam T3/T4.
+	
+	2.3.4 Glicocorticoides
+	Afetam cortisol.
+	
+	2.3.5 Insulínicos/metabólicos
+	Afetam metabolismo e obesidade (obesogênicos).
+	
+	2.3.6 Neuroendócrinos
+	Afetam eixo hipotálamo-hipófise.
 
 ---
 # 2. Como eles atuam?
