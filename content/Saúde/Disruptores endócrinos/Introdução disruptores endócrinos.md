@@ -215,14 +215,18 @@ Transplacentária: Mãe → feto.
 ---
 # 4. Onde são encontrados
 Aqui estão alguns exemplos de onde esses compostos são encontrados:
-- Tintas de berços antigos → chumbo + ftalatos
-- Recibos de cartão → BPA
-- Desodorantes → parabenos + triclosan
-- Brinquedos de borracha → ftalatos
-- Panelas antiaderentes → PFAS
-- Filtros solares → benzofenona
-- Leite em lata → resina epóxi (BPA)
-- Rios poluídos → nonilfenol + PCBs
+
+Mais relevantes:
+- **Tintas de berços antigos** → chumbo + ftalatos
+- **Recibos de cartão** → BPA
+- **Desodorantes** → parabenos + triclosan
+- **Brinquedos de borracha** → ftalatos
+- **Panelas antiaderentes** → PFAS
+- **Filtros solares** → benzofenona
+- **Leite em lata** → resina epóxi (BPA)
+- **Rios poluídos** → nonilfenol + PCBs
+
+Casa e objetos domésticos:
 - **Cortina de banheiro de plástico** → ftalatos
 - **Pisos vinílicos (PVC)** → ftalatos
 - **Tapetes sintéticos** → ftalatos + retardantes de chama
@@ -230,6 +234,8 @@ Aqui estão alguns exemplos de onde esses compostos são encontrados:
 - **Espumas de estofado** → PBDEs
 - **Velas aromáticas** → ftalatos + compostos fenólicos
 - **Produtos de limpeza** → nonilfenol, alquilfenóis
+
+Cozinha e alimentos:
 - **Potes plásticos no micro-ondas** → BPA, BPS
 - **Garrafa PET reutilizada muitas vezes** → antimoniais + ftalatos
 - **Filme plástico de cozinha** → ftalatos
@@ -237,6 +243,8 @@ Aqui estão alguns exemplos de onde esses compostos são encontrados:
 - **Peixe de rio poluído** → PCBs, dioxinas
 - **Grãos mal armazenados** → zearalenona (micotoxina)
 - **Soja e derivados** → genisteína (fitoestrógeno)
+
+Cosméticos e higiene:
 - **Shampoo e condicionador** → parabenos
 - **Perfumes** → ftalatos (fixadores)
 - **Maquiagem** → parabenos + benzofenona
@@ -244,6 +252,8 @@ Aqui estão alguns exemplos de onde esses compostos são encontrados:
 - **Creme dental antibacteriano antigo** → triclosan
 - **Lenços umedecidos** → parabenos
 - **Protetor solar** → benzofenona, octocrileno, homosalato
+
+Ambiente e Indústria:
 - **Transformadores elétricos antigos** → PCBs
 - **Lixões industriais** → dioxinas
 - **Queima de lixo** → dioxinas + furanos
@@ -251,12 +261,19 @@ Aqui estão alguns exemplos de onde esses compostos são encontrados:
 - **Tintas industriais** → nonilfenol
 - **Óleo isolante elétrico** → PCBs
 - **Resíduos de guerra química** → disruptores estrogênicos
+
+Agricultura:
 - **Milho e soja convencionais** → atrazina
 - **Frutas com agrotóxicos** → organoclorados
 - **Água de poço rural** → atrazina
 - **Inseticidas domésticos** → piretroides (potenciais)
+
+Hospitais:
 - **Tubos de soro** → DEHP (ftalato)
 - **Bolsas de sangue** → DEHP
 - **Cateteres** → ftalatos
 - **Luvas hospitalares** → ftalatos
 - **Incubadoras neonatais** → alta exposição a ftalatos
+
+---
+# 5. Curiosidades
