@@ -59,11 +59,11 @@ Ao classificarmos os disruptores endócrinos estudados nessa série de textos, u
 	Neuroendócrinos: afetam eixo hipotálamo-hipófise.
 
 ## 2.4 Pela origem
-	2.4.1 Naturais:
+	Naturais:
 		Fitoestrógenos (soja, linhaça);
 		Micotoxinas.
 	
-	2.4.2 Sintéticos:
+	Sintéticos:
 		BPA;
 		Ftalatos;
 		PCBs;
@@ -71,17 +71,16 @@ Ao classificarmos os disruptores endócrinos estudados nessa série de textos, u
 		Fármacos.
 
 ## 2.5 Por via de exposição
-	2.5.1 Alimentar
+	Alimentar
 	Plásticos, agrotóxicos, conservantes.
 	
-	2.5.2 Cutânea
+	Cutânea
 	Cosméticos.
 	
-	2.5.3 Inalatória
+	Inalatória
 	Poluentes industriais.
 	
-	2.5.4 Transplacentária
-	Mãe → feto.
+	Transplacentária: Mãe → feto.
 
 ---
 # 3. Como eles atuam?
