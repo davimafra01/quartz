@@ -29,16 +29,18 @@ Ao classificarmos os disruptores endócrinos estudados nessa série de textos, u
 		Fármacos.
 
 ## 2.2 Pelo nível de evidência científica
-	Classe 1 – Disruptor endócrino comprovado
-	Há evidência causal forte em humanos ou animais.
-	
-	Classe 2 – Suspeito de ser disruptor endócrino
-	Evidência parcial.
-	
-	Classe 3 – Potencial disruptor
-	Dados preliminares.
+
+**Classe 1 – Disruptor endócrino comprovado**
+Há evidência causal forte em humanos ou animais.
+
+Classe 2 – Suspeito de ser disruptor endócrino
+Evidência parcial.
+
+Classe 3 – Potencial disruptor
+Dados preliminares.
 
 ## 2.3 Por via de exposição
+
 Alimentar: Plásticos, agrotóxicos, conservantes.
 
 Cutâne: Cosméticos.
@@ -48,6 +50,7 @@ Inalatória: Poluentes industriais.
 Transplacentária: Mãe → feto.
 
 ## 2.4 Pelo sistema hormonal afetado
+
 **Estrogênicos:** afetam estrogênio.
 	
 **Androgênicos:** afetam testosterona.
@@ -61,6 +64,7 @@ Transplacentária: Mãe → feto.
 **Neuroendócrinos:** afetam eixo hipotálamo-hipófise.
 
 ## 2.5 Pelo mecanismo de ação biológica
+
 **Efeito agonista: imitar hormônios**
 	A substância “finge” ser um hormônio.
 	Ex: imita estrogênio → ativa receptores como se fosse estrogênio real.
