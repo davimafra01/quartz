@@ -68,32 +68,32 @@ Dados preliminares.
 
 **Efeito agonista: imitar hormônios**
 A substância “finge” ser um hormônio.
-	Ex: imita estrogênio → ativa receptores como se fosse estrogênio real.
+Ex: imita estrogênio → ativa receptores como se fosse estrogênio real.
 
 **Efeito antagonista: bloquear hormônios**
-	Impede o hormônio verdadeiro de agir.
-	Ex: ocupa o receptor e não deixa a testosterona atuar.
+Impede o hormônio verdadeiro de agir.
+Ex: ocupa o receptor e não deixa a testosterona atuar.
 
 **Moduladores de síntese hormonal**
-	Aumenta ou diminui a quantidade de hormônios produzidos.
+Aumenta ou diminui a quantidade de hormônios produzidos.
 
 **Moduladores de metabolismo hormonal**
-	Alteram degradação, transporte ou excreção.
+Alteram degradação, transporte ou excreção.
 
 **Moduladores epigenéticos**
-	Alteram expressão gênica ligada a hormônios.
-	Mudam metilação do DNA, acetilação de histonas.
+Alteram expressão gênica ligada a hormônios.
+Mudam metilação do DNA, acetilação de histonas.
 
 # 3. Disruptores endócrinos mais comuns
 
 **BPA (Bisfenol A)**
-	Origem: Sintético
-	Evidência: Classe A
-	Via: Alimentar, cutânea
-	Sistema afetado: Estrogênico, tireoidiano
-	Mecanismo: Agonista estrogênico, modulador de receptores nucleares
-	Relevância:
-	Usado em plásticos e resinas epóxi. Presente em garrafas plásticas, latas de comida, mamadeiras antigas, recibos térmicos. É um dos xenoestrógenos mais estudados do mundo. Atua imitando estrogênio e está associado a infertilidade, puberdade precoce, obesidade e alterações neurológicas.
+Origem: Sintético
+Evidência: Classe A
+Via: Alimentar, cutânea
+Sistema afetado: Estrogênico, tireoidiano
+Mecanismo: Agonista estrogênico, modulador de receptores nucleares
+Relevância:
+Usado em plásticos e resinas epóxi. Presente em garrafas plásticas, latas de comida, mamadeiras antigas, recibos térmicos. É um dos xenoestrógenos mais estudados do mundo. Atua imitando estrogênio e está associado a infertilidade, puberdade precoce, obesidade e alterações neurológicas.
 
 **Ftalatos (DEHP, DBP, BBP, DINP)**
 	Origem: Sintético
