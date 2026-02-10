@@ -25,5 +25,5 @@ Draft.
 Draft.
 
 ---
-# 7. Sacrifícios (Lv 23-27)
+# 7. Festas, votos e consagração (Lv 23-27)
 Draft.
