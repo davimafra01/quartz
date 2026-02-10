@@ -53,7 +53,9 @@ Em termos tipológicos (sem entrar ainda em teologia cristã pesada), o holocaus
 
 ## 1.4 Sacrifício pelo Pecado (*Ḥaṭṭat*)
 
+
 ## 1.5 Sacrifício pela Culpa (*’Asham*)
+
 
 ---
 # 2. Sacerdócio (Lv 8-10)
