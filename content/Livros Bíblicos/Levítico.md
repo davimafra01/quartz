@@ -105,7 +105,31 @@ O objetivo explícito do sacrifício é repetido várias vezes:
 Esse é o sacrifício da remoção da culpa objetiva.
 
 ## 1.5 Sacrifício pela Culpa (*’Asham*) $-$ Lv
+O sacrifício pela culpa é parecido com o sacrifício pelo pecado, mas tem um foco diferente: ele trata de pecados que geram dívida concreta. Normalmente envolve:
+profanação de coisas santas;
+fraude;
+roubo;
+mentira,
+dano material ao próximo.
 
+Aqui não basta expiar: é preciso restituir.
+
+O animal é sempre um carneiro sem defeito. Além do sacrifício, a pessoa deve devolver o que roubou ou danificou acrescido de 20% (Lv 6:5). A expiação é inseparável da reparação.
+
+O rito sacrificial é semelhante ao do sacrifício pelo pecado:
+
+sangue aspergido no altar,
+
+gordura queimada,
+
+carne comida pelos sacerdotes (Lv 7:6–7).
+
+A diferença essencial é jurídica:
+
+No ḥaṭṭat, o problema é culpa diante de Deus.
+No ’asham, o problema é culpa + dívida.
+
+É o sacrifício da responsabilidade moral objetiva.
 
 ---
 # 2. Sacerdócio (Lv 8-10)
