@@ -19,11 +19,11 @@ draft: true
 
 > Pega R$15.000 de empréstimo na Nubank.
 
-**Caixa:** R$15.000 em BTC
+**Caixa:** R$30.000 em BTC
 
-> Pega R$15.000 de empréstimo na Nubank.
-> 
-**Colateral:** R$15.000 em BTC
+> Coloca tudo como colateral para empréstimo.
+
+**Colateral:** R$30.000 em BTC
 **LTV:** 30%
 **Dívida:** R$4.500 em USDT ou USDC
 **Queda máxima BTC:** 0,4/0,8 = 62,5%
