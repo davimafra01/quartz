@@ -52,7 +52,7 @@ Considere uma coluna de destilação com 30 bandejas, operando com petróleo cru
 - **Vazão de refluxo (R)**: 200 m³/h (limite 150–250 m³/h);
 - **Produção de gasolina (G)**: 600 m³/h inicial, com teor de octanas 90;
 - **Produção de diesel (D)**: 300 m³/h inicial, densidade 0,85 g/cm³;
-- **Custo do vapor de aquecimento (C_vapor)**: R$ 0,10/kWh;
+- **Custo do vapor de aquecimento ($C_{vapor}$)**: R$ 0,10/kWh;
 - **Preços de mercado**: gasolina R$ 5,50/L, diesel R$ 4,00/L.
 
 ### 3.2 Modelo simplificado da coluna
