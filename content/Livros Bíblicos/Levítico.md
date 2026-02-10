@@ -56,7 +56,7 @@ No rito, apenas uma parte da oferta é queimada no altar, chamada de “porção
 
 Do ponto de vista estrutural, a minḥah representa algo muito específico: o trabalho humano santificado. Não é uma vida animal, é o fruto da terra e do labor. É o reconhecimento de que aquilo que o homem produz só é legítimo quando devolvido a Deus em forma de culto.
 
-## 1.3 Sacrifício Pacífico (*Shelem*) $-$ Lv
+## 1.3 Sacrifício Pacífico (*Shelem*) $-$ Lv 3; 7:11–36
 O sacrifício pacífico é o mais social e “festivo” de todos. Ele não é primariamente expiatório, mas relacional. O nome hebraico *shelem* vem da raiz *shalom*, que significa paz, plenitude, integridade, comunhão.
 
 Esse sacrifício podia ser oferecido em três modalidades. Como:
@@ -78,7 +78,7 @@ Há regras de tempo: a carne deve ser comida no mesmo dia (ou até o segundo, de
 
 Teologicamente, esse sacrifício expressa algo único: comunhão restaurada. Não é só perdão, é convivência. Deus “come” a gordura (pelo fogo), o sacerdote come sua parte, e o ofertante come diante do Senhor. É o sacrifício da mesa.
 
-## 1.4 Sacrifício pelo Pecado (*Ḥaṭṭat*) $-$ Lv
+## 1.4 Sacrifício pelo Pecado (*Ḥaṭṭat*) $-$ Lv 4; 6:24–30
 Esse é o sacrifício propriamente expiatório no sentido jurídico. Ele é oferecido quando alguém peca involuntariamente (por ignorância, erro ou negligência).
 
 O tipo de animal varia conforme a posição social do pecador:
@@ -117,17 +117,13 @@ Aqui não basta expiar: é preciso restituir.
 O animal é sempre um carneiro sem defeito. Além do sacrifício, a pessoa deve devolver o que roubou ou danificou acrescido de 20% (Lv 6:5). A expiação é inseparável da reparação.
 
 O rito sacrificial é semelhante ao do sacrifício pelo pecado:
-
-sangue aspergido no altar,
-
-gordura queimada,
-
-carne comida pelos sacerdotes (Lv 7:6–7).
+- Sangue aspergido no altar;
+- Gordura queimada;
+- Carne comida pelos sacerdotes (Lv 7:6–7).
 
 A diferença essencial é jurídica:
-
-No ḥaṭṭat, o problema é culpa diante de Deus.
-No ’asham, o problema é culpa + dívida.
+>No ḥaṭṭat, o problema é culpa diante de Deus.
+>No ’asham, o problema é culpa + dívida.
 
 É o sacrifício da responsabilidade moral objetiva.
 
