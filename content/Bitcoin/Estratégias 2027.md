@@ -25,7 +25,7 @@ draft: true
 
 **Colateral:** R$30.000 em BTC
 **LTV:** 30%
-**Dívida:** R$4.500 em USDT ou USDC
+**Dívida:** R$9.000 em USDT ou USDC
 **Queda máxima BTC:** 0,4/0,8 = 62,5%
 
 > Paga 
