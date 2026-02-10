@@ -29,7 +29,7 @@ draft: true
 
 **Colateral:** R$30.000 em BTC
 **LTV:** 30%
-**Dívida AAVE:** R$9.000 em USDT ou USDC
+**Dívida AAVE:** R$8.652 em USDT ou USDC
 **Queda máxima BTC:** 1 - (0,3/0,8) = 62,5%
 
 515+545+578+612+648+686+727+770+816+865+917+973
