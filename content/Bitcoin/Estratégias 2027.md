@@ -19,7 +19,7 @@ draft: true
 
 > Pega R$15.000 de empréstimo na Nubank.
 > Dívida Nubank: R$15.000
-> 18 parcelas fixas de R$1.229,68, com juros de 5,95% ao mês.
+> 18 parcelas fixas de R$1.429,68, com juros de 5,95% ao mês.
 > Valor total a pagar: R$25.734,31
 > Juros total: R$10.734,31
 
@@ -34,6 +34,6 @@ draft: true
 
 > Amortiza R$9.000 dos R$15.000 do empréstimo.
 > Cálculo das parcelas antecipadas:
-> 	VPk
+> 	$VP_k$ = R$1.429,68
 
 **Colateral:** R$21.000 em BTC
