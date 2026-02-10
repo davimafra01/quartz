@@ -57,10 +57,10 @@ Considere uma coluna de destilação com 30 bandejas, operando com petróleo cru
 
 ### 3.2 Modelo simplificado da coluna
 O RTO precisa de um modelo que relacione entradas e saídas. Um modelo clássico simplificado envolve **balanceamento de massa e energia** e **curvas de eficiência**:
-1. **Produção de gasolina (G) em função de refluxo e temperatura do topo**:
-    
 
-G=600+10⋅(Ttop−100)−5⋅(R−200)G = 600 + 10 \cdot (T_{\text{top}} - 100) - 5 \cdot (R - 200)G=600+10⋅(Ttop​−100)−5⋅(R−200)
+'1. **Produção de gasolina (G) em função de refluxo e temperatura do topo**: 
+
+$G=600+10⋅(Ttop−100)−5⋅(R−200)G = 600 + 10 \cdot (T_{\text{top}} - 100) - 5 \cdot (R - 200)G=600+10⋅(Ttop​−100)−5⋅(R−200)$
 
 - Aumentar T_top aumenta volatilidade → mais gasolina
     
