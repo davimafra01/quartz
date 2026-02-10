@@ -93,10 +93,8 @@ Quanto maior a responsabilidade, maior a gravidade do sacrifício. Isso é teolo
 O sangue aqui tem papel central. Em casos graves (sumo sacerdote ou assembleia), o sangue é levado para dentro do santuário, aspergido diante do véu e aplicado nos chifres do altar do incenso (Lv 4:6–7). Em casos menores, o sangue é aplicado apenas no altar exterior.
 
 A gordura é sempre queimada no altar, como nos outros sacrifícios. A carne, porém, tem duas possibilidades:
-
-Se o sangue foi levado para dentro do santuário → a carne é queimada fora do arraial (Lv 4:12, 21).
-
-Se não → a carne é comida pelos sacerdotes em lugar santo (Lv 6:26).
+- Se o sangue foi levado para dentro do santuário → a carne é queimada fora do arraial (Lv 4:12, 21).
+- Se não → a carne é comida pelos sacerdotes em lugar santo (Lv 6:26).
 
 O princípio é claro: quanto mais o sangue se aproxima de Deus, menos o homem pode tocar na carne.
 
