@@ -60,15 +60,16 @@ Do ponto de vista estrutural, a minḥah representa algo muito específico: o tr
 O sacrifício pacífico é o mais social e “festivo” de todos. Ele não é primariamente expiatório, mas relacional. O nome hebraico shelem vem da raiz shalom, que significa paz, plenitude, integridade, comunhão.
 
 Esse sacrifício podia ser oferecido em três modalidades:
-como ação de graças, como cumprimento de voto ou como oferta voluntária (Lv 7:12–16).
+como ação de graças;
+como cumprimento de voto ou como oferta voluntária (Lv 7:12–16).
 
 A vítima podia ser macho ou fêmea, do gado, ovelha ou cabra, sempre sem defeito. O rito começa, como nos outros, com imposição de mãos, morte do animal e aspersão do sangue no altar (Lv 3:1–2).
 
 A parte mais importante: a gordura é sempre do Senhor. Gordura, rins e lóbulo do fígado são queimados no altar (Lv 3:3–5). Essas partes representam, simbolicamente, a energia vital, o “melhor” do animal. Elas nunca podem ser comidas. Isso se torna uma lei geral: “toda gordura é do Senhor” (Lv 3:16).
 
 O restante da carne é dividido assim:
-o peito e a coxa direita vão para o sacerdote (Lv 7:31–34),
-o restante é comido pelo ofertante e sua família.
+- O peito e a coxa direita vão para o sacerdote (Lv 7:31–34);
+- O restante é comido pelo ofertante e sua família.
 
 Ou seja, é literalmente uma refeição sagrada compartilhada entre Deus, sacerdote e ofertante.
 
