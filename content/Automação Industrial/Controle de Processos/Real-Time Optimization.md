@@ -65,19 +65,17 @@ O RTO precisa de um modelo que relacione entradas e saídas. Um modelo clássico
 - Aumentar $T_{top}$ aumenta volatilidade → mais gasolina
 - Aumentar R aumenta recuperação da gasolina, mas reduz vazão do topo
 
-2. **Produção de diesel (D) em função de T_base e refluxo**:
+**2 - Produção de diesel (D) em função de T_base e refluxo**:
 
 	$D = 300 - 5 \cdot (T_{\text{top}} - 100) + 3 \cdot (R - 200)$
 
-3. **Consumo de vapor (E)**:
-=500+2⋅(Tbase−350)+0,5⋅(R−200)
-E = 500 + 2 \cdot (T_{\text{base}} - 350) + 0,5 \cdot (R - 200)
+**3 - Consumo de vapor (E)**:
 
+	$E = 500 + 2 \cdot (T_{\text{base}} - 350) + 0,5 \cdot (R - 200)$
+	
 - kWh/h de vapor consumido, usado para custo econômico.
-    
 
-4. **Lucro por hora (L)**:
-    
+**4 - Lucro por hora (L)**:
 
 L=5,50⋅G+4,00⋅D−0,10⋅EL = 5,50 \cdot G + 4,00 \cdot D - 0,10 \cdot EL=5,50⋅G+4,00⋅D−0,10⋅E
 
