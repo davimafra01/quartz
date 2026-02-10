@@ -3,6 +3,13 @@ draft: true
 ---
 # 1. Sacrifícios (Lv 1-7)
 Draft.
+|Sacrifício|Quem come|O que é queimado|
+|---|---|---|
+|Holocausto|Ninguém|Tudo|
+|Manjar|Sacerdotes|Parte|
+|Pacífico|Ofertante + sacerdote|Gordura|
+|Pecado|Sacerdotes|Gordura (+ resto fora se for grave)|
+|Culpa|Sacerdotes|Gordura|
 
 ---
 # 2. Sacerdócio (Lv 8-10)
