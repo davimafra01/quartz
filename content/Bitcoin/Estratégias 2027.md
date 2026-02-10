@@ -30,25 +30,23 @@ draft: true
 **Colateral:** R$30.000 em BTC
 **LTV:** 28,84%
 **Dívida AAVE:** R$8.652 em USDT ou USDC
-**Queda máxima BTC:** 1 - (0,2884/0,8) = 62,5%
-
-515+545+578+612+648+686+727+770+816+865+917+973
+**Queda máxima BTC:** 1 - (0,2884/0,8) = 63,95%
 
 > Amortiza R$9.000 dos R$15.000 do empréstimo.
 > Cálculo das parcelas antecipadas:
 > 		$VP_k$ = $\tfrac{R\$1.429,68}{(1 + 0,0595)^k}$ 
-> 		k = 18 $\rightarrow$ $VP_k$ = R$515
-> 		k = 17 $\rightarrow$ $VP_k$ = R$545
-> 		k = 16 $\rightarrow$ $VP_k$ = R$578
-> 		k = 15 $\rightarrow$ $VP_k$ = R$612
-> 		k = 14 $\rightarrow$ $VP_k$ = R$648
-> 		k = 13 $\rightarrow$ $VP_k$ = R$686
-> 		k = 12 $\rightarrow$ $VP_k$ = R$727
-> 		k = 11 $\rightarrow$ $VP_k$ = R$770
-> 		k = 10 $\rightarrow$ $VP_k$ = R$816
-> 		k = 09 $\rightarrow$ $VP_k$ = R$865
-> 		k = 08 $\rightarrow$ $VP_k$ = R$917
-> 		k = 07 $\rightarrow$ $VP_k$ = R$973
+> 		k = 18 $\rightarrow$ $VP_k$ $\approx$ R$515
+> 		k = 17 $\rightarrow$ $VP_k$ $\approx$ R$545
+> 		k = 16 $\rightarrow$ $VP_k$ $\approx$ R$578
+> 		k = 15 $\rightarrow$ $VP_k$ $\approx$ R$612
+> 		k = 14 $\rightarrow$ $VP_k$ $\approx$ R$648
+> 		k = 13 $\rightarrow$ $VP_k$ $\approx$ R$686
+> 		k = 12 $\rightarrow$ $VP_k$ $\approx$ R$727
+> 		k = 11 $\rightarrow$ $VP_k$ $\approx$ R$770
+> 		k = 10 $\rightarrow$ $VP_k$ $\approx$ R$816
+> 		k = 09 $\rightarrow$ $VP_k$ $\approx$ R$865
+> 		k = 08 $\rightarrow$ $VP_k$ $\approx$ R$917
+> 		k = 07 $\rightarrow$ $VP_k$ $\approx$ R$973
 > 		Total $\approx$ R$8.652 $\rightarrow$ Sem considerar os juros que abati do total a pagar.
 > 		Total real $\approx$ 12 x 1.429,68 = R$17.156,16 $\rightarrow$ Considerando os juros que abati do total.
 >
