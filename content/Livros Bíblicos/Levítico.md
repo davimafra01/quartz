@@ -5,20 +5,33 @@ draft: false
 $$
 \begin{array}{|c|c|c|c|}
 \hline
-\text{SACRIFÍCIO} & \text{QUEM COME} & \text{O QUE É QUEIMADO} & \text{RESUMO} \\
+\text{SACRIFÍCIO} & \text{QUEM COME} & \text{O QUE É QUEIMADO} \\
 \hline
-\text{Holocausto} & \text{Ninguém} & \text{Tudo} & \text{Entrega total a Deus} \\
+\text{Holocausto} & \text{Ninguém} & \text{Tudo} \\
 \hline
-\text{Manjar} & \text{Sacerdotes} & \text{Parte} & \text{Consagração do trabalho humano} \\
+\text{Manjares} & \text{Sacerdotes} & \text{Parte} \\
 \hline
-\text{Pacífico} & \text{Ofertante + sacerdote} & \text{Gordura} & \text{Comunhão restaurada} \\
+\text{Pacífico} & \text{Ofertante + sacerdote} & \text{Gordura} \\
 \hline
-\text{Pecado} & \text{Sacerdotes} & \text{Gordura (+ resto fora se for grave)} & \text{Remoção da culpa} \\
+\text{Pecado} & \text{Sacerdotes} & \text{Gordura (+ resto fora se for grave)} \\
 \hline
 \text{Culpa} & \text{Sacerdotes} & \text{Gordura} & \text{Reparação da dívida} \\
 \hline
 \end{array}
 $$
+Estrutura:
+- **Holocausto** → entrega total a Deus;
+- **Manjares** → consagração do trabalho humano;
+- **Pacífico** → comunhão restaurada;
+- **Pecado** → remoção da culpa;
+- **Culpa** → reparação da dívida.
+
+Ou em forma de progressão:
+Aproximação → gratidão → comunhão → perdão → restituição
+
+Levítico 1–7 não é uma lista de rituais.
+É um sistema jurídico-litúrgico completo de acesso, permanência e restauração diante de Deus.
+É literalmente uma teoria da reconciliação em forma ritual.
 ## 1.1 Holocausto (*‘Olah*) $-$ Lv 1; Lv 6:8-13
 
 O holocausto é o sacrifício fundamental do sistema levítico. Ele é o único em que a vítima é inteiramente consumida pelo fogo, sem que nenhuma parte seja comida nem pelo ofertante nem pelo sacerdote. O próprio nome hebraico *‘olah* vem da raiz *‘alah*, que significa “subir”, indicando que o sacrifício “sobe” totalmente a Deus em forma de fumaça.
