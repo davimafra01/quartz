@@ -3,19 +3,19 @@ draft: false
 ---
 # 1. Sacrifícios (Lv 1-7)
 $$
-\begin{array}{|c|c|c|}
+\begin{array}{|c|c|c|c|}
 \hline
-\text{SACRIFÍCIO} & \text{QUEM COME} & \text{O QUE É QUEIMADO} \\
+\text{SACRIFÍCIO} & \text{QUEM COME} & \text{O QUE É QUEIMADO} & \text{RESUMO} \\
 \hline
-\text{Holocausto} & \text{Ninguém} & \text{Tudo} \\
+\text{Holocausto} & \text{Ninguém} & \text{Tudo} & \text{Entrega total a Deus} \\
 \hline
-\text{Manjar} & \text{Sacerdotes} & \text{Parte} \\
+\text{Manjar} & \text{Sacerdotes} & \text{Parte} & \text{Consagração do trabalho humano} \\
 \hline
-\text{Pacífico} & \text{Ofertante + sacerdote} & \text{Gordura} \\
+\text{Pacífico} & \text{Ofertante + sacerdote} & \text{Gordura} & \text{Comunhão restaurada} \\
 \hline
-\text{Pecado} & \text{Sacerdotes} & \text{Gordura (+ resto fora se for grave)} \\
+\text{Pecado} & \text{Sacerdotes} & \text{Gordura (+ resto fora se for grave)} & \text{Remoção da culpa} \\
 \hline
-\text{Culpa} & \text{Sacerdotes} & \text{Gordura} \\
+\text{Culpa} & \text{Sacerdotes} & \text{Gordura} & \text{Reparação da dívida} \\
 \hline
 \end{array}
 $$
