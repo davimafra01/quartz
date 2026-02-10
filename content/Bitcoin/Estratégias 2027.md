@@ -14,6 +14,7 @@ draft: true
 **Dívida AAVE:** R$6.000 em USDT ou USDC
 **Queda máxima BTC:** 1 - (0,2857/0,8) = 64,28%
 
+> 
 ## 2. Empréstimo colateralizado para amortizar empréstimo Nubank
 **Caixa:** R$15.000 em BTC
 
