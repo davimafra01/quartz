@@ -40,7 +40,8 @@ Do ponto de vista teológico, o holocausto expressa três ideias centrais:
 
 Dentro da estrutura de Levítico, o holocausto ocupa o primeiro lugar porque ele responde à pergunta mais elementar:
 
-**como um homem pode se apresentar diante de um Deus santo?** A resposta é:somente através de uma vida oferecida em substituição, consumida integralmente diante de Deus.
+**Como um homem pode se apresentar diante de um Deus santo?**
+Resposta: Somente através de uma vida oferecida em substituição, consumida integralmente diante de Deus.
 
 Em termos tipológicos (sem entrar ainda em teologia cristã pesada), o holocausto é o sacrifício que mais claramente representa a ideia de entrega total, porque não há partilha, não há retorno, não há benefício humano direto: tudo “sobe” a Deus. É por isso que ele se torna, em Hebreus 10, a principal imagem para falar do sacrifício de Cristo como oferta perfeita e definitiva.
 
