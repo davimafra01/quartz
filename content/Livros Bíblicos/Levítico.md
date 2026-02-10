@@ -34,8 +34,8 @@ Depois disso, o animal é esfolado, cortado em pedaços, lavado (as entranhas e 
 Em Levítico 6:8–13 aparece a legislação complementar, dirigida aos sacerdotes. Ali se estabelece que o fogo do altar deve permanecer continuamente aceso, nunca se apagando. As cinzas do holocausto anterior devem ser retiradas com vestes sagradas e depositadas em lugar puro. Isso mostra que o holocausto não é um rito ocasional, mas uma realidade contínua, praticamente diária, no culto de Israel.
 
 Do ponto de vista teológico, o holocausto expressa três ideias centrais:
-- Expiação: o texto afirma explicitamente que ele “faz expiação” (Lv 1:4).
-- Consagração total: como nada é retido, tudo pertence a Deus.
+- Expiação: o texto afirma explicitamente que ele “faz expiação” (Lv 1:4);
+- Consagração total: como nada é retido, tudo pertence a Deus;
 - Acesso a Deus: é o sacrifício básico de aproximação.
 
 Dentro da estrutura de Levítico, o holocausto ocupa o primeiro lugar porque ele responde à pergunta mais elementar: como um homem pode se apresentar diante de um Deus santo? A resposta é: somente através de uma vida oferecida em substituição, consumida integralmente diante de Deus.
