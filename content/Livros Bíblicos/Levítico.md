@@ -47,7 +47,7 @@ Em termos tipológicos (sem entrar ainda em teologia cristã pesada), o holocaus
 
 ## 1.2 Oferta de Manjares
 
-## 1.3 Oferta de Manjares
+## 1.3 Sacrifício Pacífico
 
 ## 1.4 Oferta de Manjares
 
