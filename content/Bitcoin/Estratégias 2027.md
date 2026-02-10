@@ -34,6 +34,6 @@ draft: true
 
 > Amortiza R$9.000 dos R$15.000 do empréstimo.
 > Cálculo das parcelas antecipadas:
-> 	
+> 	VPk
 
 **Colateral:** R$21.000 em BTC
