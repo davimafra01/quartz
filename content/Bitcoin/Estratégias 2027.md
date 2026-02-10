@@ -18,9 +18,10 @@ draft: true
 **Caixa:** R$15.000 em BTC
 
 > Pega R$15.000 de empréstimo na Nubank.
+> Dívida Nubank: R$15.000
 > 18 parcelas fixas de R$1.229,68, com juros de 5,95% ao mês.
 > Valor total a pagar: R$25.734,31
-> Juros total: 
+> Juros total: R$10.734,31
 
 **Caixa:** R$30.000 em BTC
 
