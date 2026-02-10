@@ -100,7 +100,7 @@ O princípio é claro: quanto mais o sangue se aproxima de Deus, menos o homem p
 
 O objetivo explícito do sacrifício é repetido várias vezes:
 
-“assim o sacerdote fará expiação por ele, e lhe será perdoado” (Lv 4:20, 26, 31, 35).
+> “assim o sacerdote fará expiação por ele, e lhe será perdoado” (Lv 4:20, 26, 31, 35).
 
 Esse é o sacrifício da remoção da culpa objetiva.
 
