@@ -28,6 +28,6 @@ draft: true
 **Dívida:** R$9.000 em USDT ou USDC
 **Queda máxima BTC:** 1 - (0,3/0,8) = 62,5%
 
-> Paga 
- 
+> Amortiza R$9.000 dos R$15.000 do empréstimo.
+
 **Colateral:** R$21.000 em BTC
