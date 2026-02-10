@@ -46,7 +46,7 @@ Em resumo, o RTO em uma coluna de destilação de petróleo funciona como um ger
 ### 3.1 Dados iniciais do processo
 Considere uma coluna de destilação com 30 bandejas, operando com petróleo cru a 350°C, com as seguintes variáveis de entrada e limites:
 - **Vazão de alimentação (F)**: 1000 m³/h (variação ±10%);
-- **Temperatura no topo (T_top)**: 100°C (limite 95–105°C);
+- **Temperatura no topo ($T_top$)**: 100°C (limite 95–105°C);
 - **Temperatura no fundo (T_base)**: 350°C (limite 340–360°C);
 - **Pressão da coluna (P_col)**: 1,5 bar (limite 1,0–2,0 bar);
 - **Vazão de refluxo (R)**: 200 m³/h (limite 150–250 m³/h);
@@ -78,8 +78,6 @@ O RTO precisa de um modelo que relacione entradas e saídas. Um modelo clássico
 **4 - Lucro por hora (L)**:
 
 	$L = 5,50 \cdot G + 4,00 \cdot D - 0,10 \cdot E$
-
----
 
 ### 3.3 Situação inicial
 
