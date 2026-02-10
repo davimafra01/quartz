@@ -5,15 +5,15 @@ draft: true
 Draft.
 
 ---
-# 2. Sacrifícios (Lv 8-10)
+# 2. Sacerdócio (Lv 8-10)
 Draft.
 
 ---
-# 3. Sacrifícios (Lv 11-15)
+# 3. Pureza / Impureza (Lv 11-15)
 Draft.
 
 ---
-# 4. Sacrifícios (Lv 16)
+# 4. Dia da expiação (Lv 16)
 Draft.
 
 ---
