@@ -55,7 +55,7 @@ draft: true
 > Dívida Nubank: 6 x 1.429,68 = R$8.578,08
 > Valor total a pagar:
 > 	12 x 1.429,68 = R$17.156,16 $\rightarrow$ É o que, considerando os juros previstos, paguei com os 9k.
-> 	25.734,31 - 17.156,16 = R$8.578,15 $\rightarrow$ É o que
+> 	25.734,31 - 17.156,16 = R$8.578,15 $\rightarrow$ É o que reduzi do valor total a pagar.
 
 12×1429,68=17.156,16
 > 
