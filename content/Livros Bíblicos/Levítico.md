@@ -19,9 +19,9 @@ $$
 \hline
 \end{array}
 $$
-## 1.1 Holocausto (‘Olah) $-$ Lv 1; Lv 6:8-13
+## 1.1 Holocausto (*‘Olah*) $-$ Lv 1; Lv 6:8-13
 
-O holocausto é o sacrifício fundamental do sistema levítico. Ele é o único em que a vítima é inteiramente consumida pelo fogo, sem que nenhuma parte seja comida nem pelo ofertante nem pelo sacerdote. O próprio nome hebraico ‘olah vem da raiz ‘alah, que significa “subir”, indicando que o sacrifício “sobe” totalmente a Deus em forma de fumaça.
+O holocausto é o sacrifício fundamental do sistema levítico. Ele é o único em que a vítima é inteiramente consumida pelo fogo, sem que nenhuma parte seja comida nem pelo ofertante nem pelo sacerdote. O próprio nome hebraico *‘olah* vem da raiz *‘alah*, que significa “subir”, indicando que o sacrifício “sobe” totalmente a Deus em forma de fumaça.
 
 O holocausto podia ser oferecido a partir de três categorias de animais, conforme a condição econômica do ofertante: gado (boi), animais do rebanho (ovelha ou cabra) ou aves (rola ou pombinho). Em todos os casos, a vítima precisava ser macho e sem defeito, isto é, sem imperfeições físicas, doenças ou mutilações (Lv 1:3, 10; 1:14). A exigência de perfeição indica que nada defeituoso pode ser apresentado diante de Deus.
 
@@ -45,11 +45,11 @@ Resposta: Somente através de uma vida oferecida em substituição, consumida in
 
 Em termos tipológicos (sem entrar ainda em teologia cristã pesada), o holocausto é o sacrifício que mais claramente representa a ideia de entrega total, porque não há partilha, não há retorno, não há benefício humano direto: tudo “sobe” a Deus. É por isso que ele se torna, em Hebreus 10, a principal imagem para falar do sacrifício de Cristo como oferta perfeita e definitiva.
 
-## 1.2 Oferta de Manjares (Minḥah)
+## 1.2 Oferta de Manjares (*Minḥah*)
 
 ## 1.3 Sacrifício Pacífico (*Shelem*)
 
-## 1.4 Sacrifício pelo Pecado
+## 1.4 Sacrifício pelo Pecado (Ḥaṭṭat)
 
 ## 1.5 Sacrifício pela Culpa
 
