@@ -60,4 +60,6 @@ draft: true
 **Dívida AAVE:** R$8.652 em USDT ou USDC
 **Queda máxima BTC:** 1 - (0,2884/0,8) = 63,95%
 **Dívida Nubank (cheia):** 6 x 1.429,68 = R$8.578,08
-Dívida Total: 8.652 + 8.578,08 = 
+Dívida Total: 8.652 + 8.578,08 = R$17.230,08
+
+200% de alta no BTC $\
