@@ -28,9 +28,9 @@ draft: true
 > Coloca tudo como colateral para empréstimo.
 
 **Colateral:** R$30.000 em BTC
-**LTV:** 30%
+**LTV:** 28,84%
 **Dívida AAVE:** R$8.652 em USDT ou USDC
-**Queda máxima BTC:** 1 - (0,3/0,8) = 62,5%
+**Queda máxima BTC:** 1 - (0,2884/0,8) = 62,5%
 
 515+545+578+612+648+686+727+770+816+865+917+973
 
