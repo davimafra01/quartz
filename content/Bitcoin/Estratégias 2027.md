@@ -50,5 +50,7 @@ draft: true
 > 		k = 08 $\rightarrow$ $VP_k$ = R$917
 > 		k = 07 $\rightarrow$ $VP_k$ = R$973
 > 		Total $\approx$ R$8.652
+>
+> Resta pagar: 
 
 **Colateral:** R$21.000 em BTC
