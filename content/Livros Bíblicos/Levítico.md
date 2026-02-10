@@ -62,7 +62,7 @@ O sacrifício pacífico é o mais social e “festivo” de todos. Ele não é p
 Esse sacrifício podia ser oferecido em três modalidades. Como:
 - Ação de graças;
 - Cumprimento de voto; ou
-- como oferta voluntária (Lv 7:12–16).
+- Oferta voluntária (Lv 7:12–16).
 
 A vítima podia ser macho ou fêmea, do gado, ovelha ou cabra, sempre sem defeito. O rito começa, como nos outros, com imposição de mãos, morte do animal e aspersão do sangue no altar (Lv 3:1–2).
 
