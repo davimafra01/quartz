@@ -5,7 +5,7 @@ draft: true
 $$
 \begin{array}{|c|c|c|}
 \hline
-\text{Sacrifício} & \text{Quem come} & \text{O que é queimado} \\
+\text{SACRIFÍCIO} & \text{QUEM COME} & \text{O QUE É QUEIMADO} \\
 \hline
 \text{Holocausto} & \text{Ninguém} & \text{Tudo} \\
 \hline
