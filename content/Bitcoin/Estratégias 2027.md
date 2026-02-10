@@ -63,4 +63,5 @@ draft: true
 Dívida Total: 8.652 + 8.578,08 = R$17.230,08
 
 > 200% de alta no BTC $\rightarrow$ Retorno de R$90.000
+
 **Lucro:** 90.000 - 17.230,08 = R$72.769,92
