@@ -3,13 +3,19 @@ draft: true
 ---
 # 1. Sacrifícios (Lv 1-7)
 Draft.
-|Sacrifício|Quem come|O que é queimado|
-|---|---|---|
-|Holocausto|Ninguém|Tudo|
-|Manjar|Sacerdotes|Parte|
-|Pacífico|Ofertante + sacerdote|Gordura|
-|Pecado|Sacerdotes|Gordura (+ resto fora se for grave)|
-|Culpa|Sacerdotes|Gordura|
+\begin{table}[h]
+\centering
+\begin{tabular}{lll}
+\textbf{Sacrifício} & \textbf{Quem come} & \textbf{O que é queimado} \\
+\hline
+Holocausto & Ninguém & Tudo \\
+Manjar & Sacerdotes & Parte \\
+Pacífico & Ofertante + sacerdote & Gordura \\
+Pecado & Sacerdotes & Gordura (+ resto fora se for grave) \\
+Culpa & Sacerdotes & Gordura \\
+\end{tabular}
+\caption{Resumo dos sacrifícios em Levítico 1--7}
+\end{table}
 
 ---
 # 2. Sacerdócio (Lv 8-10)
