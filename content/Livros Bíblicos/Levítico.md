@@ -46,10 +46,35 @@ Resposta: Somente através de uma vida oferecida em substituição, consumida in
 Em termos tipológicos (sem entrar ainda em teologia cristã pesada), o holocausto é o sacrifício que mais claramente representa a ideia de entrega total, porque não há partilha, não há retorno, não há benefício humano direto: tudo “sobe” a Deus. É por isso que ele se torna, em Hebreus 10, a principal imagem para falar do sacrifício de Cristo como oferta perfeita e definitiva.
 
 ## 1.2 Oferta de Manjares (*Minḥah*) $-$ Lv 2; Lv 6:14-23
+A oferta de manjares é o único sacrifício de Levítico 1–7 que não envolve derramamento de sangue. Ela consiste em uma oferta vegetal: farinha fina, azeite e incenso. Diferentemente do holocausto, aqui não há morte, porque a função principal desse sacrifício não é expiação de pecado, mas homenagem, gratidão e consagração do trabalho humano.
 
+O texto de Levítico 2 descreve várias formas possíveis: farinha crua, bolos assados no forno, em chapa ou em frigideira, e também espigas tostadas. Em todos os casos, três elementos são obrigatórios: farinha, azeite e incenso. E três elementos são explicitamente proibidos: fermento, mel e qualquer substância levedante (Lv 2:11).
+
+A proibição do fermento é teológica, não culinária. O fermento, no sistema bíblico, simboliza corrupção, decomposição e transformação interna. Como a oferta é apresentada a Deus, ela deve ser pura, sem processo de fermentação. Em contrapartida, o sal é obrigatório: “toda oferta será temperada com sal” (Lv 2:13). O sal é chamado de “sal da aliança”, símbolo de permanência, incorruptibilidade e fidelidade.
+
+No rito, apenas uma parte da oferta é queimada no altar, chamada de “porção memorial” (Lv 2:2). O restante é dado aos sacerdotes para alimento, e deve ser comido em lugar santo (Lv 6:16–18). A única exceção é a oferta de manjares do próprio sacerdote, que deve ser inteiramente queimada e não comida (Lv 6:22–23).
+
+Do ponto de vista estrutural, a minḥah representa algo muito específico: o trabalho humano santificado. Não é uma vida animal, é o fruto da terra e do labor. É o reconhecimento de que aquilo que o homem produz só é legítimo quando devolvido a Deus em forma de culto.
 
 ## 1.3 Sacrifício Pacífico (*Shelem*) $-$ Lv
+O sacrifício pacífico é o mais social e “festivo” de todos. Ele não é primariamente expiatório, mas relacional. O nome hebraico shelem vem da raiz shalom, que significa paz, plenitude, integridade, comunhão.
 
+Esse sacrifício podia ser oferecido em três modalidades:
+como ação de graças, como cumprimento de voto ou como oferta voluntária (Lv 7:12–16).
+
+A vítima podia ser macho ou fêmea, do gado, ovelha ou cabra, sempre sem defeito. O rito começa, como nos outros, com imposição de mãos, morte do animal e aspersão do sangue no altar (Lv 3:1–2).
+
+A parte mais importante: a gordura é sempre do Senhor. Gordura, rins e lóbulo do fígado são queimados no altar (Lv 3:3–5). Essas partes representam, simbolicamente, a energia vital, o “melhor” do animal. Elas nunca podem ser comidas. Isso se torna uma lei geral: “toda gordura é do Senhor” (Lv 3:16).
+
+O restante da carne é dividido assim:
+o peito e a coxa direita vão para o sacerdote (Lv 7:31–34),
+o restante é comido pelo ofertante e sua família.
+
+Ou seja, é literalmente uma refeição sagrada compartilhada entre Deus, sacerdote e ofertante.
+
+Há regras de tempo: a carne deve ser comida no mesmo dia (ou até o segundo, dependendo do tipo), mas se sobrar até o terceiro dia deve ser queimada, e quem comer será culpado (Lv 7:15–18). Isso mostra que não é uma refeição comum, mas um ato litúrgico com limites temporais sagrados.
+
+Teologicamente, esse sacrifício expressa algo único: comunhão restaurada. Não é só perdão, é convivência. Deus “come” a gordura (pelo fogo), o sacerdote come sua parte, e o ofertante come diante do Senhor. É o sacrifício da mesa.
 
 ## 1.4 Sacrifício pelo Pecado (*Ḥaṭṭat*) $-$ Lv
 
