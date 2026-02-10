@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-### 1. Empréstimo colateralizado para reinvestir e melhorar saúde do empréstimo
+## 1. Empréstimo colateralizado para reinvestir e melhorar saúde do empréstimo
 **Colateral:** R$15.000 em BTC
 **LTV:** 40%
 **Dívida:** R$6.000 em USDT ou USDC
@@ -14,7 +14,7 @@ draft: true
 **Dívida:** R$6.000 em USDT ou USDC
 **Queda máxima BTC:** 1 - (0,2857/0,8) = 64,28%
 
-### 2. Empréstimo colateralizado para amortizar empréstimo Nubank
+## 2. Empréstimo colateralizado para amortizar empréstimo Nubank
 **Caixa:** R$15.000 em BTC
 
 > Pega R$15.000 de empréstimo na Nubank.
