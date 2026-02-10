@@ -57,7 +57,7 @@ No rito, apenas uma parte da oferta é queimada no altar, chamada de “porção
 Do ponto de vista estrutural, a minḥah representa algo muito específico: o trabalho humano santificado. Não é uma vida animal, é o fruto da terra e do labor. É o reconhecimento de que aquilo que o homem produz só é legítimo quando devolvido a Deus em forma de culto.
 
 ## 1.3 Sacrifício Pacífico (*Shelem*) $-$ Lv
-O sacrifício pacífico é o mais social e “festivo” de todos. Ele não é primariamente expiatório, mas relacional. O nome hebraico shelem vem da raiz shalom, que significa paz, plenitude, integridade, comunhão.
+O sacrifício pacífico é o mais social e “festivo” de todos. Ele não é primariamente expiatório, mas relacional. O nome hebraico *shelem* vem da raiz *shalom*, que significa paz, plenitude, integridade, comunhão.
 
 Esse sacrifício podia ser oferecido em três modalidades. Como:
 - Ação de graças;
