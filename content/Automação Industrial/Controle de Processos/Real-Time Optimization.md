@@ -17,5 +17,4 @@ O RTO é amplamente utilizado em setores como refinarias de petróleo, indústri
 Em resumo, o RTO é a ferramenta que transforma dados em decisões estratégicas, conectando a operação diária do processo com objetivos de eficiência e lucro. Ele se diferencia do controle clássico por sua visão antecipatória e holística do processo, definindo o melhor caminho de operação enquanto PID e APC garantem que esse caminho seja seguido com estabilidade. Em essência, o RTO é o elo entre a operação operacional e a otimização econômica, fornecendo inteligência estratégica para processos industriais complexos.
 
 ---
-
-	
+# Coluna de Destilação de Petróleo
