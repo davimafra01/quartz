@@ -45,7 +45,13 @@ Resposta: Somente através de uma vida oferecida em substituição, consumida in
 
 Em termos tipológicos (sem entrar ainda em teologia cristã pesada), o holocausto é o sacrifício que mais claramente representa a ideia de entrega total, porque não há partilha, não há retorno, não há benefício humano direto: tudo “sobe” a Deus. É por isso que ele se torna, em Hebreus 10, a principal imagem para falar do sacrifício de Cristo como oferta perfeita e definitiva.
 
-## 1.2 
+## 1.2 Oferta de Manjares
+
+## 1.3 Oferta de Manjares
+
+## 1.4 Oferta de Manjares
+
+## 1.5 Oferta de Manjares
 
 ---
 # 2. Sacerdócio (Lv 8-10)
