@@ -32,20 +32,23 @@ draft: true
 **Dívida AAVE:** R$9.000 em USDT ou USDC
 **Queda máxima BTC:** 1 - (0,3/0,8) = 62,5%
 
+515+545+578+612+648+686+727+770+816+865+917+973
+
 > Amortiza R$9.000 dos R$15.000 do empréstimo.
 > Cálculo das parcelas antecipadas:
 > 		$VP_k$ = $\tfrac{R\$1.429,68}{(1 + 0,0595)^k}$ 
-> 		k = 18 $\rightarrow$ a
-> 		k = 17 $\rightarrow$ a
-> 		k = 16 $\rightarrow$ a
-> 		k = 15 $\rightarrow$ a
-> 		k = 14 $\rightarrow$ a
-> 		k = 13 $\rightarrow$ a
-> 		k = 12 $\rightarrow$ a
-> 		k = 11 $\rightarrow$ a
-> 		k = 10 $\rightarrow$ a
-> 		k = 09 $\rightarrow$ a
-> 		k = 08 $\rightarrow$ a
-> 		k = 07 $\rightarrow$ a
+> 		k = 18 $\rightarrow$ $VP_k$ = R$515
+> 		k = 17 $\rightarrow$ $VP_k$ = R$545
+> 		k = 16 $\rightarrow$ $VP_k$ = R$578
+> 		k = 15 $\rightarrow$ $VP_k$ = R$612
+> 		k = 14 $\rightarrow$ $VP_k$ = R$648
+> 		k = 13 $\rightarrow$ $VP_k$ = R$686
+> 		k = 12 $\rightarrow$ $VP_k$ = R$727
+> 		k = 11 $\rightarrow$ $VP_k$ = R$770
+> 		k = 10 $\rightarrow$ $VP_k$ = R$816
+> 		k = 09 $\rightarrow$ $VP_k$ = R$865
+> 		k = 08 $\rightarrow$ $VP_k$ = R$917
+> 		k = 07 $\rightarrow$ $VP_k$ = R$973
+> 		Total: 
 
 **Colateral:** R$21.000 em BTC
