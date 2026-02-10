@@ -17,11 +17,11 @@ Draft.
 Draft.
 
 ---
-# 5. Sacrifícios (Lv 17-20)
+# 5. Santidade do povo (Lv 17-20)
 Draft.
 
 ---
-# 6. Sacrifícios (Lv 21-22)
+# 6. Santidade do sacerdócio (Lv 21-22)
 Draft.
 
 ---
