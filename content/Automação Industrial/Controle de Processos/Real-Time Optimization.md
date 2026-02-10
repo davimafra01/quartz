@@ -1,3 +1,4 @@
+# Introdução
 A Otimização em Tempo Real, conhecida pela sigla RTO, é uma metodologia avançada dentro do controle e automação industrial, cujo objetivo principal é **determinar continuamente os melhores parâmetros de operação para um processo**, de forma a maximizar eficiência, qualidade ou retorno econômico. Diferentemente do controle clássico, que apenas mantém variáveis em níveis desejados, o RTO atua estrategicamente, analisando o estado atual do processo, prevendo como ele reagirá a diferentes ajustes e sugerindo as condições ideais de operação.
 
 O funcionamento do RTO depende de três elementos integrados:
@@ -14,3 +15,7 @@ A principal vantagem do RTO é sua capacidade de responder às mudanças do ambi
 O RTO é amplamente utilizado em setores como refinarias de petróleo, indústrias químicas, plantas de energia e produção de alimentos. Nessas aplicações, decisões estratégicas, como a proporção ideal de matérias-primas, a temperatura de reação ou a distribuição de fluxos, impactam diretamente no lucro e na eficiência operacional. Ao integrar (i) dados reais, (ii) modelagem e (iii) otimização, o RTO permite que as plantas industriais operem de forma próxima do ponto ótimo, mesmo em condições variáveis e complexas.
 
 Em resumo, o RTO é a ferramenta que transforma dados em decisões estratégicas, conectando a operação diária do processo com objetivos de eficiência e lucro. Ele se diferencia do controle clássico por sua visão antecipatória e holística do processo, definindo o melhor caminho de operação enquanto PID e APC garantem que esse caminho seja seguido com estabilidade. Em essência, o RTO é o elo entre a operação operacional e a otimização econômica, fornecendo inteligência estratégica para processos industriais complexos.
+
+---
+
+	
