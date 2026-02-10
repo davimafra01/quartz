@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 # 1. Sacrifícios (Lv 1-7)
 $$
