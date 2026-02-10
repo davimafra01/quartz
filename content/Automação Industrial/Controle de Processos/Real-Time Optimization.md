@@ -77,7 +77,7 @@ O RTO precisa de um modelo que relacione entradas e saídas. Um modelo clássico
 
 **4 - Lucro por hora (L)**:
 
-L=5,50⋅G+4,00⋅D−0,10⋅EL = 5,50 \cdot G + 4,00 \cdot D - 0,10 \cdot EL=5,50⋅G+4,00⋅D−0,10⋅E
+L = 5,50 \cdot G + 4,00 \cdot D - 0,10 \cdot EL=5,50⋅G+4,00⋅D−0,10⋅E
 
 > Observação: todas as unidades foram simplificadas para facilitar o cálculo.
 
