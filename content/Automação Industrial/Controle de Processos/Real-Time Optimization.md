@@ -70,9 +70,8 @@ O RTO precisa de um modelo que relacione entradas e saídas. Um modelo clássico
 	$D = 300 - 5 \cdot (T_{\text{top}} - 100) + 3 \cdot (R - 200)$
 
 3. **Consumo de vapor (E)**:
-    
-
-E=500+2⋅(Tbase−350)+0,5⋅(R−200)E = 500 + 2 \cdot (T_{\text{base}} - 350) + 0,5 \cdot (R - 200)E=500+2⋅(Tbase​−350)+0,5⋅(R−200)
+=500+2⋅(Tbase−350)+0,5⋅(R−200)
+E = 500 + 2 \cdot (T_{\text{base}} - 350) + 0,5 \cdot (R - 200)
 
 - kWh/h de vapor consumido, usado para custo econômico.
     
