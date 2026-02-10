@@ -106,11 +106,11 @@ Esse é o sacrifício da remoção da culpa objetiva.
 
 ## 1.5 Sacrifício pela Culpa (*’Asham*) $-$ Lv
 O sacrifício pela culpa é parecido com o sacrifício pelo pecado, mas tem um foco diferente: ele trata de pecados que geram dívida concreta. Normalmente envolve:
-profanação de coisas santas;
-fraude;
-roubo;
-mentira,
-dano material ao próximo.
+- Profanação de coisas santas;
+- Fraude;
+- Roubo;
+- Mentira;
+- Dano material ao próximo.
 
 Aqui não basta expiar: é preciso restituir.
 
