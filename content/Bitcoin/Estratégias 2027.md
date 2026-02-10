@@ -33,7 +33,7 @@ draft: true
 **Queda máxima BTC:** 1 - (0,3/0,8) = 62,5%
 
 > Amortiza R$9.000 dos R$15.000 do empréstimo.
-> Dívida Nubank: R$6.000
-> 
+> Cálculo das parcelas antecipadas:
+> 	
 
 **Colateral:** R$21.000 em BTC
