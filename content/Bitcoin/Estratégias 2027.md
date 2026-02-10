@@ -18,9 +18,9 @@ draft: true
 **Caixa:** R$15.000 em BTC
 
 > Pega R$15.000 de empréstimo na Nubank.
-> Dívida Nubank: R$15.000
+> Dívida Nubank (sem juros): R$15.000
 > 18 parcelas fixas de R$1.429,68, com juros de 5,95% ao mês.
-> Valor total a pagar: R$25.734,31
+> Dívida Nubank (cheia): R$25.734,31
 > Juros total: R$10.734,31
 
 **Caixa:** R$30.000 em BTC
@@ -51,11 +51,13 @@ draft: true
 > 		Total real $\approx$ 12 x 1.429,68 = R$17.156,16 $\rightarrow$ Considerando os juros que abati do total.
 >
 > Resta pagar 6 parcelas de R$1.429,68
-> Dívida Nubank: 15.000 - 8.652 = R$6.348
-> Valor total a pagar: 6 x 1.429,68 = R$8.578,08
+> Dívida Nubank (sem juros): 15.000 - 8.652 = R$6.348
+> Dívida Nubank (cheia): 6 x 1.429,68 = R$8.578,08
 > Juros total: 8.578,08 - 6.348 = R$2.230,08
 
 **Colateral:** R$30.000 em BTC
 **LTV:** 28,84%
 **Dívida AAVE:** R$8.652 em USDT ou USDC
 **Queda máxima BTC:** 1 - (0,2884/0,8) = 63,95%
+**Dívida Nubank (cheia):** 6 x 1.429,68 = R$8.578,08
+Dívida Total: 8.652 + 8.578,08 = 
