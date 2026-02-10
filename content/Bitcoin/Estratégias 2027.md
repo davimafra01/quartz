@@ -55,6 +55,6 @@ draft: true
 > Resta pagar 6 parcelas de R$1.429,68
 > Dívida Nubank: 15.000 - 8.652 = R$6.348
 > Valor total a pagar: 6 x 1.429,68 = R$8.578,08
-> Juros total: 8.578,08 - 6.348 = 2230,08
+> Juros total: 8.578,08 - 6.348 = R$2.230,08
 
 **Colateral:** R$21.000 em BTC
