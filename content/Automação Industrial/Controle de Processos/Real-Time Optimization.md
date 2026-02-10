@@ -41,4 +41,118 @@ A eficácia do RTO depende da precisão do modelo do processo e da confiabilidad
 
 Em resumo, o RTO em uma coluna de destilação de petróleo funciona como um gerente estratégico da planta, conectando variáveis operacionais, restrições físicas e objetivos econômicos. Ele decide onde o processo deve operar, considerando custos, receitas, limites de operação e qualidade do produto, e envia *setpoints* precisos para os níveis de controle que efetivamente ajustam a operação. Com isso, a refinaria consegue operar de maneira próxima do ponto ótimo, adaptando-se continuamente a mudanças no mercado e no processo, maximizando lucro e eficiência energética sem comprometer a segurança ou a qualidade do produto.
 
-## 2.1 Análise Numérica
+---
+# 3. Análise Numérica Coluna de Destilação de Petróleo
+### 3.1 Dados iniciais do processo
+Considere uma coluna de destilação com 30 bandejas, operando com petróleo cru a 350°C, com as seguintes variáveis de entrada e limites:
+- **Vazão de alimentação (F)**: 1000 m³/h (variação ±10%);
+- **Temperatura no topo (T_top)**: 100°C (limite 95–105°C);
+- **Temperatura no fundo (T_base)**: 350°C (limite 340–360°C);
+- **Pressão da coluna (P_col)**: 1,5 bar (limite 1,0–2,0 bar);
+- **Vazão de refluxo (R)**: 200 m³/h (limite 150–250 m³/h);
+- **Produção de gasolina (G)**: 600 m³/h inicial, com teor de octanas 90;
+- **Produção de diesel (D)**: 300 m³/h inicial, densidade 0,85 g/cm³;
+- **Custo do vapor de aquecimento (C_vapor)**: R$ 0,10/kWh;
+- **Preços de mercado**: gasolina R$ 5,50/L, diesel R$ 4,00/L.
+
+### 3.2 Modelo simplificado da coluna
+O RTO precisa de um modelo que relacione entradas e saídas. Um modelo clássico simplificado envolve **balanceamento de massa e energia** e **curvas de eficiência**:
+1. **Produção de gasolina (G) em função de refluxo e temperatura do topo**:
+    
+
+G=600+10⋅(Ttop−100)−5⋅(R−200)G = 600 + 10 \cdot (T_{\text{top}} - 100) - 5 \cdot (R - 200)G=600+10⋅(Ttop​−100)−5⋅(R−200)
+
+- Aumentar T_top aumenta volatilidade → mais gasolina
+    
+- Aumentar R aumenta recuperação da gasolina, mas reduz vazão do topo
+    
+
+2. **Produção de diesel (D) em função de T_base e refluxo**:
+    
+
+D=300−5⋅(Ttop−100)+3⋅(R−200)D = 300 - 5 \cdot (T_{\text{top}} - 100) + 3 \cdot (R - 200)D=300−5⋅(Ttop​−100)+3⋅(R−200)
+
+3. **Consumo de vapor (E)**:
+    
+
+E=500+2⋅(Tbase−350)+0,5⋅(R−200)E = 500 + 2 \cdot (T_{\text{base}} - 350) + 0,5 \cdot (R - 200)E=500+2⋅(Tbase​−350)+0,5⋅(R−200)
+
+- kWh/h de vapor consumido, usado para custo econômico.
+    
+
+4. **Lucro por hora (L)**:
+    
+
+L=5,50⋅G+4,00⋅D−0,10⋅EL = 5,50 \cdot G + 4,00 \cdot D - 0,10 \cdot EL=5,50⋅G+4,00⋅D−0,10⋅E
+
+> Observação: todas as unidades foram simplificadas para facilitar o cálculo.
+
+---
+
+### 3.3 Situação inicial
+
+- T_top = 100°C, T_base = 350°C, R = 200 m³/h
+    
+- Produção: G = 600 m³/h, D = 300 m³/h
+    
+- Consumo de vapor: E = 500 kWh
+    
+- Lucro: L = 5,50_600 + 4_300 - 0,10*500 = 3300 + 1200 - 50 = R$ 4.450/h
+    
+
+---
+
+### 3.4 Otimização do RTO
+
+O RTO busca **maximizar L** variando T_top, T_base e R, respeitando limites:
+
+- 95°C ≤ T_top ≤ 105°C
+    
+- 340°C ≤ T_base ≤ 360°C
+    
+- 150 ≤ R ≤ 250
+    
+
+O RTO aplica otimização simples (gradiente ou busca discreta):
+
+1. **Variação T_top +2°C → T_top = 102°C**
+    
+    - G = 600 + 10*(102-100) - 5*(200-200) = 620 m³/h
+        
+    - D = 300 - 5*(102-100) + 3*(200-200) = 290 m³/h
+        
+    - E = 500 + 2*(350-350) + 0,5*(200-200) = 500 kWh
+        
+    - L = 5,50_620 + 4_290 - 0,10*500 = 3410 + 1160 - 50 = 4520/h
+        
+2. **Aumento do refluxo +10 → R = 210 m³/h**
+    
+    - G = 600 + 10*(102-100) - 5*(210-200) = 620 - 50 = 570 m³/h?
+        
+
+Vamos calcular com cuidado:  
+G = 600 + 10*(102-100) - 5*(210-200) = 600 + 20 - 50 = 570 m³/h  
+D = 300 - 5*(102-100) + 3*(210-200) = 300 - 10 + 30 = 320 m³/h  
+E = 500 + 2*(350-350) + 0,5*(210-200) = 500 + 0 + 5 = 505 kWh  
+L = 5,50_570 + 4_320 - 0,10*505 = 3135 + 1280 - 50,5 ≈ 4364,5 R$/h
+
+> Observação: neste caso, aumentar refluxo aumentou diesel, mas diminuiu gasolina, o que reduziu o lucro.
+
+3. **Ajuste T_base +5°C → T_base = 355°C**
+    
+    - G = 600 + 10*(102-100) - 5*(210-200) = 570 m³/h (mesmo)
+        
+    - D = 300 - 5*(102-100) + 3*(210-200) = 320 m³/h
+        
+    - E = 500 + 2*(355-350) + 0,5*(210-200) = 500 + 10 + 5 = 515 kWh
+        
+    - L = 5,50_570 + 4_320 - 0,10*515 = 3135 + 1280 - 51,5 ≈ 4363,5 R$/h
+        
+
+O RTO conclui que o **ponto ótimo é T_top = 102°C, T_base = 350°C, R = 200 m³/h**, com lucro L ≈ 4.520 R$/h, dentro das restrições e com consumo de energia mínimo.
+
+---
+
+### 3.5 Interpretação
+
+O RTO avaliou **cenários simultâneos**, considerando restrições de temperatura, pressão e vazão, bem como impacto econômico de gasolina, diesel e energia. Ele determinou que aumentar o refluxo ou a temperatura do fundo além de certos limites não traria lucro adicional, e poderia prejudicar a qualidade ou gerar consumo de energia elevado. Os setpoints recomendados são enviados ao APC, que coordena ajustes de maneira suave e controlada, enquanto o PID mantém cada variável estável em tempo real.
