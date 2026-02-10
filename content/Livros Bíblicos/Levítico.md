@@ -79,7 +79,32 @@ Há regras de tempo: a carne deve ser comida no mesmo dia (ou até o segundo, de
 Teologicamente, esse sacrifício expressa algo único: comunhão restaurada. Não é só perdão, é convivência. Deus “come” a gordura (pelo fogo), o sacerdote come sua parte, e o ofertante come diante do Senhor. É o sacrifício da mesa.
 
 ## 1.4 Sacrifício pelo Pecado (*Ḥaṭṭat*) $-$ Lv
+Esse é o sacrifício propriamente expiatório no sentido jurídico. Ele é oferecido quando alguém peca involuntariamente (por ignorância, erro ou negligência).
 
+O tipo de animal varia conforme a posição social do pecador:
+- Sumo sacerdote → novilho;
+- Congregação inteira → novilho;
+Príncipe → bode macho;
+Pessoa comum → cabra ou cordeira;
+Pessoa pobre → aves ou farinha (Lv 5).
+
+Quanto maior a responsabilidade, maior a gravidade do sacrifício. Isso é teologia pura: culpa é proporcional à autoridade.
+
+O sangue aqui tem papel central. Em casos graves (sumo sacerdote ou assembleia), o sangue é levado para dentro do santuário, aspergido diante do véu e aplicado nos chifres do altar do incenso (Lv 4:6–7). Em casos menores, o sangue é aplicado apenas no altar exterior.
+
+A gordura é sempre queimada no altar, como nos outros sacrifícios. A carne, porém, tem duas possibilidades:
+
+Se o sangue foi levado para dentro do santuário → a carne é queimada fora do arraial (Lv 4:12, 21).
+
+Se não → a carne é comida pelos sacerdotes em lugar santo (Lv 6:26).
+
+O princípio é claro: quanto mais o sangue se aproxima de Deus, menos o homem pode tocar na carne.
+
+O objetivo explícito do sacrifício é repetido várias vezes:
+
+“assim o sacerdote fará expiação por ele, e lhe será perdoado” (Lv 4:20, 26, 31, 35).
+
+Esse é o sacrifício da remoção da culpa objetiva.
 
 ## 1.5 Sacrifício pela Culpa (*’Asham*) $-$ Lv
 
