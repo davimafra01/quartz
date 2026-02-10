@@ -60,7 +60,9 @@ O RTO precisa de um modelo que relacione entradas e saídas. Um modelo clássico
 
 '1. **Produção de gasolina (G) em função de refluxo e temperatura do topo**: 
 
-$G=600+10⋅(Ttop−100)−5⋅(R−200)G = 600 + 10 \cdot (T_{\text{top}} - 100) - 5 \cdot (R - 200)G=600+10⋅(Ttop​−100)−5⋅(R−200)$
+$G=600+10⋅(Ttop−100)−5⋅(R−200)$
+
+G = 600 + 10 \cdot (T_{\text{top}} - 100) - 5 \cdot (R - 200)G=600+10⋅(Ttop​−100)−5⋅(R−200)$
 
 - Aumentar T_top aumenta volatilidade → mais gasolina
     
