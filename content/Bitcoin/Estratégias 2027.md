@@ -32,7 +32,7 @@ draft: true
 **Dívida AAVE:** R$8.652 em USDT ou USDC
 **Queda máxima BTC:** 1 - (0,2884/0,8) = 63,95%
 
-> Amortiza R$9.000 dos R$15.000 do empréstimo.
+> Amortiza R$9.000 dos R$15.000 do empréstimo no mesmo dia em que ele foi feito.
 > Cálculo das parcelas antecipadas:
 > 		$VP_k$ = $\tfrac{R\$1.429,68}{(1 + 0,0595)^k}$ 
 > 		k = 18 $\rightarrow$ $VP_k$ $\approx$ R$515
