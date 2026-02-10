@@ -49,6 +49,6 @@ draft: true
 > 		k = 09 $\rightarrow$ $VP_k$ = R$865
 > 		k = 08 $\rightarrow$ $VP_k$ = R$917
 > 		k = 07 $\rightarrow$ $VP_k$ = R$973
-> 		Total: $aprox$  
+> 		Total: $\approx$ 
 
 **Colateral:** R$21.000 em BTC
