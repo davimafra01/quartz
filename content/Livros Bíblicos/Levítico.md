@@ -19,7 +19,7 @@ $$
 \hline
 \end{array}
 $$
-## 1.1 Holocausto (‘Olah) — Lv 1; Lv 6:8-13
+## 1.1 Holocausto (‘Olah) $-$ Lv 1; Lv 6:8-13
 
 
 ---
