@@ -66,9 +66,8 @@ O RTO precisa de um modelo que relacione entradas e saídas. Um modelo clássico
 - Aumentar R aumenta recuperação da gasolina, mas reduz vazão do topo
 
 2. **Produção de diesel (D) em função de T_base e refluxo**:
-D=300−5⋅(Ttop−100)+3⋅(R−200)
-$D = 300 - 5 \cdot (T_{\text{top}} - 100) + 3 \cdot (R - 200)
-D=300−5⋅(Ttop​−100)+3⋅(R−200)
+
+	$D = 300 - 5 \cdot (T_{\text{top}} - 100) + 3 \cdot (R - 200)$
 
 3. **Consumo de vapor (E)**:
     
