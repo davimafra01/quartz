@@ -104,7 +104,7 @@ O objetivo explícito do sacrifício é repetido várias vezes:
 
 Esse é o sacrifício da remoção da culpa objetiva.
 
-## 1.5 Sacrifício pela Culpa (*’Asham*) $-$ Lv
+## 1.5 Sacrifício pela Culpa (*’Asham*) $-$ Lv 5:14–6:7; 7:1–10
 O sacrifício pela culpa é parecido com o sacrifício pelo pecado, mas tem um foco diferente: ele trata de pecados que geram dívida concreta. Normalmente envolve:
 - Profanação de coisas santas;
 - Fraude;
