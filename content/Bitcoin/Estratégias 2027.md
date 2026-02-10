@@ -35,6 +35,17 @@ draft: true
 > Amortiza R$9.000 dos R$15.000 do empréstimo.
 > Cálculo das parcelas antecipadas:
 > 		$VP_k$ = $\tfrac{R\$1.429,68}{(1 + 0,0595)^k}$ 
-> 		
+> 		k = 18 $\rightarrow$ a
+> 		k = 17 $\rightarrow$ a
+> 		k = 16 $\rightarrow$ a
+> 		k = 15 $\rightarrow$ a
+> 		k = 14 $\rightarrow$ a
+> 		k = 13 $\rightarrow$ a
+> 		k = 12 $\rightarrow$ a
+> 		k = 11 $\rightarrow$ a
+> 		k = 10 $\rightarrow$ a
+> 		k = 09 $\rightarrow$ a
+> 		k = 08 $\rightarrow$ a
+> 		k = 07 $\rightarrow$ a
 
 **Colateral:** R$21.000 em BTC
