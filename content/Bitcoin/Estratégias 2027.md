@@ -53,7 +53,11 @@ draft: true
 >
 > Resta pagar 6 parcelas de R$1.429,68
 > Dívida Nubank: 6 x 1.429,68 = R$8.578,08
-> Valor total a pagar: 25.734,31
+> Valor total a pagar:
+> 	12 x 1.429,68 = R$17.156,16 $\rightarrow$ É o que, considerando os juros previstos, paguei com os 9k.
+> 	25.734,31 - 17.156,16 = 
+
+12×1429,68=17.156,16
 > 
 
 **Colateral:** R$21.000 em BTC
