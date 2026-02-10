@@ -49,9 +49,9 @@ Em termos tipológicos (sem entrar ainda em teologia cristã pesada), o holocaus
 
 ## 1.3 Sacrifício Pacífico
 
-## 1.4 Oferta de Manjares
+## 1.4 Sacrifício pelo Pecado
 
-## 1.5 Oferta de Manjares
+## 1.5 Sacrifício pela Culpa
 
 ---
 # 2. Sacerdócio (Lv 8-10)
