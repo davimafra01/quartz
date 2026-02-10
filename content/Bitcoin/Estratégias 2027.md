@@ -55,4 +55,7 @@ draft: true
 > Valor total a pagar: 6 x 1.429,68 = R$8.578,08
 > Juros total: 8.578,08 - 6.348 = R$2.230,08
 
-**Colateral:** R$21.000 em BTC
+**Colateral:** R$30.000 em BTC
+**LTV:** 28,84%
+**Dívida AAVE:** R$8.652 em USDT ou USDC
+**Queda máxima BTC:** 1 - (0,2884/0,8) = 63,95%
