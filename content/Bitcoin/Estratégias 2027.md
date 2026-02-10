@@ -51,6 +51,8 @@ draft: true
 > 		k = 07 $\rightarrow$ $VP_k$ = R$973
 > 		Total $\approx$ R$8.652
 >
-> Resta pagar: 
+> Resta pagar 6 parcelas de R$1.429,68
+> Dívida Nubank: R$8.578,08
+> 
 
 **Colateral:** R$21.000 em BTC
