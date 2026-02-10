@@ -84,9 +84,9 @@ Esse é o sacrifício propriamente expiatório no sentido jurídico. Ele é ofer
 O tipo de animal varia conforme a posição social do pecador:
 - Sumo sacerdote → novilho;
 - Congregação inteira → novilho;
-Príncipe → bode macho;
-Pessoa comum → cabra ou cordeira;
-Pessoa pobre → aves ou farinha (Lv 5).
+- Príncipe → bode macho;
+- Pessoa comum → cabra ou cordeira;
+- Pessoa pobre → aves ou farinha (Lv 5).
 
 Quanto maior a responsabilidade, maior a gravidade do sacrifício. Isso é teologia pura: culpa é proporcional à autoridade.
 
