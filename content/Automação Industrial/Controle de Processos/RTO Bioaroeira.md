@@ -167,7 +167,7 @@ Do Plano de Produção:
 - restrições de campanha;
 - prioridades estratégicas.
 
-Do modelo:
+Dos modelos:
 - quanto cada decisão afeta produção;
 - quanto consome energia;
 - quanto gera perdas.
