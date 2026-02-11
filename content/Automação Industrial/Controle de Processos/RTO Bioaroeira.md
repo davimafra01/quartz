@@ -120,9 +120,12 @@ Em síntese, os ativos digitais novos são:
 - Função de custo;
 - Dashboards interativos de visualização e acompanhamento.
 
-Entraremos em mais detalhes sobre cada um desses ativos da "seção 4" em diante.
+Entraremos em mais detalhes sobre cada um desses ativos da "seção 4" em diante. Por agora, vamos apenas falar um pouco de cada um desses ativos.
 
-O RTO não otimiza temperatura, pressão ou vazão. Ele otimiza **resultados de negócio**, usando variáveis físicas como meio. Antes de entrarmos em detalhes, é importante entender o seguinte:
+É importante entender o seguinte:
+
+O **RTO** não otimiza temperatura, pressão ou vazão.
+> Ele otimiza **resultados de negócio**, usando variáveis físicas como meio.
 
 Os **MODELOS MATEMÁTICOS DO PROCESSO** respondem à pergunta:
 > "Se eu mexer nisso, o que acontece fisicamente?"
