@@ -93,7 +93,7 @@ Ativos:
 
 ### 2.4 Elementos Globais
 Dados globais:
-- Plano de produção (metas estratégicas).
+- Plano de Produção (metas estratégicas).
 
 KPIs globais*:
 - Rendimento industrial;
@@ -102,7 +102,7 @@ KPIs globais*:
 - Eficiência térmica global;
 - Entre outros KPIs a serem definidos em tempo de execução ou em fase de detalhamento.
 
-* Prova
+\* Os KPIs globais são, provavelmente, derivadas dos dados presentes no Plano de Produção, que podem ser coisas como: preços de venda; custos de energia; custos de insumos; penalidades contratuais; metas estratégicas e etc. Importante destacar que, no projeto, não temos informações sobre o que compõe o Plano de Produção, o que significa que esses dados citados são apenas para fins de exemplo.
 
 ---
 # 3. Dados, KPIs e Ativos que serão gerados (TO-BE)
