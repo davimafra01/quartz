@@ -96,7 +96,8 @@ KPIs globais derivadas do Plano de Produção:
 - Rendimento industrial;
 - Consumo energético global;
 - Perdas alcoólicas globais;
-- Eficiência térmica global.
+- Eficiência térmica global;
+- Dentre outros.
 
 ---
 # 3. Dados, KPIs e Ativos que serão gerados (TO-BE)
