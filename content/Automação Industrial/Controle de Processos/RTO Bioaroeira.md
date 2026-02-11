@@ -76,28 +76,15 @@ KPIs da cogeração
 - Consumo específico de bagaço
 - Exportação de energia
 - Estabilidade de pressão do vapor
-    
 - Estabilidade de temperatura do vapor
-    
 - Energia gerada por tonelada de bagaço
-    
 
----
-
-## Ativos da cogeração
-
+Ativos da cogeração
 - Caldeiras
-    
 - Turbogeradores
-    
 - Sistemas de alimentação de bagaço
-    
 - Exaustores
-    
 - Sistemas de lavagem de gases  
-    
-    RTO
-    
 
 ---
 
