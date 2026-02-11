@@ -129,32 +129,33 @@ O RTO avaliou **cenários simultâneos**, considerando restrições de temperatu
 # 4. O fluxo profissional real de um engenheiro de RTO
 
 O trabalho real é mais assim:
-1. Entender profundamente o processo físico.
+**1 - Entender profundamente o processo físico.**
 
-2. Criar modelo matemático:
-    - balanço de massa
-    - balanço de energia
-    - equações empíricas
+**2 - Criar modelo matemático:**
+   - balanço de massa;
+   - balanço de energia;
+   - equações empíricas.
 
-3. Definir função objetivo:
-    - lucro
-    - custo energético
-    - rendimento
+**3 - Definir função objetivo:**
+   - lucro;
+   - custo energético;
+   - rendimento.
 
-4. Definir restrições:
-    - segurança
-    - qualidade
-    - capacidade
+**4 - Definir restrições:**
+   - segurança;
+   - qualidade;
+   - capacidade
 
-5. Validar com dados históricos.
+**5 - Validar com dados históricos.**
 
-6. Implementar em plataforma industrial com softwares industriais de RTO, como:
-	- Aspen PIMS / Aspen RTO
-	- Honeywell RTO
-	- Emerson DeltaV Predict / RTO
-	- Siemens APC/RTO
-	- AVEVA (Schneider) RTO
+**6 - Implementar em plataforma industrial com softwares industriais de RTO, como:**
+- Aspen PIMS / Aspen RTO
+- Honeywell RTO
+- Emerson DeltaV Predict / RTO
+- Siemens APC/RTO
+- AVEVA (Schneider) RTO
 
-7. Monitorar performance econômica.
+**7 - Monitorar performance econômica.**
 
 Ou seja: **90% do trabalho é engenharia, não programação.**
+
