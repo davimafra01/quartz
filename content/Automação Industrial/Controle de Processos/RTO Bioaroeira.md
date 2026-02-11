@@ -177,6 +177,18 @@ Do CAR:
 - quais decisões são inviáveis;
 - quais penalidades aplicar.
 
+A Função de Custo combina todas essas informações para calcular um **valor econômico global**, normalmente expresso como uma função de lucro, margem ou custo total da operação.
+
+Em termos formais, a Função de Custo é uma função escalar do tipo:
+
+$J(x)=Receita(x)−Custos(x)−Perdas(x)−Penalidades(x)J(x) = \text{Receita}(x) - \text{Custos}(x) - \text{Perdas}(x) - \text{Penalidades}(x)J(x)=Receita(x)−Custos(x)−Perdas(x)−Penalidades(x)$
+
+Esse valor J(x)J(x)J(x) representa, matematicamente, **o quão boa é uma determinada configuração operacional do ponto de vista do negócio**.
+
+O papel do RTO é encontrar o vetor de decisões x\*x^\*x\* que maximiza (ou minimiza) essa função, respeitando os modelos e as restrições físicas do processo.
+
+
+
 Ou seja: a Função de Custo não recebe dados operacionais e laboratoriais diretamente. Ela recebe as funções dos modelos (que, por sua vez, relacionam as variáveis físicas ao desempenho econômico do processo), vide exemplo da coluna de destilação de petróleo.
 
 A função de custo não “vê” coisas como:
