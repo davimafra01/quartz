@@ -103,7 +103,7 @@ KPIs globais (provavelmente derivadas do Plano de Produção):
 # 3. Dados, KPIs e Ativos que serão gerados (TO-BE)
 
 ### 3.1 Ativos digitais
-O principal ativo entregue pelo projeto é a **camada de RTO**, que passa a existir como um sistema digital sobreposto à automação existente. Esse RTO não é um controlador no sentido clássico, mas sim um sistema de otimização matemática e econômica que opera continuamente sobre modelos do processo e sobre dados históricos e em tempo real.
+O principal ativo entregue pelo projeto é a **(i) camada de RTO**, que passa a existir como um sistema digital sobreposto à automação existente. Esse RTO não é um controlador no sentido clássico, mas sim um sistema de otimização matemática e econômica que opera continuamente sobre modelos do processo e sobre dados históricos e em tempo real.
 
 Além do próprio RTO, o projeto entrega um conjunto de ativos digitais estruturantes, que compõem a arquitetura de inteligência operacional da planta. Entre eles estão os **modelos matemáticos do processo**, que representam formalmente a relação entre variáveis operacionais, restrições físicas e desempenho produtivo e energético. Esses modelos são utilizados tanto para simulação quanto para otimização.
 
