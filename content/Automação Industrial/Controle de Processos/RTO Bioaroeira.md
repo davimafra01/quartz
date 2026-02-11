@@ -39,20 +39,12 @@ Dados operacionais
 - Dados de processo da destilação
 - Variáveis manipuladas e controladas da destilação
 - Setpoints da destilação
-    
 - Dados via PIMS
-    
 - Dados via CLP / PLC
-    
 
-### Dados laboratoriais
-
+Dados laboratoriais
 - Concentração do etanol
-    
-- Pureza do etanol  
-    
-    RTO
-    
+- Pureza do etanol
 
 ---
 
