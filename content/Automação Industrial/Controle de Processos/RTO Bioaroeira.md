@@ -159,7 +159,8 @@ A **FUNÇÃO DE CUSTO** é outra coisa.
 >O importante não é o nome contábil. O importante é isto:
 >Ela sempre retorna um único número que representa “quão boa é a operação para o negócio”.
 
-A 
+A Função de Lucro recebe dados:
+
 Do ERP e da Gestão Econômica:
 - preços de venda;
 - custos de energia;
