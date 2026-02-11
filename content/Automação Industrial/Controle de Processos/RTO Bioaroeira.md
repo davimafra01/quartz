@@ -93,7 +93,7 @@ Ativos:
 
 ### 2.4 Elementos Globais
 Dados globais:
-- Plano de Produção* (metas estratégicas).
+- Plano de Produção* (metas operacionais e estratégicas de produção).
 
 KPIs globais:
 - Rendimento industrial;
