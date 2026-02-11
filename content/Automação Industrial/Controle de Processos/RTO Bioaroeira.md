@@ -191,7 +191,12 @@ Esse valor $J(x)$ representa, matematicamente, **o quão boa é uma determinada 
 
 O papel do RTO é encontrar o vetor de decisões $x$ que maximiza (ou minimiza) essa função, respeitando os modelos e as restrições físicas do processo.
 
+Ela calcula um índice econômico global da operação, que pode ser lucro, custo total, margem ou valor econômico agregado.
 
+O importante não é o nome contábil.  
+O importante é isto:
+
+Ela sempre retorna um único número que representa “quão boa é a operação para o negócio”.
 
 Ou seja: a Função de Custo não recebe dados operacionais e laboratoriais diretamente. Ela recebe as funções dos modelos (que, por sua vez, relacionam as variáveis físicas ao desempenho econômico do processo), vide exemplo da coluna de destilação de petróleo.
 
