@@ -67,18 +67,11 @@ Dados operacionais
 - Setpoints da cogeração
 - Dados via PIMS
 - Dados via CLP / PLC
-- 
+
 Dados inferidos (soft sensors)
-
 - Umidade do bagaço  
-    
-    RTO
-    
 
----
-
-## KPIs da cogeração
-
+KPIs da cogeração
 - Eficiência térmica
     
 - Consumo específico de bagaço
