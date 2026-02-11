@@ -117,7 +117,7 @@ Em síntese, os ativos digitais novos são:
 - Módulo CAR (identificador de gargalos);
 - Dashboards interativos de visualização e acompanhamento.
 
-## 3.2 Dados (gerados pelo RTO)
+## 3.2 Dados digitais (gerados pelo RTO)
 O projeto não cria novos sensores físicos, mas cria uma **nova classe de dados digitais**, que não existiam antes: dados calculados, inferidos e otimizados.
 
 A primeira grande categoria são os **soft sensors**, isto é, variáveis que não são medidas diretamente, mas estimadas por modelos matemáticos a partir de dados existentes. Esses soft sensors passam a fornecer estimativas contínuas de grandezas relevantes para a otimização, como estados internos do processo, eficiências implícitas, perdas não diretamente mensuráveis, entre outros.
@@ -128,22 +128,14 @@ A terceira categoria são os **outputs do otimizador**, que são, de fato, os da
 
 Ou seja, o RTO transforma dados operacionais brutos em **dados de alto nível cognitivo**, que não existiam no AS-IS.
 
----
-
 ## 3.3 Novos KPIs
-
 O projeto não define formalmente um novo conjunto fechado de KPIs com nomes específicos além dos já existentes, mas ele muda qualitativamente a natureza dos KPIs ao introduzir **KPIs econômicos e de otimização**.
 
 A partir do RTO passam a existir indicadores como:
-
 - Valor da função de custo global;
-    
 - Ganho econômico estimado em relação à operação atual;
-    
 - Desvio em relação ao ponto ótimo;
-    
 - Utilização de gargalos;
-    
 - Potencial econômico não explorado.
     
 
