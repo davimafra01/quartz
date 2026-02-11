@@ -46,13 +46,13 @@ Dados laboratoriais:
 - Concentração do etanol
 - Pureza do etanol
 
-KPIs
+KPIs:
 - Pureza do etanol
 - Eficiência térmica
 - Perdas alcoólicas
 - Consumo energético
 
-Ativos
+Ativos:
 - Coluna de destilação
 - Trocadores de calor
 - Bombas
@@ -61,17 +61,17 @@ Ativos
 
 ### 2.3 Cogeração
 
-Dados operacionais
+Dados operacionais:
 - Dados de processo da cogeração
 - Variáveis manipuladas e controladas da cogeração
 - Setpoints da cogeração
 - Dados via PIMS
 - Dados via CLP / PLC
 
-Dados inferidos (soft sensors)
+Dados inferidos (soft sensors):
 - Umidade do bagaço  
 
-KPIs
+KPIs:
 - Eficiência térmica
 - Consumo específico de bagaço
 - Exportação de energia
@@ -79,7 +79,7 @@ KPIs
 - Estabilidade de temperatura do vapor
 - Energia gerada por tonelada de bagaço
 
-Ativos
+Ativos:
 - Caldeiras
 - Turbogeradores
 - Sistemas de alimentação de bagaço
@@ -88,7 +88,7 @@ Ativos
 
 ### 2.4 Elementos Globais
 
-Dados globais
+Dados globais:
 - Plano de produção.
 
 KPIs globais
