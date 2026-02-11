@@ -104,7 +104,7 @@ KPIs globais:
 # 3. Dados, KPIs e Ativos que serão gerados (TO-BE)
 
 DRAFT
-# 4. ABC
+# 4. Composição do RTO da Bioaroeira
 
 Esses indicadores não são apenas físicos. Eles são **KPIs industriais e econômicos**, como:
 - rendimento de extração na moagem;
