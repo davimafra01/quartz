@@ -89,26 +89,14 @@ Ativos da cogeração
 ### 2.4 Elementos Globais
 
 Dados globais
-
 - Plano de produção
-    
 - Dados laboratoriais consolidados (LIMS)
-    
 - Dados históricos e tempo real (PIMS)  
-    
-    RTO
-    
 
----
-
-## KPIs globais (explicitamente tratados como globais)
-
+KPIs globais
 - Rendimento industrial
-    
 - Consumo energético global
-    
 - Perdas alcoólicas globais
-    
 - Eficiência térmica global  
     
     RTO
