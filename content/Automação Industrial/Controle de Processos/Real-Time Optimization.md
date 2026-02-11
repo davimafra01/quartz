@@ -148,7 +148,16 @@ O trabalho real é mais assim:
 
 5. Validar com dados históricos.
 
-6. Implementar em plataforma industrial.
+6. Implementar em plataforma industrial com softwares industriais de RTO, como:
+Aspen PIMS / Aspen RTO
+
+Honeywell RTO
+
+Emerson DeltaV Predict / RTO
+
+Siemens APC/RTO
+
+AVEVA (Schneider) RTO
 
 7. Monitorar performance econômica.
 
