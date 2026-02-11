@@ -120,6 +120,51 @@ Em síntese, os ativos digitais novos são:
 - Módulo CAR (identificador de gargalos);
 - Dashboards interativos de visualização e acompanhamento.
 
+O RTO não otimiza temperatura, pressão ou vazão. Ele otimiza **resultados de negócio**, usando variáveis físicas como meio.
+
+Antes de entrarmos em detalhes, é importante entender o seguinte:
+
+Os **MODELOS** respondem à pergunta:
+> "Se eu mexer nisso, o que acontece fisicamente?"
+
+O **IDENTIFICADOR DE GARGALOS** responde à pergunta:
+> "O que está limitando o desempenho agora?"
+
+A **FUNÇÃO DE CUSTO** é outra coisa. Ela não quer saber “como funciona”. Ela quer saber o que é bom e o que é ruim. Ela recebe:
+
+Do plano produtivo:
+- preços de venda;
+- custos de energia;
+- custos de insumos;
+- penalidades contratuais;
+- metas estratégicas.
+
+Do modelo:
+- quanto cada decisão afeta produção;
+- quanto consome energia;
+- quanto gera perdas.
+
+Do CAR:
+- quais restrições estão ativas;
+- quais decisões são inviáveis;
+- quais penalidades aplicar.
+
+A função de custo não recebe dados operacionais e laboratoriais diretamente. Ela recebe as funções dos modelos (que, por sua vez, estão em função dos dados operacionais e laboratoriais). Vide exemplo da coluna de destilação de petróleo.
+
+> A função de custo não consome dados brutos. Ela consome _variáveis modeladas_ derivadas dos dados.
+
+A função de custo não “vê” coisas como:
+- temperatura medida no sensor T-101;
+- vazão instantânea da FT-203;
+- composição medida no laboratório.
+
+Ela vê coisas como:
+- taxa de produção estimada;
+- consumo energético previsto;
+- rendimento calculado;
+- perdas modeladas;
+- eficiência global do sistema.
+
 ### 3.2 Dados digitais (gerados pelo RTO)
 O projeto não cria novos sensores físicos, mas cria uma **nova classe de dados digitais**, que não existiam antes: dados calculados, inferidos e otimizados.
 
