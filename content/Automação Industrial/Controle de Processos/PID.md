@@ -5,18 +5,13 @@ Na prática industrial, o PID é o mecanismo responsável por **garantir que uma
 
 Matematicamente, o PID é um controlador de **realimentação (feedback)** que gera um sinal de controle a partir da combinação de três ações sobre o erro:
 
-- A ação proporcional reage instantaneamente ao erro atual.
-    
+- A ação proporcional reage instantaneamente ao erro atual;
 - A ação integral reage ao erro acumulado ao longo do tempo.
-    
 - A ação derivativa reage à tendência futura do erro (sua taxa de variação).
-    
 
 Mas o ponto essencial não é a fórmula — é o **significado físico** dessas três ações no comportamento dinâmico do processo.
 
----
-
-### O papel físico do PID em um processo real
+### 1.1 O papel físico do PID em um processo real
 
 Todo processo industrial tem dinâmica. Isso significa que ele **não responde instantaneamente** a uma ação de controle. Existe inércia térmica, volumes de acumulação, atrasos de transporte, tempos mortos, capacitâncias, resistências físicas, reações químicas lentas, etc.
 
