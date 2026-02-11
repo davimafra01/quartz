@@ -92,7 +92,7 @@ Ativos:
 Dados globais:
 - Plano de produção (metas estratégicas).
 
-KPIs globais derivadas do Plano de Produção:
+KPIs globais (provavelmente derivadas do Plano de Produção):
 - Rendimento industrial;
 - Consumo energético global;
 - Perdas alcoólicas globais;
