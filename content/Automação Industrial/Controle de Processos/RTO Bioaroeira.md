@@ -93,13 +93,20 @@ Ativos:
 
 ### 2.4 Elementos Globais
 Dados globais:
-- Plano de Produção (metas estratégicas).
+- Plano de Produção* (metas estratégicas).
 
 KPIs globais:
 - Rendimento industrial;
 - Consumo energético;
 - Perdas alcoólicas;
 - Eficiência térmica.
+
+\* No contexto industrial real (MES/ERP), o **Plano de Produção** é algo como:
+- quanto produzir;
+- de qual produto;
+- em qual horizonte de tempo;
+- com quais restrições de campanha;
+- com quais prioridades.
 
 ---
 # 3. TO-BE: Dados, KPIs e Ativos que serão gerados
