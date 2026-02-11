@@ -105,14 +105,14 @@ KPIs globais:
 	No contexto industrial real (MES/ERP), o **Plano de Produção** é algo como:
 		- quanto produzir;
 		- de qual produto;
-	- em qual horizonte de tempo;
-	- com quais restrições de campanha;
-	- com quais prioridades.
+		- em qual horizonte de tempo;
+		- com quais restrições de campanha;
+		- com quais prioridades.
 	Esses, por sua vez, vem de:
-	- ERP;
-	- sistemas financeiros;
-	- engenharia econômica;
-	- contratos.
+		- ERP;
+		- sistemas financeiros;
+		- engenharia econômica;
+		- contratos.
 
 ---
 # 3. TO-BE: Dados, KPIs e Ativos que serão gerados
