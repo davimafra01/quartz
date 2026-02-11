@@ -102,7 +102,7 @@ KPIs globais:
 - Eficiência térmica.
 
 ---
-# 3. TO-BE: Dados, KPIs e Ativos que serão gerados (TO-BE)
+# 3. TO-BE: Dados, KPIs e Ativos que serão gerados
 
 ### 3.1 Ativos digitais
 O principal ativo entregue pelo projeto é a **(i) camada de RTO**, que passa a existir como um sistema digital sobreposto à automação existente. Esse RTO não é um controlador no sentido clássico, mas sim um sistema de otimização matemática e econômica que opera continuamente sobre modelos do processo e sobre dados históricos e em tempo real.
