@@ -126,3 +126,42 @@ O RTO conclui que o **ponto ótimo é T_top = 102°C, T_base = 350°C, R = 200 m
 ### 3.5 Interpretação
 
 O RTO avaliou **cenários simultâneos**, considerando restrições de temperatura, pressão e vazão, bem como impacto econômico de gasolina, diesel e energia. Ele determinou que aumentar o refluxo ou a temperatura do fundo além de certos limites não traria lucro adicional, e poderia prejudicar a qualidade ou gerar consumo de energia elevado. Os *setpoints* recomendados são enviados ao APC, que coordena ajustes de maneira suave e controlada, enquanto o PID mantém cada variável estável em tempo real.
+
+## O fluxo profissional real de um engenheiro de RTO
+
+O trabalho real é mais assim:
+
+1. Entender profundamente o processo físico.
+    
+2. Criar modelo matemático:
+    
+    - balanço de massa
+        
+    - balanço de energia
+        
+    - equações empíricas
+        
+3. Definir função objetivo:
+    
+    - lucro
+        
+    - custo energético
+        
+    - rendimento
+        
+4. Definir restrições:
+    
+    - segurança
+        
+    - qualidade
+        
+    - capacidade
+        
+5. Validar com dados históricos.
+    
+6. Implementar em plataforma industrial.
+    
+7. Monitorar performance econômica.
+    
+
+Ou seja: **90% do trabalho é engenharia, não programação.**
