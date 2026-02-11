@@ -350,32 +350,37 @@ Isso é uma diferença brutal entre RTO acadêmico e RTO industrial.
 
 ---
 # 7. Função de Custo
+Ela não quer saber “como funciona”. Ela quer saber o que é bom e o que é ruim fazer do ponto de vista econômico. Ela calcula um índice econômico global da operação, que pode ser lucro, custo total, margem ou valor econômico agregado.
+
+O importante não é o nome contábil. O importante é isto:
+Ela sempre retorna um único número que representa “quão boa é a operação para o negócio”.
+
 A Função de Custo recebe dados:
 
-	Do ERP e da Gestão Econômica:
-	- preços de venda;
-	- custos de energia;
-	- custos de insumos;
-	- penalidades contratuais.
-	
-	Do Plano de Produção:
-	- metas de produção;
-	- mix de produtos;
-	- horizontes de tempo;
-	- restrições de campanha;
-	- prioridades estratégicas.
-	
-	Dos modelos:
-	- quanto cada decisão afeta produção;
-	- quanto consome energia;
-	- quanto gera perdas.
-	
-	Do CAR:
-	- quais restrições estão ativas;
-	- quais decisões são inviáveis;
-	- quais penalidades aplicar.
+Do ERP e da Gestão Econômica:
+- preços de venda;
+- custos de energia;
+- custos de insumos;
+- penalidades contratuais.
 
-A Função de Custo combina todas essas informações para calcular um **valor econômico global**, normalmente expresso como uma função de lucro, margem ou custo total da operação.
+Do Plano de Produção:
+- metas de produção;
+- mix de produtos;
+- horizontes de tempo;
+- restrições de campanha;
+- prioridades estratégicas.
+
+Dos modelos:
+- quanto cada decisão afeta produção;
+- quanto consome energia;
+- quanto gera perdas.
+
+Do CAR:
+- quais restrições estão ativas;
+- quais decisões são inviáveis;
+- quais penalidades aplicar.
+
+Ela combina todas essas informações para calcular um **valor econômico global**, normalmente expresso como uma função de lucro, margem ou custo total da operação.
 
 Em termos formais, a Função de Custo é uma função escalar do tipo:
 
