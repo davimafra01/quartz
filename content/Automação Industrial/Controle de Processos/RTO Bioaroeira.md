@@ -34,9 +34,7 @@ Ativos:
 - Tanques de embebição
 - Sensores de qualidade de caldo  
 
----
-
-# 2. DESTILAÇÃO
+### 2.2 DESTILAÇÃO
 
 ## Dados (citados no documento)
 
