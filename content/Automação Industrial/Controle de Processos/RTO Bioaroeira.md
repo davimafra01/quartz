@@ -167,6 +167,7 @@ Isso representa uma mudança de paradigma:
 - do controle reativo;
 - para a **operação ótima orientada por modelo**.
 
+---
 # 4. Composição do RTO da Bioaroeira
 Esses indicadores não são apenas físicos. Eles são **KPIs industriais e econômicos**, como:
 - rendimento de extração na moagem;
