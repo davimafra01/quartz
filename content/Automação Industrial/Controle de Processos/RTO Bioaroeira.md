@@ -102,7 +102,94 @@ KPIs globais (provavelmente derivadas do Plano de Produção):
 ---
 # 3. Dados, KPIs e Ativos que serão gerados (TO-BE)
 
-DRAFT
+## 3.1 Ativos digitais
+O principal ativo entregue pelo projeto é a **camada de RTO**, que passa a existir como um sistema digital sobreposto à automação existente. Esse RTO não é um controlador no sentido clássico, mas sim um sistema de otimização matemática e econômica que opera continuamente sobre modelos do processo e sobre dados históricos e em tempo real.
+
+Além do próprio RTO, o projeto entrega um conjunto de ativos digitais estruturantes, que compõem a arquitetura de inteligência operacional da planta. Entre eles estão os **modelos matemáticos do processo**, que representam formalmente a relação entre variáveis operacionais, restrições físicas e desempenho produtivo e energético. Esses modelos são utilizados tanto para simulação quanto para otimização.
+
+Outro ativo central é o **CAR (identificador de gargalos)**, que é um módulo analítico responsável por identificar restrições ativas do sistema produtivo, isto é, quais equipamentos, variáveis ou limites estão efetivamente impedindo ganhos adicionais de produção, eficiência ou redução de perdas.
+
+O projeto também entrega **dashboards interativos**, que constituem a camada de visualização e interação homem-sistema. Esses dashboards consolidam indicadores, metas, recomendações e resultados do RTO, permitindo que operadores, engenheiros e gestores visualizem o estado ótimo da planta e os desvios em relação ao ótimo.
+
+Em síntese, os ativos digitais novos são:
+- Sistema de RTO (otimizador em tempo real);
+- Modelos matemáticos do processo;
+- Módulo CAR (identificador de gargalos);
+- Dashboards interativos de visualização e acompanhamento.
+
+## 3.2 Novos dados (gerados pelo RTO)
+O projeto não cria novos sensores físicos, mas cria uma **nova classe de dados digitais**, que não existiam antes: dados calculados, inferidos e otimizados.
+
+A primeira grande categoria são os **soft sensors**, isto é, variáveis que não são medidas diretamente, mas estimadas por modelos matemáticos a partir de dados existentes. Esses soft sensors passam a fornecer estimativas contínuas de grandezas relevantes para a otimização, como estados internos do processo, eficiências implícitas, perdas não diretamente mensuráveis, entre outros.
+
+A segunda categoria são as **variáveis calculadas pelos modelos**, como balanços de massa e energia, rendimentos instantâneos, indicadores de eficiência e funções auxiliares utilizadas no problema de otimização.
+
+A terceira categoria são os **outputs do otimizador**, que são, de fato, os dados mais característicos do RTO. Esses outputs incluem valores ótimos das variáveis de decisão, custos ótimos, valores da função objetivo, marginais econômicos, indicadores de sensibilidade e informações sobre quais restrições estão ativas no ponto ótimo.
+
+Ou seja, o RTO transforma dados operacionais brutos em **dados de alto nível cognitivo**, que não existiam no AS-IS.
+
+---
+
+## 3.3 Novos KPIs
+
+O projeto não define formalmente um novo conjunto fechado de KPIs com nomes específicos além dos já existentes, mas ele muda qualitativamente a natureza dos KPIs ao introduzir **KPIs econômicos e de otimização**.
+
+A partir do RTO passam a existir indicadores como:
+
+- Valor da função de custo global;
+    
+- Ganho econômico estimado em relação à operação atual;
+    
+- Desvio em relação ao ponto ótimo;
+    
+- Utilização de gargalos;
+    
+- Potencial econômico não explorado.
+    
+
+Esses KPIs não são simplesmente indicadores de desempenho operacional, como no AS-IS, mas sim **indicadores de qualidade da decisão**, isto é, medem quão distante a planta está do ótimo matemático-econômico calculado pelo RTO.
+
+Mesmo quando os KPIs têm o mesmo nome dos anteriores (eficiência, rendimento, consumo), eles passam a existir também em uma versão **“ótima”**, fornecida pelo modelo, e não apenas na versão “real”, medida na planta.
+
+---
+
+## 3.4 Novas capacidades de controle e decisão
+
+Essa é, conceitualmente, a entrega mais importante do projeto.
+
+Antes do RTO, a planta apenas:
+
+- mede;
+    
+- controla localmente (PID/APC);
+    
+- observa indicadores.
+    
+
+Depois do RTO, a planta passa a ter **capacidade formal de decidir matematicamente**.
+
+O sistema passa a gerar:
+
+- **setpoints ótimos globais**, calculados a partir de uma função de custo econômica;
+    
+- **recomendações operacionais**, indicando como ajustar variáveis para maximizar desempenho;
+    
+- **priorização de gargalos**, mostrando onde atuar primeiro;
+    
+- **simulações de cenários**, permitindo testar virtualmente estratégias operacionais;
+    
+- **análises de sensibilidade**, mostrando impacto econômico de cada variável.
+    
+
+Ou seja, o RTO não apenas diz “como a planta está”, mas passa a dizer:
+
+> **“Como a planta deveria estar, do ponto de vista matemático e econômico.”**
+
+Isso representa uma mudança de paradigma:
+
+- do controle reativo,
+    
+- para a **operação ótima orientada por modelo**.
 # 4. Composição do RTO da Bioaroeira
 
 Esses indicadores não são apenas físicos. Eles são **KPIs industriais e econômicos**, como:
