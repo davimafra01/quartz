@@ -102,7 +102,7 @@ KPIs globais (provavelmente derivadas do Plano de Produção):
 ---
 # 3. Dados, KPIs e Ativos que serão gerados (TO-BE)
 
-## 3.1 Ativos digitais
+### 3.1 Ativos digitais
 O principal ativo entregue pelo projeto é a **camada de RTO**, que passa a existir como um sistema digital sobreposto à automação existente. Esse RTO não é um controlador no sentido clássico, mas sim um sistema de otimização matemática e econômica que opera continuamente sobre modelos do processo e sobre dados históricos e em tempo real.
 
 Além do próprio RTO, o projeto entrega um conjunto de ativos digitais estruturantes, que compõem a arquitetura de inteligência operacional da planta. Entre eles estão os **modelos matemáticos do processo**, que representam formalmente a relação entre variáveis operacionais, restrições físicas e desempenho produtivo e energético. Esses modelos são utilizados tanto para simulação quanto para otimização.
@@ -117,7 +117,7 @@ Em síntese, os ativos digitais novos são:
 - Módulo CAR (identificador de gargalos);
 - Dashboards interativos de visualização e acompanhamento.
 
-## 3.2 Dados digitais (gerados pelo RTO)
+### 3.2 Dados digitais (gerados pelo RTO)
 O projeto não cria novos sensores físicos, mas cria uma **nova classe de dados digitais**, que não existiam antes: dados calculados, inferidos e otimizados.
 
 A primeira grande categoria são os **soft sensors**, isto é, variáveis que não são medidas diretamente, mas estimadas por modelos matemáticos a partir de dados existentes. Esses soft sensors passam a fornecer estimativas contínuas de grandezas relevantes para a otimização, como estados internos do processo, eficiências implícitas, perdas não diretamente mensuráveis, entre outros.
@@ -128,7 +128,7 @@ A terceira categoria são os **outputs do otimizador**, que são, de fato, os da
 
 Ou seja, o RTO transforma dados operacionais brutos em **dados de alto nível cognitivo**, que não existiam no AS-IS.
 
-## 3.3 Novos KPIs
+### 3.3 Novos KPIs
 O projeto não define formalmente um novo conjunto fechado de KPIs com nomes específicos além dos já existentes, mas ele muda qualitativamente a natureza dos KPIs ao introduzir **KPIs econômicos e de otimização**.
 
 A partir do RTO passam a existir indicadores como:
@@ -142,7 +142,7 @@ Esses KPIs não são simplesmente indicadores de desempenho operacional, como no
 
 Mesmo quando os KPIs têm o mesmo nome dos anteriores (eficiência, rendimento, consumo), eles passam a existir também em uma versão **“ótima”**, fornecida pelo modelo, e não apenas na versão “real”, medida na planta.
 
-## 3.4 Novas capacidades de controle e decisão
+### 3.4 Novas capacidades de controle e decisão
 Essa é, conceitualmente, a entrega mais importante do projeto. Sem o RTO, a planta apenas:
 - mede;
 - controla localmente (PID/APC);
