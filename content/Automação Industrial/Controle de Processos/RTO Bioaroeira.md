@@ -63,7 +63,6 @@ Ativos:
 - Torre de resfriamento.
 
 ### 2.3 Cogeração
-
 Dados operacionais:
 - Dados de processo da cogeração;
 - Variáveis manipuladas e controladas da cogeração;
@@ -90,7 +89,6 @@ Ativos:
 - Sistemas de lavagem de gases.
 
 ### 2.4 Elementos Globais
-
 Dados globais:
 - Plano de produção.
 
