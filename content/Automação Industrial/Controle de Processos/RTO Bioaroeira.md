@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-# 1. Introdução
+# 1. Introdução à Fase 1
 O **RTO (*Real-Time Optimization*)** não é um “controlador” no sentido clássico. Ele é uma **camada de inteligência operacional e econômica**, construída acima da automação existente da planta (geralmente PIDs e APCs), cujo papel é **decidir continuamente quais são as melhores condições globais de operação da usina**, neste caso, considerando simultaneamente (i) moagem, (ii) destilação e (iii) cogeração de energia.
 
 A planta já possui automação, PLCs, sensores, historiadores (PIMS, LIMS), operadores humanos e malhas regulatórias. Tudo isso já funciona. O RTO não substitui nada disso. Ele entra como uma **camada superior de raciocínio**, que observa a planta como um sistema integrado de produção, energia e matéria-prima, e responde a uma pergunta muito específica:
@@ -310,6 +310,25 @@ Isso é extremamente importante: **o RTO é um otimizador com função de custo 
 
 Não é engenharia pura. É engenharia + gestão + economia.
 
+### 4.5 O que esse RTO é, em essência profunda
+Se formos reduzir tudo à essência: esse RTO é um **sistema cibernético de tomada de decisão econômica em tempo real**, aplicado a um sistema industrial físico complexo.
+
+Ele faz cinco coisas ao mesmo tempo:
+1. Observa a planta real;
+2. Constrói um modelo operacional;
+3. Detecta gargalos e restrições;
+4. Resolve um problema de otimização global;
+5. Traduz isso em metas operacionais.
+
+Isso não é controle clássico. Isso é **engenharia de sistemas + ciência de dados + otimização + economia operacional**.
+
+### 4.6 A frase mais precisa possível para esse caso
+Se pudéssemos definir o RTO dessa proposta em uma frase técnica perfeita, seria:
+
+> **O RTO é a camada que transforma dados industriais em decisões econômicas ótimas, coordenando automaticamente múltiplos processos interdependentes em tempo real.**
+
+E essa frase não é retórica. Ela descreve exatamente o que esse sistema faz na prática, na planta real descrita na proposta.
+
 ---
 # 5. Modelos Matemáticos do Processo
 DRAFT
@@ -339,7 +358,7 @@ Isso é uma diferença brutal entre RTO acadêmico e RTO industrial.
 DRAFT
 
 ---
-### 5.6 Transição para a Fase 2: RTO como cérebro que comanda a planta
+# 8. Introdução à Fase 2: RTO como cérebro da planta
 Na Fase 2 acontece a virada ontológica do sistema. O RTO deixa de ser apenas “consultivo” e passa a ser **executivo**.
 
 Ele se integra ao APC, e passa a:
@@ -356,22 +375,3 @@ Agora o RTO não só pensa, ele **manda**. Mas observe a hierarquia:
 - PLC/PID executa **fisicamente**.
 
 O RTO nunca atua diretamente em válvula. Ele atua em **objetivos globais**.
-
-### 5.7 O que esse RTO é, em essência profunda
-Se formos reduzir tudo à essência: esse RTO é um **sistema cibernético de tomada de decisão econômica em tempo real**, aplicado a um sistema industrial físico complexo.
-
-Ele faz cinco coisas ao mesmo tempo:
-1. Observa a planta real;
-2. Constrói um modelo operacional;
-3. Detecta gargalos e restrições;
-4. Resolve um problema de otimização global;
-5. Traduz isso em metas operacionais.
-
-Isso não é controle clássico. Isso é **engenharia de sistemas + ciência de dados + otimização + economia operacional**.
-
-### 5.8 A frase mais precisa possível para esse caso
-Se pudéssemos definir o RTO dessa proposta em uma frase técnica perfeita, seria:
-
-> **O RTO é a camada que transforma dados industriais em decisões econômicas ótimas, coordenando automaticamente múltiplos processos interdependentes em tempo real.**
-
-E essa frase não é retórica. Ela descreve exatamente o que esse sistema faz na prática, na planta real descrita na proposta.
