@@ -382,6 +382,18 @@ Do CAR:
 
 Ela combina todas essas informações para calcular um **valor econômico global**, normalmente expresso como uma função de lucro, margem ou custo total da operação.
 
+A Função de Custo não “vê” coisas como:
+- temperatura medida no sensor T-101;
+- vazão instantânea da FT-203;
+- composição medida no laboratório.
+
+Ela vê coisas como:
+- taxa de produção estimada;
+- consumo energético previsto;
+- rendimento calculado;
+- perdas modeladas;
+- eficiência global do sistema.
+
 Em termos formais, a Função de Custo é uma função escalar do tipo:
 
 $J(x)=Receita(x)−Custos(x)−Perdas(x)−Penalidades(x)$
@@ -395,18 +407,6 @@ Esse valor $J(x)$ representa, matematicamente, **o quão boa é uma determinada 
 O papel do RTO é encontrar o vetor de decisões $x$ que maximiza (ou minimiza) essa função, respeitando os modelos e as restrições físicas do processo.
 
 Ou seja: a Função de Custo não recebe dados operacionais e laboratoriais diretamente. Ela recebe as funções dos modelos (que, por sua vez, relacionam as variáveis físicas ao desempenho econômico do processo), vide exemplo da coluna de destilação de petróleo. Na função descrita acima, essas funções dos modelos são a $Receita(x)$, os $Custos(x)$, as $Perdas(x)$ e as $Penalidades(x)$.
-
-A Função de Custo não “vê” coisas como:
-- temperatura medida no sensor T-101;
-- vazão instantânea da FT-203;
-- composição medida no laboratório.
-
-Ela vê coisas como:
-- taxa de produção estimada;
-- consumo energético previsto;
-- rendimento calculado;
-- perdas modeladas;
-- eficiência global do sistema.
 # 8. Dashboards Interativos
 DRAFT
 
