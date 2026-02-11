@@ -166,8 +166,8 @@ Ou seja, o RTO não apenas diz “como a planta está”, mas passa a dizer:
 Isso representa uma mudança de paradigma:
 - do controle reativo;
 - para a **operação ótima orientada por modelo**.
-# 4. Composição do RTO da Bioaroeira
 
+# 4. Composição do RTO da Bioaroeira
 Esses indicadores não são apenas físicos. Eles são **KPIs industriais e econômicos**, como:
 - rendimento de extração na moagem;
 - pureza e teor alcoólico na destilação;
