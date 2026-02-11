@@ -98,26 +98,14 @@ KPIs globais
 - Consumo energético global
 - Perdas alcoólicas globais
 - Eficiência térmica global  
-    
-    RTO
-    
 
----
-
-## Ativos globais (digitais)
-
-- RTO (otimizador em tempo real)
-    
+Ativos globais (digitais)
+- RTO (otimizador em tempo reais
 - Função de custo
-    
 - CAR – Identificador de Gargalos
-    
 - Dashboards integrados
-    
 - Modelos matemáticos / analíticos
-    
 - Soft sensors (como classe de ativos)
-    
 - APC (fase 2)
 # 3. Dados, KPIs e Ativos que serão gerados
 
