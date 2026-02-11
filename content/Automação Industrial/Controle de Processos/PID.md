@@ -4,27 +4,21 @@ O **controle PID (Proporcional–Integral–Derivativo)** é o elemento fundamen
 Na prática industrial, o PID é o mecanismo responsável por **garantir que uma variável física real de um processo acompanhe um valor desejado (setpoint)**, apesar de perturbações, incertezas, não linearidades e ruídos. Ele faz isso manipulando alguma variável de atuação (válvula, velocidade de bomba, potência de aquecedor, abertura de dampers etc.) com base no erro entre o valor medido e o valor desejado.
 
 Matematicamente, o PID é um controlador de **realimentação (feedback)** que gera um sinal de controle a partir da combinação de três ações sobre o erro:
-
 - A ação proporcional reage instantaneamente ao erro atual;
-- A ação integral reage ao erro acumulado ao longo do tempo.
+- A ação integral reage ao erro acumulado ao longo do tempo;
 - A ação derivativa reage à tendência futura do erro (sua taxa de variação).
 
 Mas o ponto essencial não é a fórmula — é o **significado físico** dessas três ações no comportamento dinâmico do processo.
 
 ### 1.1 O papel físico do PID em um processo real
-
 Todo processo industrial tem dinâmica. Isso significa que ele **não responde instantaneamente** a uma ação de controle. Existe inércia térmica, volumes de acumulação, atrasos de transporte, tempos mortos, capacitâncias, resistências físicas, reações químicas lentas, etc.
 
 Se você abre uma válvula de vapor para aquecer um tanque, a temperatura não sobe instantaneamente. Ela sobe com um certo atraso e com uma certa taxa. O PID existe exatamente para lidar com esse tipo de realidade física.
 
 O controlador observa continuamente:
-
 - a variável de processo (PV – Process Variable),
-    
 - o valor desejado (SP – Setpoint),
-    
 - e calcula o erro:
-    
     e(t)=SP(t)−PV(t)e(t) = SP(t) - PV(t)e(t)=SP(t)−PV(t)
 
 A partir disso, ele gera o sinal de controle (MV – Manipulated Variable), que é o comando para o atuador físico do processo.
