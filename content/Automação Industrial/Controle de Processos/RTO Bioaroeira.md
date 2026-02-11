@@ -127,8 +127,8 @@ Entraremos em mais detalhes sobre cada um desses ativos da "seção 4" em diante
 O **RTO** não otimiza temperatura, pressão ou vazão.
 > Ele otimiza - por meio da função de custo - **resultados de negócio** usando modelos que relacionam as variáveis físicas ao desempenho econômico do processo.
 >
-> A função de custo não consome dados brutos.
-> Ela consome *variáveis modeladas* derivadas dos dados.
+> A Função de Custo não consome dados brutos.
+> Ela consome variáveis modeladas derivadas dos dados.
 > 
 > Em termos formais, os resultados de negócio são grandezas econômicas mensuráveis, tais como: Lucro operacional; Margem de contribuição; Receita; Custo energético total; Custo de insumos; Perdas monetárias; Valor econômico da produção; Exportação de energia (R$); Custo de oportunidade; EBITDA operacional (em alguns projetos).
 
