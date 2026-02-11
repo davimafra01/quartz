@@ -5,6 +5,7 @@ A planta já possui automação, PLCs, sensores, historiadores (PIMS, LIMS), ope
 
 > “Dadas as condições atuais da planta, qual é a melhor forma de operar agora para maximizar os indicadores **ESTRATÉGICOS** da empresa?”
 
+Neste caso, quando falamos de "indicadores estratégicos", estamos falando daqueles descritos no 
 # 2. Dados, KPIs e Ativos disponíveis (AS-IS)
 
 ### 2.1 Moagem
