@@ -49,18 +49,11 @@ Dados laboratoriais
 KPIs da destilação
 - Pureza do etanol
 - Eficiência térmica
-    
 - Perdas alcoólicas
-    
 - Consumo energético
     
-
----
-
-## Ativos da destilação
-
+Ativos da destilação
 - Coluna de destilação
-    
 - Trocadores de calor
     
 - Bombas
