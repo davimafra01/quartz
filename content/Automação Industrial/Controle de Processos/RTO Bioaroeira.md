@@ -61,20 +61,14 @@ Ativos da destilação
 
 ### 2.3 Cogeração
 
-##Dados operacionais
-
+Dados operacionais
 - Dados de processo da cogeração
-    
 - Variáveis manipuladas e controladas da cogeração
-    
 - Setpoints da cogeração
-    
 - Dados via PIMS
-    
 - Dados via CLP / PLC
-    
-
-### Dados inferidos (soft sensors)
+- 
+Dados inferidos (soft sensors)
 
 - Umidade do bagaço  
     
