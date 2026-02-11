@@ -90,9 +90,9 @@ Ativos:
 
 ### 2.4 Elementos Globais
 Dados globais:
-- Plano de produção.
+- Plano de produção (metas estratégicas).
 
-KPIs globais:
+KPIs globais derivadas do Plano de Produção:
 - Rendimento industrial;
 - Consumo energético global;
 - Perdas alcoólicas globais;
