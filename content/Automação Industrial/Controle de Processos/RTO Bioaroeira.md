@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # 1. Introdução
 O **RTO (*Real-Time Optimization*)** não é um “controlador” no sentido clássico. Ele é uma **camada de inteligência operacional e econômica**, construída acima da automação existente da planta (geralmente PIDs e APCs), cujo papel é **decidir continuamente quais são as melhores condições globais de operação da usina**, neste caso, considerando simultaneamente (i) moagem, (ii) destilação e (iii) cogeração de energia.
 
