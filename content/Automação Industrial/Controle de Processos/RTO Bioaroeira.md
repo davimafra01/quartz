@@ -125,7 +125,7 @@ Entraremos em mais detalhes sobre cada um desses ativos da "seção 4" em diante
 É importante entender o seguinte:
 
 O **RTO** não otimiza temperatura, pressão ou vazão.
-> Ele otimiza **resultados de negócio** usando variáveis físicas como meio.
+> Ele otimiza - lançando mão da função de custo - **resultados de negócio** usando variáveis físicas.
 > 
 > Em termos formais, os resultados de negócio são grandezas econômicas mensuráveis, tais como: Lucro operacional; Margem de contribuição; Receita; Custo energético total; Custo de insumos; Perdas monetárias; Valor econômico da produção; Exportação de energia (R$); Custo de oportunidade; EBITDA operacional (em alguns projetos).
 
