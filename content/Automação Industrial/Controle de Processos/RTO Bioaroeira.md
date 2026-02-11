@@ -159,6 +159,7 @@ Do Plano de Produção:
 - custos de energia;
 - custos de insumos;
 - penalidades contratuais;
+- 
 - metas estratégicas.
 
 Do modelo:
