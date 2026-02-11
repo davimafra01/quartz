@@ -86,9 +86,9 @@ Ativos da cogeração
 - Exaustores
 - Sistemas de lavagem de gases  
 
-### 2.4 Ele
+### 2.4 Elementos Globais
 
-## Dados globais
+Dados globais
 
 - Plano de produção
     
