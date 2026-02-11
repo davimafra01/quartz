@@ -62,29 +62,29 @@ Ativos:
 ### 2.3 Cogeração
 
 Dados operacionais:
-- Dados de processo da cogeração
-- Variáveis manipuladas e controladas da cogeração
-- Setpoints da cogeração
-- Dados via PIMS
+- Dados de processo da cogeração;
+- Variáveis manipuladas e controladas da cogeração;
+- Setpoints da cogeração;
+- Dados via PIMS;
 - Dados via CLP / PLC
 
 Dados inferidos (soft sensors):
-- Umidade do bagaço  
+- Umidade do bagaço.
 
 KPIs:
-- Eficiência térmica
-- Consumo específico de bagaço
-- Exportação de energia
-- Estabilidade de pressão do vapor
-- Estabilidade de temperatura do vapor
-- Energia gerada por tonelada de bagaço
+- Eficiência térmica;
+- Consumo específico de bagaço;
+- Exportação de energia;
+- Estabilidade de pressão do vapor;
+- Estabilidade de temperatura do vapor;
+- Energia gerada por tonelada de bagaço.
 
 Ativos:
 - Caldeiras.
 - Turbogeradores;
 - Sistemas de alimentação de bagaço;
 - Exaustores;
-- Sistemas de lavagem de gases  
+- Sistemas de lavagem de gases.
 
 ### 2.4 Elementos Globais
 
