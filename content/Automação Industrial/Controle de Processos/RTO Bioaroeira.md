@@ -138,7 +138,7 @@ O **IDENTIFICADOR DE GARGALOS (MÓDULO CAR)** responde à pergunta:
 A **FUNÇÃO DE CUSTO** é outra coisa.
 > Ela não quer saber “como funciona”. Ela quer saber o que é bom e o que é ruim. Ela recebe:
 
-Do plano produtivo:
+Do Plano de Produção:
 - preços de venda;
 - custos de energia;
 - custos de insumos;
