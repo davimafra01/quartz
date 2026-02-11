@@ -25,9 +25,7 @@ A partir disso, ele gera o sinal de controle (MV – *Manipulated Variable*), qu
 
 O que diferencia o PID de um simples controlador liga/desliga é que ele **modela implicitamente o comportamento dinâmico do processo**: ele não apenas reage ao erro, mas tenta prever e compensar a evolução futura do sistema.
 
----
-
-### Ação proporcional: a força imediata
+### 1.2 Ação proporcional: a força imediata
 
 A parte proporcional é a mais intuitiva. Ela diz:
 
