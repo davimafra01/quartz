@@ -153,26 +153,18 @@ Antes do RTO, a planta apenas:
 Depois do RTO, a planta passa a ter **capacidade formal de decidir matematicamente**.
 
 O sistema passa a gerar:
-
 - **setpoints ótimos globais**, calculados a partir de uma função de custo econômica;
-    
 - **recomendações operacionais**, indicando como ajustar variáveis para maximizar desempenho;
-    
 - **priorização de gargalos**, mostrando onde atuar primeiro;
-    
 - **simulações de cenários**, permitindo testar virtualmente estratégias operacionais;
-    
 - **análises de sensibilidade**, mostrando impacto econômico de cada variável.
-    
 
 Ou seja, o RTO não apenas diz “como a planta está”, mas passa a dizer:
 
 > **“Como a planta deveria estar, do ponto de vista matemático e econômico.”**
 
 Isso representa uma mudança de paradigma:
-
-- do controle reativo,
-    
+- do controle reativo;
 - para a **operação ótima orientada por modelo**.
 # 4. Composição do RTO da Bioaroeira
 
