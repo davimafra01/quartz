@@ -135,7 +135,8 @@ Os **MODELOS MATEMÁTICOS DO PROCESSO** respondem à pergunta:
 O **IDENTIFICADOR DE GARGALOS (MÓDULO CAR)** responde à pergunta:
 > "O que está limitando o desempenho agora?"
 
-A **FUNÇÃO DE CUSTO** é outra coisa. Ela não quer saber “como funciona”. Ela quer saber o que é bom e o que é ruim. Ela recebe:
+A **FUNÇÃO DE CUSTO** é outra coisa.
+> Ela não quer saber “como funciona”. Ela quer saber o que é bom e o que é ruim. Ela recebe:
 
 Do plano produtivo:
 - preços de venda;
