@@ -354,7 +354,7 @@ Ou seja: o RTO **não otimiza um modelo ideal**, ele otimiza **a planta real, co
 Isso é uma diferença brutal entre RTO acadêmico e RTO industrial.
 
 ---
-# 7. Dashboards interativos de visualização e acompanhamento
+# 7. Dashboards Interativos
 DRAFT
 
 ---
