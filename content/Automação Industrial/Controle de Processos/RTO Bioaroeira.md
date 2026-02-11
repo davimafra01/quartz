@@ -176,7 +176,7 @@ A terceira categoria são os **outputs do otimizador**, que são, de fato, os da
 Ou seja, o RTO transforma dados operacionais brutos em **dados de alto nível cognitivo**, que não existiam no AS-IS.
 
 ### 3.3 Novos KPIs
-O projeto não define formalmente um novo conjunto fechado de KPIs com nomes específicos além dos já existentes, mas ele muda qualitativamente a natureza dos KPIs ao introduzir **KPIs econômicos e de otimização**.
+O projeto não define formalmente um novo conjunto fechado de KPIs com nomes específicos além dos já existentes, mas ele muda qualitativamente a natureza dos KPIs ao introduzir **KPIs econômicos e de otimização**. Tenha em mente que, nem todos os KPIs serão utilizados 
 
 O projeto não cria novos KPIs operacionais, mas passa a fornecer **versões ótimas, preditivas e econômicas** dos KPIs já existentes, como:
 - Rendimento industrial ótimo;
