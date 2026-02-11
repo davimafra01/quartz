@@ -80,10 +80,10 @@ KPIs:
 - Energia gerada por tonelada de bagaço
 
 Ativos:
-- Caldeiras
-- Turbogeradores
-- Sistemas de alimentação de bagaço
-- Exaustores
+- Caldeiras.
+- Turbogeradores;
+- Sistemas de alimentação de bagaço;
+- Exaustores;
 - Sistemas de lavagem de gases  
 
 ### 2.4 Elementos Globais
@@ -91,11 +91,11 @@ Ativos:
 Dados globais:
 - Plano de produção.
 
-KPIs globais
+KPIs globais:
 - Rendimento industrial
-- Consumo energético global
-- Perdas alcoólicas globais
-- Eficiência térmica global  
+- Consumo energético global;
+- Perdas alcoólicas globais;
+- Eficiência térmica global.
 
 ---
 # 3. Dados, KPIs e Ativos que serão gerados (TO-BE)
