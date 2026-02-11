@@ -95,7 +95,7 @@ Dados globais:
 - Plano de produção.
 
 KPIs globais:
-- Rendimento industrial
+- Rendimento industrial;
 - Consumo energético global;
 - Perdas alcoólicas globais;
 - Eficiência térmica global.
