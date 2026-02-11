@@ -108,19 +108,15 @@ Onde:
 
 Esses três parâmetros são os famosos **parâmetros de sintonia do PID**.
 
----
-
-### O PID como “modelo implícito do processo”
+### 1.6 O PID como “modelo implícito do processo”
 
 Aqui está um ponto que separa quem entende superficialmente de quem entende de verdade:
 
 > Um PID funciona porque ele **aproxima o comportamento inverso do processo**.
 
 Mesmo sem conhecer explicitamente as equações físicas da planta, o PID tenta se comportar como o “anti-processo” que compensa:
-
-- atrasos,
-    
-- inércia,
+- atrasos;
+- inércia;
     
 - acumulação,
     
