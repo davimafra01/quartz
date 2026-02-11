@@ -11,7 +11,7 @@ A planta já possui automação, PLCs, sensores, historiadores (PIMS, LIMS), ope
 Neste caso, quando falamos de "indicadores estratégicos", estamos falando daqueles descritos no Plano de Produção.
 
 ---
-# 2. Dados, KPIs e Ativos disponíveis (AS-IS)
+# 2. AS-IS: Dados, KPIs e Ativos disponíveis
 
 ### 2.1 Moagem
 Dados operacionais:
@@ -102,7 +102,7 @@ KPIs globais:
 - Eficiência térmica.
 
 ---
-# 3. Dados, KPIs e Ativos que serão gerados (TO-BE)
+# 3. TO-BE: Dados, KPIs e Ativos que serão gerados (TO-BE)
 
 ### 3.1 Ativos digitais
 O principal ativo entregue pelo projeto é a **(i) camada de RTO**, que passa a existir como um sistema digital sobreposto à automação existente. Esse RTO não é um controlador no sentido clássico, mas sim um sistema de otimização matemática e econômica que opera continuamente sobre modelos do processo e sobre dados históricos e em tempo real.
