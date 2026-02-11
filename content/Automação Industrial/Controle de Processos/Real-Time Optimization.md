@@ -96,7 +96,7 @@ O RTO busca **maximizar L** variando $T_{top}$, $T_{base}$ e R, respeitando limi
 
 O RTO aplica otimização simples (gradiente ou busca discreta):
 
-**1 - Variação T_top +2°C → T_top = 102°C**
+**1 - Variação $T_{top}$ +2°C → $T_{top}$ = 102°C**
 - G = 600 + 10*(102-100) - 5*(200-200) = 620 m³/h
 - D = 300 - 5*(102-100) + 3*(200-200) = 290 m³/h
 - E = 500 + 2*(350-350) + 0,5*(200-200) = 500 kWh
