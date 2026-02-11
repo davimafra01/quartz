@@ -9,15 +9,15 @@ A planta já possui automação, PLCs, sensores, historiadores (PIMS, LIMS), ope
 
 ### 2.1 Moagem
 Dados operacionais:
-- Dados de processo da moagem
-- Variáveis manipuladas e controladas da moagem
-- Setpoints da moagem (pressão, vazão, temperatura, etc.)
-- Dados via PIMS
+- Dados de processo da moagem;
+- Variáveis manipuladas e controladas da moagem;
+- Setpoints da moagem (pressão, vazão, temperatura, etc.);
+- Dados via PIMS;
 - Dados via CLP / PLC
 
 Dados laboratoriais:
-- Pureza do caldo
-- Pol do caldo
+- Pureza do caldo;
+- Pol do caldo.
 
 KPIs:
 - Rendimento de extração;
