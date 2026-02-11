@@ -107,6 +107,8 @@ Ativos globais (digitais)
 - Modelos matemáticos / analíticos
 - Soft sensors (como classe de ativos)
 - APC (fase 2)
+
+---
 # 3. Dados, KPIs e Ativos que serão gerados
 
 
