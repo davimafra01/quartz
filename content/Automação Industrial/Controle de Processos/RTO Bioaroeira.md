@@ -95,12 +95,14 @@ Ativos:
 Dados globais:
 - Plano de produção (metas estratégicas).
 
-KPIs globais (provavelmente derivadas do Plano de Produção):
+KPIs globais*:
 - Rendimento industrial;
 - Consumo energético global;
 - Perdas alcoólicas globais;
 - Eficiência térmica global;
 - Entre outros KPIs a serem definidos em tempo de execução ou em fase de detalhamento.
+
+* Prova
 
 ---
 # 3. Dados, KPIs e Ativos que serão gerados (TO-BE)
