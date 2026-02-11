@@ -73,11 +73,8 @@ Dados inferidos (soft sensors)
 
 KPIs da cogeração
 - Eficiência térmica
-    
 - Consumo específico de bagaço
-    
 - Exportação de energia
-    
 - Estabilidade de pressão do vapor
     
 - Estabilidade de temperatura do vapor
