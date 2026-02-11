@@ -34,16 +34,10 @@ Ativos:
 - Tanques de embebição
 - Sensores de qualidade de caldo  
 
-### 2.2 DESTILAÇÃO
-
-## Dados (citados no documento)
-
-### Dados operacionais
-
+### 2.2 Destilação
+Dados operacionais
 - Dados de processo da destilação
-    
 - Variáveis manipuladas e controladas da destilação
-    
 - Setpoints da destilação
     
 - Dados via PIMS
