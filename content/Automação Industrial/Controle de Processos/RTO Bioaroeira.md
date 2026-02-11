@@ -117,7 +117,7 @@ Em síntese, os ativos digitais novos são:
 - Módulo CAR (identificador de gargalos);
 - Dashboards interativos de visualização e acompanhamento.
 
-## 3.2 Novos dados (gerados pelo RTO)
+## 3.2 Dados (gerados pelo RTO)
 O projeto não cria novos sensores físicos, mas cria uma **nova classe de dados digitais**, que não existiam antes: dados calculados, inferidos e otimizados.
 
 A primeira grande categoria são os **soft sensors**, isto é, variáveis que não são medidas diretamente, mas estimadas por modelos matemáticos a partir de dados existentes. Esses soft sensors passam a fornecer estimativas contínuas de grandezas relevantes para a otimização, como estados internos do processo, eficiências implícitas, perdas não diretamente mensuráveis, entre outros.
