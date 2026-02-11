@@ -117,21 +117,15 @@ Aqui está um ponto que separa quem entende superficialmente de quem entende de 
 Mesmo sem conhecer explicitamente as equações físicas da planta, o PID tenta se comportar como o “anti-processo” que compensa:
 - atrasos;
 - inércia;
-    
 - acumulação,
-    
 - dissipação,
-    
 - não linearidades moderadas.
-    
 
 Por isso dizemos que o PID é um **controlador universal**: ele não precisa de um modelo exato, apenas de uma sintonia adequada.
 
 Na prática industrial, isso é ouro, porque modelos físicos exatos quase nunca existem.
 
----
-
-### O papel do PID na hierarquia de controle
+### 1.7 O papel do PID na hierarquia de controle
 
 Na automação industrial moderna, o PID ocupa sempre o **nível mais baixo da hierarquia de controle**:
 
