@@ -154,13 +154,18 @@ O **IDENTIFICADOR DE GARGALOS (MÓDULO CAR)** responde à pergunta:
 A **FUNÇÃO DE CUSTO** é outra coisa.
 > Ela não quer saber “como funciona”. Ela quer saber o que é bom e o que é ruim. Ela recebe:
 
-Do Plano de Produção:
+Do ERP e da Gestão Econômica:
 - preços de venda;
 - custos de energia;
 - custos de insumos;
-- penalidades contratuais;
-- 
-- metas estratégicas.
+- penalidades contratuais.
+
+Do Plano de Produção:
+- metas de produção;
+- mix de produtos;
+- horizontes de tempo;
+- restrições de campanha;
+- prioridades estratégicas.
 
 Do modelo:
 - quanto cada decisão afeta produção;
