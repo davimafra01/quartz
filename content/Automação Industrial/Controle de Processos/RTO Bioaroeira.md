@@ -184,8 +184,9 @@ Em termos formais, a Função de Custo é uma função escalar do tipo:
 $J(x)=Receita(x)−Custos(x)−Perdas(x)−Penalidades(x)$
 
 Onde:
-- x = vetor de decisões (setpoints ótimos);
-- J(x)J(x)J(x) = valor econômico global da operação.
+- $x$ = vetor de decisões (*setpoints* ótimos);
+- $J(x)$ = valor econômico global da operação.
+
 Esse valor $J(x)$ representa, matematicamente, **o quão boa é uma determinada configuração operacional do ponto de vista do negócio**.
 
 O papel do RTO é encontrar o vetor de decisões $x$ que maximiza (ou minimiza) essa função, respeitando os modelos e as restrições físicas do processo.
