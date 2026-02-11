@@ -222,12 +222,22 @@ Isso representa uma mudança de paradigma:
 - para a **operação ótima orientada por modelo**.
 
 ---
-
 # 4. Sistema de RTO
+DRAFT
 
+---
 # 5. Modelos Matemáticos do Processo
+DRAFT
 
+---
 # 6. Módulo CAR (Identificação de Gargalos)
+DRAFT
+
+---
+# 7. Dashboards interativos de visualização e acompanhamento
+DRAFT
+
+---
 ### 5.1 O que o RTO “enxerga” da planta
 No modelo dessa proposta, o RTO enxerga a planta através de três grandes blocos de dados:
 1. **Dados operacionais** vindos da automação (sensores, PLC, PIMS);
