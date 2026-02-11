@@ -128,24 +128,15 @@ Na prática industrial, isso é ouro, porque modelos físicos exatos quase nunca
 ### 1.7 O papel do PID na hierarquia de controle
 
 Na automação industrial moderna, o PID ocupa sempre o **nível mais baixo da hierarquia de controle**:
-
 - Sensores →
-    
 - PID →
-    
 - Atuadores físicos.
-    
 
 Mesmo quando existe:
-
 - APC (MPC),
-    
 - RTO,
-    
 - otimização econômica,
-    
 - controle baseado em IA,
-    
 
 o que realmente abre válvula, muda rotação de motor, ajusta vazão, potência, pressão, temperatura, **é sempre um PID por baixo**.
 
