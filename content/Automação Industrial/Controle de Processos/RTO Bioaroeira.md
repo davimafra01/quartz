@@ -55,19 +55,11 @@ KPIs da destilação
 Ativos da destilação
 - Coluna de destilação
 - Trocadores de calor
-    
 - Bombas
-    
 - Tanques intermediários
-    
 - Torre de resfriamento  
-    
-    RTO
-    
 
----
-
-# 3. COGERAÇÃO
+### 2.3 COGERAÇÃO
 
 ## Dados (citados no documento)
 
