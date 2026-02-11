@@ -198,9 +198,9 @@ Esse valor $J(x)$ representa, matematicamente, **o quão boa é uma determinada 
 
 O papel do RTO é encontrar o vetor de decisões $x$ que maximiza (ou minimiza) essa função, respeitando os modelos e as restrições físicas do processo.
 
-Ou seja: a Função de Custo não recebe dados operacionais e laboratoriais diretamente. Ela recebe as funções dos modelos (que, por sua vez, relacionam as variáveis físicas ao desempenho econômico do processo), vide exemplo da coluna de destilação de petróleo.
+Ou seja: a Função de Custo não recebe dados operacionais e laboratoriais diretamente. Ela recebe as funções dos modelos (que, por sua vez, relacionam as variáveis físicas ao desempenho econômico do processo), vide exemplo da coluna de destilação de petróleo. Na função descrita acima, essas funções dos modelos são a $Receita(x)$, os $Custos(x)$, as $Perdas(x)$ e as $Penalidades(x)$.
 
-A função de custo não “vê” coisas como:
+A Função de Custo não “vê” coisas como:
 - temperatura medida no sensor T-101;
 - vazão instantânea da FT-203;
 - composição medida no laboratório.
