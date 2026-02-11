@@ -46,12 +46,8 @@ Dados laboratoriais
 - Concentração do etanol
 - Pureza do etanol
 
----
-
-## KPIs da destilação
-
+KPIs da destilação
 - Pureza do etanol
-    
 - Eficiência térmica
     
 - Perdas alcoólicas
