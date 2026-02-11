@@ -427,4 +427,4 @@ Agora o RTO não só pensa, ele **manda**. Mas observe a hierarquia:
 - APC decide **como chegar lá dinamicamente**;
 - PLC/PID executa **fisicamente**.
 
-O RTO nunca atua diretamente em válvula. Ele atua em **objetivos globais*
+O RTO nunca atua diretamente em válvula. Ele atua em **objetivos globais**.
