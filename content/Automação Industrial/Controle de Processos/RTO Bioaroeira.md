@@ -223,22 +223,7 @@ Isso representa uma mudança de paradigma:
 
 ---
 # 4. Sistema de RTO
-DRAFT
-
----
-# 5. Modelos Matemáticos do Processo
-DRAFT
-
----
-# 6. Módulo CAR (Identificação de Gargalos)
-DRAFT
-
----
-# 7. Dashboards interativos de visualização e acompanhamento
-DRAFT
-
----
-### 5.1 O que o RTO “enxerga” da planta
+### 4.1 O que o RTO “enxerga” da planta
 No modelo dessa proposta, o RTO enxerga a planta através de três grandes blocos de dados:
 1. **Dados operacionais** vindos da automação (sensores, PLC, PIMS);
 2. **Dados laboratoriais** (LIMS), como pureza, pol, brix, teor alcoólico;
@@ -254,7 +239,7 @@ O RTO não está tentando resolver equações termodinâmicas perfeitas. Ele est
 
 > “Se eu mudar esses parâmetros globais, o que acontece com meus KPIs?”
 
-### 5.2 O papel central do RTO: otimização global
+### 4.2 O papel central do RTO: otimização global
 O ponto mais importante: o RTO é a **primeira camada que enxerga a planta como um todo**.
 
 Na automação tradicional, cada área é um mundo:
@@ -276,7 +261,7 @@ O RTO existe exatamente para resolver esse tipo de conflito sistêmico. Ele faz 
 
 É por isso que o documento fala explicitamente em **“otimização global em tempo real”**.
 
-### 5.3 Como o RTO funciona na prática (dinâmica real)
+### 4.3 Como o RTO funciona na prática (dinâmica real)
 
 Na Fase 1 do projeto, o RTO funciona como **suporte à decisão**. Ele:
 - coleta dados da planta;
@@ -293,7 +278,7 @@ Essas sugestões aparecem em **dashboards interativos**, onde o operador e o ges
 
 Nesse estágio, o RTO **não atua automaticamente**. Ele é um **sistema de recomendação inteligente**. Ele funciona como um **cérebro analítico da operação**, que transforma dados brutos em decisões estratégicas.
 
-### 5.4 A função de custo: o coração matemático do RTO
+### 4.4 A função de custo: o coração matemático do RTO
 Mesmo que o documento não escreva isso em fórmula, conceitualmente o RTO resolve algo do tipo:
 
 $$
@@ -325,7 +310,12 @@ Isso é extremamente importante: **o RTO é um otimizador com função de custo 
 
 Não é engenharia pura. É engenharia + gestão + economia.
 
-### 5.5 Identificação de gargalos: inteligência operacional
+---
+# 5. Modelos Matemáticos do Processo
+DRAFT
+
+---
+# 6. Módulo CAR (Identificação de Gargalos)
 Um elemento central desse RTO é o **CAR – Identificador de Gargalos**.
 
 O sistema monitora continuamente:
@@ -344,6 +334,11 @@ Ou seja: o RTO **não otimiza um modelo ideal**, ele otimiza **a planta real, co
 
 Isso é uma diferença brutal entre RTO acadêmico e RTO industrial.
 
+---
+# 7. Dashboards interativos de visualização e acompanhamento
+DRAFT
+
+---
 ### 5.6 Transição para a Fase 2: RTO como cérebro que comanda a planta
 Na Fase 2 acontece a virada ontológica do sistema. O RTO deixa de ser apenas “consultivo” e passa a ser **executivo**.
 
