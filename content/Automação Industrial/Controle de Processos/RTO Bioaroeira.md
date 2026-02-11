@@ -43,21 +43,21 @@ Dados operacionais:
 - Dados via CLP / PLC
 
 Dados laboratoriais:
-- Concentração do etanol
-- Pureza do etanol
+- Concentração do etanol;
+- Pureza do etanol.
 
 KPIs:
-- Pureza do etanol
-- Eficiência térmica
-- Perdas alcoólicas
-- Consumo energético
+- Pureza do etanol;
+- Eficiência térmica;
+- Perdas alcoólicas;
+- Consumo energético.
 
 Ativos:
-- Coluna de destilação
-- Trocadores de calor
-- Bombas
-- Tanques intermediários
-- Torre de resfriamento  
+- Coluna de destilação;
+- Trocadores de calor;
+- Bombas;
+- Tanques intermediários;
+- Torre de resfriamento.
 
 ### 2.3 Cogeração
 
@@ -66,7 +66,7 @@ Dados operacionais:
 - Variáveis manipuladas e controladas da cogeração;
 - Setpoints da cogeração;
 - Dados via PIMS;
-- Dados via CLP / PLC
+- Dados via CLP/PLC.
 
 Dados inferidos (soft sensors):
 - Umidade do bagaço.
