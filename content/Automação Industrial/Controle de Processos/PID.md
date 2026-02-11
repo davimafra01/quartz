@@ -148,4 +148,7 @@ Por isso, em engenharia de processos, diz-se:
 
 > _“Sem PID bem sintonizado, não existe APC. Sem APC estável, não existe RTO.”_
 
-O PID é a **fundação dinâmica** de toda a pirâmide de controle industrial.
+O PID é a **fundação dinâmica** de toda a pirâmide de controle industrial
+
+---
+
