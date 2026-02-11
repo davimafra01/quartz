@@ -106,7 +106,15 @@ KPIs globais:
 - de qual produto;
 - em qual horizonte de tempo;
 - com quais restrições de campanha;
-- com quais prioridades.
+- com quais prioridades
+
+Esses, por sua vez, vem de:ERP;
+    
+- sistemas financeiros;
+    
+- engenharia econômica;
+    
+- contratos.
 
 ---
 # 3. TO-BE: Dados, KPIs e Ativos que serão gerados
