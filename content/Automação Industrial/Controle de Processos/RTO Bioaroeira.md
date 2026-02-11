@@ -162,7 +162,7 @@ A **FUNÇÃO DE CUSTO** é outra coisa.
 ### 3.2 Dados digitais (gerados pelo RTO)
 O projeto não cria novos sensores físicos, mas cria uma **nova classe de dados digitais**, que não existiam antes: dados calculados, inferidos e otimizados.
 
-A primeira grande categoria são os **(i)** ***soft sensors***, isto é, variáveis que não são medidas diretamente, mas estimadas por modelos matemáticos a partir de dados existentes. Esses *soft sensors* passam a fornecer estimativas contínuas de grandezas relevantes para a otimização, como estados internos do processo, eficiências implícitas, perdas não diretamente mensuráveis, entre outros.
+A primeira grande categoria são os **(i) variáveis calculadas pelos *soft sensors***, isto é, variáveis que não são medidas diretamente, mas estimadas por modelos matemáticos a partir de dados existentes. Esses *soft sensors* passam a fornecer estimativas contínuas de grandezas relevantes para a otimização, como estados internos do processo, eficiências implícitas, perdas não diretamente mensuráveis, entre outros.
 
 A segunda categoria são as **(ii) variáveis calculadas pelos modelos**, como balanços de massa e energia, rendimentos instantâneos, indicadores de eficiência e funções auxiliares utilizadas no problema de otimização.
 
