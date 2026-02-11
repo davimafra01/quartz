@@ -69,7 +69,7 @@ Fisicamente: o integrador “insiste” demais.
 
 ---
 
-### Ação derivativa: antecipação do futuro
+### 1.4 Ação derivativa: antecipação do futuro
 
 A ação derivativa observa a **velocidade de mudança do erro**:
 
@@ -87,9 +87,7 @@ Em sistemas com muita inércia (fornos, reatores, colunas, trocadores), o termo 
 
 O problema é que a derivada amplifica ruído. Sensores industriais nunca são ideais, então o termo D precisa ser usado com cuidado, quase sempre com filtragem.
 
----
-
-### A equação completa do PID
+### 1.5 A equação completa do PID
 
 O PID clássico contínuo é:
 
