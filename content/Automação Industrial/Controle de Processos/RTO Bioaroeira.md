@@ -227,7 +227,7 @@ Isso representa uma mudança de paradigma:
 
 # 5. Modelos Matemáticos do Processo
 
-#
+# 6. Módulo CAR (Identificação de Gargalos)
 ### 5.1 O que o RTO “enxerga” da planta
 No modelo dessa proposta, o RTO enxerga a planta através de três grandes blocos de dados:
 1. **Dados operacionais** vindos da automação (sensores, PLC, PIMS);
