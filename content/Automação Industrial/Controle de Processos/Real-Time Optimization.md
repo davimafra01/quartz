@@ -84,10 +84,9 @@ O RTO precisa de um modelo que relacione entradas e saídas. Um modelo clássico
 - $T_{top}$ = 100°C, $T_{base}$ = 350°C, R = 200 m³/h
 - Produção: G = 600 m³/h, D = 300 m³/h
 - Consumo de vapor: E = 500 kWh
-- Lucro: L = 5,50 * 600 + 4 * 300 - 0,10 * 500 = 3300 + 1200 - 50 = R$ 4.450/h
+- Lucro: L = (5,50 * 600) + (4 * 300) - (0,10 * 500) = 3300 + 1200 - 50 = R$ 4.450/h
 
 ---
-
 ### 3.4 Otimização do RTO
 
 O RTO busca **maximizar L** variando T_top, T_base e R, respeitando limites:
