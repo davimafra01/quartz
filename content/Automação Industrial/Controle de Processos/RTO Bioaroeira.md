@@ -117,6 +117,7 @@ Em síntese, os ativos digitais novos são:
 - Sistema de RTO (otimizador em tempo real);
 - Modelos matemáticos do processo;
 - Módulo CAR (identificador de gargalos);
+- Função de custo;
 - Dashboards interativos de visualização e acompanhamento.
 
 Entraremos em mais detalhes sobre cada um desses ativos da "seção 4" em diante.
