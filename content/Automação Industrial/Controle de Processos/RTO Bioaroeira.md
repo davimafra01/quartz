@@ -20,27 +20,27 @@ Dados laboratoriais:
 - Pol do caldo
 
 KPIs:
-- Rendimento de extração
-- Consumo energético
-- Disponibilidade operacional
-- Eficiência de extração
-- Tonelagem moída
-- Perdas na torta ou bagaço
+- Rendimento de extração;
+- Consumo energético;
+- Disponibilidade operacional;
+- Eficiência de extração;
+- Tonelagem moída;
+- Perdas na torta ou bagaço.
 
 Ativos:
-- Desfibradores
-- Moendas
-- Esteiras
-- Tanques de embebição
-- Sensores de qualidade de caldo  
+- Desfibradores;
+- Moendas;
+- Esteiras;
+- Tanques de embebição;
+- Sensores de qualidade de caldo.
 
 ### 2.2 Destilação
 Dados operacionais:
-- Dados de processo da destilação
-- Variáveis manipuladas e controladas da destilação
-- Setpoints da destilação
-- Dados via PIMS
-- Dados via CLP / PLC
+- Dados de processo da destilação;
+- Variáveis manipuladas e controladas da destilação;
+- Setpoints da destilação;
+- Dados via PIMS;
+- Dados via CLP / PLC.
 
 Dados laboratoriais:
 - Concentração do etanol;
