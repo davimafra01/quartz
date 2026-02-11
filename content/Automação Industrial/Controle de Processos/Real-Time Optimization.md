@@ -113,13 +113,13 @@ L = 5,50_570 + 4_320 - 0,10*505 = 3135 + 1280 - 50,5 ≈ 4364,5 R$/h
 
 > Observação: neste caso, aumentar refluxo aumentou diesel, mas diminuiu gasolina, o que reduziu o lucro.
 
-3. **Ajuste T_base +5°C → T_base = 355°C**
+3. **Ajuste $T_{base}$ +5°C → $T_{base}$ = 355°C**
     - G = 600 + 10*(102-100) - 5*(210-200) = 570 m³/h (mesmo)
     - D = 300 - 5*(102-100) + 3*(210-200) = 320 m³/h
     - E = 500 + 2*(355-350) + 0,5*(210-200) = 500 + 10 + 5 = 515 kWh
     - L = 5,50_570 + 4_320 - 0,10*515 = 3135 + 1280 - 51,5 ≈ 4363,5 R$/h
 
-O RTO conclui que o **ponto ótimo é T_top = 102°C, T_base = 350°C, R = 200 m³/h**, com lucro L ≈ 4.520 R$/h, dentro das restrições e com consumo de energia mínimo.
+O RTO conclui que o **ponto ótimo é $T_{top}$ = 102°C, $T_{base}$ = 350°C, R = 200 m³/h**, com lucro L ≈ 4.520 R$/h, dentro das restrições e com consumo de energia mínimo.
 
 ### 3.5 Interpretação
 
