@@ -92,28 +92,19 @@ O RTO precisa de um modelo que relacione entradas e saídas. Um modelo clássico
 O RTO busca **maximizar L** variando T_top, T_base e R, respeitando limites:
 
 - 95°C ≤ T_top ≤ 105°C
-    
 - 340°C ≤ T_base ≤ 360°C
-    
 - 150 ≤ R ≤ 250
-    
 
 O RTO aplica otimização simples (gradiente ou busca discreta):
 
 1. **Variação T_top +2°C → T_top = 102°C**
-    
     - G = 600 + 10*(102-100) - 5*(200-200) = 620 m³/h
-        
     - D = 300 - 5*(102-100) + 3*(200-200) = 290 m³/h
-        
     - E = 500 + 2*(350-350) + 0,5*(200-200) = 500 kWh
-        
     - L = 5,50_620 + 4_290 - 0,10*500 = 3410 + 1160 - 50 = 4520/h
-        
+
 2. **Aumento do refluxo +10 → R = 210 m³/h**
-    
     - G = 600 + 10*(102-100) - 5*(210-200) = 620 - 50 = 570 m³/h?
-        
 
 Vamos calcular com cuidado:  
 G = 600 + 10*(102-100) - 5*(210-200) = 600 + 20 - 50 = 570 m³/h  
