@@ -112,7 +112,7 @@ Além do próprio RTO, o projeto entrega um conjunto de ativos digitais estrutur
 
 Outro ativo central é o **(iii) CAR (identificador de gargalos)**, que é um módulo analítico responsável por identificar restrições ativas do sistema produtivo, isto é, quais equipamentos, variáveis ou limites estão efetivamente impedindo ganhos adicionais de produção, eficiência ou redução de perdas.
 
-O projeto também entrega **(iv) dashboards interativos**, que constituem a camada de visualização e interação homem-sistema. Esses dashboards consolidam indicadores, metas, recomendações e resultados do RTO, permitindo que operadores, engenheiros e gestores visualizem o estado ótimo da planta e os desvios em relação ao ótimo.
+O projeto também entrega **(iv) *dashboards* interativos**, que constituem a camada de visualização e interação homem-sistema. Esses *dashboards* consolidam indicadores, metas, recomendações e resultados do RTO, permitindo que operadores, engenheiros e gestores visualizem o estado ótimo da planta e os desvios em relação ao ótimo.
 
 Em síntese, os ativos digitais novos são:
 - Sistema de RTO (otimizador em tempo real);
