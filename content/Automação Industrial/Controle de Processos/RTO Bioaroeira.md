@@ -5,7 +5,7 @@ A planta já possui automação, PLCs, sensores, historiadores (PIMS, LIMS), ope
 
 > “Dadas as condições atuais da planta, qual é a melhor forma de operar agora para maximizar os indicadores estratégicos da empresa?”
 
-# 2. Dados, KPIs e Ativos disponíveis
+# 2. Dados, KPIs e Ativos disponíveis (AS-IS)
 
 ### 2.1 Moagem
 Dados operacionais:
@@ -109,7 +109,7 @@ Ativos globais (digitais)
 - APC (fase 2)
 
 ---
-# 3. Dados, KPIs e Ativos que serão gerados
+# 3. Dados, KPIs e Ativos que serão gerados (TO-BE)
 
 
 Esses indicadores não são apenas físicos. Eles são **KPIs industriais e econômicos**, como:
