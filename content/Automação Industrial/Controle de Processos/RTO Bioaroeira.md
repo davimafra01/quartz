@@ -35,24 +35,24 @@ Ativos:
 - Sensores de qualidade de caldo  
 
 ### 2.2 Destilação
-Dados operacionais
+Dados operacionais:
 - Dados de processo da destilação
 - Variáveis manipuladas e controladas da destilação
 - Setpoints da destilação
 - Dados via PIMS
 - Dados via CLP / PLC
 
-Dados laboratoriais
+Dados laboratoriais:
 - Concentração do etanol
 - Pureza do etanol
 
-KPIs da destilação
+KPIs
 - Pureza do etanol
 - Eficiência térmica
 - Perdas alcoólicas
 - Consumo energético
 
-Ativos da destilação
+Ativos
 - Coluna de destilação
 - Trocadores de calor
 - Bombas
@@ -71,7 +71,7 @@ Dados operacionais
 Dados inferidos (soft sensors)
 - Umidade do bagaço  
 
-KPIs da cogeração
+KPIs
 - Eficiência térmica
 - Consumo específico de bagaço
 - Exportação de energia
@@ -79,7 +79,7 @@ KPIs da cogeração
 - Estabilidade de temperatura do vapor
 - Energia gerada por tonelada de bagaço
 
-Ativos da cogeração
+Ativos
 - Caldeiras
 - Turbogeradores
 - Sistemas de alimentação de bagaço
