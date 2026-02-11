@@ -44,9 +44,7 @@ O problema é que, sozinha, a ação proporcional **nunca garante erro zero em r
 
 Em termos físicos: o processo “aceita” uma certa diferença entre SP e PV para se estabilizar.
 
----
-
-### Ação integral: eliminação do erro estrutural
+### 1.3 Ação integral: eliminação do erro estrutural
 
 A ação integral existe para resolver exatamente esse problema. Ela acumula o erro ao longo do tempo:
 
@@ -62,15 +60,10 @@ Sem o termo integral, sistemas reais sempre apresentam offset.
 Com o termo integral, qualquer erro constante se torna matematicamente inaceitável.
 
 O preço disso é que a ação integral introduz **memória no sistema**, o que pode gerar:
-
 - lentidão,
-    
-- sobre-elevação (overshoot),
-    
+- sobre-elevação (*overshoot*),
 - oscilações,
-    
 - e até instabilidade se mal ajustada.
-    
 
 Fisicamente: o integrador “insiste” demais.
 
