@@ -152,7 +152,14 @@ O **IDENTIFICADOR DE GARGALOS (MÓDULO CAR)** responde à pergunta:
 > "O que está limitando o desempenho agora?"
 
 A **FUNÇÃO DE CUSTO** é outra coisa.
-> Ela não quer saber “como funciona”. Ela quer saber o que é bom e o que é ruim. Ela recebe:
+> Ela não quer saber “como funciona”. Ela quer saber o que é bom e o que é ruim.
+> 
+> Ela calcula um índice econômico global da operação, que pode ser lucro, custo total, margem ou valor econômico agregado.
+>
+O importante não é o nome contábil.  
+O importante é isto:
+
+Ela sempre retorna um único número que representa “quão boa é a operação para o negócio”.
 
 Do ERP e da Gestão Econômica:
 - preços de venda;
@@ -190,13 +197,6 @@ Onde:
 Esse valor $J(x)$ representa, matematicamente, **o quão boa é uma determinada configuração operacional do ponto de vista do negócio**.
 
 O papel do RTO é encontrar o vetor de decisões $x$ que maximiza (ou minimiza) essa função, respeitando os modelos e as restrições físicas do processo.
-
-Ela calcula um índice econômico global da operação, que pode ser lucro, custo total, margem ou valor econômico agregado.
-
-O importante não é o nome contábil.  
-O importante é isto:
-
-Ela sempre retorna um único número que representa “quão boa é a operação para o negócio”.
 
 Ou seja: a Função de Custo não recebe dados operacionais e laboratoriais diretamente. Ela recebe as funções dos modelos (que, por sua vez, relacionam as variáveis físicas ao desempenho econômico do processo), vide exemplo da coluna de destilação de petróleo.
 
