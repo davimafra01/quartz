@@ -168,7 +168,7 @@ A segunda categoria são as **(ii) variáveis calculadas pelos modelos**, como b
 
 A terceira categoria são os **(iii) *outputs* do otimizador**, que são, de fato, os dados mais característicos do RTO. Esses outputs incluem valores ótimos das variáveis de decisão, custos ótimos, valores da função objetivo, marginais econômicos, indicadores de sensibilidade e informações sobre quais restrições estão ativas no ponto ótimo.
 
-Ou seja, o RTO transforma dados operacionais brutos em **dados de alto nível cognitivo**, que não existiam no AS-IS.
+Ou seja, o RTO transforma dados operacionais brutos em dados de alto nível cognitivo, que não existiam no AS-IS.
 
 ### 3.3 Novos KPIs
 O projeto não define formalmente um novo conjunto fechado de KPIs com nomes específicos além dos já existentes, mas ele muda qualitativamente a natureza dos KPIs ao introduzir **KPIs econômicos e de otimização**. Tenha em mente que nem todos os KPIs serão transformados pelo RTO.
