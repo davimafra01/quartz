@@ -88,7 +88,7 @@ O RTO precisa de um modelo que relacione entradas e saídas. Um modelo clássico
 
 ### 3.4 Otimização do RTO
 
-O RTO busca **maximizar L** variando T_top, T_base e R, respeitando limites:
+O RTO busca **maximizar L** variando $T_{top}$, $T_{base}$ e R, respeitando limites:
 
 - 95°C ≤ T_top ≤ 105°C
 - 340°C ≤ T_base ≤ 360°C
