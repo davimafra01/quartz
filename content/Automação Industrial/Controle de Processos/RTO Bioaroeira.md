@@ -5,10 +5,10 @@ A planta já possui automação, PLCs, sensores, historiadores (PIMS, LIMS), ope
 
 > “Dadas as condições atuais da planta, qual é a melhor forma de operar agora para maximizar os indicadores estratégicos da empresa?”
 
-# 2. Dados e KPIs disponíveis
+# 2. Dados, KPIs e Ativos disponíveis
 
 
-# 3. Dados e KPIs que serão gerados
+# 3. Dados, KPIs e Ativos que serão gerados
 
 
 Esses indicadores não são apenas físicos. Eles são **KPIs industriais e econômicos**, como:
