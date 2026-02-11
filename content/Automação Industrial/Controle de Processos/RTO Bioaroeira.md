@@ -155,7 +155,7 @@ Do CAR:
 - quais decisões são inviáveis;
 - quais penalidades aplicar.
 
-A função de custo não recebe dados operacionais e laboratoriais diretamente. Ela recebe as funções dos modelos (que, por sua vez, estão em função dos dados operacionais e laboratoriais). Vide exemplo da coluna de destilação de petróleo.
+Ou seja: a Função de Custo não recebe dados operacionais e laboratoriais diretamente. Ela recebe as funções dos modelos (que, por sua vez, estão em função dos dados operacionais e laboratoriais). Vide exemplo da coluna de destilação de petróleo.
 
 > A função de custo não consome dados brutos. Ela consome _variáveis modeladas_ derivadas dos dados.
 
