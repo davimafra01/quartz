@@ -158,8 +158,7 @@ A **FUNÇÃO DE CUSTO** é outra coisa.
 >
 O importante não é o nome contábil.  
 O importante é isto:
-
-Ela sempre retorna um único número que representa “quão boa é a operação para o negócio”.
+>Ela sempre retorna um único número que representa “quão boa é a operação para o negócio”.
 
 Do ERP e da Gestão Econômica:
 - preços de venda;
