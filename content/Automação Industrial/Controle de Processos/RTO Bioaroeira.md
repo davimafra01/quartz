@@ -86,9 +86,7 @@ Ativos da cogeração
 - Exaustores
 - Sistemas de lavagem de gases  
 
----
-
-# 4. ELEMENTOS GLOBAIS (não pertencem a uma área só)
+### 2.4 Ele
 
 ## Dados globais
 
