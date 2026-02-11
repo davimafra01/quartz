@@ -349,6 +349,59 @@ Ou seja: o RTO **não otimiza um modelo ideal**, ele otimiza **a planta real, co
 Isso é uma diferença brutal entre RTO acadêmico e RTO industrial.
 
 ---
+# 7. Função de Custo
+A Função de Custo recebe dados:
+
+Do ERP e da Gestão Econômica:
+- preços de venda;
+- custos de energia;
+- custos de insumos;
+- penalidades contratuais.
+
+Do Plano de Produção:
+- metas de produção;
+- mix de produtos;
+- horizontes de tempo;
+- restrições de campanha;
+- prioridades estratégicas.
+
+Dos modelos:
+- quanto cada decisão afeta produção;
+- quanto consome energia;
+- quanto gera perdas.
+
+Do CAR:
+- quais restrições estão ativas;
+- quais decisões são inviáveis;
+- quais penalidades aplicar.
+
+A Função de Custo combina todas essas informações para calcular um **valor econômico global**, normalmente expresso como uma função de lucro, margem ou custo total da operação.
+
+Em termos formais, a Função de Custo é uma função escalar do tipo:
+
+$J(x)=Receita(x)−Custos(x)−Perdas(x)−Penalidades(x)$
+
+Onde:
+- $x$ = vetor de decisões (*setpoints* ótimos);
+- $J(x)$ = valor econômico global da operação.
+
+Esse valor $J(x)$ representa, matematicamente, **o quão boa é uma determinada configuração operacional do ponto de vista do negócio**.
+
+O papel do RTO é encontrar o vetor de decisões $x$ que maximiza (ou minimiza) essa função, respeitando os modelos e as restrições físicas do processo.
+
+Ou seja: a Função de Custo não recebe dados operacionais e laboratoriais diretamente. Ela recebe as funções dos modelos (que, por sua vez, relacionam as variáveis físicas ao desempenho econômico do processo), vide exemplo da coluna de destilação de petróleo. Na função descrita acima, essas funções dos modelos são a $Receita(x)$, os $Custos(x)$, as $Perdas(x)$ e as $Penalidades(x)$.
+
+A Função de Custo não “vê” coisas como:
+- temperatura medida no sensor T-101;
+- vazão instantânea da FT-203;
+- composição medida no laboratório.
+
+Ela vê coisas como:
+- taxa de produção estimada;
+- consumo energético previsto;
+- rendimento calculado;
+- perdas modeladas;
+- eficiência global do sistema.
 # 8. Dashboards Interativos
 DRAFT
 
