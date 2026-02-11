@@ -125,4 +125,4 @@ O RTO conclui que o **ponto ótimo é T_top = 102°C, T_base = 350°C, R = 200 m
 ---
 ### 3.5 Interpretação
 
-O RTO avaliou **cenários simultâneos**, considerando restrições de temperatura, pressão e vazão, bem como impacto econômico de gasolina, diesel e energia. Ele determinou que aumentar o refluxo ou a temperatura do fundo além de certos limites não traria lucro adicional, e poderia prejudicar a qualidade ou gerar consumo de energia elevado. Os setpoints recomendados são enviados ao APC, que coordena ajustes de maneira suave e controlada, enquanto o PID mantém cada variável estável em tempo real.
+O RTO avaliou **cenários simultâneos**, considerando restrições de temperatura, pressão e vazão, bem como impacto econômico de gasolina, diesel e energia. Ele determinou que aumentar o refluxo ou a temperatura do fundo além de certos limites não traria lucro adicional, e poderia prejudicar a qualidade ou gerar consumo de energia elevado. Os *setpoints* recomendados são enviados ao APC, que coordena ajustes de maneira suave e controlada, enquanto o PID mantém cada variável estável em tempo real.
