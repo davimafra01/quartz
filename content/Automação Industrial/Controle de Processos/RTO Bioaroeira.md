@@ -104,6 +104,7 @@ KPIs globais:
 # 3. Dados, KPIs e Ativos que serão gerados (TO-BE)
 
 
+
 Esses indicadores não são apenas físicos. Eles são **KPIs industriais e econômicos**, como:
 - rendimento de extração na moagem;
 - pureza e teor alcoólico na destilação;
