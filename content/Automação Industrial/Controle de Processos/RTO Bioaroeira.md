@@ -358,7 +358,7 @@ Isso é uma diferença brutal entre RTO acadêmico e RTO industrial.
 DRAFT
 
 ---
-# 8. Introdução à Fase 2: RTO como cérebro da planta
+# 8. Introdução à Fase 2
 Na Fase 2 acontece a virada ontológica do sistema. O RTO deixa de ser apenas “consultivo” e passa a ser **executivo**.
 
 Ele se integra ao APC, e passa a:
