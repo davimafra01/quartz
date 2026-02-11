@@ -95,14 +95,7 @@ Ativos:
 Dados globais:
 - Plano de Produção (metas estratégicas).
 
-KPIs globais*:
-- Rendimento industrial;
-- Consumo energético global;
-- Perdas alcoólicas globais;
-- Eficiência térmica global;
-- Entre outros KPIs a serem definidos em tempo de execução ou em fase de detalhamento.
-
-\* Os KPIs globais são, provavelmente, derivadas dos dados presentes no Plano de Produção, que podem ser coisas como: preços de venda; custos de energia; custos de insumos; penalidades contratuais; metas estratégicas e etc. Importante destacar que, no projeto, não temos informações sobre o que compõe o Plano de Produção, o que significa que esses dados citados são apenas para fins de exemplo.
+\* O Plano de Produção pode conter dados como: preços de venda; custos de energia; custos de insumos; penalidades contratuais; metas estratégicas e etc. Importante destacar que, no projeto, não temos informações sobre o que o compõe, o que significa que esses dados citados são apenas para fins de exemplo.
 
 ---
 # 3. Dados, KPIs e Ativos que serão gerados (TO-BE)
@@ -186,7 +179,12 @@ A partir do RTO passam a existir indicadores como:
 - Ganho econômico estimado em relação à operação atual;
 - Desvio em relação ao ponto ótimo;
 - Utilização de gargalos;
-- Potencial econômico não explorado.
+- Potencial econômico não explorado;
+- Rendimento industrial; adicionei essa linha e as linhas em diante
+- Consumo energético global;
+- Perdas alcoólicas globais;
+- Eficiência térmica global;
+- Entre outros KPIs a serem definidos em tempo de execução ou em fase de detalhamento.
 
 Esses KPIs não são simplesmente indicadores de desempenho operacional, como no AS-IS, mas sim **indicadores de qualidade da decisão**, isto é, medem quão distante a planta está do ótimo matemático-econômico calculado pelo RTO.
 
