@@ -95,7 +95,11 @@ Ativos:
 Dados globais:
 - Plano de Produção (metas estratégicas).
 
-\* O Plano de Produção pode conter dados como: preços de venda; custos de energia; custos de insumos; penalidades contratuais; metas estratégicas e etc. Importante destacar que, no projeto, não temos informações sobre o que o compõe, o que significa que esses dados citados são apenas para fins de exemplo.
+KPIs globais:
+- Rendimento industrial;
+- Consumo energético global;
+- Perdas alcoólicas globais mínimas;
+- Eficiência térmica global ótima.
 
 ---
 # 3. Dados, KPIs e Ativos que serão gerados (TO-BE)
