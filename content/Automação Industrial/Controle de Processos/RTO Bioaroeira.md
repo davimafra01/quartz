@@ -334,7 +334,7 @@ E essa frase não é retórica. Ela descreve exatamente o que esse sistema faz n
 DRAFT
 
 ---
-# 6. Módulo CAR (Identificação de Gargalos)
+# 6. Módulo CAR
 Um elemento central desse RTO é o **CAR – Identificador de Gargalos**.
 
 O sistema monitora continuamente:
