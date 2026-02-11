@@ -13,7 +13,7 @@ Dados operacionais:
 - Variáveis manipuladas e controladas da moagem;
 - Setpoints da moagem (pressão, vazão, temperatura, etc.);
 - Dados via PIMS;
-- Dados via CLP / PLC
+- Dados via CLP / PLC.
 
 Dados laboratoriais:
 - Pureza do caldo;
