@@ -51,7 +51,7 @@ KPIs da destilação
 - Eficiência térmica
 - Perdas alcoólicas
 - Consumo energético
-    
+
 Ativos da destilação
 - Coluna de destilação
 - Trocadores de calor
@@ -89,9 +89,7 @@ Ativos da cogeração
 ### 2.4 Elementos Globais
 
 Dados globais
-- Plano de produção
-- Dados laboratoriais consolidados (LIMS)
-- Dados históricos e tempo real (PIMS)  
+- Plano de produção.
 
 KPIs globais
 - Rendimento industrial
