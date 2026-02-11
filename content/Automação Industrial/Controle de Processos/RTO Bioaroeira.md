@@ -167,7 +167,7 @@ A primeira grande categoria são os **(i)** ***soft sensors***, isto é, variáv
 A segunda categoria são as **(ii) variáveis calculadas pelos modelos**, como balanços de massa e energia, rendimentos instantâneos, indicadores de eficiência e funções auxiliares utilizadas no problema de otimização.
 
 A terceira categoria são os **(iii) *outputs* do otimizador**, que são, de fato, os dados mais característicos do RTO. Esses outputs incluem valores ótimos das variáveis de decisão, custos ótimos, valores da função objetivo, marginais econômicos, indicadores de sensibilidade e informações sobre quais restrições estão ativas no ponto ótimo. Eles são:
-- setpoints ótimos (das variáveis físicas utilizadas nos modelos;
+- *setpoints* ótimos (das variáveis físicas utilizadas nos modelos;
 - valor da função de custo (que, por sua vez, utiliza os modelos);
 - restrições ativas (provenientes do módulo CAR);
 - marginais econômicos;
