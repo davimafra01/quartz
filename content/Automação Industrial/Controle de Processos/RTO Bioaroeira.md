@@ -156,8 +156,7 @@ A **FUNÇÃO DE CUSTO** é outra coisa.
 > 
 > Ela calcula um índice econômico global da operação, que pode ser lucro, custo total, margem ou valor econômico agregado.
 >
-O importante não é o nome contábil.  
-O importante é isto:
+>O importante não é o nome contábil. O importante é isto:
 >Ela sempre retorna um único número que representa “quão boa é a operação para o negócio”.
 
 Do ERP e da Gestão Econômica:
