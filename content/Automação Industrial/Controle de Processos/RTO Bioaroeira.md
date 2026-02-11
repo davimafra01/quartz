@@ -59,11 +59,9 @@ Ativos da destilação
 - Tanques intermediários
 - Torre de resfriamento  
 
-### 2.3 COGERAÇÃO
+### 2.3 Cogeração
 
-## Dados (citados no documento)
-
-### Dados operacionais
+##Dados operacionais
 
 - Dados de processo da cogeração
     
