@@ -174,17 +174,19 @@ Ou seja, o RTO transforma dados operacionais brutos em **dados de alto nível co
 ### 3.3 Novos KPIs
 O projeto não define formalmente um novo conjunto fechado de KPIs com nomes específicos além dos já existentes, mas ele muda qualitativamente a natureza dos KPIs ao introduzir **KPIs econômicos e de otimização**.
 
-A partir do RTO passam a existir indicadores como:
+O projeto não cria novos KPIs operacionais, mas passa a fornecer **versões ótimas, preditivas e econômicas** dos KPIs já existentes, como:
+- Rendimento industrial ótimo;
+- Consumo energético global ótimo;
+- Perdas alcoólicas globais mínimas;
+- Eficiência térmica global ótima.
+
+Além de KPIs nativamente novos do RTO:
 - Valor da função de custo global;
-- Ganho econômico estimado em relação à operação atual;
+- Ganho econômico estimado;
 - Desvio em relação ao ponto ótimo;
 - Utilização de gargalos;
 - Potencial econômico não explorado;
-- Rendimento industrial; adicionei essa linha e as linhas em diante
-- Consumo energético global;
-- Perdas alcoólicas globais;
-- Eficiência térmica global;
-- Entre outros KPIs a serem definidos em tempo de execução ou em fase de detalhamento.
+- Entre outros KPIs a serem definidos em tempo de execução ou na fase de detalhamento.
 
 Esses KPIs não são simplesmente indicadores de desempenho operacional, como no AS-IS, mas sim **indicadores de qualidade da decisão**, isto é, medem quão distante a planta está do ótimo matemático-econômico calculado pelo RTO.
 
