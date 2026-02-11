@@ -151,9 +151,9 @@ O trabalho real é mais assim:
 6. Implementar em plataforma industrial com softwares industriais de RTO, como:
 	- Aspen PIMS / Aspen RTO
 	- Honeywell RTO
-- Emerson DeltaV Predict / RTO
-- Siemens APC/RTO
-- AVEVA (Schneider) RTO
+	- Emerson DeltaV Predict / RTO
+	- Siemens APC/RTO
+	- AVEVA (Schneider) RTO
 
 7. Monitorar performance econômica.
 
