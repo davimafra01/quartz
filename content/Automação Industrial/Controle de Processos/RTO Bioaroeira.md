@@ -101,7 +101,8 @@ KPIs globais:
 - Perdas alcoólicas;
 - Eficiência térmica.
 
-	\* No contexto industrial real (MES/ERP), o **Plano de Produção** é algo como:
+\*
+	No contexto industrial real (MES/ERP), o **Plano de Produção** é algo como:
 		- quanto produzir;
 		- de qual produto;
 		- em qual horizonte de tempo;
