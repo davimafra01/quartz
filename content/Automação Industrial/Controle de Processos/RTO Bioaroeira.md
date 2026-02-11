@@ -3,7 +3,7 @@ O **RTO (*Real-Time Optimization*)** não é um “controlador” no sentido cl�
 
 A planta já possui automação, PLCs, sensores, historiadores (PIMS, LIMS), operadores humanos e malhas regulatórias. Tudo isso já funciona. O RTO não substitui nada disso. Ele entra como uma **camada superior de raciocínio**, que observa a planta como um sistema integrado de produção, energia e matéria-prima, e responde a uma pergunta muito específica:
 
-> “Dadas as condições atuais da planta, qual é a melhor forma de operar agora para maximizar os indicadores estratégicos da empresa?”
+> “Dadas as condições atuais da planta, qual é a melhor forma de operar agora para maximizar os indicadores **ESTRATÉGICOS** da empresa?”
 
 # 2. Dados, KPIs e Ativos disponíveis (AS-IS)
 
