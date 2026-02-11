@@ -16,9 +16,9 @@ Todo processo industrial tem dinâmica. Isso significa que ele **não responde i
 Se você abre uma válvula de vapor para aquecer um tanque, a temperatura não sobe instantaneamente. Ela sobe com um certo atraso e com uma certa taxa. O PID existe exatamente para lidar com esse tipo de realidade física.
 
 O controlador observa continuamente:
-- a variável de processo (PV – *Process Variable*),
-- o valor desejado (SP – Setpoint),
-- e calcula o erro:
+- Variável de processo (PV – *Process Variable*),
+- Valor desejado (SP – Setpoint),
+- Calcula o erro:
     e(t)=SP(t)−PV(t)e(t) = SP(t) - PV(t)e(t)=SP(t)−PV(t)
 
 A partir disso, ele gera o sinal de controle (MV – *Manipulated Variable*), que é o comando para o atuador físico do processo.
