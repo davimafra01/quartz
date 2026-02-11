@@ -137,26 +137,18 @@ A partir do RTO passam a existir indicadores como:
 - Desvio em relação ao ponto ótimo;
 - Utilização de gargalos;
 - Potencial econômico não explorado.
-    
 
 Esses KPIs não são simplesmente indicadores de desempenho operacional, como no AS-IS, mas sim **indicadores de qualidade da decisão**, isto é, medem quão distante a planta está do ótimo matemático-econômico calculado pelo RTO.
 
 Mesmo quando os KPIs têm o mesmo nome dos anteriores (eficiência, rendimento, consumo), eles passam a existir também em uma versão **“ótima”**, fornecida pelo modelo, e não apenas na versão “real”, medida na planta.
 
----
-
 ## 3.4 Novas capacidades de controle e decisão
-
 Essa é, conceitualmente, a entrega mais importante do projeto.
 
 Antes do RTO, a planta apenas:
-
 - mede;
-    
 - controla localmente (PID/APC);
-    
 - observa indicadores.
-    
 
 Depois do RTO, a planta passa a ter **capacidade formal de decidir matematicamente**.
 
