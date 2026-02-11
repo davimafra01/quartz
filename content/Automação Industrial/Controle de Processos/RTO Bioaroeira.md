@@ -7,7 +7,198 @@ A planta já possui automação, PLCs, sensores, historiadores (PIMS, LIMS), ope
 
 # 2. Dados, KPIs e Ativos disponíveis
 
+### 2.1 Moagem
+Dados operacionais:
+- Dados de processo da moagem
+- Variáveis manipuladas e controladas da moagem
+- Setpoints da moagem (pressão, vazão, temperatura, etc.)
+- Dados via PIMS
+- Dados via CLP / PLC
 
+Dados laboratoriais:
+- Pureza do caldo
+- Pol do caldo
+
+KPIs:
+- Rendimento de extração
+- Consumo energético
+- Disponibilidade operacional
+- Eficiência de extração
+- Tonelagem moída
+- Perdas na torta ou bagaço
+
+Ativos:
+- Desfibradores
+- Moendas
+- Esteiras
+- Tanques de embebição
+- Sensores de qualidade de caldo  
+
+---
+
+# 2. DESTILAÇÃO
+
+## Dados (citados no documento)
+
+### Dados operacionais
+
+- Dados de processo da destilação
+    
+- Variáveis manipuladas e controladas da destilação
+    
+- Setpoints da destilação
+    
+- Dados via PIMS
+    
+- Dados via CLP / PLC
+    
+
+### Dados laboratoriais
+
+- Concentração do etanol
+    
+- Pureza do etanol  
+    
+    RTO
+    
+
+---
+
+## KPIs da destilação
+
+- Pureza do etanol
+    
+- Eficiência térmica
+    
+- Perdas alcoólicas
+    
+- Consumo energético
+    
+
+---
+
+## Ativos da destilação
+
+- Coluna de destilação
+    
+- Trocadores de calor
+    
+- Bombas
+    
+- Tanques intermediários
+    
+- Torre de resfriamento  
+    
+    RTO
+    
+
+---
+
+# 3. COGERAÇÃO
+
+## Dados (citados no documento)
+
+### Dados operacionais
+
+- Dados de processo da cogeração
+    
+- Variáveis manipuladas e controladas da cogeração
+    
+- Setpoints da cogeração
+    
+- Dados via PIMS
+    
+- Dados via CLP / PLC
+    
+
+### Dados inferidos (soft sensors)
+
+- Umidade do bagaço  
+    
+    RTO
+    
+
+---
+
+## KPIs da cogeração
+
+- Eficiência térmica
+    
+- Consumo específico de bagaço
+    
+- Exportação de energia
+    
+- Estabilidade de pressão do vapor
+    
+- Estabilidade de temperatura do vapor
+    
+- Energia gerada por tonelada de bagaço
+    
+
+---
+
+## Ativos da cogeração
+
+- Caldeiras
+    
+- Turbogeradores
+    
+- Sistemas de alimentação de bagaço
+    
+- Exaustores
+    
+- Sistemas de lavagem de gases  
+    
+    RTO
+    
+
+---
+
+# 4. ELEMENTOS GLOBAIS (não pertencem a uma área só)
+
+## Dados globais
+
+- Plano de produção
+    
+- Dados laboratoriais consolidados (LIMS)
+    
+- Dados históricos e tempo real (PIMS)  
+    
+    RTO
+    
+
+---
+
+## KPIs globais (explicitamente tratados como globais)
+
+- Rendimento industrial
+    
+- Consumo energético global
+    
+- Perdas alcoólicas globais
+    
+- Eficiência térmica global  
+    
+    RTO
+    
+
+---
+
+## Ativos globais (digitais)
+
+- RTO (otimizador em tempo real)
+    
+- Função de custo
+    
+- CAR – Identificador de Gargalos
+    
+- Dashboards integrados
+    
+- Modelos matemáticos / analíticos
+    
+- Soft sensors (como classe de ativos)
+    
+- APC (fase 2)
 # 3. Dados, KPIs e Ativos que serão gerados
 
 
