@@ -97,9 +97,9 @@ Dados globais:
 
 KPIs globais:
 - Rendimento industrial;
-- Consumo energético global;
-- Perdas alcoólicas globais mínimas;
-- Eficiência térmica global ótima.
+- Consumo energético;
+- Perdas alcoólicas;
+- Eficiência térmica.
 
 ---
 # 3. Dados, KPIs e Ativos que serão gerados (TO-BE)
