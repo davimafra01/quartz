@@ -5,6 +5,9 @@ A planta já possui automação, PLCs, sensores, historiadores (PIMS, LIMS), ope
 
 > “Dadas as condições atuais da planta, qual é a melhor forma de operar agora para maximizar os indicadores estratégicos da empresa?”
 
+# 2. Dados disponíveis
+
+# 3. 
 Esses indicadores não são apenas físicos. Eles são **KPIs industriais e econômicos**, como:
 - rendimento de extração na moagem;
 - pureza e teor alcoólico na destilação;
@@ -83,8 +86,6 @@ O documento **não lista sensores individuais**, mas explicita os seguintes **da
 - Energia gerada por tonelada de bagaço
 - Umidade do bagaço (soft sensor)
 
----
-
 # 2. KPIs mencionados no documento
 
 Os KPIs explicitamente citados são:
@@ -115,7 +116,6 @@ KPIs com “sabor” de cogeração
 
 Mas isso é **apenas uma decomposição operacional**, pois os KPIs não são necessariamente exclusivos por área.
 
----
 # 3. Ativos por área (equipamentos citados)
 
 O documento **não traz listas formais de ativos**, mas cita explicitamente os seguintes elementos físicos:
