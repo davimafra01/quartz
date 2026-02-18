@@ -51,3 +51,16 @@ Portanto, mesmo que os cardeais Bellarmino e Caetano tenham afirmado que não h�
 ---
 # 3. Atos 3:21
 
+Atos 3:21 (ARA):
+>19 Arrependei-vos, pois, e convertei-vos para serem cancelados os vossos pecados,
+>
+>20 a fim de que, da presença do Senhor, venham tempos de refrigério, e que envie ele o Cristo, que já vos foi designado, Jesus,
+>
+>**21 ao qual é necessário que o céu receba até aos tempos da restauração de todas as coisas, de que Deus falou por boca dos seus santos profetas desde a antiguidade.**
+
+Este argumento consiste em afirmar que Jesus não pode estar presente fisicamente em todas as hóstias ao redor do mundo, pois Ele está e continuará contido nos Céus até aos tempos da restauração de todas as coisas.
+
+O problema deste argumento é que a doutrina da Transubstanciação não afirma que Cristo está presente fisicamente, mas substancialmente.
+
+---
+

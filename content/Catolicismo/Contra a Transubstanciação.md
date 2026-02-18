@@ -146,9 +146,7 @@ O texto afirma não haver mais necessidade de oferecer sacrifícios todos os dia
 - "[...] porque isso faz parte do sacrifício como um todo [...]";
 - "[...] uma questão de realizar o sacrifício plenamente [...]";
 - "[...] ele (o sacerdote) está realizando um sacrifício [...]";
-- "[...] faz parte do oferecimento do sacrifício [...]"..
-
-
+- "[...] faz parte do oferecimento do sacrifício [...]".
 
 ---
 # 4. 
