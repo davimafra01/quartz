@@ -87,7 +87,7 @@ Lucas 22:19-20
 João 6:51-58
 >“Quem come a minha carne e bebe o meu sangue tem a vida eterna.”
 
-Há registros históricos de que a Igreja praticava a comunhão sob uma espécie, contudo, isso era feito apenas de forma extraordinária, vejamos:
+Há registros históricos de que a Igreja praticava a comunhão sob uma espécie, vejamos:
 
 - Comunhão apenas do pão para enfermos e ausentes:
 	- Um dos testemunhos mais antigos vem de Justino Mártir (†165), na Primeira Apologia (c. 67):
@@ -102,7 +102,7 @@ Há registros históricos de que a Igreja praticava a comunhão sob uma espécie
 - Comunhão apenas do vinho em casos extremos
 	- Cipriano de Cartago (†258) relata casos de enfermos que recebiam somente o vinho consagrado, quando não podiam ingerir alimento sólido.
 
-Papa Gelásio I dizia que era um sacrilégio realizar a Eucaristia sem o vinho.
+Percebe-se que a comunhão com uma espécie eraPapa Gelásio I dizia que era um sacrilégio realizar a Eucaristia sem o vinho.
 
 Tendo isso em vista, como podemos normalizar a comunhão feita na maioria das igrejas católicas apenas com o pão, já que em grande parte dos casos, apenas os padres bebem o vinho?
 
