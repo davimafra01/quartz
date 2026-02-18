@@ -47,6 +47,8 @@ Mas voltando ao tema, fato é que a transubstanciação apenas explica o fenôme
 
 Para Bellarmino, o que a Escritura ensina é a presença real, enquanto a explicação de que isso ocorre por mudança de substância é uma definição dogmática da Igreja, especialmente consolidada no Concílio de Trento. Em outras palavras: não é **improvável** que não hajam textos que comprovem como ocorre, mas há abundância de textos que comprovam a presença real.
 
+Santo Tomás de Aquino fala sobre 
+
 Portanto, mesmo que Bellarmino tenha afirmado que não há provas concretas na bíblia a favor da transubstanciação, isso em nada enfraquece a doutrina da presença real de Cristo.
 
 ---
