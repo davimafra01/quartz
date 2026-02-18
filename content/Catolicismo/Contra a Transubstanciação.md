@@ -135,7 +135,7 @@ Diz-se que um novo sacrifício não é feito, mas que o mesmo sacrifício é rep
 >
 >Então, aí está a doutrina da Igreja , que nos ensina que podemos receber o Cristo Todo, mesmo sob uma única espécie.
 
-Contudo, Hb 7:27 é muito claro:
+Contudo, Hb 7:27 (ARA) é muito claro:
 >26 Com efeito, nos convinha um sumo sacerdote como este, santo, inculpável, sem mácula, separado dos pecadores e feito mais alto do que os céus,
 >
 >**27 que não tem necessidade, como os sumos sacerdotes, de oferecer todos os dias sacrifícios, primeiro, por seus próprios pecados, depois, pelos do povo; porque fez isto uma vez por todas, quando a si mesmo se ofereceu.**
