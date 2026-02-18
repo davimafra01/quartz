@@ -18,7 +18,7 @@ Sendo assim, consideraremos a violação teológica, que, de fato, faz mais sent
 ** Está implícito que a autodoação por parte de qualquer outro ser humano não implica em validez sobre o ato de "beber sangue", pois ninguém pode doar aquilo que não tem, e mesmo a nossa vida, não nos pertence.
 
 ---
-# 2. Cardeal Robert Bellarmine (1542-1621)
+# 2. Cardeal Roberti Bellarmini (1542-1621)
 
 Em sua obra "Sobre o Sacramento da Eucaristia", no Livro 3, Capítulo 23, Bellarmino diz:
 >"Não é de todo improvável que não haja na escritura palavra clara e expressa que prove a transubstanciação sem a declaração da igreja, como disse *Scottus*: 'com justiça, pode-se duvidar se o texto é bastante claro por si mesmo, visto terem pensado de modo contrário os homens mais inteligentes e doutos'".
