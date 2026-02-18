@@ -94,13 +94,13 @@ Há registros históricos de que a Igreja praticava a comunhão sob uma espécie
 	- “Aos que não estão presentes, os diáconos levam a Eucaristia.”
 	- Na prática, levava-se apenas o pão consagrado, por ser mais fácil de conservar e transportar.
 
+- Comunhão apenas do vinho em casos extremos
+	- Cipriano de Cartago (†258) relata casos de enfermos que recebiam somente o vinho consagrado, quando não podiam ingerir alimento sólido.
+
 - Comunhão apenas do pão para crianças
 	- Agostinho de Hipona (†430) menciona que crianças comungavam apenas sob a espécie do pão:
 	- “As crianças participam do corpo e do sangue de Cristo” - (*De peccatorum meritis*, I, 24)
 	- Mas, na prática litúrgica africana, recebiam só o pão, sem o cálice.
-
-- Comunhão apenas do vinho em casos extremos
-	- Cipriano de Cartago (†258) relata casos de enfermos que recebiam somente o vinho consagrado, quando não podiam ingerir alimento sólido.
 
 Percebe-se então que a comunhão com uma espécie era realizada apenas em ocasiões extraordinárias e, por isso, defende-se que os padres da época tinham o entendimento de que Cristo estava inteiro em cada espécie e, portanto, as duas espécies não são necessárias. Transformou-se então a exceção disciplinar em regra pastoral, porque a exceção, de acordo com a Igreja Católica, já era teologicamente legítima
 
