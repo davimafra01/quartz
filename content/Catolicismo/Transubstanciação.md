@@ -106,8 +106,15 @@ Em termos estritamente tomistas, portanto, os milagres da Eucaristia não são e
 
 ---
 
-# 4. Se comêssemos do Corpo e bebêssemos do sangue, seríamos consumados
+# 4. 
+
+---
+# 10. Se comêssemos do Corpo e bebêssemos do sangue, seríamos consumados
 Rascunho.
 
-# 5. Deus nunca ordenou que bebêssemos sangue. Seria essa é a única exceção?
+---
+
+# 10. Deus nunca ordenou que bebêssemos sangue. Seria essa é a única exceção?
 Rascunho.
+
+---
