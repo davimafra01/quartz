@@ -70,6 +70,6 @@ João 6:51-58
 
 Além disso, Papa Gelásio I dizia que era um sacrilégio realizar a Eucaristia sem o vinho.
 
-Tendo isso em vista, como podemos normalizar a comunhão feita na maioria das igrejas católicas apenas com o pão? Em grande parte dos casos, apenas os padres bebem o vinho.
+Tendo isso em vista, como podemos normalizar a comunhão feita na maioria das igrejas católicas apenas com o pão, já que em grande parte dos casos, apenas os padres bebem o vinho?
 
 São Basílio levava a comunhão em uma espécie para os doentes (por que?), por ser um rito extraordinário, contudo, na missa, sempre há as duas espécies. 
