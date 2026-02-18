@@ -41,6 +41,8 @@ Geralmente, quando essa citação de Bellarmino é utilizada, também se fala so
 
 O argumento protestante baseia-se em afirmar que até mesmo esses dois Cardeais da Igreja Católica afirmavam que não havia prova escritural a favor da transubstanciação. Contudo, o próprio Bellarmino a presença real de Cristo nos elementos do pão e do vinho, apesar de haver certa dúvida com relação à disposição de Caetano a esse respeito.
 
+Inclusive, Duns Scotus ()
+
 Fato é que a transubstanciação apenas explica o fenômeno milagroso da Eucaristia, o que significa que seu registro na Santa Escritura não é necessário e nem mesmo faria sentido, haja vista sua complexidade.
 
 Para Bellarmino, o que a Escritura ensina é a presença real, enquanto a explicação de que isso ocorre por mudança de substância é uma definição dogmática da Igreja, especialmente consolidada no Concílio de Trento.
