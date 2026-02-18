@@ -39,9 +39,7 @@ Geralmente, quando essa citação de Bellarmino é utilizada, também se fala so
 >
 >O Jesuíta Suarez diz que o Cardeal Caetano ensinou que as palavras – Este é meu corpo, não provam suficientemente por si mesmas a transubstanciação, sem a autoridade da Igreja; e que, por isso mesmo, por ordem de Pio V, aquela parte de seu comentário foi excluída da edição romana de suas obras.
 
-O argumento protestante baseia-se em afirmar que até mesmo esses dois Cardeais da Igreja Católica afirmavam que não havia prova escritural a favor da transubstanciação. Contudo, o próprio Bellarmino a presença real de Cristo nos elementos do pão e do vinho, apesar de haver certa dúvida com relação à disposição de Caetano a esse respeito.
-
-Inclusive, Duns Scotus (?-1308)
+O argumento protestante baseia-se em afirmar que até mesmo esses dois Cardeais da Igreja Católica afirmavam que não havia prova escritural a favor da transubstanciação. Contudo, o próprio Bellarmino defendia - assim como Duns Scotus - a presença real de Cristo nos elementos do pão e do vinho, apesar de haver certa dúvida com relação à disposição de Caetano a esse respeito.
 
 Fato é que a transubstanciação apenas explica o fenômeno milagroso da Eucaristia, o que significa que seu registro na Santa Escritura não é necessário e nem mesmo faria sentido, haja vista sua complexidade.
 
