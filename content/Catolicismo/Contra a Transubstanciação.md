@@ -104,9 +104,7 @@ Há registros históricos de que a Igreja praticava a comunhão sob uma espécie
 
 Percebe-se então que a comunhão com uma espécie era realizada apenas em ocasiões extraordinárias e, por isso, defende-se que os padres da época tinham o entendimento de que Cristo estava inteiro em cada espécie e, portanto, as duas espécies não são necessárias. Transformou-se então a exceção disciplinar em regra pastoral, porque a exceção, de acordo com a Igreja Católica, já era teologicamente legítima
 
-Sabe-se, no entanto, que o próprio Papa Gelásio I dizia que era um sacrilégio realizar a Eucaristia sem o vinho.
-
-Tendo isso em vista, como podemos normalizar a comunhão feita na maioria das igrejas católicas apenas com o pão, já que em grande parte dos casos, apenas os padres bebem o vinho?
+Sabe-se, no entanto, que o próprio Papa Gelásio I dizia que era um sacrilégio realizar a Eucaristia sem o vinho. Tendo isso em vista, como podemos normalizar a comunhão feita na maioria das igrejas católicas apenas com o pão, já que em grande parte dos casos, apenas os padres bebem o vinho?
 
 Vejamos o que o Padre Paulo Ricardo diz a esse respeito em seu vídeo "[É necessário comungar sob as duas espécies?](https://www.youtube.com/watch?v=5XL55oBeNvA)":
 
