@@ -109,9 +109,7 @@ Sabe-se, no entanto, que o próprio Papa Gelásio I dizia que era um sacrilégio
 ---
 # 3. O sacrifício de Jesus é repetido
 
-Diz-se que um novo sacrifício não é feito, mas que o mesmo sacrifício é repetido. Podem
-
-Vejamos o que o Padre Paulo Ricardo diz a esse respeito em seu vídeo "[É necessário comungar sob as duas espécies?](https://www.youtube.com/watch?v=5XL55oBeNvA)":
+Diz-se que um novo sacrifício não é feito, mas que o mesmo sacrifício é repetido. Podemos ver o Padre Paulo Ricardo diz a esse respeito em seu vídeo "[É necessário comungar sob as duas espécies?](https://www.youtube.com/watch?v=5XL55oBeNvA)":
 
 >O que a Igreja ensina a respeito da Comunhão sob as duas espécies?
 >
