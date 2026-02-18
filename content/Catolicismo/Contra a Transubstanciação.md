@@ -135,7 +135,7 @@ Diz-se que um novo sacrifício não é feito, mas que o mesmo sacrifício é rep
 >
 >Então, aí está a doutrina da Igreja , que nos ensina que podemos receber o Cristo Todo, mesmo sob uma única espécie.
 
-
+Contudo, o
 
 ---
 # 4. 
