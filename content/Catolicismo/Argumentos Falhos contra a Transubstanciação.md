@@ -51,4 +51,5 @@ Portanto, mesmo que os cardeais Bellarmino e Caetano tenham afirmado que não h�
 ---
 # 3. Comunhão em apenas uma espécie
 
-Esse não é um argumento contra a transubstanciação, mas contra o modo que a Eucaristia é ministrada. 
+Esse não é um argumento contra a transubstanciação, mas contra o modo que a Eucaristia é ministrada. A bíblia ensina a comunhão com as duas espécies, quando Paulo diz:
+
