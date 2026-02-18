@@ -91,7 +91,21 @@ Além disso, Papa Gelásio I dizia que era um sacrilégio realizar a Eucaristia 
 
 Tendo isso em vista, como podemos normalizar a comunhão feita na maioria das igrejas católicas apenas com o pão, já que em grande parte dos casos, apenas os padres bebem o vinho?
 
-São Justino Mártir levava a comunhão em uma espécie para os doentes, por ser um rito extraordinário, contudo, na missa, sempre há as duas espécies. Mesmo sendo uma ocasião extraordinária, ainda não parece ser algo justificável.
+Há registros históricos de que a Igreja praticava a comunhão sob uma espécie, contudo, isso era feito apenas de forma extraordinária, vejamos:
+
+Comunhão apenas do pão para enfermos e ausentes
+Um dos testemunhos mais antigos vem de Justino Mártir (†165), na Primeira Apologia (c. 67):
+“Aos que não estão presentes, os diáconos levam a Eucaristia.”
+Na prática, levava-se apenas o pão consagrado, por ser mais fácil de conservar e transportar.
+
+Comunhão apenas do pão para crianças
+Agostinho de Hipona (†430) menciona que crianças comungavam apenas sob a espécie do pão:
+“As crianças participam do corpo e do sangue de Cristo”
+(De peccatorum meritis, I, 24)
+Mas, na prática litúrgica africana, recebiam só o pão, sem o cálice.
+
+Comunhão apenas do vinho em casos extremos
+Cipriano de Cartago (†258) relata casos de enfermos que recebiam somente o vinho consagrado, quando não podiam ingerir alimento sólido.
 
 Vejamos o que o Padre Paulo Ricardo diz a esse respeito em seu vídeo "[É necessário comungar sob as duas espécies?](https://www.youtube.com/watch?v=5XL55oBeNvA)":
 
