@@ -15,7 +15,7 @@ Sendo assim, consideraremos a violação teológica, que, de fato, faz mais sent
 ** Está implícito que a autodoação por parte de qualquer outro ser humano não implica em validez sobre o ato de "beber sangue", pois ninguém pode doar aquilo que não tem, e mesmo a nossa vida não nos pertence.
 
 ---
-# 2. Cardeal Roberti Bellarmini (1542-1621)
+# 2. Não há prova escritural a favor da Transubstanciação
 
 Roberto Belarmino (1542-1621) foi um dos mais importantes teólogos, cardeais e intelectuais da Igreja Católica no período da Contra-Reforma, vivendo entre os séculos XVI e XVII. Jesuíta, professor e depois cardeal, destacou-se sobretudo por sua atuação na defesa da doutrina católica contra o protestantismo, sendo um dos principais sistematizadores da teologia pós-Trento. Sua obra mais famosa, *Disputationes de Controversiis Christianae Fidei*, tornou-se um dos manuais teológicos mais influentes da época, usada durante séculos na formação do clero, pois organizava de modo rigoroso as controtrinas católicas sobre Escritura, Igreja, sacramentos, autoridade do papa e tradição. Belarmino teve também papel relevante em questões políticas e eclesiásticas, inclusive no contexto do caso Galileu, embora pessoalmente fosse conhecido por prudência intelectual e moderação. Pela profundidade teológica, clareza argumentativa e fidelidade ao magistério, foi canonizado em 1930 e proclamado Doutor da Igreja em 1931, sendo reconhecido como uma das maiores autoridades intelectuais da história do catolicismo.
 
@@ -46,7 +46,7 @@ Para Bellarmino, o que a Escritura ensina é a presença real, enquanto a explic
 
 Santo Tomás de Aquino defende que a transubstanciação não está materialmente contida na Bíblia, mas virtualmente. Isso significa que a Escritura não apresenta de forma explícita e conceitual a doutrina tal como ela foi depois definida pela Igreja, porém contém princípios e afirmações (como “isto é o meu corpo”) que, quando corretamente interpretados pela razão teológica e pela autoridade da Tradição, implicam necessariamente essa doutrina. Assim, a transubstanciação não está formalmente formulada no texto bíblico, mas está virtualmente presente como conclusão legítima extraída dele.
 
-Portanto, mesmo que Bellarmino tenha afirmado que não há provas concretas na bíblia a favor da transubstanciação, isso em nada enfraquece a doutrina da presença real de Cristo.
+Portanto, mesmo que os cardeais Bellarmino e Caetano tenham afirmado que não há provas concretas na bíblia a favor da transubstanciação, isso em nada enfraquece a doutrina da presença real de Cristo na Eucaristia.
 
 ---
 # 3. 
