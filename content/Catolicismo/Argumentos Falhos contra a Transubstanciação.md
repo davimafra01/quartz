@@ -21,5 +21,14 @@ Sendo assim, consideraremos a violação teológica, que, de fato, faz mais sent
 # 2. Cardeal Roberti Bellarmini (1542-1621)
 
 Em sua obra "*De Sacramento Eucharistiae*", *liber III*,  *caput XXIII*, Bellarmino diz:
->"Não é de todo improvável que não haja na escritura palavra clara e expressa que prove a transubstanciação sem a declaração da igreja, como disse *Scottus*: 'com justiça, pode-se duvidar se o texto é bastante claro por si mesmo, visto terem pensado de modo contrário os homens mais inteligentes e doutos'".
+>"Não é de todo improvável que não haja na escritura palavra clara e expressa **que prove a transubstanciação** sem a declaração da igreja, como disse *Scottus*: 'com justiça, pode-se duvidar se o texto é bastante claro por si mesmo, visto terem pensado de modo contrário os homens mais inteligentes e doutos'".
 
+O argumento protestante baseia-se em afirmar que até mesmo Bellarmino afirmava que não havia prova escritural a favor da transubstanciação. Contudo, o próprio autor da citação defendia a presença real de Cristo nos elemento do pão e do vinho.
+
+A transubstanciação apenas explica o fenômeno milagroso da Eucaristia, o que significa que seu registro na Santa Escritura não é necessário e nem mesmo faria sentido.
+
+Portanto, mesmo que Bellarmino tenha afirmado que não há provas concretas na bíblia a favor da transubstanciação, isso em nada enfraquece a doutrina da presença real de Cristo.
+
+---
+
+# 3. 
