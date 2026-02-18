@@ -50,3 +50,4 @@ Portanto, mesmo que os cardeais Bellarmino e Caetano tenham afirmado que n√£o h√
 
 ---
 
+# 3. Atos 3:21
