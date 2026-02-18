@@ -99,8 +99,12 @@ Há registros históricos de que a Igreja praticava a comunhão sob uma espécie
 	- “As crianças participam do corpo e do sangue de Cristo” - (*De peccatorum meritis*, I, 24)
 	- Mas, na prática litúrgica africana, recebiam só o pão, sem o cálice.
 
-Comunhão apenas do vinho em casos extremos
-Cipriano de Cartago (†258) relata casos de enfermos que recebiam somente o vinho consagrado, quando não podiam ingerir alimento sólido.
+- Comunhão apenas do vinho em casos extremos
+	- Cipriano de Cartago (†258) relata casos de enfermos que recebiam somente o vinho consagrado, quando não podiam ingerir alimento sólido.
+
+Papa Gelásio I dizia que era um sacrilégio realizar a Eucaristia sem o vinho.
+
+Tendo isso em vista, como podemos normalizar a comunhão feita na maioria das igrejas católicas apenas com o pão, já que em grande parte dos casos, apenas os padres bebem o vinho?
 
 Vejamos o que o Padre Paulo Ricardo diz a esse respeito em seu vídeo "[É necessário comungar sob as duas espécies?](https://www.youtube.com/watch?v=5XL55oBeNvA)":
 
