@@ -100,9 +100,8 @@ Há registros históricos de que a Igreja praticava a comunhão sob uma espécie
 
 Comunhão apenas do pão para crianças
 - Agostinho de Hipona (†430) menciona que crianças comungavam apenas sob a espécie do pão:
-- “As crianças participam do corpo e do sangue de Cristo”
-(De peccatorum meritis, I, 24)
-Mas, na prática litúrgica africana, recebiam só o pão, sem o cálice.
+- “As crianças participam do corpo e do sangue de Cristo” - (*De peccatorum meritis*, I, 24)
+- Mas, na prática litúrgica africana, recebiam só o pão, sem o cálice.
 
 Comunhão apenas do vinho em casos extremos
 Cipriano de Cartago (†258) relata casos de enfermos que recebiam somente o vinho consagrado, quando não podiam ingerir alimento sólido.
