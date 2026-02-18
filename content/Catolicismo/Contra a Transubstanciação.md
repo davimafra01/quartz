@@ -126,9 +126,9 @@ Vejamos o que o Padre Paulo Ricardo diz a esse respeito em seu vídeo "[É neces
 >
 >No entanto, existe uma circunstância, uma situação, em que nós somos obrigados a receber a Eucaristia sob as duas espécies Que ocasião é essa? Quando se trata de um sacerdote celebrante.
 >
->Ou seja, o sacerdote que celebra (não aquele que está participando da Missa junto com os fiéis, mas aquele que consagrou o Pão e o Vinho) é obrigado a comungar a aparência de Pão e a aparência de Vinho, **porque isso faz parte do sacrifício como um todo. Não é somente uma questão de comungar, mas uma questão de realizar o sacrifício plenamente**.
+>Ou seja, o sacerdote que celebra (não aquele que está participando da Missa junto com os fiéis, mas aquele que consagrou o Pão e o Vinho) é obrigado a comungar a aparência de Pão e a aparência de Vinho, **porque isso faz parte do sacrifício como um todo. Não é somente uma questão de comungar, mas uma questão de REALIZAR O SACRIFÍCIO plenamente**.
 >
->**O padre, ao consagrar o Pão e ao consagrar o Vinho, este realizando um sacrifício, e faz parte do oferecimento do sacrifício que o sacerdote oferente comungue, ou seja, consuma este sacrifício que foi oferecido.**
+>**O padre, ao consagrar o Pão e ao consagrar o Vinho, este REALIZANDO O SACRIFÍCIO, e faz parte do oferecimento do sacrifício que o sacerdote oferente comungue, ou seja, consuma este sacrifício que foi oferecido.**
 >
 >Então, aí está a doutrina da Igreja , que nos ensina que podemos receber o Cristo Todo, mesmo sob uma única espécie.
 
