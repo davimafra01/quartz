@@ -49,4 +49,6 @@ Santo Tomás de Aquino defende que a transubstanciação não está materialment
 Portanto, mesmo que os cardeais Bellarmino e Caetano tenham afirmado que não há provas concretas na bíblia a favor da transubstanciação, isso em nada enfraquece a doutrina da presença real de Cristo na Eucaristia.
 
 ---
-# 3. 
+# 3. Comunhão em apenas uma espécie
+
+Esse não é um argumento contra a transubstanciação, mas contra o modo que a Eucaristia é ministrada. 
