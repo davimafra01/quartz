@@ -40,7 +40,7 @@ O argumento protestante baseia-se em afirmar que até mesmo esses dois Cardeais 
 
 Inclusive, sabe-se que o Papa Sisto IV aprovou a tese de Scotus a respeito da Imaculada Conceição, defendendo-o (e também a outros teólogos franciscanos) contra os dominicanos. Além disso, aprovou a festa  da Imaculada Conceição e proibiu censura teológica (especialmente a acusação de heresia) contra essa doutrina. Muitos católicos dizem, por conta disso, que o Papa Sisto IV afirmou que não há nenhum erro teológico nas obras de Duns Scotus, o que não é verdade.
 
-Mas voltando ao tema, fato é que a transubstanciação apenas explica o fenômeno milagroso da Eucaristia, o que significa que seu registro na Santa Escritura não é necessário e nem mesmo faria sentido, haja vista sua complexidade.
+Mas, voltando ao tema, fato é que a transubstanciação apenas explica o fenômeno milagroso da Eucaristia, o que significa que seu registro na Santa Escritura não é necessário e nem mesmo faria sentido, haja vista sua complexidade.
 
 Para Bellarmino, o que a Escritura ensina é a presença real, enquanto a explicação de que isso ocorre por mudança de substância é uma definição dogmática da Igreja, especialmente consolidada no Concílio de Trento. Em outras palavras: não é **improvável** que não hajam textos que comprovem como ocorre, mas há abundância de textos que comprovam a presença real.
 
