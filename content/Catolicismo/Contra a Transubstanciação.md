@@ -102,7 +102,7 @@ Há registros históricos de que a Igreja praticava a comunhão sob uma espécie
 - Comunhão apenas do vinho em casos extremos
 	- Cipriano de Cartago (†258) relata casos de enfermos que recebiam somente o vinho consagrado, quando não podiam ingerir alimento sólido.
 
-Percebe-se então que a comunhão com uma espécie era realizada apenas em ocasiões extraordinárias e, por isso, defende-se que os padres da época tinham o entendimento de que Cristo estava inteiro sob  sabe-se que o próprio Papa Gelásio I dizia que era um sacrilégio realizar a Eucaristia sem o vinho.
+Percebe-se então que a comunhão com uma espécie era realizada apenas em ocasiões extraordinárias e, por isso, defende-se que os padres da época tinham o entendimento de que Cristo estava inteiro em cada espécie e, portanto, as duas espécci sabe-se que o próprio Papa Gelásio I dizia que era um sacrilégio realizar a Eucaristia sem o vinho.
 
 Tendo isso em vista, como podemos normalizar a comunhão feita na maioria das igrejas católicas apenas com o pão, já que em grande parte dos casos, apenas os padres bebem o vinho?
 
