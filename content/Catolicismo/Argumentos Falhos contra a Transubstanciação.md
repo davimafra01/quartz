@@ -60,7 +60,7 @@ Atos 3:21 (ARA):
 
 Este argumento consiste em afirmar que Jesus não pode estar presente fisicamente em todas as hóstias ao redor do mundo, pois Ele está e continuará contido nos Céus até aos tempos da restauração de todas as coisas.
 
-O problema deste argumento é que a doutrina da Transubstanciação não afirma que Cristo está presente fisicamente, mas substancialmente. Além disso, vejamos os seguintes versículos:
+O problema deste argumento é que a doutrina da Transubstanciação não afirma que Cristo está presente fisicamente, mas substancialmente. Os seguintes versículos corroboram isso:
 
 Mt 18:20 (ARA)
 >20 Porque, onde estiverem dois ou três reunidos em meu nome, ali estou no meio deles.
