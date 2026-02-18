@@ -93,14 +93,14 @@ Tendo isso em vista, como podemos normalizar a comunhão feita na maioria das ig
 
 Há registros históricos de que a Igreja praticava a comunhão sob uma espécie, contudo, isso era feito apenas de forma extraordinária, vejamos:
 
-- Comunhão apenas do pão para enfermos e ausentes
+- Comunhão apenas do pão para enfermos e ausentes:
 	- Um dos testemunhos mais antigos vem de Justino Mártir (†165), na Primeira Apologia (c. 67):
 	- “Aos que não estão presentes, os diáconos levam a Eucaristia.”
-Na prática, levava-se apenas o pão consagrado, por ser mais fácil de conservar e transportar.
+	- Na prática, levava-se apenas o pão consagrado, por ser mais fácil de conservar e transportar.
 
 Comunhão apenas do pão para crianças
-Agostinho de Hipona (†430) menciona que crianças comungavam apenas sob a espécie do pão:
-“As crianças participam do corpo e do sangue de Cristo”
+- Agostinho de Hipona (†430) menciona que crianças comungavam apenas sob a espécie do pão:
+- “As crianças participam do corpo e do sangue de Cristo”
 (De peccatorum meritis, I, 24)
 Mas, na prática litúrgica africana, recebiam só o pão, sem o cálice.
 
