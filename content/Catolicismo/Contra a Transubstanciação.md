@@ -132,6 +132,8 @@ Vejamos o que o Padre Paulo Ricardo diz a esse respeito em seu vídeo "[É neces
 >
 >Então, aí está a doutrina da Igreja , que nos ensina que podemos receber o Cristo Todo, mesmo sob uma única espécie.
 
+
+
 ---
 # 4. 
 
