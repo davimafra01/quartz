@@ -27,13 +27,23 @@ Em sua obra "*De Sacramento Eucharistiae*", *liber III*,  *caput XXIII*, Bellarm
 >
 >“Em segundo lugar, ele \[Scotus] diz que não há nenhuma passagem das Escrituras tão clara que, sem a declaração da Igreja, obviamente nos obrigue a admitir a transubstanciação. E isso não é de todo improvável. Pois, ainda que as Escrituras que citamos acima nos pareçam tão claras que possam obrigar qualquer homem que não seja obstinado a crer nesta doutrina, ainda assim pode-se razoavelmente duvidar, já que a maioria dos homens mais eruditos e agudos, tal como foi Scotus acima de todos, pensa o contrário.”
 
-Geralmente, quando essa citação de Bellarmino é utilizada, também se fala sobre a respeito do Cardeal Tomás Caetano. Sobre isso, segue abaixo um trecho do artigo "[Google](https://ministeriofiel.com.br/artigos/a-doutrina-da-transubstanciacao-esta-na-biblia)", do site ministeriofiel.com.br:
+Geralmente, quando essa citação de Bellarmino é utilizada, também se fala sobre a respeito do Cardeal Tomás Caetano. Sobre isso, segue abaixo um trecho do artigo "[A Doutrina da Transubstanciação está na Bíblia?](https://ministeriofiel.com.br/artigos/a-doutrina-da-transubstanciacao-esta-na-biblia)", do site ministeriofiel.com.br:
 
-O argumento protestante baseia-se em afirmar que até mesmo Bellarmino afirmava que não havia prova escritural a favor da transubstanciação. Contudo, o próprio autor da citação defendia a presença real de Cristo nos elemento do pão e do vinho.
+>No que diz respeito à conversão da substância dos elementos, que é o ponto em questão, o Cardeal Caetano, que escreveu uns doze anos antes do Concílio de Trento, afirma que tal doutrina não se encontra nos Evangelhos, mas, sim, que foi expressamente definida pela igreja. Eis aqui suas próprias palavras:
+>
+>Não consta do Evangelho nada que nos obrigue a entender as palavras de Cristo em seu sentido literal: ainda mais – não há nada no texto que nos iniba de tomar estas palavras: este é meu corpo, em sentido metafísico, como também estas palavras do apóstolo: a rocha era Cristo. As palavras de qualquer das duas proposições exprimem a verdade, mas é necessário não dar às coisas mencionadas o sentido literal, mas metafísico.
+>
+>E acrescenta:
+> 
+>Aquela parte que o Evangelho expressamente não declara – a conversão do pão no corpo e sangue de Cristo – é-nos apresentada pela Igreja
+>
+>O Jesuíta Suarez diz que o Cardeal Caetano ensinou que as palavras – Este é meu corpo, não provam suficientemente por si mesmas a transubstanciação, sem a autoridade da Igreja; e que, por isso mesmo, por ordem de Pio V, aquela parte de seu comentário foi excluída da edição romana de suas obras.
 
-A transubstanciação apenas explica o fenômeno milagroso da Eucaristia, o que significa que seu registro na Santa Escritura não é necessário e nem mesmo faria sentido.
+O argumento protestante baseia-se em afirmar que até mesmo esses dois Cardeais da Igreja Católica afirmavam que não havia prova escritural a favor da transubstanciação. Contudo, o próprio Bellarmino a presença real de Cristo nos elementos do pão e do vinho, apesar de haver certa dúvida com relação à disposição de Caetano a esse respeito.
 
-Para ele, o que a Escritura ensina é a presença real, enquanto a explicação de que isso ocorre por mudança de substância é uma definição dogmática da Igreja, especialmente consolidada no Concílio de Trento.
+Fato é que a transubstanciação apenas explica o fenômeno milagroso da Eucaristia, o que significa que seu registro na Santa Escritura não é necessário e nem mesmo faria sentido, haja vista sua complexidade.
+
+Para Bellarmino, o que a Escritura ensina é a presença real, enquanto a explicação de que isso ocorre por mudança de substância é uma definição dogmática da Igreja, especialmente consolidada no Concílio de Trento.
 
 Portanto, mesmo que Bellarmino tenha afirmado que não há provas concretas na bíblia a favor da transubstanciação, isso em nada enfraquece a doutrina da presença real de Cristo.
 
