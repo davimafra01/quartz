@@ -145,7 +145,7 @@ Contudo, Hb 7:27 é muito claro:
 O texto afirma não haver mais necessidade de oferecer sacrifícios todos os dias pelos pecados do sumo sacerdote e pelos do povo, pois Jesus fez isso uma vez por todas. Sendo assim, como conciliar isso com a aceitação de afirmações como:
 - "[...] porque isso faz parte do sacrifício como um todo [...]";
 - "[...] uma questão de realizar o sacrifício plenamente [...]";
-- "[...]  [...]";
+- "[...] ele (o sacerdote) está realizando um sacrifício [...]";
 - "[...]  [...]";
 
 ---
