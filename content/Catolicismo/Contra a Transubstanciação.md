@@ -99,7 +99,7 @@ Vejamos o que o Padre Paulo Ricardo diz a esse respeito em seu vídeo "[É neces
 >
 >Existe muita confusão e acusação dos protestantes que dizem que nós, católicos, quando celebramos a "ceia", ou seja, o Santo Sacrifício da Missa, fazemos isso de forma incompleta, porque não damos a Comunhão sob as duas espécies do pão e do vinho.
 >
->Essa heresia chama-se "utraquismo", ou seja: nós cremos que não é necessário para comungar, receber a Eucaristia "*sub utraque specie*", sob as duas espécies, *utraque*, duas, ambas, espécies, em latim.
+>Essa heresia chama-se "utraquismo", ou seja: nós cremos que não é necessário para comungar, receber a Eucaristia "*sub utraque specie*", sob as duas espécies, *utraque* (duas/ambas) espécies, em latim.
 >
 >Vamos esclarecer primeiro o que é essa história de espécies, veja só: o padre, na Missa, consagra o pão e o pão se torna o Corpo de Cristo, mas continua ali a aparência de pão. A palavra "aparência", em latim, é *specie*, ou seja, é uma aparência de pão, então, quando a gente diz "receber a Comunhão sob ambas as espécies", quer dizer receber a Comunhão sob ambas aparências; a aparência de pão e a aparência de vinho, porque ali não tem mais pão, ali não tem mais vinho, o que está ali é o Corpo de Cristo, é o Sangue de Cristo.
 >
