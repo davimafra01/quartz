@@ -72,4 +72,4 @@ Além disso, Papa Gelásio I dizia que era um sacrilégio realizar a Eucaristia 
 
 Tendo isso em vista, como podemos normalizar a comunhão feita na maioria das igrejas católicas apenas com o pão, já que em grande parte dos casos, apenas os padres bebem o vinho?
 
-São Basílio levava a comunhão em uma espécie para os doentes (por que?), por ser um rito extraordinário, contudo, na missa, sempre há as duas espécies. 
+São Basílio levava a comunhão em uma espécie para os doentes, por ser um rito extraordinário, contudo, na missa, sempre há as duas espécies. Mesmo sendo um rito 
