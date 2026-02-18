@@ -24,7 +24,7 @@ Em sua obra "*De Sacramento Eucharistiae*", *liber III*,  *caput XXIII*, Bellarm
 >
 >“Em segundo lugar, ele \[Scotus] diz que não há nenhuma passagem das Escrituras tão clara que, sem a declaração da Igreja, obviamente nos obrigue a admitir a transubstanciação. E isso não é de todo improvável. Pois, ainda que as Escrituras que citamos acima nos pareçam tão claras que possam obrigar qualquer homem que não seja obstinado a crer nesta doutrina, ainda assim pode-se razoavelmente duvidar, já que a maioria dos homens mais eruditos e agudos, tal como foi Scotus acima de todos, pensa o contrário.”
 
-Geralmente, quando essa citação de Bellarmino é utilizada, também se fala sobre a respeito do Cardeal Tomás Caetano. Sobre isso, segue abaixo um trecho do artigo "[A Doutrina da Transubstanciação está na Bíblia?](https://ministeriofiel.com.br/artigos/a-doutrina-da-transubstanciacao-esta-na-biblia)", do site ministeriofiel.com.br:
+Geralmente, quando essa citação de Bellarmino é utilizada, também se fala a respeito do Cardeal Tomás Caetano. Sobre isso, segue abaixo um trecho do artigo "[A Doutrina da Transubstanciação está na Bíblia?](https://ministeriofiel.com.br/artigos/a-doutrina-da-transubstanciacao-esta-na-biblia)", do site ministeriofiel.com.br:
 
 >No que diz respeito à conversão da substância dos elementos, que é o ponto em questão, o Cardeal Caetano, que escreveu uns doze anos antes do Concílio de Trento, afirma que tal doutrina não se encontra nos Evangelhos, mas, sim, que foi expressamente definida pela igreja. Eis aqui suas próprias palavras:
 >
