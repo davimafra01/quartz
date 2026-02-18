@@ -71,4 +71,8 @@ Mt 28:20 (ARA)
 Substancialmente, Jesus é onipresente.
 
 ---
+# 4. Conceito de Sacramento
 
+Sacramento: sinal visível da Graça invisível.
+
+A Igreja Católica considera que a Eucaristia é a própria Graça, ou a própria realidade, ou seja: o sinal não existe.
