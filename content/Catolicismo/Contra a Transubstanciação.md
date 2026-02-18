@@ -68,27 +68,58 @@ Além disso, com esse raciocínio, somos levados a flexibilizar a literalidade d
 Com isso, estamos nos aproximando cada vez mais do simbolismo protestante no que diz respeito à Santa Ceia do Senhor, já que chegamos ao entendimento de que, na Eucaristia, não acontece a ingestão do corpo e do sangue de Cristo e de que não faz sentido que Jesus esteja fazendo referências literais à sua carne e ao seu sangue.
 
 ---
+# 2. Comunhão em apenas uma espécie
 
-# 3. O  milagre da Eucaristia
+Esse não é um argumento contra a transubstanciação, mas contra o modo que a Eucaristia é ministrada. A bíblia ensina a comunhão com as duas espécies em várias passagens:
 
-Para São Tomás de Aquino, a Eucaristia não é apenas “um milagre” entre outros, mas um conjunto de milagres ontológicos simultâneos, que não têm paralelo em nenhuma outra parte da realidade criada.
+Mateus 26:26-28
+>“Tomai, comei; isto é o meu corpo… Bebei dele todos, porque isto é o meu sangue da nova aliança.”
 
-**O primeiro e mais fundamental milagre** é a própria transubstanciação. Nela ocorre algo que nunca acontece na ordem natural: uma substância inteira deixa de existir e outra substância inteira passa a existir no mesmo “lugar fenomenológico”, sem que haja qualquer mudança sensível correspondente. O pão, enquanto substância, é aniquilado; o corpo de Cristo, enquanto substância, começa a existir sob aquelas mesmas aparências. Não há transformação física, química ou biológica, porque nenhuma dessas transformações atinge a substância no sentido aristotélico-tomista. Trata-se de uma mudança puramente ontológica, operada diretamente por Deus, sem mediação de causas segundas.
+Marcos 14:22-24
+>“Tomai; isto é o meu corpo… Isto é o meu sangue da aliança, que é derramado por muitos.”
 
-**O segundo milagre** é ainda mais radical: a permanência dos acidentes sem substância. Em toda a metafísica clássica, acidentes não podem existir sozinhos. Cor, sabor, peso, extensão, textura, quantidade, temperatura, todas essas propriedades são modos de ser de alguma substância. Elas exigem um sujeito ontológico no qual inerir. Na Eucaristia, porém, os acidentes do pão e do vinho continuam existindo mesmo depois que a substância do pão e do vinho deixou de existir. Eles não pertencem mais a nenhuma substância criada. São sustentados imediatamente por Deus, como se Deus assumisse diretamente o papel ontológico que, em todos os outros casos do universo, é exercido pela substância. Esse ponto é tão extremo que Tomás diz explicitamente que isso é algo “contra o curso da natureza inteira” e só possível por um ato contínuo da potência divina.
+Lucas 22:19-20
+>“Isto é o meu corpo, que é dado por vós… Este cálice é a nova aliança no meu sangue.”
 
-**O terceiro milagre** é a presença real sem localidade. O corpo de Cristo está inteiro na Eucaristia, mas não do modo como corpos estão em lugares. Ele não ocupa espaço, não tem dimensão mensurável ali, não está contido como água num copo ou como um objeto numa caixa. Cristo está presente segundo o modo da substância, não segundo o modo da quantidade. Isso significa que Ele não está ali por coordenadas espaciais, mas por identidade ontológica: a substância que existe sob aquelas espécies é a mesma substância do corpo glorificado de Cristo. Por isso Tomás insiste que Cristo não se move do céu para a hóstia, não abandona seu trono, não se multiplica, não se divide e não se fragmenta quando a hóstia é partida. O mesmo Cristo inteiro está presente sob cada parte, porque a presença não é quantitativa, é substancial.
+1 Coríntios 11:23-25
+>“Isto é o meu corpo… Este cálice é a nova aliança no meu sangue.”
 
-**O quarto milagre** é a separação real entre operações físicas e presença ontológica. Tudo o que ocorre no plano físico ocorre como se fosse pão e vinho. A digestão é digestão de pão, a assimilação nutricional é de pão, a reação química é de pão, o metabolismo reconhece pão, as leis da biologia operam sobre pão. Nenhuma operação física é afetada pela presença de Cristo. Ao mesmo tempo, no plano sacramental, quem recebe a Eucaristia recebe realmente Cristo inteiro. Isso cria uma cisão inédita entre o nível das causalidades naturais e o nível da realidade sacramental. O mesmo objeto sensível é, ao mesmo tempo, alimento biológico comum e presença real do Verbo encarnado. Não existe nenhum outro caso no universo em que a mesma coisa opere integralmente segundo duas ordens ontológicas distintas ao mesmo tempo.
+João 6:51-58
+>“Quem come a minha carne e bebe o meu sangue tem a vida eterna.”
 
-**O quinto milagre** é o modo de causalidade espiritual da Eucaristia. Para Tomás, a Eucaristia não apenas contém Cristo, mas age como instrumento da graça. Ela produz efeitos espirituais reais na alma — união com Cristo, aumento da graça, fortalecimento da caridade, perdão de pecados veniais, preservação contra o pecado mortal — não por algum poder natural do pão, mas porque o próprio Cristo age por meio do sacramento. O objeto sensível, que fisicamente é apenas pão, torna-se instrumento real de uma causalidade sobrenatural. É Deus usando um acidente sensível como meio de ação direta sobre a alma racional.
+Além disso, Papa Gelásio I dizia que era um sacrilégio realizar a Eucaristia sem o vinho.
 
-**O sexto milagre** é a coexistência de dois regimes de verdade sobre o mesmo ente: no regime da fé, aquilo é literalmente o corpo e o sangue de Cristo; no regime da ciência empírica, aquilo é literalmente pão e vinho em todos os seus comportamentos observáveis. Não se trata de contradição, mas de sobreposição de níveis ontológicos. A ciência acessa apenas acidentes; a fé afirma algo sobre a substância. O mesmo objeto é, ao mesmo tempo, plenamente explicável pela física e plenamente transcendente à física.
+Tendo isso em vista, como podemos normalizar a comunhão feita na maioria das igrejas católicas apenas com o pão, já que em grande parte dos casos, apenas os padres bebem o vinho?
 
-Em termos estritamente tomistas, portanto, os milagres da Eucaristia não são eventos espetaculares visíveis, como abrir o mar ou curar um cego. São milagres metafísicos contínuos, invisíveis, permanentes e ontológicos. Deus não suspende apenas leis da natureza; Ele suspende a própria estrutura fundamental da relação entre substância e acidente, entre corpo e lugar, entre forma e operação, entre causalidade física e causalidade espiritual. A Eucaristia, para Tomás, não é apenas um milagre dentro do mundo: é uma exceção ontológica estrutural dentro do próprio tecido do ser criado. É por isso que, na teologia tomista, a Eucaristia é chamada de “o maior de todos os sacramentos”: não porque seja mais emocionante, mas porque é o único em que a realidade inteira opera sob regras metafísicas que não existem em nenhum outro ponto do universo.
+São Basílio levava a comunhão em uma espécie para os doentes, por ser um rito extraordinário, contudo, na missa, sempre há as duas espécies. Mesmo sendo uma ocasião extraordinário, ainda não parece justificar.
+
+Vejamos o que o Padre Paulo Ricardo diz a esse respeito em seu vídeo "[É necessário comungar sob as duas espécies?](https://www.youtube.com/watch?v=5XL55oBeNvA)":
+
+>O que a Igreja ensina a respeito da Comunhão sob as duas espécies?
+>
+>Existe muita confusão e acusação dos protestantes que dizem que nós, católicos, quando celebramos a "ceia", ou seja, o Santo Sacrifício da Missa, fazemos isso de forma incompleta, porque não damos a Comunhão sob as duas espécies do pão e do vinho.
+>
+>Essa heresia chama-se "utraquismo", ou seja: nós cremos que não é necessário para comungar, receber a Eucaristia "*sub utraque specie*", sob as duas espécies, *utraque*, duas, ambas, espécies, em latim.
+>
+>Vamos esclarecer primeiro o que é essa história de espécies, veja só: o padre, na Missa, consagra o pão e o pão se torna o Corpo de Cristo, mas continua ali a aparência de pão. A palavra "aparência", em latim, é *specie*, ou seja, é uma aparência de pão, então, quando a gente diz "receber a Comunhão sob ambas as espécies", quer dizer receber a Comunhão sob ambas aparências; a aparência de pão e a aparência de vinho, porque ali não tem mais pão, ali não tem mais vinho, o que está ali é o Corpo de Cristo, é o Sangue de Cristo.
+>
+>Então, quando recebemos a Comunhão, podemos receber essa Comunhão sob a aparência de pão ou sob a aparência de vinho ou sob ambas as aparências. Seja de uma forma ou de outra, nós estamos recebendo Jesus inteiro. Por que? Por causa do mistério - não se assuste com a palavra - da união hipostática, ou seja, Jesus é uma única Pessoa divina e, unida à Sua Pessoa divina, está toda a Sua natureza humana, portanto, Corpo, Sangue e Alma. A natureza humana inteira está unida a essa Pessoa divina, então não tem como se separar.
+>
+>Quando Jesus se fez Homem, se fez Homem para sempre, portanto, Ele está unido à Sua Humanidade em qualquer circunstância, ou seja, quando Jesus, na Cruz, morreu, o Corpo se separou da Alma, como acontece com as pessoas que morrem, mas a Divindade, ou seja, a Pessoa divina, a Segunda Pessoa da Santíssima Trindade, o Verbo Eterno, o Filho de Deus, não se separou, nem do Corpo e nem da Alma e nem do Sangue.
+>
+>Deus estava e está unido de forma plena, total e eterna, com esta Humanidade, a Humanidade de Cristo. Portanto, quando Jesus ressuscitou, ressuscitou gloriosos, Corpo, Sangue e Alma, gloriosos e transformados, ali o Cristo glorioso está unido à Sua Pessoa divina, quando você recebe o Corpo de Cristo na aparência do Pão, está recebendo também o Sangue, a Alma e a Divindade; e se você recebe o Cristo sob a aparência de Vinho, ou seja, o Sangue de Cristo, sob a aparência do Vinho, está recebendo também o Corpo, a Alma e a Divindade.
+>
+>Essa é a doutrina da Igreja, é a doutrina colocada infalivelmente no Concílio de Trento Isto que a Igreja ensina e sempre ensinou, aqueles que quiserem dar uma verificada, no *Denzinger*, é o número 1.731, onde a Igreja excomunga aqueles que dizem o contrário.
+>
+>No entanto, existe uma circunstância, uma situação, em que nós somos obrigados a receber a Eucaristia sob as duas espécies Que ocasião é essa? Quando se trata de um sacerdote celebrante.
+>
+>Ou seja, o sacerdote que celebra (não aquele que está participando da Missa junto com os fiéis, mas aquele que consagrou o Pão e o Vinho) é obrigado a comungar a aparência de Pão e a aparência de Vinho, porque isso faz parte do sacrifício como um todo. Não é somente uma questão de comungar, mas uma questão de realizar o sacrifício plenamente.
+>
+>O padre, ao consagrar o Pão e ao consagrar o Vinho, este realizando um sacrifício, e faz parte do oferecimento do sacrifício que o sacerdote oferente comungue, ou seja, consuma este sacrifício que foi oferecido.
+>
+>Então, aí está a doutrina da Igreja , que nos ensina que podemos receber o Cristo Todo, mesmo sob uma única espécie.
 
 ---
-
 # 4. 
 
 ---
