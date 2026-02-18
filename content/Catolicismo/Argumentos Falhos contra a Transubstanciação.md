@@ -21,7 +21,9 @@ Sendo assim, consideraremos a violação teológica, que, de fato, faz mais sent
 # 2. Cardeal Roberti Bellarmini (1542-1621)
 
 Em sua obra "*De Sacramento Eucharistiae*", *liber III*,  *caput XXIII*, Bellarmino diz:
->"Não é de todo improvável que não haja na escritura palavra clara e expressa **que prove a transubstanciação** sem a declaração da igreja, como disse *Scottus*: 'com justiça, pode-se duvidar se o texto é bastante claro por si mesmo, visto terem pensado de modo contrário os homens mais inteligentes e doutos'".
+>“Secondly, he [Scotus] says that there is not any passage of Scripture so clear that, apart from the declaration of the church, it plainly compels one to admit transubstantiation. And this is not at all improbable. For even though the scripture which we have cited above seems to us so clear that it can compel any man who is not refractory [to believe this doctrine], nevertheless it so happens that it can be reasonably doubted, since most learned and acute men, such as was Scotus before all, think the contrary.”
+
+
 
 O argumento protestante baseia-se em afirmar que até mesmo Bellarmino afirmava que não havia prova escritural a favor da transubstanciação. Contudo, o próprio autor da citação defendia a presença real de Cristo nos elemento do pão e do vinho.
 
