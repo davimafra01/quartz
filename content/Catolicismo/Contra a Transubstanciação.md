@@ -109,7 +109,7 @@ Vejamos o que o Padre Paulo Ricardo diz a esse respeito em seu vídeo "[É neces
 >
 >Deus estava e está unido de forma plena, total e eterna, com esta Humanidade, a Humanidade de Cristo. Portanto, quando Jesus ressuscitou, ressuscitou glorioso, Corpo, Sangue e Alma, gloriosos e transformados, ali o Cristo glorioso está unido à Sua Pessoa divina, quando você recebe o Corpo de Cristo na aparência do Pão, está recebendo também o Sangue, a Alma e a Divindade; e se você recebe o Cristo sob a aparência de Vinho, ou seja, o Sangue de Cristo, sob a aparência do Vinho, está recebendo também o Corpo, a Alma e a Divindade.
 >
->Essa é a doutrina da Igreja, é a doutrina colocada infalivelmente no Concílio de Trento Isto que a Igreja ensina e sempre ensinou, aqueles que quiserem dar uma verificada, no *Denzinger*, é o número 1.731, onde a Igreja excomunga aqueles que dizem o contrário.
+>Essa é a doutrina da Igreja, é a doutrina colocada infalivelmente no Concílio de Trento. Isto que a Igreja ensina e sempre ensinou, aqueles que quiserem dar uma verificada, no *Denzinger*, é o número 1.731, onde a Igreja excomunga aqueles que dizem o contrário.
 >
 >No entanto, existe uma circunstância, uma situação, em que nós somos obrigados a receber a Eucaristia sob as duas espécies Que ocasião é essa? Quando se trata de um sacerdote celebrante.
 >
