@@ -31,6 +31,8 @@ O argumento protestante baseia-se em afirmar que até mesmo Bellarmino afirmava 
 
 A transubstanciação apenas explica o fenômeno milagroso da Eucaristia, o que significa que seu registro na Santa Escritura não é necessário e nem mesmo faria sentido.
 
+Para ele, o que a Escritura ensina é a presença real, enquanto a explicação de que isso ocorre por mudança de substância é uma definição dogmática da Igreja, especialmente consolidada no Concílio de Trento.
+
 Portanto, mesmo que Bellarmino tenha afirmado que não há provas concretas na bíblia a favor da transubstanciação, isso em nada enfraquece a doutrina da presença real de Cristo.
 
 ---
