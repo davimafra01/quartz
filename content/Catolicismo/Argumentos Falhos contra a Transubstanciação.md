@@ -62,10 +62,10 @@ Este argumento consiste em afirmar que Jesus não pode estar presente fisicament
 
 O problema deste argumento é que a doutrina da Transubstanciação não afirma que Cristo está presente fisicamente, mas substancialmente. Além disso, vejamos os seguintes versículos:
 
-Mt 18:20
+Mt 18:20 (ARA)
 >20 Porque, onde estiverem dois ou três reunidos em meu nome, ali estou no meio deles.
 
-Mt 28:30
+Mt 28:20 (ARA)
 >
 
 ---
