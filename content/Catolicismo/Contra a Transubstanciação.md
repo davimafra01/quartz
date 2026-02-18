@@ -142,7 +142,8 @@ Contudo, Hb 7:27 é muito claro:
 >
 >28 Porque a lei constitui sumos sacerdotes a homens sujeitos à fraqueza, mas a palavra do juramento, que foi posterior à lei, constitui o Filho, perfeito para sempre.
 
-O texto afirma não haver mais necessidade de oferecer sacrifícios todos os dias pelos pecados do sumo sacerdote e pelos do povo, pois Jesus fez isso uma vez por todas. Sendo assim, como conciliar isso com afirmações como:
+O texto afirma não haver mais necessidade de oferecer sacrifícios todos os dias pelos pecados do sumo sacerdote e pelos do povo, pois Jesus fez isso uma vez por todas. Sendo assim, como conciliar isso com a aceitação de afirmações como:
+- "[...]  [...]"
 
 ---
 # 4. 
