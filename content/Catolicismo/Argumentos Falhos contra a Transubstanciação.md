@@ -66,7 +66,7 @@ Mt 18:20 (ARA)
 >20 Porque, onde estiverem dois ou três reunidos em meu nome, ali estou no meio deles.
 
 Mt 28:20 (ARA)
->
+>20 ensinando-os a guardar todas as coisas que vos tenho ordenado. E eis que estou convosco todos os dias até à consumação do século.
 
 ---
 
