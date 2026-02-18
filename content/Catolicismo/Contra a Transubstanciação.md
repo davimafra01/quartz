@@ -107,7 +107,7 @@ Percebe-se então que a comunhão com uma espécie era realizada apenas em ocasi
 Sabe-se, no entanto, que o próprio Papa Gelásio I dizia que era um sacrilégio realizar a Eucaristia sem o vinho. Tendo isso em vista, como podemos normalizar a comunhão feita na maioria das igrejas católicas apenas com o pão, já que em grande parte dos casos, apenas os padres bebem o vinho?
 
 ---
-# 3. O sacrifício de Jesus é repetido
+# 3. Hebreus 7:27
 
 Diz-se que um novo sacrifício não é feito, mas que o mesmo sacrifício é repetido. Podemos ver o Padre Paulo Ricardo diz a esse respeito em seu vídeo "[É necessário comungar sob as duas espécies?](https://www.youtube.com/watch?v=5XL55oBeNvA)":
 
