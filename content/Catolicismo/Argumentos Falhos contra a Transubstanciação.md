@@ -41,6 +41,8 @@ Geralmente, quando essa citação de Bellarmino é utilizada, também se fala so
 
 O argumento protestante baseia-se em afirmar que até mesmo esses dois Cardeais da Igreja Católica afirmavam que não havia prova escritural a favor da transubstanciação. Contudo, o próprio Bellarmino defendia - assim como o padre Duns Scotus - a presença real de Cristo nos elementos do pão e do vinho, apesar de haver certa dúvida com relação à disposição de Caetano a esse respeito, já que ele realmente tinha algum problema com as questões eucarísticas.
 
+Inclusive, sabe-se que o Papa Sisto IV aprovou a tese de Scotus a respeito da Imaculada Conceição e proibiu censura teológica contra ela, mas muitos católicos afirmam, por conta disso, que o Papa Sisto IV afirmou que não há nenhum erro teológico nas obras de Duns Scotus, o que não é verdade.
+
 Fato é que a transubstanciação apenas explica o fenômeno milagroso da Eucaristia, o que significa que seu registro na Santa Escritura não é necessário e nem mesmo faria sentido, haja vista sua complexidade.
 
 Para Bellarmino, o que a Escritura ensina é a presença real, enquanto a explicação de que isso ocorre por mudança de substância é uma definição dogmática da Igreja, especialmente consolidada no Concílio de Trento. Em outras palavras: não é **improvável** que não hajam textos que comprovem como ocorre, mas há abundância de textos que comprovam a presença real.
