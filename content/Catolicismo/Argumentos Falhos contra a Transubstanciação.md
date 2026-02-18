@@ -73,3 +73,7 @@ Além disso, Papa Gelásio I dizia que era um sacrilégio realizar a Eucaristia 
 Tendo isso em vista, como podemos normalizar a comunhão feita na maioria das igrejas católicas apenas com o pão, já que em grande parte dos casos, apenas os padres bebem o vinho?
 
 São Basílio levava a comunhão em uma espécie para os doentes, por ser um rito extraordinário, contudo, na missa, sempre há as duas espécies. Mesmo sendo uma ocasião extraordinário, ainda não parece justificar.
+
+Vejamos o que o Padre Paulo Ricardo diz a esse respeito em seu vídeo "[É necessário comungar sob as duas espécies?](https://www.youtube.com/watch?v=5XL55oBeNvA)":
+
+>
