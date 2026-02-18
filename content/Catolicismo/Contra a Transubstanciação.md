@@ -56,7 +56,7 @@ Entende-se então que o fiel não come o corpo e não bebe o sangue de Cristo. E
 A posição católica, então, é de que Jesus não descreve um ato físico realizável, mas institui um signo eficaz cuja causalidade é divina. A linguagem é realista, mas a execução é ontologicamente indireta. A comunhão real acontece, mas não por meio do ato que a linguagem descreve.
 
 Duas lacunas são deixadas:
-	(i) Como os fiéis cumprem a ordem de Jesus de comer o seu corpo e beber o seu sangue?
+	(i) Como os fiéis cumprem a ordem de Jesus de **comer** o seu corpo e **beber** o seu sangue? Isso se torna ainda mais problemático quando a limitação está não apenas em nível conceitual, mas também físico, haja vista que a maioria dos católicos comungam apenas sob uma espécie.
 	(ii) Como Deus une os fiéis que participam da Santa Ceia às substâncias?
 
 Além disso, com esse raciocínio, somos levados a flexibilizar a literalidade do que Jesus disse, já que, agora, o que se faz não é exatamente "beber o sangue de Cristo" - nem física e nem concretamente. Seria algo como:
