@@ -68,4 +68,4 @@ Lucas 22:19-20
 João 6:51-58
 >“Quem come a minha carne e bebe o meu sangue tem a vida eterna.”
 
-Papa Gelásio dizia que era um sacrilégio realizar a Eucaristia sem o vinho. São Basílio levava a comunhão em uma espécie para os doentes (por que?), por ser um rito extraordinário, contudo, na missa, sempre há as duas espécies. 
+Papa Gelásio I dizia que era um sacrilégio realizar a Eucaristia sem o vinho. São Basílio levava a comunhão em uma espécie para os doentes (por que?), por ser um rito extraordinário, contudo, na missa, sempre há as duas espécies. 
