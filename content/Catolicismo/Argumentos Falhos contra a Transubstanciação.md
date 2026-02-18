@@ -27,6 +27,8 @@ Em sua obra "*De Sacramento Eucharistiae*", *liber III*,  *caput XXIII*, Bellarm
 >
 >“Em segundo lugar, ele \[Scotus] diz que não há nenhuma passagem das Escrituras tão clara que, sem a declaração da Igreja, obviamente nos obrigue a admitir a transubstanciação. E isso não é de todo improvável. Pois, ainda que as Escrituras que citamos acima nos pareçam tão claras que possam obrigar qualquer homem que não seja obstinado a crer nesta doutrina, ainda assim pode-se razoavelmente duvidar, já que a maioria dos homens mais eruditos e agudos, tal como foi Scotus acima de todos, pensa o contrário.”
 
+Geralmente, quando essa citação de Bellarmino é utilizada, também se diz sobre a opinião de 
+
 O argumento protestante baseia-se em afirmar que até mesmo Bellarmino afirmava que não havia prova escritural a favor da transubstanciação. Contudo, o próprio autor da citação defendia a presença real de Cristo nos elemento do pão e do vinho.
 
 A transubstanciação apenas explica o fenômeno milagroso da Eucaristia, o que significa que seu registro na Santa Escritura não é necessário e nem mesmo faria sentido.
