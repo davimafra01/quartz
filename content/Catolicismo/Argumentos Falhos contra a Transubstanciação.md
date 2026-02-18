@@ -51,5 +51,21 @@ Portanto, mesmo que os cardeais Bellarmino e Caetano tenham afirmado que não h�
 ---
 # 3. Comunhão em apenas uma espécie
 
-Esse não é um argumento contra a transubstanciação, mas contra o modo que a Eucaristia é ministrada. A bíblia ensina a comunhão com as duas espécies, quando Paulo diz:
+Esse não é um argumento contra a transubstanciação, mas contra o modo que a Eucaristia é ministrada. A bíblia ensina a comunhão com as duas espécies em várias passagens:
 
+Mateus 26:26-28
+>“Tomai, comei; isto é o meu corpo… Bebei dele todos, porque isto é o meu sangue da nova aliança.”
+
+Marcos 14:22-24
+>“Tomai; isto é o meu corpo… Isto é o meu sangue da aliança, que é derramado por muitos.”
+
+Lucas 22:19-20
+>“Isto é o meu corpo, que é dado por vós… Este cálice é a nova aliança no meu sangue.”
+
+1 Coríntios 11:23-25
+>“Isto é o meu corpo… Este cálice é a nova aliança no meu sangue.”
+
+João 6:51-58
+>“Quem come a minha carne e bebe o meu sangue tem a vida eterna.”
+
+Papa Gelásio dizia que era um sacrilégio realizar a Eucaristia sem o vinho
