@@ -73,7 +73,7 @@ Substancialmente, Jesus é onipresente.
 ---
 # 4. Conceito de Sacramento
 
-Primeiro, o que é um sacramento segundo a teologia clássica (formulação consagrada por Agostinho de Hipona (354-430 AD) e sistematizada por Tomás de Aquino)?
+Primeiro, o que é um sacramento segundo a teologia clássica (formulação consagrada por Agostinho de Hipona (354-430 AD) e sistematizada por Tomás de Aquino (1225-1274 AD))?
 
 Sacramento = *signum sensibile efficax gratiae* (sinal sensível eficaz da graça)
 
