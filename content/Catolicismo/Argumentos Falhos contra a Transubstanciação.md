@@ -118,6 +118,6 @@ Leituras para depois:
 >A Igreja Católica considera que a Eucaristia é a própria Graça, ou a própria realidade, ou seja: o sinal não existe.
 
 **ANTÍTESE CATÓLICA RESUMIDA:**
->Erro protestante: todo signo deve ser fundado em sua respectiva substância. O erro é pensar que os acidentes não podem exercer a função significativa que o Sacramento exige. Eles pensam que signo material é o mesmo que signo sacramental. Eles precisam provar que signo, necessariamente, se trata da substância, e que não pode ser um acidente.
+>Erro protestante: pensar que todo signo deve ser fundado em sua respectiva substância. O erro é pensar que os acidentes não podem exercer a função significativa que o Sacramento exige. Eles pensam que signo material é o mesmo que signo sacramental. Eles precisam provar que signo, necessariamente, se trata da substância, e que não pode ser um acidente.
 
 ---
