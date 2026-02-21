@@ -76,3 +76,7 @@ Substancialmente, Jesus é onipresente.
 Sacramento: sinal visível da Graça invisível.
 
 A Igreja Católica considera que a Eucaristia é a própria Graça, ou a própria realidade, ou seja: o sinal não existe.
+
+Todo sacramento é um signo sensível. O signo, enquanto tal, exige um fundamento ontológico. Ou seja: existe, verdadeiramente, o que seja aquilo que significa segundo a ordem conhecida.
+
+O pão, enquanto substância, é, naturalmente, signo do alimento. Na Eucaristia, isso não se daria, pois perderíamos a substância do pão.
