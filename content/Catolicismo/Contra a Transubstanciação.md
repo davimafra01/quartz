@@ -73,7 +73,7 @@ Com isso, estamos nos aproximando cada vez mais do simbolismo protestante no que
 Esse não é um argumento contra a transubstanciação, mas contra o modo que a Eucaristia é ministrada. A bíblia ensina a comunhão com as duas espécies em várias passagens:
 
 Mateus 26:26-28
->“Tomai, comei; isto é o meu corpo… Bebei dele todos, porque isto é o meu sangue da nova aliança.”
+>“Tomai, comei; isto é o meu corpo… Bebei dele **TODOS**, porque isto é o meu sangue da nova aliança.”
 
 Marcos 14:22-24
 >“Tomai; isto é o meu corpo… Isto é o meu sangue da aliança, que é derramado por muitos.”
