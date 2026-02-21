@@ -110,6 +110,7 @@ Leituras para depois:
 >O sacramento é um signo sensível. O signo, enquanto tal, exige um fundamento ontológico. Ou seja: existe, verdadeiramente, o que seja aquilo que significa segundo a ordem conhecida.
 >
 >O pão, enquanto substância, é, naturalmente, signo do alimento. Na Eucaristia, isso não se daria, pois perderíamos a substância do pão.
+>
 >A transubstanciação vai contra o próprio conceito de Sacramento da igreja católica.
 >
 >Sacramento: sinal visível da Graça invisível.
