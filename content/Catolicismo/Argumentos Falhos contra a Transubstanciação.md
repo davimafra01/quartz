@@ -81,7 +81,7 @@ Sacramento:
 >Sinal sensível eficaz da graça.
 
 Ele tem:
-- elemento sensível (o que é percebido ou remetido, e não necessariamente visto);
+- elemento sensível (o que é percebido);
 - realidade significada (graça);
 - eficácia causal (ele produz o que significa).
 
