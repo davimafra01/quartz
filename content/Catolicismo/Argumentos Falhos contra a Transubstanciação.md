@@ -100,6 +100,7 @@ Na formulação Tomista:
 
 Ou seja: não é como vermos fumaça (sinal) e entendermos, por causalidade, que ali há fogo (realidade significada). Ao invés disso, é entendermos, em razão da força da instituição de Cristo ao dizer "isto é o Meu Corpo", que ali, no pão (sinal), está o Corpo de Cristo (realidade significada).
 
+---
 
 
 
