@@ -81,9 +81,11 @@ Sacramento:
 >Sinal sensível eficaz da graça.
 
 Ele tem:
-- elemento sensível (o que é percebido);
+- elemento sensível (o que é percebido ou remetido, e não necessariamente visto);
 - realidade significada (graça);
 - eficácia causal (ele produz o que significa).
+
+
 
 Tese protestante:
 A transubstanciação vai contra o próprio conceito de Sacramento da igreja católica.
