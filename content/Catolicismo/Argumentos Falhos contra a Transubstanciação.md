@@ -87,6 +87,12 @@ Ele tem:
 
 Para simplificar, vamos contra-argumentar utilizando um exmeplo simples: o Batismo é um Sacramento em que se vê a água (sinal sensível), mas não se vê a regeneração (realidade significada). Sendo assim, afirmar que a Eucaristia contraria a definição de Sacramento, não se sustenta, uma vez que o sinal não deve, necessariamente, nos permitir enxergar a realidade significada, mas apenas lembrá-la ou remetê-la enquanto ela, de fato, ocorre ou ocorreu de maneira eficaz, pela graça do Pai.
 
+O Sacramento não significa: houve uma transformação metafísica invisível.
+
+Ele significa: isto é o Corpo de Cristo.
+
+O milagre, nesse sentido, é a mudança da condição ontológica/substancial, não o conteúdo visível do signo. 
+
 Tese protestante:
 A transubstanciação vai contra o próprio conceito de Sacramento da igreja católica.
 
