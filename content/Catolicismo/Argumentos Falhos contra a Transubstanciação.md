@@ -100,9 +100,9 @@ Na formulação Tomista:
 
 Ou seja: não é como vermos fumaça (sinal) e entendermos, por causalidade, que ali há fogo (realidade significada). Ao invés disso, é entendermos, em razão da força da instituição de Cristo ao dizer "isto é o Meu Corpo", que ali, no pão (sinal), está o Corpo de Cristo (realidade significada).
 
-Leitura para depois: https://respostascristas.blogspot.com/2016/02/os-pais-da-igreja-e-eucaristia.html
-
-
+Leituras para depois:
+- https://respostascristas.blogspot.com/2016/02/os-pais-da-igreja-e-eucaristia.html
+- https://apologistascatolicos.com.br/santo-agostinho-negou-a-transubstanciacao/
 
 ---
 
