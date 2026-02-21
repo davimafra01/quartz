@@ -85,7 +85,7 @@ Ele tem:
 - realidade significada (graça);
 - eficácia causal (ele produz o que significa).
 
-O Batismo é um Sacramento em que se vê a água (sinal), mas não se vê a regeneração
+O Batismo é um Sacramento em que se vê a água (sinal), mas não se vê a regeneração (realidade significada). Sendo assim, afirmar que a Eucat
 
 Tese protestante:
 A transubstanciação vai contra o próprio conceito de Sacramento da igreja católica.
