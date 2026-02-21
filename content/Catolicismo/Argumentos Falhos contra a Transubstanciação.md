@@ -75,7 +75,10 @@ Substancialmente, Jesus é onipresente.
 
 Primeiro, o que é um sacramento segundo a teologia clássica (formulação consagrada por Agostinho de Hipona (354-430 AD) e sistematizada por Tomás de Aquino (1225-1274 AD))?
 
-Sacramento = *signum sensibile efficax gratiae* (sinal sensível eficaz da graça)
+Sacramento:
+>*Signum sensibile efficax gratiae.*
+>
+>Sinal sensível eficaz da graça.
 
 Ele tem:
 - elemento sensível (o que é percebido);
