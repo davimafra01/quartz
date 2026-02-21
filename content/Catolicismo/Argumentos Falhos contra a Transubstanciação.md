@@ -111,7 +111,7 @@ Leituras para depois:
 >
 >O pão, enquanto substância, é, naturalmente, signo do alimento. Na Eucaristia, isso não se daria, pois perderíamos a substância do pão.
 >
->A transubstanciação vai contra o próprio conceito de Sacramento da igreja católica.
+>A transubstanciação, nesse sentido, vai contra o próprio conceito de Sacramento da igreja católica.
 >
 >Sacramento: sinal visível da Graça invisível.
 >
