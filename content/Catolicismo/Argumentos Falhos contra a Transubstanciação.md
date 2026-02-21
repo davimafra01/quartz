@@ -107,17 +107,17 @@ Leituras para depois:
 É necessário definir muito bem o conceito de sinal para discutir sobre isso. Até aqui, entendo que precisarei estudar mais sobre isso para completar essa parte depois. Considero-a então, até esse momento, incerta e incompleta. Por exemplo: o signo seria a realidade significada visível, necessariamente?
 
 **TESE PROTESTANTE RESUMIDA:**
-A transubstanciação vai contra o próprio conceito de Sacramento da igreja católica.
-
-Sacramento: sinal visível da Graça invisível.
-
-A Igreja Católica considera que a Eucaristia é a própria Graça, ou a própria realidade, ou seja: o sinal não existe.
+>A transubstanciação vai contra o próprio conceito de Sacramento da igreja católica.
+>
+>Sacramento: sinal visível da Graça invisível.
+>
+>A Igreja Católica considera que a Eucaristia é a própria Graça, ou a própria realidade, ou seja: o sinal não existe.
 
 **ANTÍTESE CATÓLICA RESUMIDA:**
-Todo sacramento é um signo sensível. O signo, enquanto tal, exige um fundamento ontológico. Ou seja: existe, verdadeiramente, o que seja aquilo que significa segundo a ordem conhecida.
-
-O pão, enquanto substância, é, naturalmente, signo do alimento. Na Eucaristia, isso não se daria, pois perderíamos a substância do pão.
-
-Erro protestante: todo signo deve ser fundado na substância. O erro é pensar que os acidentes não podem exercer a função significativa que o Sacramento exige. Eles pensam que signo material é o mesmo que signo sacramental. Eles precisam provar que signo, necessariamente, se trata da substância, e que não pode ser um acidente.
+>Todo sacramento é um signo sensível. O signo, enquanto tal, exige um fundamento ontológico. Ou seja: existe, verdadeiramente, o que seja aquilo que significa segundo a ordem conhecida.
+>
+>O pão, enquanto substância, é, naturalmente, signo do alimento. Na Eucaristia, isso não se daria, pois perderíamos a substância do pão.
+>
+>Erro protestante: todo signo deve ser fundado na substância. O erro é pensar que os acidentes não podem exercer a função significativa que o Sacramento exige. Eles pensam que signo material é o mesmo que signo sacramental. Eles precisam provar que signo, necessariamente, se trata da substância, e que não pode ser um acidente.
 
 ---
