@@ -104,7 +104,7 @@ Leituras para depois:
 - https://respostascristas.blogspot.com/2016/02/os-pais-da-igreja-e-eucaristia.html
 - https://apologistascatolicos.com.br/santo-agostinho-negou-a-transubstanciacao/
 
-É necessário definir muito bem o conceito de sinal para discutir sobre isso. Até aqui, entendo que precisarei estudar mais sobre isso para completar essa parte depois. Considero-a então, até esse momento, incerta e incompleta. Por exemplo: o signo seria a realidade significada ou 
+É necessário definir muito bem o conceito de sinal para discutir sobre isso. Até aqui, entendo que precisarei estudar mais sobre isso para completar essa parte depois. Considero-a então, até esse momento, incerta e incompleta. Por exemplo: o signo seria a realidade significada visível, necessariamente?
 
 ---
 
