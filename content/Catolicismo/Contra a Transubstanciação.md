@@ -106,6 +106,10 @@ Percebe-se então que a comunhão com uma espécie era realizada apenas em ocasi
 
 Sabe-se, no entanto, que o próprio Papa Gelásio I dizia que era um sacrilégio realizar a Eucaristia sem o vinho. Tendo isso em vista, como podemos normalizar a comunhão feita na maioria das igrejas católicas apenas com o pão, já que em grande parte dos casos, apenas os padres bebem o vinho?
 
+Jesus Cristo disse "[...] bebei dele TODOS [...]" e, se a premissa católica é acreditar na literalidade das palavras de Jesus, que seja por completo. Não é porque, de acordo com eles, Cristo está completo no pão e no vinho, que as ações físicas devem ser ignoradas ao afirmar que comer a hóstia inclui não apenas comer o corpo de Cristo, mas também beber o Seu sangue. Um exemplo esdrúxulo: se eu como uma manga, eu estou (i) comendo manga, (ii) bebendo suco de manga ou (iii) os dois ao mesmo tempo?
+
+Portanto, a comunhão em apenas uma espécie não se sustenta sob nenhuma justificativa plausível
+
 ---
 # 3. Hebreus 7:27
 
