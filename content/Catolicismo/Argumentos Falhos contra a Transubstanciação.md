@@ -123,4 +123,4 @@ Todo sacramento é um signo sensível. O signo, enquanto tal, exige um fundament
 
 O pão, enquanto substância, é, naturalmente, signo do alimento. Na Eucaristia, isso não se daria, pois perderíamos a substância do pão.
 
-Erro protestante: todo signo deve ser fundado na substância. O erro é pensar que os acidentes não podem exercer a função significativa que o Sacramento exige. Eles pensam que signo material é o mesmo que signo sacramental. Eles precisam provas que signo, necessariamente, se trata da substância, e que não pode ser um acidente.
+Erro protestante: todo signo deve ser fundado na substância. O erro é pensar que os acidentes não podem exercer a função significativa que o Sacramento exige. Eles pensam que signo material é o mesmo que signo sacramental. Eles precisam provar que signo, necessariamente, se trata da substância, e que não pode ser um acidente.
