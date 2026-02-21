@@ -91,7 +91,14 @@ O Sacramento não significa: houve uma transformação metafísica invisível.
 
 Ele significa: isto é o Corpo de Cristo.
 
-O milagre, nesse sentido, é a mudança da condição ontológica/substancial, não o conteúdo visível do signo. 
+O milagre, nesse sentido, é a mudança da condição ontológica/substancial, não o conteúdo visível do signo.
+
+Na formulação Tomista:
+>O sinal sacramental significa ***ex vi institutionis*** (pela força da instituição divina).
+>
+>Não ***ex similitudine visibili*** (por semelhança visível).
+
+Ou seja: não é como vermos fumaça e entendermos, por causalidade, que ali há fogo. Ao invés disso, é entendermos, por meio da instituição de Cristo ao dizer "isto é o "
 
 Tese protestante:
 A transubstanciação vai contra o próprio conceito de Sacramento da igreja católica.
