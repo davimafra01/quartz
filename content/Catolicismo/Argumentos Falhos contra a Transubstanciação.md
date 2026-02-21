@@ -98,7 +98,11 @@ Na formulação Tomista:
 >
 >Não ***ex similitudine visibili*** (por semelhança visível).
 
-Ou seja: não é como vermos fumaça e entendermos, por causalidade, que ali há fogo. Ao invés disso, é entendermos, por meio da instituição de Cristo ao dizer "isto é o "
+Ou seja: não é como vermos fumaça (sinal) e entendermos, por causalidade, que ali há fogo (realidade significada). Ao invés disso, é entendermos, em razão da força da instituição de Cristo ao dizer "isto é o Meu Corpo", que ali, no pão (sinal), está o Corpo de Cristo (realidade significada).
+
+
+
+
 
 Tese protestante:
 A transubstanciação vai contra o próprio conceito de Sacramento da igreja católica.
