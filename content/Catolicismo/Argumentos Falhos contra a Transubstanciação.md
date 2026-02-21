@@ -104,7 +104,7 @@ Leituras para depois:
 - https://respostascristas.blogspot.com/2016/02/os-pais-da-igreja-e-eucaristia.html
 - https://apologistascatolicos.com.br/santo-agostinho-negou-a-transubstanciacao/
 
-É necessário definir muito bem o conceito de sinal para de
+É necessário definir muito bem o conceito de sinal para deee
 
 ---
 
