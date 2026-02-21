@@ -108,7 +108,7 @@ Sabe-se, no entanto, que o próprio Papa Gelásio I dizia que era um sacrilégio
 
 Jesus Cristo disse "[...] bebei dele TODOS [...]" e, se a premissa católica é acreditar na literalidade das palavras de Jesus, que seja por completo. Não é porque, de acordo com eles, Cristo está completo no pão e no vinho, que as ações físicas devem ser ignoradas ao afirmar que comer a hóstia inclui não apenas comer o corpo de Cristo, mas também beber o Seu sangue. Um exemplo esdrúxulo: se eu como uma manga, eu estou (i) comendo manga, (ii) bebendo suco de manga ou (iii) os dois ao mesmo tempo?
 
-Portanto, a comunhão em apenas uma espécie não se sustenta sob nenhuma justificativa plausível sob o fato de estar pri
+Portanto, a comunhão em apenas uma espécie realiza namnão se sustenta sob nenhuma justificativa plausível sob o fato de estar privando os f
 
 ---
 # 3. Hebreus 7:27
