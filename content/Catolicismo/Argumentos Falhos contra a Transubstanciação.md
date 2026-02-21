@@ -73,6 +73,15 @@ Substancialmente, Jesus é onipresente.
 ---
 # 4. Conceito de Sacramento
 
+Primeiro, o que é um sacramento segundo a teologia clássica (formulação consagrada por Agostinho de Hipona e sistematizada por Tomás de Aquino)?
+
+Sacramento = *signum sensibile efficax gratiae* (sinal sensível eficaz da graça)
+
+Ele tem:
+- elemento sensível (o que é percebido);
+- realidade significada (graça);
+- eficácia causal (ele produz o que significa).
+
 Tese protestante:
 A transubstanciação vai contra o próprio conceito de Sacramento da igreja católica.
 
