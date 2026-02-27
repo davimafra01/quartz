@@ -210,5 +210,5 @@ Os judeus do tempo de Cristo estavam esperando um novo Moisés. Concordamos que 
 - Tá, mas por que o maná não pode ser espiritual? Isso é um non-sequitur.
 
 João 6.
-- Nesse caso, os cafarnaítas entenderam que Jesus estava falando da eucaristia como é entendida hoje, ou seja, de comê-lo sacramentalmente, mesmo que de forma física; ou
-- De praticar canibalismo?
+- Nesse caso, os cafarnaítas entenderam que Jesus estava falando da eucaristia como é entendida hoje, ou seja, de comê-lo sacramentalmente, mesmo que de forma física; ou de praticar canibalismo?
+- Versículo 54 diz: todo o que come a minha carne e bebe o meu sangue tem a vida eterna. Come e bebe está no particípio presente, o que traz a ideia de ação em execução
