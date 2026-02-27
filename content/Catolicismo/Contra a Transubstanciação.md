@@ -185,7 +185,7 @@ Rascunho.
 - Teodoreto, em seu diálogo II: "Mesmo após a consagração, os símbolos místicos não são privados de sua própria natureza. Eles permanecem sua substância, figura e forma originárias".
 
 7 - A transubstanciação nos leva a negar os sentidos e a própria realidade:
-- Sempre que há um milagre na bíblia que envolve mudança de substância, necessariamente envolve mudança de acidentes
+- Sempre que há um milagre na bíblia que envolve mudança de substância, necessariamente envolve mudança de acidentes, pois é a única forma de certificar que o milagre realmente aconteceu.
 
 8 - 
 
