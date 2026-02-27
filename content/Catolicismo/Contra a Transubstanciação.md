@@ -170,7 +170,7 @@ Rascunho.
 
 2 - A bíblia ensina a comunhão em ambas as espécies;
 
-3 - Hebreus 7:27: O sacrifício de Jesus foi único e a bíblia nada fala sobre ele precisar ser atualizado. Hebreus 10:10,12,14, 18, 24-28
+3 - Hebreus 7:27: O sacrifício de Jesus foi único e a bíblia nada fala sobre ele precisar ser atualizado. Hebreus 10:10,12,14, 18, 24-28. Cristo sofrendo em todas as Eucaristias?
 
 4 - O corpo de Jesus não é onipresente para estar fisicamente nas hóstias consagradas em todo o mundo (Atos 3:21);
 
