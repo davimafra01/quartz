@@ -198,3 +198,6 @@ Mateus 5: Se não assumimos que a eucaristia é uma presença física e real de 
 - Sacrifício da pertença à aliança (páscoa): a família precisa comer a carne do cordeiro, como em exodo 12 eles comem o cordeiro e os pães asmos.
 
 Os judeus do tempo de Cristo estavam esperando um novo Moisés. Concordamos que ele é Jesus Cristo. Se o novo Moisés e Deus, se a nova aliança é com o próprio Deus, se o nome templo é Deus, se a nova terra prometida é Deus, o novo maná precisa ser Deus. Se não é assim, é a única coisa da nova aliança que não é Deus.
+
+João 6
+
