@@ -207,5 +207,6 @@ Mateus 5: Se não assumimos que a eucaristia é uma presença física e real de 
 A argumentação do Ariel não faz nem um pouco de sentido. Hebreus 7:27 deixa isso claro, pois, não é necessário que realizemos o sacrifício de novo e de novo como faziam os sacerdotes no antigo testamente. Como assim não comemos da carne de Jesus se morremos com ele e o seu sacrifício foi eficaz? A lógica é que aquele que crê em Jesus como filho de Deus e seu Senhor e Salvador, será justificado. Na época de Moisés não tinha isso de crer no cordeiro sacrificado, kkkkkk. A forma de fazer parte do sacrifício mudou e, não apenas isso, mas se aperfeiçoou em Cristo. Além disso, Paulo diz que o batismo é a nova circuncisão. Só batiza homens e meninos? Tem que ser no oitavo dia? Não, pois existem diferenças cruciais entre sombra e realidade.
 
 Os judeus do tempo de Cristo estavam esperando um novo Moisés. Concordamos que ele é Jesus Cristo. Se o novo Moisés e Deus, se a nova aliança é com o próprio Deus, se o nome templo é Deus, se a nova terra prometida é Deus, o novo maná precisa ser Deus. Se não é assim, é a única coisa da nova aliança que não é Deus.
+- Tá, mas por que o maná não pode ser espiritual? Isso é um non-sequitur.
 
 João 6.
