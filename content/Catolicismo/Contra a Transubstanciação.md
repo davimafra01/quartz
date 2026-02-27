@@ -191,7 +191,7 @@ Rascunho.
 	Sobre essa parte do debate, o Banzoli disse duas coisas:
 	- Sempre que há um milagre na bíblia que envolve mudança de substância, necessariamente envolve mudança de acidentes;
 	- A transubstanciação é o único milagre bíblico que exige que se neguem todos os cinco sentidos (ou seja, o Banzoli disse sim que a transubstanciação é o único milagre invisível, o que está errado).
-	Se
+	Como o Banzoli disso isso após ter dito a primeira coisa, 
 
 ==============================
 
