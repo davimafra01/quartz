@@ -195,4 +195,5 @@ Mateus 5: Se não assumimos que a eucaristia é uma presença física e real de 
 - Nas oblações, o sacerdote come parte e outra parte é queimada para Deus (sacrifício de adoração).
 - Sacrifício pacífico, tanto a família como o sacerdote comem (comunhão e ação de graças).
 - Sacrifícios pelo pecado, onde o sacerdote come ou tudo é queimado;
-- Sacrifício da pertença à aliança (páscoa): a família precisa comer a carne do cordeiro, como em exodo 12 eles comem 
+- Sacrifício da pertença à aliança (páscoa): a família precisa comer a carne do cordeiro, como em exodo 12 eles comem o cordeiro e os pães asmos.
+
