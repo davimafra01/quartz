@@ -165,6 +165,7 @@ Rascunho.
 Rascunho.
 
 ---
+7 ARGUMENTOS CONTRA A TRANSUBSTANCIAÇÃO DO BANZOLI
 
 1 - 1 Coríntios 10:16: participação da comunhão com os demônios;
 
@@ -196,7 +197,8 @@ Rascunho.
 	- A transubstanciação é o único milagre bíblico com mudança de substância e sem mudança de acidentes que exige que se neguem todos os cinco sentidos;;
 	- Agora já não faz mais sentido essa frase, já que o objetivo dela era apontar a transubstanciação como uma quebra de padrão entre milagres, mas agora não temos com o que compará-la, já que ela é o único milagre em que se muda a substância sem mudar os acidentes).
 
-==============================
+==================================
+PONTOS DO ARIEL
 
 Mateus 5: Se não assumimos que a eucaristia é uma presença física e real de Jesus Cristo, não estamos completando o AT.
 - No holocausto, queimamos tudo para Deus.
@@ -204,7 +206,7 @@ Mateus 5: Se não assumimos que a eucaristia é uma presença física e real de 
 - Sacrifício pacífico, tanto a família como o sacerdote comem (comunhão e ação de graças).
 - Sacrifícios pelo pecado, onde o sacerdote come ou tudo é queimado;
 - Sacrifício da pertença à aliança (páscoa): a família precisa comer a carne do cordeiro, como em exodo 12 eles comem o cordeiro e os pães asmos.
-A argumentação do Ariel não faz nem um pouco de sentido. Hebreus 7:27 deixa isso claro, pois, não é necessário que realizemos o sacrifício de novo e de novo como faziam os sacerdotes no antigo testamente. Como assim não comemos da carne de Jesus se morremos com ele e o seu sacrifício foi eficaz? A lógica é que aquele que crê em Jesus como filho de Deus e seu Senhor e Salvador, será justificado. Na época de Moisés não tinha isso de crer no cordeiro sacrificado, kkkkkk. A forma de fazer parte do sacrifício mudou e, não apenas isso, mas se aperfeiçoou em Cristo. Além disso, Paulo diz que o batismo é a nova circuncisão. Só batiza homens e meninos? Tem que ser no oitavo dia? Não, pois existem diferenças cruciais entre sombra e realidade.
+A argumentação do Ariel não faz nem um pouco de sentido. Hebreus 7:27 deixa isso claro, pois, não é necessário que realizemos o sacrifício de novo e de novo como faziam os sacerdotes no antigo testamente. Como assim não comemos da carne de Jesus se morremos com ele e o seu sacrifício foi eficaz? A lógica é que aquele que crê em Jesus como filho de Deus e seu Senhor e Salvador, será justificado. Na época de Moisés não tinha isso de crer no cordeiro sacrificado, kkkkkk. A forma de fazer parte do sacrifício mudou e, não apenas isso, mas se aperfeiçoou em Cristo. Além disso, Paulo diz que o batismo é a nova circuncisão. Só batiza homens e meninos? Tem que ser no oitavo dia? Não, pois existem diferenças cruciais entre sombra e realidade. A realidade é a perfeição da sombra. Jesus veio e aperfeiçoou tudo o que antes existia, e querer que tudo seja feito exatamente como antes é reduzir Jesus às sombras do VT.
 
 Os judeus do tempo de Cristo estavam esperando um novo Moisés. Concordamos que ele é Jesus Cristo. Se o novo Moisés e Deus, se a nova aliança é com o próprio Deus, se o nome templo é Deus, se a nova terra prometida é Deus, o novo maná precisa ser Deus. Se não é assim, é a única coisa da nova aliança que não é Deus.
 - Tá, mas por que o maná não pode ser espiritual? Isso é um non-sequitur.
