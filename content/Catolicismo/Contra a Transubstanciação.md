@@ -187,3 +187,12 @@ Rascunho.
 7 - A transubstanciação nos leva a negar os sentidos e a própria realidade:
 - Sempre que há um milagre na bíblia que envolve mudança de substância, necessariamente envolve mudança de acidentes, pois é a única forma de certificar que o milagre realmente aconteceu (exemplo de José transformando o cajado em serpente).
 - Como Jesus provou a sua ressureição a Tomé? Dizendo: vede, toque aqui, pois um espírito não tem carne e ossos.
+
+==============================
+
+Mateus 5: Se não assumimos que a eucaristia é uma presença física e real de Jesus Cristo, não estamos completando o AT.
+- No holocausto, queimamos tudo para Deus.
+- Nas oblações, o sacerdote come parte e outra parte é queimada para Deus (sacrifício de adoração).
+- Sacrifício pacífico, tanto a família como o sacerdote comem (comunhão e ação de graças).
+- Sacrifícios pelo pecado, onde o sacerdote come ou tudo é queimado;
+- Sacrifício da pertença à aliança (páscoa): a família precisa comer a carne do cordeiro, como em exodo 12 eles comem 
