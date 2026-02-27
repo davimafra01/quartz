@@ -166,7 +166,7 @@ Rascunho.
 
 ---
 
-1 - 
+1 - 1 Coríntios 10:16: participação da comunhão com os demônios;
 
 2 - 
 
