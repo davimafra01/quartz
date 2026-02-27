@@ -166,3 +166,4 @@ Rascunho.
 
 ---
 
+4 - O corpo de Jesus não é onipresente para estar fisicamente nas hóstias consagradas em todo o mundo
