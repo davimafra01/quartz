@@ -168,9 +168,9 @@ Rascunho.
 
 1 - 1 Coríntios 10:16: participação da comunhão com os demônios;
 
-2 - 
+2 - A bíblia ensina a comunhão em ambas as espécies;
 
-3 - 
+3 - Hebreus 7:27: O sacrifício de Jesus foi único e a bíblia nada fala sobre ele precisar ser atualizado;
 
 4 - O corpo de Jesus não é onipresente para estar fisicamente nas hóstias consagradas em todo o mundo (Atos 3:21);
 
@@ -187,9 +187,3 @@ Rascunho.
 7 - A transubstanciação nos leva a negar os sentidos e a própria realidade:
 - Sempre que há um milagre na bíblia que envolve mudança de substância, necessariamente envolve mudança de acidentes, pois é a única forma de certificar que o milagre realmente aconteceu (exemplo de José transformando o cajado em serpente).
 - Como Jesus provou a sua ressureição a Tomé? Dizendo: vede, toque aqui, pois um espírito não tem carne e ossos.
-
-8 - 
-
-9 - 
-
-10 - 
