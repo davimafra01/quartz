@@ -176,6 +176,7 @@ Rascunho.
 
 5 - A transubstanciação viola o próprio conceito de sacramento:
 	Agostinho, na carta 98 a Bonifácio, escreveu: "Em virtude, essa semelhança, os sacramentos são chamados pelo nome da **realidade com a qual se assemelha**. Assim, **em certo sentido**, o sacramento do corpo de Cristo é o corpo de Cristo, e da mesma forma, o sacramento da fé, é a fé. Com base nisso, o apóstolo disse em relação ao sacramento do batismo: de sorte que **fomos sepultados com ele pelo batismo na morte**".
+	Gálatas 3:27
 
 6 - 
 
