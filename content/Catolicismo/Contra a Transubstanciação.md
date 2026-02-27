@@ -188,6 +188,9 @@ Rascunho.
 - Sempre que há um milagre na bíblia que envolve mudança de substância, necessariamente envolve mudança de acidentes, pois é a única forma de certificar que o milagre realmente aconteceu (exemplo de José transformando o cajado em serpente).
 - Como Jesus provou a sua ressureição a Tomé? Dizendo: vede, toque aqui, pois um espírito não tem carne e ossos.
 - Santo Inácio de Loyola disse: creio que o branco que eu vejo é preto se a hierarquia da igreja assim tiver determinado.
+	Sobre essa parte do debate, o Banzoli disse duas coisas:
+	- Sempre que há um milagre na bíblia que envolve mudança de substância, necessariamente envolve mudança de acidentes;
+	- 
 
 ==============================
 
