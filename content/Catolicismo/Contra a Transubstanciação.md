@@ -197,3 +197,4 @@ Mateus 5: Se não assumimos que a eucaristia é uma presença física e real de 
 - Sacrifícios pelo pecado, onde o sacerdote come ou tudo é queimado;
 - Sacrifício da pertença à aliança (páscoa): a família precisa comer a carne do cordeiro, como em exodo 12 eles comem o cordeiro e os pães asmos.
 
+Os judeus do tempo de Cristo estavam esperando um novo Moisés. Concordamos que ele é Jesus Cristo.
