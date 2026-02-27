@@ -190,7 +190,7 @@ Rascunho.
 - Santo Inácio de Loyola disse: creio que o branco que eu vejo é preto se a hierarquia da igreja assim tiver determinado.
 	Sobre essa parte do debate, o Banzoli disse duas coisas:
 	- Sempre que há um milagre na bíblia que envolve mudança de substância, necessariamente envolve mudança de acidentes;
-	- 
+	- A transubstanciação é o único milagre bíblico que exige que se neguem 
 
 ==============================
 
