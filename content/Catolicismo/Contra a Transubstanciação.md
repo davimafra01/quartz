@@ -172,6 +172,17 @@ Rascunho.
 
 3 - 
 
-4 - O corpo de Jesus não é onipresente para estar fisicamente nas hóstias consagradas em todo o mundo (Atos 3:21)
+4 - O corpo de Jesus não é onipresente para estar fisicamente nas hóstias consagradas em todo o mundo (Atos 3:21);
 
-5 - 
+5 - A transubstanciação viola o próprio conceito de sacramento:
+	Agostinho, na carta 98 a Bonifácio, escreveu: "Em virtude, essa semelhança, os sacramentos são chamados pelo nome da **realidade com a qual se assemelha**. Assim, **em certo sentido**, o sacramento do corpo de Cristo é o corpo de Cristo, e da mesma forma, o sacramento da fé, é a fé. Com base nisso, o apóstolo disse em relação ao sacramento do batismo: de sorte que **fomos sepultados com ele pelo batismo na morte**".
+
+6 - 
+
+7 - 
+
+8 - 
+
+9 - 
+
+10 - 
