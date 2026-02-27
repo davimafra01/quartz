@@ -182,9 +182,9 @@ Rascunho.
 
 6 - Os pais da igreja negaram massivamente essa doutrina:
 - Papa Gelásio (Das duas naturezas, capítulo 14): "A substância ou a natureza do pão e do vinho não deixam de existir";
-- Teodoreto, em seu diálogo II: "Mesmo após a consagração, os símbolos místicos não são privados de sua própria natureza. Eles permanecem sua substância, figura e form"
+- Teodoreto, em seu diálogo II: "Mesmo após a consagração, os símbolos místicos não são privados de sua própria natureza. Eles permanecem sua substância, figura e forma originárias".
 
-7 - 
+7 - A tra
 
 8 - 
 
