@@ -210,4 +210,4 @@ Os judeus do tempo de Cristo estavam esperando um novo Moisés. Concordamos que 
 - Tá, mas por que o maná não pode ser espiritual? Isso é um non-sequitur.
 
 João 6.
-- Nesse caso, os cafarnaítas entenderam que Jesus estava falando da eucaristia como é entendi
+- Nesse caso, os cafarnaítas entenderam que Jesus estava falando da eucaristia como é entendida hoje, ou seja, de comê-lo sacramentalmente, mesmo que de forma física;o
