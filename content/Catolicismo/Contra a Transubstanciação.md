@@ -210,3 +210,4 @@ Os judeus do tempo de Cristo estavam esperando um novo Moisés. Concordamos que 
 - Tá, mas por que o maná não pode ser espiritual? Isso é um non-sequitur.
 
 João 6.
+
