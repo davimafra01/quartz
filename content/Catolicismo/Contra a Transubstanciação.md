@@ -166,4 +166,12 @@ Rascunho.
 
 ---
 
-4 - O corpo de Jesus não é onipresente para estar fisicamente nas hóstias consagradas em todo o mundo
+1 - 
+
+2 - 
+
+3 - 
+
+4 - O corpo de Jesus não é onipresente para estar fisicamente nas hóstias consagradas em todo o mundo (Atos 3:21)
+
+5 - 
