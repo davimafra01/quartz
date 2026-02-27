@@ -180,7 +180,8 @@ Rascunho.
 - 1 Coríntios 12:13: o corpo aqui é literal? Beber aqui é literal? Claro que não.
 - Os católicos interpretam tudo espiritualmente (como o batismo), mas na eucaristia entendem literalmente.
 
-6 - Os pais da igreja negaram massivamente essa doutrina
+6 - Os pais da igreja negaram massivamente essa doutrina:
+- 
 
 7 - 
 
