@@ -181,7 +181,7 @@ Rascunho.
 - Os católicos interpretam tudo espiritualmente (como o batismo), mas na eucaristia entendem literalmente.
 
 6 - Os pais da igreja negaram massivamente essa doutrina:
-- Papa Gelásio (Das duas naturezas, capítulo 14): 
+- Papa Gelásio (Das duas naturezas, capítulo 14): "A substância ou a natureza do pão e do vinho não deixam de existir" 
 
 7 - 
 
