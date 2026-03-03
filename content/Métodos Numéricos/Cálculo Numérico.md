@@ -11,3 +11,5 @@ Refere-se a soluções numéricas de problemas.
 
 # 3. Método de Herão para radiciação
 ![[Pasted image 20260303173804.png]]
+
+# 4. 
