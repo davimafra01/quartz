@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"4df4533689064cd8","x":-440,"y":-200,"width":250,"height":60,"type":"text","text":"Lembrar de fazer tal"}
+		{"id":"4df4533689064cd8","x":-320,"y":-200,"width":250,"height":60,"color":"4","type":"text","text":"Lembrar de fazer tal"}
 	],
 	"edges":[]
 }
