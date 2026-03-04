@@ -9,4 +9,4 @@ draft:
 
 ## Equações Diferenciais Ordinárias 
 
-## Arquitetura e Organização de Computadores
+## Métodos Num
