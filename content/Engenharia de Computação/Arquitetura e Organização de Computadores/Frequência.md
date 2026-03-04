@@ -5,8 +5,8 @@ draft:
 
 ## Arquitetura e Organização de Computadores
 
-## Cálculo com Funções de Várias 
+## Cálculo com Funções de Várias Variáveis Reais II
 
-## Arquitetura e Organização de Computadores
+## Equações Diferenciais Ordinárias 
 
 ## Arquitetura e Organização de Computadores
