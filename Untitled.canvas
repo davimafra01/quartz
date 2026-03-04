@@ -1,6 +1,10 @@
 {
 	"nodes":[
-		{"id":"4df4533689064cd8","x":-320,"y":-200,"width":250,"height":60,"color":"4","type":"text","text":"Lembrar de fazer tal"}
+		{"id":"24386de458a4b3e8","type":"text","text":"Lembrar de fazer tal","x":-125,"y":-30,"width":250,"height":60,"color":"4"},
+		{"id":"4df4533689064cd8","x":-500,"y":-30,"width":250,"height":60,"color":"4","type":"text","text":"Lembrar de fazer tal"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"0c026bddb1c51142","fromNode":"4df4533689064cd8","fromSide":"right","toNode":"24386de458a4b3e8","toSide":"left"},
+		{"id":"e51c39897f2a4810","fromNode":"4df4533689064cd8","fromSide":"right","toNode":"24386de458a4b3e8","toSide":"left"}
+	]
 }
