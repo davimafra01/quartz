@@ -1,8 +1,7 @@
 ---
 draft:
 ---
-# 2026.1
-
+# 2026.1============================
 ### Arquitetura e Organização de Computadores
 1. Draft
 2. Draft
@@ -19,3 +18,5 @@ draft:
 1. Draft
 2. Draft
 3. Draft
+
+# 2026.1============================
