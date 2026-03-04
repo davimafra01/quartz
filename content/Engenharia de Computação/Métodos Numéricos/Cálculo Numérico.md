@@ -10,6 +10,6 @@ Refere-se a soluções numéricas de problemas.
 - Análise de erros.
 
 # 3. Método de Herão para radiciação
-![[Pasted image 20260303173804.png]]
+![[Método de Herão para cálculo de raizes.png]]
 
 # 4. 
