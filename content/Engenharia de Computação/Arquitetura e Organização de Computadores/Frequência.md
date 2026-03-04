@@ -5,7 +5,7 @@ draft:
 
 ## Arquitetura e Organização de Computadores
 
-## Métodos
+## Cálculo com Funções de Várias 
 
 ## Arquitetura e Organização de Computadores
 
