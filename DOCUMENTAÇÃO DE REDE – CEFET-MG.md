@@ -54,19 +54,19 @@ Este bloco amplia significativamente a disponibilidade de endereços públicos p
 
 A segmentação lógica da rede é realizada por meio de VLANs, permitindo isolamento entre diferentes domínios administrativos ou funcionais.
 
-| VLAN | Rede | Intervalo |
-|------|------|----------|
-| VLAN 1  | 200.131.40.0/24  | 200.131.40.0 – 200.131.40.255 |
-| VLAN 10 | 200.128.128.0/22 | 200.128.128.0 – 200.128.131.255 |
-| VLAN 20 | 200.128.132.0/22 | 200.128.132.0 – 200.128.135.255 |
-| VLAN 65 | 10.65.1.0/24     | 10.65.1.0 – 10.65.1.255 |
+| VLAN    | Rede             | Intervalo                       | Hosts  |
+| ------- | ---------------- | ------------------------------- | ------ |
+| VLAN 1  | 200.131.40.0/24  | 200.131.40.0 – 200.131.40.255   | 256    |
+| VLAN 10 | 200.128.128.0/22 | 200.128.128.0 – 200.128.131.255 | 1.024  |
+| VLAN 20 | 200.128.132.0/22 | 200.128.132.0 – 200.128.135.255 | 65.536 |
+| VLAN 65 | 10.65.1.0/24     | 10.65.1.0 – 10.65.1.255         | 256    |
 
 Observa-se que a rede utiliza tanto endereçamento público quanto privado, conforme a finalidade da VLAN.
 
 ---
 ## 4. Blocos Privados IPv4
 
-Os blocos privados seguem as definições padronizadas para redes internas.
+Os blocos privados seguem as definições padronizadas para redes internas. Para fins de conhecimento:
 
 ### 4.1 Bloco 10.0.0.0/8 [A4]
 
