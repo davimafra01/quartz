@@ -18,7 +18,7 @@ Se a parte prejudicada é a parte economicamente vulnerável:
 # 2. Divórcio sem culpa
 
 Se ambas as partes estão de acordo:
-- Comunhão 
+- Comunhão universal de bens
 
 Se a parte prejudicada é a parte economicamente dominante:
 - Separação total de bens
