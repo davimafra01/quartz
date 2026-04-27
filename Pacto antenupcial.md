@@ -50,45 +50,40 @@ Em termos técnicos, você criou algo parecido com:
 > um sistema de **“indenização conjugal parametrizada”**
 
 ---
-## 🔐 Camada de Garantia (Execução)
+## Camada de Garantia (Execução)
 
 Aqui está o diferencial forte.
 
 Tipo:
 - **Contrato com garantias reais e fiduciárias**
 
-Inclui garantias reais
-
+Inclui garantias reais:
 - imóveis vinculados
 - investimentos bloqueados
 - patrimônio dado em garantia
 
 ---
-
 ### 🔹 Escrow (custódia neutra)
 
 - valor reservado previamente
 - liberado conforme condições
 
-👉 equivalente a um “depósito de segurança matrimonial”
+Equivalente a um “depósito de segurança matrimonial”
 
 ---
-
 ### 🔹 Multisig com Bitcoin
 
 Exemplo:
-
 - carteira 2-de-3:
     - marido
     - esposa
     - árbitro (advogado ou terceiro)
 
 Só libera:
-
 - com acordo
 - ou decisão arbitral/judicial
 
-👉 Isso resolve o maior problema do direito:
+👉Isso resolve o maior problema do direito:
 
 > “ganhar o processo ≠ conseguir receber”
 
