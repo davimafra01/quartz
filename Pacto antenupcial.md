@@ -21,7 +21,8 @@ Se ambas as partes estão de acordo:
 - Comunhão universal de bens
 
 Se a parte prejudicada é a parte economicamente dominante:
-- Separação total de bens, mas parte responsável recebe um percentual do patrimônio do cônjuge que deve ser inversamente proporcional ao tamanho do patrimônio.
+- Comunhão parcial especial de bens:
+	- Parte prejudicada 
 
 Se a parte prejudicada é a parte economicamente vulnerável:
 - 
