@@ -1,9 +1,7 @@
 ---
 draft:
 ---
-# PACTO ANTENUPCIAL
-
-#### Pacto Antenupcial Compensatório com Cláusulas de Responsabilização e Garantia de Execução Patrimonial
+# Pacto Antenupcial Compensatório com Cláusulas de Responsabilização e Garantia de Execução Patrimonial
 
 É um contrato de casamento que define não só como dividir bens, mas também cria regras de compensação justa em caso de separação — especialmente se houver comportamento prejudicial — e garante que o pagamento realmente aconteça, usando tanto mecanismos jurídicos quanto tecnológicos (como Bitcoin).
 
@@ -69,7 +67,6 @@ Inclui garantias reais:
 
 Equivalente a um “depósito de segurança matrimonial”
 
----
 ### Multisig com Bitcoin
 
 Exemplo:
@@ -86,7 +83,7 @@ Isso resolve o maior problema do direito:
 > “ganhar o processo ≠ conseguir receber”
 
 ---
-## Camada Tecnológica (Execução Programável)
+## Camada 4: Tecnológica (Execução Programável)
 
 Tipo:
 - **Infraestrutura de confiança descentralizada**
