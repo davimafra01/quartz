@@ -21,8 +21,11 @@ Se ambas as partes estão de acordo:
 - Comunhão universal de bens
 
 Se a parte prejudicada é a parte economicamente dominante:
-- Comunhão parcial especial de bens:
-	- Parte prejudicada 
+
 
 Se a parte prejudicada é a parte economicamente vulnerável:
-- 
+- Comunhão parcial especial de bens de acordo com os seguintes critérios:
+	- Parte prejudicada não trabalhou e nem estudou durante o casamento:
+	- Parte prejudicada não trabalhou ou não estudou durante o casamento:
+	- Parte prejudicada trabalhou e estudou durante o casamento:
+	- Parte prejudicada trabalhou ou estudou durante o casamento:
