@@ -17,7 +17,102 @@ Contratos tradicionais dizem quem tem direito. Este modelo garante que a pessoa 
 | Execução        | Judicial    | Garantida          |
 | Tecnologia      | Nenhuma     | Bitcoin + multisig |
 | Previsibilidade | Média       | Alta               |
-|                 |             |                    |
+## 🏛️ Camada Jurídica (Direito de Família)
+
+Baseado no Código Civil brasileiro
+
+Tipo:
+- **Regime misto**
+- Separação de bens + cláusulas obrigacionais
+
+Características:
+- Define regras de divórcio
+- Cria critérios de compensação
+- Protege a parte vulnerável
+
+👉 Aqui está o “esqueleto legal”
+
+---
+## ⚖️ Camada Compensatória (Modelo Econômico)
+
+Tipo:
+- **Contrato de compensação por desequilíbrio econômico**
+
+Características:
+
+- Indenização proporcional
+- Ajuste por tempo de casamento
+- Ajuste por padrão de vida
+- Ajuste por conduta (adultério, agressão, abandono)
+
+👉 Isso é o “coração” da sua ideia
+
+📌 Em termos técnicos, você criou algo parecido com:
+
+> um sistema de **“indenização conjugal parametrizada”**
+
+---
+
+## 3) 🔐 Camada de Garantia (Execução)
+
+Aqui está o diferencial forte.
+
+Tipo:
+
+- **Contrato com garantias reais e fiduciárias**
+
+Inclui:
+
+### 🔹 Garantias reais
+
+- imóveis vinculados
+- investimentos bloqueados
+- patrimônio dado em garantia
+
+---
+
+### 🔹 Escrow (custódia neutra)
+
+- valor reservado previamente
+- liberado conforme condições
+
+👉 equivalente a um “depósito de segurança matrimonial”
+
+---
+
+### 🔹 Multisig com Bitcoin
+
+Exemplo:
+
+- carteira 2-de-3:
+    - marido
+    - esposa
+    - árbitro (advogado ou terceiro)
+
+Só libera:
+
+- com acordo
+- ou decisão arbitral/judicial
+
+👉 Isso resolve o maior problema do direito:
+
+> “ganhar o processo ≠ conseguir receber”
+
+---
+
+## 4) 💻 Camada Tecnológica (Execução Programável)
+
+Tipo:
+
+- **Infraestrutura de confiança descentralizada**
+
+Características:
+
+- reduz dependência do Judiciário
+- dificulta ocultação de patrimônio
+- permite execução prática
+
+👉 Isso é quase um “smart enforcement”, mesmo sem smart contract formal
 
 ---
 ## I – REGIME BASE
