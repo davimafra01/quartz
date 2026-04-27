@@ -1,5 +1,3 @@
-# DOCUMENTAÇÃO TÉCNICA DA REDE – CEFET-MG
-
 ## Sumário
 
 1. Introdução
