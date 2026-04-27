@@ -21,7 +21,7 @@ Se ambas as partes estão de acordo:
 - Comunhão universal de bens
 
 Se a parte prejudicada é a parte economicamente dominante:
-- Comunhão parcial de bens + indenização por danos morais
+- Deve ser analisado o padrão de vida da parte responsável antes do casamento de modo a partilhar um percentual do patrimônio da parte prejudicada que seja de uma ordem superior ao padrão de vida anterior da parte responsável. Contudo, essa superioridade em padrão de vida deve ser proporcional ao tempo de casados. Quando mais tempo de casados, maior parte do patrimônio a parte responsável recebe, e quanto mais próximo do padrão de vida atual for o padrão de vida antes do casamento da parte responsável, menos recebe.
 
 Se a parte prejudicada é a parte economicamente vulnerável:
 - Comunhão parcial especial de bens de acordo com os seguintes critérios:
