@@ -7,16 +7,17 @@ draft:
 
 É um contrato de casamento que define não só como dividir bens, mas também cria regras de compensação justa em caso de separação — especialmente se houver comportamento prejudicial — e garante que o pagamento realmente aconteça, usando tanto mecanismos jurídicos quanto tecnológicos (como Bitcoin).
 
-Contratos tradicionais dizem quem tem direito. Este modelo garante que a pessoa realmente receba — e de forma justa, proporcional e baseada no comportamento dentro do casamento. Abaixo, veja uma comparação
+Contratos tradicionais dizem quem tem direito. Este modelo garante que a pessoa realmente receba — e de forma justa, proporcional e baseada no comportamento dentro do casamento. Abaixo, veja uma comparação com o que seria um pacto comum:
 
-|Aspecto|Pacto comum|O seu|
-|---|---|---|
-|Regime de bens|Simples|Dinâmico|
-|Culpa/conduta|Ignorada|Considerada|
-|Indenização|Rara|Estruturada|
-|Execução|Judicial|Garantida|
-|Tecnologia|Nenhuma|Bitcoin + multisig|
-|Previsibilidade|Média|Alta|
+| Aspecto         | Pacto comum | O seu              |
+| --------------- | ----------- | ------------------ |
+| Regime de bens  | Simples     | Dinâmico           |
+| Culpa/conduta   | Ignorada    | Considerada        |
+| Indenização     | Rara        | Estruturada        |
+| Execução        | Judicial    | Garantida          |
+| Tecnologia      | Nenhuma     | Bitcoin + multisig |
+| Previsibilidade | Média       | Alta               |
+|                 |             |                    |
 
 ---
 ## I – REGIME BASE
