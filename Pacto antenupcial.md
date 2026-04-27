@@ -61,8 +61,7 @@ Inclui garantias reais:
 - imóveis vinculados
 - investimentos bloqueados
 - patrimônio dado em garantia
-
----
+-
 ### 🔹 Escrow (custódia neutra)
 
 - valor reservado previamente
@@ -83,25 +82,21 @@ Só libera:
 - com acordo
 - ou decisão arbitral/judicial
 
-👉Isso resolve o maior problema do direito:
-
+Isso resolve o maior problema do direito:
 > “ganhar o processo ≠ conseguir receber”
 
 ---
-
-## 4) 💻 Camada Tecnológica (Execução Programável)
+## 💻 Camada Tecnológica (Execução Programável)
 
 Tipo:
-
 - **Infraestrutura de confiança descentralizada**
 
 Características:
-
 - reduz dependência do Judiciário
 - dificulta ocultação de patrimônio
 - permite execução prática
 
-👉 Isso é quase um “smart enforcement”, mesmo sem smart contract formal
+Isso é quase um “smart enforcement”, mesmo sem smart contract formal
 
 ---
 ## I – REGIME BASE
