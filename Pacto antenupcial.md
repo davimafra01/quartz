@@ -12,7 +12,7 @@ Se a parte prejudicada é a parte economicamente dominante:
 - Separação total de bens + indenização por danos morais
 
 Se a parte prejudicada é a parte economicamente vulnerável:
-- Comunhão total de bens + indenização por danos morais
+- Comunhão universal de bens + indenização por danos morais
 
 ---
 # 2. Divórcio sem culpa
