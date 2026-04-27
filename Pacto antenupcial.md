@@ -96,6 +96,9 @@ Características:
 Isso é quase um “smart enforcement”, mesmo sem smart contract formal
 
 ---
+---
+# PACTO ANTENUPCIAL
+
 ## I – REGIME BASE
 
 Os nubentes adotam:
