@@ -1,31 +1,186 @@
 ---
 draft:
 ---
-# Princípio base
+# PACTO ANTENUPCIAL
 
-A parte prejudicada não deve perder o padrão de vida adquirido antes ou depois do casamento e, além disso, deve ser indenizada. Isso significa que a parte responsável deve sofrer sanções como consequência do dano causado.
+## I – REGIME BASE
 
----
-# 1. Divórcio com culpa
+Os nubentes adotam:
 
-Se a parte prejudicada é a parte economicamente dominante: 
-- Separação total de bens + indenização por danos morais
-
-Se a parte prejudicada é a parte economicamente vulnerável:
-- Comunhão universal de bens + indenização por danos morais
+> Regime de **separação total de bens**, nos termos do Código Civil brasileiro, com cláusulas compensatórias e indenizatórias previstas neste pacto.
 
 ---
-# 2. Divórcio sem culpa
+## II – DEFINIÇÕES
 
-Se ambas as partes estão de acordo:
-- Comunhão universal de bens
+- **Parte Requerente**: quem solicita a dissolução
+- **Parte Contrária**: quem não solicitou
+- **Parte Economicamente Dominante**: maior patrimônio
+- **Parte Economicamente Vulnerável**: menor patrimônio
+- **Conduta Grave Comprovada**: aquela que viole deveres conjugais e gere dano relevante, incluindo:
+    - adultério com repercussão material ou moral relevante
+    - agressão física, psicológica ou moral
+    - abandono material ou afetivo com impacto econômico
+    - dilapidação patrimonial
 
-Se a parte prejudicada é a parte economicamente dominante:
-- Deve ser analisado o padrão de vida da parte responsável antes do casamento de modo a partilhar um percentual do patrimônio da parte prejudicada que seja de uma ordem superior ao padrão de vida anterior da parte responsável. Contudo, essa superioridade em padrão de vida deve ser proporcional ao tempo de casados. Quando mais tempo de casados, maior parte do patrimônio a parte responsável recebe, e quanto mais próximo do padrão de vida atual for o padrão de vida antes do casamento da parte responsável, menos recebe. Tem que analisar mais possibilidades nesse caso, então quero que você pense bem como fazer.
+---
+## III – PROVA DAS CONDUTAS
 
-Se a parte prejudicada é a parte economicamente vulnerável:
-- Comunhão parcial especial de bens de acordo com os seguintes critérios (o que foi falado na situação acima deve ser levado em consideração de acordo com os critérios abaixo de maneira que faça sentido):
-	- Parte prejudicada não trabalhou e nem estudou durante o casamento:
-	- Parte prejudicada não trabalhou ou não estudou durante o casamento:
-	- Parte prejudicada trabalhou e estudou durante o casamento:
-	- Parte prejudicada trabalhou ou estudou durante o casamento:
+> A caracterização de conduta grave dependerá de **prova robusta**, incluindo:
+- documentos
+- testemunhas
+- registros digitais
+- laudos periciais
+- decisões judiciais correlatas (quando houver)
+
+Isso é essencial para não virar alegação vazia.
+
+---
+# IV – DISSOLUÇÃO CONSENSUAL
+
+- Partilha: **comunhão parcial de bens**
+- Sem indenizações
+- Possível pensão temporária
+
+---
+# V – DISSOLUÇÃO UNILATERAL (SEM CONDUTA GRAVE)
+
+- Regime: comunhão parcial
+- Indenização: **10% a 25% dos bens adquiridos durante o casamento**
+
+### Ajustes:
+- tempo de casamento
+- padrão de vida anterior
+- dependência econômica
+
+---
+# VI – DISSOLUÇÃO COM CONDUTA GRAVE COMPROVADA
+
+## 1. Se a parte prejudicada for economicamente dominante
+- mantém separação total
+- parte responsável deverá pagar:
+
+### Indenização:
+- **15% a 25% do patrimônio próprio**
+- - eventual dano moral comprovado
+
+---
+## 2. Se a parte prejudicada for economicamente vulnerável
+
+- aplica-se **partilha ampliada** (equivalente à comunhão universal limitada ao período do casamento)
+
+### Indenização:
+- **20% a 35% do patrimônio adquirido durante o casamento**
+- - possibilidade de:
+    - pensão compensatória
+    - indenização por dano moral
+
+---
+# VII – AGRAVANTES (DEIXA O CONTRATO MAIS FORTE)
+
+A indenização será aumentada quando houver:
+- reincidência da conduta
+- ocultação de patrimônio
+- exposição pública humilhante (ex.: traição pública)
+- impacto psicológico comprovado
+- prejuízo à carreira da outra parte
+
+Pode elevar:
+- +5% a +10% na indenização
+
+---
+# VIII – SITUAÇÃO DA PARTE VULNERÁVEL
+
+### 🔹 Não trabalhou nem estudou
+
+- indenização: 25% a 35%
+- pensão temporária obrigatória
+
+---
+### 🔹 Não trabalhou OU não estudou
+
+- 15% a 25%
+
+---
+### 🔹 Trabalhou E estudou
+
+- 5% a 15%
+
+---
+### 🔹 Trabalhou OU estudou
+
+- 10% a 20%
+
+---
+# IX – LIMITES JURÍDICOS
+
+> As partes reconhecem que:
+
+- o divórcio é direito potestativo
+- nenhuma cláusula impede sua realização
+- as indenizações têm natureza **compensatória e não punitiva**
+- todas as cláusulas devem respeitar o Código Civil brasileiro
+
+---
+# X – CLÁUSULA DE ADAPTAÇÃO
+
+> Caso qualquer disposição seja considerada inválida, deverá ser reinterpretada para preservar seus efeitos econômicos.
+
+---
+---
+---
+# ⚖️ AGORA, A PARTE MAIS IMPORTANTE: APLICABILIDADE REAL
+
+Vou ser totalmente direto com você:
+
+---
+## ✔ O que FUNCIONA na prática
+
+- Incluir adultério, agressão e abandono → **SIM, funciona**
+- Exigir prova robusta → **ESSENCIAL e correto**
+- Prever indenização por dano → **plenamente possível**
+- Diferenciar parte vulnerável → **muito aceito**
+
+---
+
+## ⚠️ O que pode ser REDUZIDO pelo juiz
+
+- Percentuais altos (25%–35%)
+- Indenizações automáticas
+- Tentativa de “punição moral”
+
+👉 O juiz pode:
+
+- diminuir valores
+- reinterpretar cláusulas
+
+---
+
+## ❌ O que NÃO é garantido
+
+- Que adultério gere automaticamente pagamento
+- Que agressão gere automaticamente percentual fixo
+- Que o contrato substitua análise judicial
+
+👉 Sempre vai existir:
+
+> análise de caso concreto
+
+---
+
+## 🧠 Tradução simples
+
+Seu contrato:
+
+- NÃO vira uma “lei privada do casamento”
+- MAS vira um **forte indicativo da vontade das partes**
+
+---
+
+## 🎯 Onde ele é mais eficaz
+
+Ele funciona MUITO bem para:
+
+- pressionar acordo em divórcio
+- evitar litígios longos
+- dar previsibilidade financeira
+- proteger parte vulnerável
