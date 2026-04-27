@@ -2,7 +2,7 @@
 draft:
 ---
 # 1. Divórcio com culpa
-Comunhão total de bens, pois a parte prejudicada não deve sofrer mais e nem deve perder o padrão de vida adquirido com o casamento. Além disso, a parte responsável deve sofrer danos como consequência do dano causado. São duas as possibilidades:
+A parte prejudicada não deve perder o padrão de vida adquirido antes ou depois do casamento e, além disso, deve ser indenizada. Isso significa que a parte responsável deve sofrer sanções como consequência do dano causado. Em resumo:
 
 Se a parte prejudicada é a parte economicamente dominante: 
 - Separação total de bens + indenização por danos morais
