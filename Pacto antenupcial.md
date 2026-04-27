@@ -30,7 +30,7 @@ Características:
 - Cria critérios de compensação
 - Protege a parte vulnerável
 
-👉 Aqui está o “esqueleto legal”
+Aqui está o “esqueleto legal”
 
 ---
 ## ⚖️ Camada Compensatória (Modelo Econômico)
@@ -39,31 +39,25 @@ Tipo:
 - **Contrato de compensação por desequilíbrio econômico**
 
 Características:
-
 - Indenização proporcional
 - Ajuste por tempo de casamento
 - Ajuste por padrão de vida
 - Ajuste por conduta (adultério, agressão, abandono)
 
-👉 Isso é o “coração” da sua ideia
+Isso é o “coração” da sua ideia
 
-📌 Em termos técnicos, você criou algo parecido com:
-
+Em termos técnicos, você criou algo parecido com:
 > um sistema de **“indenização conjugal parametrizada”**
 
 ---
-
-## 3) 🔐 Camada de Garantia (Execução)
+## 🔐 Camada de Garantia (Execução)
 
 Aqui está o diferencial forte.
 
 Tipo:
-
 - **Contrato com garantias reais e fiduciárias**
 
-Inclui:
-
-### 🔹 Garantias reais
+Inclui garantias reais
 
 - imóveis vinculados
 - investimentos bloqueados
