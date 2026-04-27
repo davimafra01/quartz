@@ -17,7 +17,7 @@ Contratos tradicionais dizem quem tem direito. Este modelo garante que a pessoa 
 | Execução        | Judicial    | Garantida          |
 | Tecnologia      | Nenhuma     | Bitcoin + multisig |
 | Previsibilidade | Média       | Alta               |
-## 🏛️ Camada Jurídica (Direito de Família)
+## Camada 1: Jurídica (Direito de Família)
 
 Baseado no Código Civil brasileiro
 
@@ -33,7 +33,7 @@ Características:
 Aqui está o “esqueleto legal”
 
 ---
-## ⚖️ Camada Compensatória (Modelo Econômico)
+## Camada 2: Compensatória (Modelo Econômico)
 
 Tipo:
 - **Contrato de compensação por desequilíbrio econômico**
@@ -50,7 +50,7 @@ Em termos técnicos, você criou algo parecido com:
 > um sistema de **“indenização conjugal parametrizada”**
 
 ---
-## Camada de Garantia (Execução)
+## Camada 3: Garantia (Execução)
 
 Aqui está o diferencial forte.
 
@@ -61,8 +61,8 @@ Inclui garantias reais:
 - imóveis vinculados
 - investimentos bloqueados
 - patrimônio dado em garantia
--
-### 🔹 Escrow (custódia neutra)
+
+### Escrow (custódia neutra)
 
 - valor reservado previamente
 - liberado conforme condições
@@ -70,7 +70,7 @@ Inclui garantias reais:
 Equivalente a um “depósito de segurança matrimonial”
 
 ---
-### 🔹 Multisig com Bitcoin
+### Multisig com Bitcoin
 
 Exemplo:
 - carteira 2-de-3:
@@ -86,7 +86,7 @@ Isso resolve o maior problema do direito:
 > “ganhar o processo ≠ conseguir receber”
 
 ---
-## 💻 Camada Tecnológica (Execução Programável)
+## Camada Tecnológica (Execução Programável)
 
 Tipo:
 - **Infraestrutura de confiança descentralizada**
