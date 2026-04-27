@@ -19,3 +19,8 @@ Se a parte prejudicada é a parte economicamente vulnerável:
 
 Se ambas as partes estão de acordo:
 - Comunhão 
+
+Se a parte prejudicada é a parte economicamente dominante:
+
+
+Se a parte prejudicada é a parte economicamente vulnerável:
