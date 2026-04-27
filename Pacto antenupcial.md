@@ -21,7 +21,7 @@ Se ambas as partes estão de acordo:
 - Comunhão universal de bens
 
 Se a parte prejudicada é a parte economicamente dominante:
-
+- Comunhão parcial de bens + indenização por danos morais
 
 Se a parte prejudicada é a parte economicamente vulnerável:
 - Comunhão parcial especial de bens de acordo com os seguintes critérios:
