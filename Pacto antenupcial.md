@@ -21,6 +21,6 @@ Se ambas as partes estão de acordo:
 - Comunhão 
 
 Se a parte prejudicada é a parte economicamente dominante:
-
+- Separação total de bens
 
 Se a parte prejudicada é a parte economicamente vulnerável:
