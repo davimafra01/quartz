@@ -26,7 +26,6 @@ O foco é a rastreabilidade dos cálculos e a compreensão formal da estrutura d
 ## 2. Fundamentos de Endereçamento IPv4
 
 Um endereço IPv4 possui 32 bits, divididos em:
-
 - Parte de rede (prefixo)
 - Parte de host
 
