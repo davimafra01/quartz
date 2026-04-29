@@ -144,15 +144,13 @@ Isso é essencial para não virar alegação vazia.
 # VI – DISSOLUÇÃO COM CONDUTA GRAVE COMPROVADA
 
 ## 1. Se a parte prejudicada for economicamente dominante
-- mantém separação total
-- parte responsável deverá pagar indenização de:
-	- **15% a 25% do patrimônio próprio**
-	- Eventual dano moral comprovado
+Mantém separação total de bens e parte responsável deverá pagar indenização de:
+- **15% a 25% do patrimônio próprio**
+- Eventual dano moral comprovado
 
 ---
 ## 2. Se a parte prejudicada for economicamente vulnerável
-
-- aplica-se **partilha ampliada** (equivalente à comunhão universal limitada ao período do casamento)
+Aplica-se **partilha ampliada** (equivalente à comunhão universal limitada ao período do casamento)
 
 ### Indenização:
 - **20% a 35% do patrimônio adquirido durante o casamento**
