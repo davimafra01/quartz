@@ -154,16 +154,19 @@ A caracterização de conduta grave dependerá de **prova robusta**, incluindo:
 - Mantém-se separação dos patrimônios particulares
 - Partilha do patrimônio comum (50/50)
 - Compensação para a parte prejudicada:
-    - 10% a 20% do patrimônio comum
+    - 15% a 25% do patrimônio comum
 - Dano moral:
     - apenas se comprovado judicialmente
 
 ---
 ## 2. Se a parte prejudicada for economicamente vulnerável
+- Mantém-se separação dos patrimônios particulares
 - Partilha ampliada:
-    - 60% a 80% do patrimônio comum para a parte vulnerável
+    - 60% a 70% do patrimônio comum para a parte vulnerável
  - Compensação para a parte prejudicada:
     - 15% a 25% do patrimônio comum
+- Dano moral:
+    - apenas se comprovado judicialmente
 - Possível pensão temporária
 
 ---
