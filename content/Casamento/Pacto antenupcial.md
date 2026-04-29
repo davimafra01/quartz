@@ -191,7 +191,7 @@ Pode elevar 5% a 10% na indenização.
 ---
 ### Trabalhou OU estudou
 
-- 10% a 20% do patrimônio do cônjuge.
+- 10% a 20% da totalidade dos bens do casal, incluindo aqueles adquiridos antes do casamento.
 
 ---
 # IX – LIMITES JURÍDICOS
