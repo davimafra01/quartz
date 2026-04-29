@@ -150,49 +150,46 @@ Mantém separação total de bens e parte responsável deverá pagar indenizaç�
 
 ---
 ## 2. Se a parte prejudicada for economicamente vulnerável
-Aplica-se **partilha ampliada** (equivalente à comunhão universal limitada ao período do casamento)
-
-### Indenização:
-- **20% a 35% do patrimônio adquirido durante o casamento**
-- - possibilidade de:
+Aplica-se **partilha ampliada** (equivalente à comunhão universal limitada ao período do casamento) com indenização de:
+- **20% a 35% do patrimônio adquirido durante o casamento**; com
+- Possibilidade de:
     - pensão compensatória
     - indenização por dano moral
 
 ---
-# VII – AGRAVANTES (DEIXA O CONTRATO MAIS FORTE)
+# VII – AGRAVANTES
 
 A indenização será aumentada quando houver:
-- reincidência da conduta
-- ocultação de patrimônio
-- exposição pública humilhante (ex.: traição pública)
-- impacto psicológico comprovado
-- prejuízo à carreira da outra parte
+- reincidência da conduta;
+- ocultação de patrimônio;
+- exposição pública humilhante (ex.: traição pública);
+- impacto psicológico comprovado;
+- prejuízo à carreira da outra parte.
 
-Pode elevar:
-- +5% a +10% na indenização
+Pode elevar 5% a 10% na indenização.
 
 ---
 # VIII – SITUAÇÃO DA PARTE VULNERÁVEL
 
-### 🔹 Não trabalhou nem estudou
+### Não trabalhou nem estudou
 
-- indenização: 25% a 35%
-- pensão temporária obrigatória
-
----
-### 🔹 Não trabalhou OU não estudou
-
-- 15% a 25%
+- indenização: 25% a 35% do patrimônio do cônjuge;
+- pensão temporária obrigatória até o pagamento da indenização.
 
 ---
-### 🔹 Trabalhou E estudou
+### Não trabalhou OU não estudou
 
-- 5% a 15%
+- 15% a 25% do patrimônio do cônjuge.
 
 ---
-### 🔹 Trabalhou OU estudou
+### Trabalhou E estudou
 
-- 10% a 20%
+- 5% a 15% do patrimônio do cônjuge.
+
+---
+### Trabalhou OU estudou
+
+- 10% a 20% do patrimônio do cônjuge.
 
 ---
 # IX – LIMITES JURÍDICOS
