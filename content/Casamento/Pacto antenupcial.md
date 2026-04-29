@@ -14,7 +14,7 @@ Contratos tradicionais dizem quem tem direito. Este modelo garante que a pessoa 
 | Previsibilidade | Média       | Alta               |
 ## Camada 1: Jurídica (Direito de Família)
 
-Baseado no Código Civil brasileiro
+É o esqueleto legal baseado no Código Civil brasileiro.
 
 Tipo:
 - **Regime misto**
@@ -24,8 +24,6 @@ Características:
 - Define regras de divórcio
 - Cria critérios de compensação
 - Protege a parte vulnerável
-
-Aqui está o “esqueleto legal”
 
 ---
 ## Camada 2: Compensatória (Modelo Econômico)
