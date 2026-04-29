@@ -227,7 +227,7 @@ Se ambas as partes estão de acordo:
 - Comunhão universal de bens, pois, como estão de acordo, entende-se que tiveram um casamento sem condutas graves comprovadas e sem agravantes. Sendo assim e, em respeito ao casamento, nenhuma das partes deve sair com uma mudança relevante em seu padrão de vida atual.
 
 Se a parte prejudicada é a parte economicamente dominante:
-- Deve ser analisado o padrão de vida da parte responsável antes do casamento de modo a partilhar um percentual do patrimônio da parte prejudicada que seja de uma ordem superior ao padrão de vida anterior da parte responsável.
+- Deve ser analisado o padrão de vida da parte responsável antes do casamento de modo a partilhar um percentual do patrimônio da parte prejudicada que seja de uma ordem superior ao padrão de vida anterior da parte responsável, mas não necessariamente igual ao padrão de vida atual.
 - Contudo, essa superioridade em padrão de vida deve ser proporcional ao tempo de casados.
 - Quanto mais tempo de casados, maior parte do patrimônio a parte responsável recebe.
 - Quanto mais próximo do padrão de vida atual for o padrão de vida antes do casamento da parte responsável, menos recebe.
