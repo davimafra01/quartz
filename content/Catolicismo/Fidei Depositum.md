@@ -1,16 +1,6 @@
 ---
-draft:
+draft: true
 ---
-Abaixo, listarei algumas doutrinas católicas e 
-
-# 1. Fidei Depositum
-Trata-se da doutrina da Sagrada Escritura, Sagrada Tradição e Magistério da Igreja. Se estiver errado:
-
-> Está colocando tradições humanas no mesmo nível da Palavra de Deus, levando a uma corrupção doutrinária sistemática da fonte da verdade.
-
-> Classificação:
-> RAIZ DE HERESIA
-
 2Timóteo 3:14-17
 > 14 Tu, porém, permanece naquilo que aprendeste e de que foste inteirado, sabendo de quem o aprendeste
 > 15 e que, desde a infância, sabes as sagradas letras, que podem tornar-te sábio para a salvação pela fé em Cristo Jesus.
@@ -28,32 +18,3 @@ Gálatas 1:6-9
 > 7 o qual não é outro, senão que há alguns que vos perturbam e querem perverter o evangelho de Cristo.
 > 8 Mas, ainda que nós ou mesmo um anjo vindo do céu vos pregue evangelho que vá além do que vos temos pregado, seja anátema.
 > 9 Assim, como já dissemos, e agora repito, se alguém vos prega evangelho que vá além daquele que recebestes, seja anátema.
-
-
-
-# 2. Doutrina da Justificação
-Trata-se
-
-# 3. Transubstanciação
-Está dentro da Doutrina da Presença Real de Cristo na Eucaristia
-
-# 4. Dogmas Marianos
-Trata-se
-
-# 5. Comunhão dos Santos
-Inclui a intercessão dos santos.
-
-# 6. Doutrina do Purgatório
-Trata-se
-
-# 7. Doutrina das Indulgências
-Trata-se
-
-# 8. Infalibilidade Papal
-Trata-se
-
-# 9. Confissão
-Trata-se
-
-# 10. Regeneração Batismal
-Trata-se
