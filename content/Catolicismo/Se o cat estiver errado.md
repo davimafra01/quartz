@@ -74,7 +74,7 @@ A comunhão dos santos significa que todos os membros da Igreja, estejam na terr
 # 6. Doutrina do Purgatório
 ### 1.1 Explicação
 O purgatório é entendido como um estado temporário de purificação após a morte para aqueles que morrem na graça de Deus, mas ainda precisam ser purificados de imperfeições antes de entrar plenamente na presença de Deus.
-
+   
 ### 1.2 Catecismo
 § 1030 → definição
 § 1031 → purificação
