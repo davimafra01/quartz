@@ -135,7 +135,7 @@ Isso é essencial para não virar alegação vazia.
 # V – DISSOLUÇÃO UNILATERAL (SEM CONDUTA GRAVE)
 
 - Regime: comunhão parcial
-- Indenização: **10% a 25% dos bens adquiridos durante o casamento**
+- Indenização: **5% a 25% dos bens adquiridos durante o casamento**
 
 ### Ajustes:
 - tempo de casamento;
