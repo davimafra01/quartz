@@ -135,7 +135,7 @@ Isso é essencial para não virar alegação vazia.
 # V – DISSOLUÇÃO UNILATERAL (SEM CONDUTA GRAVE)
 
 - Regime: comunhão parcial;
-- Indenização: **5% a 25% da totalidade dos bens, incluindo aqueles adquiridos antes do casamento.
+- Indenização: **5% a 25% da totalidade dos bens do casal, incluindo aqueles adquiridos antes do casamento.
 
 ### Ajustes:
 - tempo de casamento;
@@ -146,14 +146,14 @@ Isso é essencial para não virar alegação vazia.
 # VI – DISSOLUÇÃO COM CONDUTA GRAVE COMPROVADA
 
 ## 1. Se a parte prejudicada for economicamente dominante
-Mantém separação total de bens e parte responsável deverá pagar indenização de:
-- **15% a 25% do patrimônio próprio**
+A parte responsável deverá fica com:
+- **15% a 25% da totalidade dos bens do casal, incluindo aqueles adquiridos antes do casamento.**
 - Eventual dano moral comprovado
 
 ---
 ## 2. Se a parte prejudicada for economicamente vulnerável
 Aplica-se **partilha ampliada** (equivalente à comunhão universal limitada ao período do casamento) com indenização de:
-- **20% a 35% do patrimônio adquirido durante o casamento**; com
+- **20% a 35% da totalidade dos bens do casal, incluindo aqueles adquiridos antes do casamento**; com
 - Possibilidade de:
     - pensão compensatória
     - indenização por dano moral
