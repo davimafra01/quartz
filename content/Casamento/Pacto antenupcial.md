@@ -103,14 +103,20 @@ Regime de **separação total de bens**, nos termos do Código Civil brasileiro,
 
 - **Parte Requerente**: quem solicita a dissolução
 - **Parte Contrária**: quem não solicitou
-- **Parte Economicamente Dominante**: maior patrimônio
-- **Parte Economicamente Vulnerável**: menor patrimônio
-- **Conduta Grave Comprovada**: aquela que viole deveres conjugais e gere dano relevante, incluindo:
-    - adultério;
-    - agressão física;
+- **Parte Economicamente Dominante**: maior patrimônio líquido
+- **Parte Economicamente Vulnerável**: menor patrimônio líquido
+- **Patrimônio Particular**: bens adquiridos antes do casamento ou recebidos a título gratuito
+- **Patrimônio Comum de Referência**: bens adquiridos onerosamente durante o casamento
+- **Conduta Grave Comprovada**:
+    - adultério com repercussão relevante;
+    - agressão física comprovada;
     - abandono material.
 
-Devido ao fator subjetivo, à dificuldade de comprovação e ao entendimento de que determinadas condutas são problemas cuja resolução cabe ao âmbito pessoal do núcleo familiar, agressões verbais, emocionais e abandono afetivo não serão consideradas como condutas graves e nem como agravantes. 
+Ficam excluídas:
+- ofensas verbais
+- conflitos emocionais
+- abandono afetivo
+por sua natureza subjetiva e de difícil comprovação objetiva.
 
 ---
 ## III – PROVA DAS CONDUTAS
@@ -120,27 +126,26 @@ A caracterização de conduta grave dependerá de **prova robusta**, incluindo:
 - Testemunhas;
 - Registros digitais;
 - Laudos periciais;
-- Decisões judiciais correlatas (quando houver).
-
-Isso é essencial para não virar alegação vazia.
+- Decisões judiciais.
 
 ---
 # IV – DISSOLUÇÃO CONSENSUAL
 
-- Partilha: **comunhão universal de bens**;
+- Aplica-se partilha equivalente à comunhão parcial: divisão do patrimônio comum de referência;
+- Patrimônio particular permanece individual;
 - Sem indenizações;
-- Possível pensão temporária, se a parte economicamente vulnerável comprovar necessidade.
+- Possível pensão temporária.
 
 ---
 # V – DISSOLUÇÃO UNILATERAL (SEM CONDUTA GRAVE)
 
-- Regime: comunhão parcial;
-- Indenização: **5% a 25% da totalidade dos bens do casal, incluindo aqueles adquiridos antes do casamento.
-
-### Ajustes:
-- tempo de casamento;
-- padrão de vida anterior;
-- dependência econômica.
+- Partilha: patrimônio comum de referência (50/50);
+- Compensação adicional:
+    - 5% a 20% do patrimônio comum de referência.
+- Critérios:
+	- Tempo de casamento;
+	- Diferença de padrão de vida;
+	- Dependência econômica.
 
 ---
 # VI – DISSOLUÇÃO COM CONDUTA GRAVE COMPROVADA
