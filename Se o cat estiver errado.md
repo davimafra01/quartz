@@ -8,6 +8,9 @@ Trata-se da doutrina da Sagrada Escritura, Sagrada Tradição e Magistério da I
 
 > Está colocando tradições humanas no mesmo nível da Palavra de Deus, levando a uma corrupção doutrinária sistemática da fonte da verdade.
 
+> Classificação:
+> RAIZ DE HERESIA
+
 2Timóteo 3:14-17
 > 14 Tu, porém, permanece naquilo que aprendeste e de que foste inteirado, sabendo de quem o aprendeste
 > 15 e que, desde a infância, sabes as sagradas letras, que podem tornar-te sábio para a salvação pela fé em Cristo Jesus.
