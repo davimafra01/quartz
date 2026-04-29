@@ -163,6 +163,11 @@ A caracterização de conduta grave dependerá de **prova robusta**, incluindo:
 - Mantém-se separação dos patrimônios particulares
 - Partilha ampliada:
     - 60% a 70% do patrimônio comum para a parte vulnerável
+- Critérios de definição:
+	- Não trabalhou nem estudou → 75% a 80%
+	- Não trabalhou OU não estudou → 70% a 75%
+	- Trabalhou OU estudou → 65% a 70%
+	- Trabalhou E estudou → 60% a 65%
  - Compensação para a parte prejudicada:
     - 15% a 25% do patrimônio comum
 - Dano moral:
@@ -182,30 +187,7 @@ A indenização será aumentada quando houver:
 Pode elevar 5% a 10% na indenização.
 
 ---
-# VIII – SITUAÇÃO DA PARTE VULNERÁVEL
-
-### Não trabalhou nem estudou
-
-- indenização: 25% a 35% da totalidade dos bens do casal, incluindo aqueles adquiridos antes do casamento;
-- pensão temporária obrigatória até o pagamento da indenização.
-
----
-### Não trabalhou OU não estudou
-
-- 15% a 25% da totalidade dos bens do casal, incluindo aqueles adquiridos antes do casamento.
-
----
-### Trabalhou E estudou
-
-- 5% a 15% da totalidade dos bens do casal, incluindo aqueles adquiridos antes do casamento.
-
----
-### Trabalhou OU estudou
-
-- 10% a 20% da totalidade dos bens do casal, incluindo aqueles adquiridos antes do casamento.
-
----
-# IX – LIMITES JURÍDICOS
+# VIII – LIMITES JURÍDICOS
 
 As partes reconhecem que:
 - O divórcio é direito potestativo;
@@ -214,7 +196,7 @@ As partes reconhecem que:
 - Todas as cláusulas devem respeitar o Código Civil brasileiro.
 
 ---
-# X – CLÁUSULA DE ADAPTAÇÃO
+# IX – CLÁUSULA DE ADAPTAÇÃO
 
 Caso qualquer disposição seja considerada inválida, deverá ser reinterpretada para preservar seus efeitos econômicos.
 
