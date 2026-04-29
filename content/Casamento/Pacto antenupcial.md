@@ -86,7 +86,7 @@ Características:
 - dificulta ocultação de patrimônio
 - permite execução prática
 
-Isso é quase um “smart enforcement”, mesmo sem smart contract formal
+Isso é quase um “*smart enforcement*”, mesmo sem *smart contract* formal
 
 ---
 ---
