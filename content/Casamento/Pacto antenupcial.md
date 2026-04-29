@@ -151,9 +151,12 @@ A caracterização de conduta grave dependerá de **prova robusta**, incluindo:
 # VI – DISSOLUÇÃO COM CONDUTA GRAVE COMPROVADA
 
 ## 1. Se a parte prejudicada for economicamente dominante
-A parte responsável deverá fica com:
-- **15% a 25% da totalidade dos bens do casal, incluindo aqueles adquiridos antes do casamento.**
-- Eventual dano moral comprovado
+- Mantém-se separação dos patrimônios particulares
+- Partilha do patrimônio comum (50/50)
+- Compensação:
+    - **10% a 20% do patrimônio comum**
+- Dano moral:
+    - apenas se comprovado judicialmente
 
 ---
 ## 2. Se a parte prejudicada for economicamente vulnerável
