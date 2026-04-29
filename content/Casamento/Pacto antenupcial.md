@@ -145,11 +145,9 @@ Isso é essencial para não virar alegação vazia.
 
 ## 1. Se a parte prejudicada for economicamente dominante
 - mantém separação total
-- parte responsável deverá pagar:
-
-### Indenização:
-- **15% a 25% do patrimônio próprio**
-- - eventual dano moral comprovado
+- parte responsável deverá pagar indenização de:
+	- **15% a 25% do patrimônio próprio**
+	- Eventual dano moral comprovado
 
 ---
 ## 2. Se a parte prejudicada for economicamente vulnerável
