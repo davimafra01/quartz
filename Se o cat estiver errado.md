@@ -20,4 +20,10 @@ Inclui a intercessão dos santos.
 # 6. Doutrina do Purgatório
 Trata-se
 
-# 7. Doutrina das Indulgêncai
+# 7. Doutrina das Indulgências
+Trata-se
+
+# 8. Infalibilidade Papal
+Trata-se
+
+# 9. Confissão
