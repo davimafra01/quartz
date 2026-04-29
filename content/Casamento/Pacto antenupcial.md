@@ -108,8 +108,7 @@ Os nubentes adotam:
 - **Conduta Grave Comprovada**: aquela que viole deveres conjugais e gere dano relevante, incluindo:
     - adultério;
     - agressão física;
-    - abandono material ou afetivo;
-    - dilapidação patrimonial.
+    - abandono material.
 
 ---
 ## III – PROVA DAS CONDUTAS
