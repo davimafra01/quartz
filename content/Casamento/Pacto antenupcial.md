@@ -37,8 +37,6 @@ Características:
 - Ajuste por padrão de vida
 - Ajuste por conduta (adultério, agressão, abandono)
 
-Isso é o “coração” da sua ideia
-
 Em termos técnicos, você criou algo parecido com:
 > um sistema de **“indenização conjugal parametrizada”**
 
