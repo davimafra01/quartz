@@ -136,9 +136,9 @@ Isso é essencial para não virar alegação vazia.
 - Indenização: **10% a 25% dos bens adquiridos durante o casamento**
 
 ### Ajustes:
-- tempo de casamento
-- padrão de vida anterior
-- dependência econômica
+- tempo de casamento;
+- padrão de vida anterior;
+- dependência econômica.
 
 ---
 # VI – DISSOLUÇÃO COM CONDUTA GRAVE COMPROVADA
