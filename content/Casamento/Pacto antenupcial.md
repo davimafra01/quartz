@@ -210,6 +210,44 @@ Caso qualquer disposição seja considerada inválida, deverá ser reinterpretad
 ---
 ---
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # ⚖️ AGORA, A PARTE MAIS IMPORTANTE: APLICABILIDADE REAL
 
 Vou ser totalmente direto com você:
