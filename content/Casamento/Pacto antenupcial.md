@@ -106,8 +106,8 @@ Os nubentes adotam:
 - **Parte Economicamente Dominante**: maior patrimônio
 - **Parte Economicamente Vulnerável**: menor patrimônio
 - **Conduta Grave Comprovada**: aquela que viole deveres conjugais e gere dano relevante, incluindo:
-    - adultério com repercussão emocional, material ou moral relevante
-    - agressão física, psicológica ou moral
+    - adultério;
+    - agressão física, apenas, uma vez que dirimir sobre outros tipos de agressão não é simples;
     - abandono material ou afetivo com impacto econômico
     - dilapidação patrimonial
 
