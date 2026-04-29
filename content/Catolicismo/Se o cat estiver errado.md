@@ -33,10 +33,13 @@ A justificação é entendida como um processo iniciado pela graça de Deus, no 
 ---
 # 3. Transubstanciação
 ### 1.1 Explicação
-
+Na Eucaristia, a Igreja ensina que ocorre uma mudança real da substância do pão e do vinho no Corpo e Sangue de Cristo, permanecendo apenas as aparências externas, de modo que Cristo está verdadeira, real e substancialmente presente.
 
 ### 1.2 Catecismo
-
+§ 1374 → presença real
+§ 1376 → termo “transubstanciação”
+§ 1382 → sacrifício eucarístico
+§ 1413 → definição dogmática
 
 ### 1.3 Conclusão
 
@@ -44,10 +47,13 @@ A justificação é entendida como um processo iniciado pela graça de Deus, no 
 ---
 # 4. Dogmas Marianos
 ### 1.1 Explicação
-
+Os dogmas marianos afirmam que Maria foi preservada do pecado original desde a sua concepção, permaneceu sempre virgem, é verdadeiramente Mãe de Deus e foi elevada ao céu em corpo e alma, desempenhando um papel singular na obra da salvação.
 
 ### 1.2 Catecismo
-
+§ 491 → Imaculada Conceição
+§ 499 → Virgindade perpétua
+§ 963 → Maria na economia da salvação
+§ 966 → Assunção
 
 ### 1.3 Conclusão
 
@@ -55,21 +61,24 @@ A justificação é entendida como um processo iniciado pela graça de Deus, no 
 ---
 # 5. Comunhão dos Santos
 ### 1.1 Explicação
-
+A comunhão dos santos significa que todos os membros da Igreja, estejam na terra, no purgatório ou no céu, permanecem unidos em Cristo e participam mutuamente dos bens espirituais, podendo interceder uns pelos outros.
 
 ### 1.2 Catecismo
-
-
+§ 946 → definição
+§ 956 → intercessão dos santos
+§ 958 → oração pelos mortos
 ### 1.3 Conclusão
 
 
 ---
 # 6. Doutrina do Purgatório
 ### 1.1 Explicação
-
+O purgatório é entendido como um estado temporário de purificação após a morte para aqueles que morrem na graça de Deus, mas ainda precisam ser purificados de imperfeições antes de entrar plenamente na presença de Deus.
 
 ### 1.2 Catecismo
-
+§ 1030 → definição
+§ 1031 → purificação
+§ 1032 → oração pelos mortos
 
 ### 1.3 Conclusão
 
