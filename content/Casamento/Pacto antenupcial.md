@@ -127,9 +127,9 @@ Isso é essencial para não virar alegação vazia.
 ---
 # IV – DISSOLUÇÃO CONSENSUAL
 
-- Partilha: **comunhão universal de bens**
-- Sem indenizações
-- Possível pensão temporária, se n
+- Partilha: **comunhão universal de bens**;
+- Sem indenizações;
+- Possível pensão temporária, se a parte economicamente vulnerável comprovar necessidade.
 
 ---
 # V – DISSOLUÇÃO UNILATERAL (SEM CONDUTA GRAVE)
