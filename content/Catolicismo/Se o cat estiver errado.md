@@ -19,10 +19,13 @@ Está colocando tradições humanas no mesmo nível da Palavra de Deus, levando 
 ---
 # 2. Doutrina da Justificação
 ### 1.1 Explicação
-
+A justificação é entendida como um processo iniciado pela graça de Deus, no qual o ser humano é transformado interiormente e se torna justo, envolvendo tanto a fé quanto a cooperação livre da pessoa por meio das obras realizadas em graça.
 
 ### 1.2 Catecismo
-
+§ 1987 → graça como iniciativa divina
+§ 1996 → graça santificante
+§ 2001 → preparação já é graça
+§ 2008 → mérito humano em cooperação com a graça
 
 ### 1.3 Conclusão
 
