@@ -224,7 +224,7 @@ Se a parte prejudicada é a parte economicamente vulnerável:
 # 2. Divórcio sem culpa
 
 Se ambas as partes estão de acordo:
-- Comunhão parcial de bens, pois, como estão de acordo, entende-se que tiveram um casamento sem condutas graves comprovadas e sem agravantes. Sendo assim e, em respeito ao casamento, nenhuma das partes deve sair com u
+- Comunhão parcial de bens, pois, como estão de acordo, entende-se que tiveram um casamento sem condutas graves comprovadas e sem agravantes. Sendo assim e, em respeito ao casamento, nenhuma das partes deve sair com uma mudança muito grande em seu padrão de vida atual. Contudo, a comunhão universal de bens pode ser um estímulo a u
 
 Se a parte prejudicada é a parte economicamente dominante:
 - Deve ser analisado o padrão de vida da parte responsável antes do casamento de modo a partilhar um percentual do patrimônio da parte prejudicada que seja de uma ordem superior ao padrão de vida anterior da parte responsável.
