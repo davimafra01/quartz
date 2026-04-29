@@ -19,7 +19,14 @@ Marcos 7:6-9
 >7 E em vão me adoram, ensinando doutrinas que são preceitos de homens. # Is 29.13
 >8 Negligenciando o mandamento de Deus, guardais a tradição dos homens.
 >9 E disse-lhes ainda: Jeitosamente rejeitais o preceito de Deus para guardardes a vossa própria tradição.
-  
+
+Gálatas 1:6-9
+> 6 Admira-me que estejais passando tão depressa daquele que vos chamou na graça de Cristo para outro evangelho,
+> 7 o qual não é outro, senão que há alguns que vos perturbam e querem perverter o evangelho de Cristo.
+> 8 Mas, ainda que nós ou mesmo um anjo vindo do céu vos pregue evangelho que vá além do que vos temos pregado, seja anátema.
+> 9 Assim, como já dissemos, e agora repito, se alguém vos prega evangelho que vá além daquele que recebestes, seja anátema.
+
+
 
 # 2. Doutrina da Justificação
 Trata-se
