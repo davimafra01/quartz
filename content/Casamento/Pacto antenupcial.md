@@ -175,18 +175,18 @@ Pode elevar 5% a 10% na indenização.
 
 ### Não trabalhou nem estudou
 
-- indenização: 25% a 35% do patrimônio do cônjuge;
+- indenização: 25% a 35% da totalidade dos bens do casal, incluindo aqueles adquiridos antes do casamento;
 - pensão temporária obrigatória até o pagamento da indenização.
 
 ---
 ### Não trabalhou OU não estudou
 
-- 15% a 25% do patrimônio do cônjuge.
+- 15% a 25% da totalidade dos bens do casal, incluindo aqueles adquiridos antes do casamento.
 
 ---
 ### Trabalhou E estudou
 
-- 5% a 15% do patrimônio do cônjuge.
+- 5% a 15% da totalidade dos bens do casal, incluindo aqueles adquiridos antes do casamento.
 
 ---
 ### Trabalhou OU estudou
