@@ -15,4 +15,9 @@ Está dentro da Doutrina da Presença Real de Cristo na Eucaristia
 Trata-se
 
 # 5. Comunhão dos Santos
-Inclui a intersessão 
+Inclui a intercessão dos santos.
+
+# 6. Doutrina do Purgatório
+Trata-se
+
+# 7. Doutrina das Indulgêncai
