@@ -110,12 +110,12 @@ Regime de **separação total de bens**, nos termos do Código Civil brasileiro,
     - agressão física;
     - abandono material.
 
-Devido ao fator subjetivo, à dificuldade de comprovação e ao entendimento de que determinadas condutas são problemas cuja resolução cabe ao âmbito pessoal do núcleo familiar, agressões verbais, emocionais e abandono afetivo não serão con 
+Devido ao fator subjetivo, à dificuldade de comprovação e ao entendimento de que determinadas condutas são problemas cuja resolução cabe ao âmbito pessoal do núcleo familiar, agressões verbais, emocionais e abandono afetivo não serão consideradas como condutas graves e nem como agravantes. 
 
 ---
 ## III – PROVA DAS CONDUTAS
 
-> A caracterização de conduta grave dependerá de **prova robusta**, incluindo:
+A caracterização de conduta grave dependerá de **prova robusta**, incluindo:
 - Documentos;
 - Testemunhas;
 - Registros digitais;
