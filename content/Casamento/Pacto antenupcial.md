@@ -140,7 +140,7 @@ A caracterização de conduta grave dependerá de **prova robusta**, incluindo:
 # V – DISSOLUÇÃO UNILATERAL (SEM CONDUTA GRAVE)
 
 - Partilha: patrimônio comum de referência (50/50);
-- Compensação adicional:
+- Compensação adicional para a parte economicamente vulnerável:
     - 5% a 20% do patrimônio comum de referência.
 - Critérios:
 	- Tempo de casamento;
