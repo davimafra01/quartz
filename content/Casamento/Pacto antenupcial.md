@@ -110,7 +110,7 @@ Regime de **separação total de bens**, nos termos do Código Civil brasileiro,
     - agressão física;
     - abandono material.
 
-Devido ao caráter 
+Devido ao fator subjetivo e à dificuldade de comprovação, agressões 
 
 ---
 ## III – PROVA DAS CONDUTAS
