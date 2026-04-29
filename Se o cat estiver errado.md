@@ -27,3 +27,7 @@ Trata-se
 Trata-se
 
 # 9. Confissão
+Trata-se
+
+# 10. Regeneração Batismal
+Trata-se
