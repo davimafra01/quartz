@@ -134,7 +134,9 @@ O sacramento da penitência consiste na confissão dos pecados a um sacerdote, q
 § 1461 → autoridade do sacerdote
 
 ### 1.3 Conclusão
+Se essa doutrina estiver errada, então a mediação sacerdotal estaria substituindo o acesso direto a Deus, criando dependência institucional para o perdão e obscurecendo a suficiência da graça divina, o que a classificaria como erro doutrinário com tendência à heresia.
 
+> **ERRO GRAVE COM RISCO DE HERESIA**
 
 ---
 # 10. Regeneração Batismal
@@ -148,3 +150,6 @@ O batismo é o sacramento que realiza o novo nascimento espiritual, removendo o 
 § 1270 → caráter permanente
 
 ### 1.3 Conclusão
+Se essa doutrina estiver errada, então um rito externo estaria sendo confundido com a regeneração espiritual interna, podendo gerar falsa segurança de salvação e desviar a confiança da fé em Cristo, o que a classificaria como erro grave com risco de heresia.
+
+> **ERRO GRAVE COM RISCO DE HERESIA**
