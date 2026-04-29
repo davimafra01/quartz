@@ -5,7 +5,8 @@ Abaixo, listarei algumas doutrinas católicas e
 
 # 1. Fidei Depositum
 Trata-se da doutrina da Sagrada Escritura, Sagrada Tradição e Magistério da Igreja. Se estiver errado:
-- Está colocando tradições humanas no mesmo nível da Palavra de Deus 
+
+> Está colocando tradições humanas no mesmo nível da Palavra de Deus, levando a uma corrupção doutrinária sistemática da fonte da verdade. 
 # 2. Doutrina da Justificação
 Trata-se
 
