@@ -12,7 +12,7 @@ A Igreja Católica ensina que a revelação de Deus é transmitida conjuntamente
 § 97 → Tradição e Escritura formam um só depósito
 
 ### 1.3 Conclusão
-Está colocando tradições humanas no mesmo nível da Palavra de Deus, levando a uma corrupção doutrinária sistemática da fonte da verdade.
+Se essa doutrina estiver errada, então a Igreja estaria elevando autoridades humanas ao nível da Palavra de Deus, abrindo caminho para corrupção doutrinária sistemática da fonte da Verdade e comprometendo toda a base da fé, o que a classificaria como raiz de heresia por afetar diretamente a fonte da verdade revelada.
 
 > **RAIZ DE HERESIA**
 
@@ -28,7 +28,9 @@ A justificação é entendida como um processo iniciado pela graça de Deus, no 
 § 2008 → mérito humano em cooperação com a graça
 
 ### 1.3 Conclusão
+Se essa doutrina estiver errada, então o próprio evangelho estaria sendo distorcido ao misturar mérito humano com a obra de Cristo, levando a uma falsa segurança de salvação baseada em obras, o que a classificaria como heresia central por configurar outro evangelho.
 
+> **HERESIA CENTRAL**
 
 ---
 # 3. Transubstanciação
@@ -42,7 +44,9 @@ Na Eucaristia, a Igreja ensina que ocorre uma mudança real da substância do p�
 § 1413 → definição dogmática
 
 ### 1.3 Conclusão
+Se essa doutrina estiver errada, então a adoração eucarística estaria sendo dirigida a elementos materiais em vez de a Deus, implicando em prática idolátrica e compreensão equivocada do sacrifício de Cristo, o que a classificaria como erro grave com potencial de heresia.
 
+> **ERRO GRAVE COM RISCO DE HERESIA**
 
 ---
 # 4. Dogmas Marianos
@@ -56,7 +60,9 @@ Os dogmas marianos afirmam que Maria foi preservada do pecado original desde a s
 § 966 → Assunção
 
 ### 1.3 Conclusão
+Se essas doutrinas estiverem erradas, então atributos espirituais estariam sendo indevidamente atribuídos a uma criatura, distorcendo a doutrina do pecado e da redenção e podendo levar a formas de devoção inadequadas, o que as classificaria como erro grave com risco de heresia.
 
+> **ERRO GRAVE COM RISCO DE HERESIA**
 
 ---
 # 5. Comunhão dos Santos
@@ -68,7 +74,9 @@ A comunhão dos santos significa que todos os membros da Igreja, estejam na terr
 § 956 → intercessão dos santos
 § 958 → oração pelos mortos
 ### 1.3 Conclusão
+Se essa doutrina estiver errada, então a prática de invocar santos estaria desviando a mediação exclusiva de Cristo e introduzindo mediadores não autorizados, comprometendo a relação direta com Deus, o que a classificaria como erro grave com implicações próximas à heresia.
 
+> **ERRO GRAVE COM RISCO DE HERESIA**
 
 ---
 # 6. Doutrina do Purgatório
@@ -81,7 +89,9 @@ O purgatório é entendido como um estado temporário de purificação após a m
 § 1032 → oração pelos mortos
 
 ### 1.3 Conclusão
+Se essa doutrina estiver errada, então a suficiência do sacrifício de Cristo estaria sendo negada ao se propor uma purificação adicional após a morte, criando um sistema de salvação incompleto, o que a classificaria como erro doutrinário grave com tendência à heresia.
 
+> **ERRO GRAVE COM RISCO DE HERESIA**
 
 ---
 # 7. Doutrina das Indulgências
@@ -94,7 +104,9 @@ As indulgências são a remissão diante de Deus das penas temporais devidas pel
 § 1478 → aplicação aos fiéis
 
 ### 1.3 Conclusão
+Se essa doutrina estiver errada, então a graça de Deus estaria sendo tratada como algo administrável ou transferível por meios institucionais, podendo levar a abusos e à mercantilização do perdão, o que a classificaria como erro grave com risco de heresia prática.
 
+> **ERRO GRAVE COM RISCO DE HERESIA**
 
 ---
 # 8. Infalibilidade Papal
@@ -107,7 +119,9 @@ O Papa, como sucessor de Pedro, possui autoridade suprema na Igreja e, quando fa
 § 891 → infalibilidade
 
 ### 1.3 Conclusão
+Se essa doutrina estiver errada, então um homem estaria sendo colocado como autoridade suprema da Igreja em lugar de Cristo, resultando em possível usurpação da autoridade divina e submissão indevida dos fiéis, o que a classificaria como erro grave com potencial de heresia estrutural.
 
+> **ERRO GRAVE COM RISCO DE HERESIA**
 
 ---
 # 9. Confissão
