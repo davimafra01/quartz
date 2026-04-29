@@ -194,17 +194,16 @@ Pode elevar 5% a 10% na indenização.
 ---
 # IX – LIMITES JURÍDICOS
 
-> As partes reconhecem que:
-
-- o divórcio é direito potestativo
-- nenhuma cláusula impede sua realização
-- as indenizações têm natureza **compensatória e não punitiva**
-- todas as cláusulas devem respeitar o Código Civil brasileiro
+As partes reconhecem que:
+- O divórcio é direito potestativo;
+- Nenhuma cláusula impede sua realização;
+- As indenizações têm natureza **compensatória e não punitiva**;
+- Todas as cláusulas devem respeitar o Código Civil brasileiro.
 
 ---
 # X – CLÁUSULA DE ADAPTAÇÃO
 
-> Caso qualquer disposição seja considerada inválida, deverá ser reinterpretada para preservar seus efeitos econômicos.
+Caso qualquer disposição seja considerada inválida, deverá ser reinterpretada para preservar seus efeitos econômicos.
 
 ---
 ---
