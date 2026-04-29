@@ -210,7 +210,39 @@ Caso qualquer disposição seja considerada inválida, deverá ser reinterpretad
 ---
 ---
 ---
+# 1. Divórcio com culpa
 
+Se a parte prejudicada é a parte economicamente dominante:
+- Separação total de bens + indenização por danos morais
+
+Se a parte prejudicada é a parte economicamente vulnerável:
+- Comunhão universal de bens + indenização por danos morais
+
+
+---
+
+# 2. Divórcio sem culpa
+
+Se ambas as partes estão de acordo:
+- Comunhão universal de bens
+
+Se a parte prejudicada é a parte economicamente dominante:
+- Deve ser analisado o padrão de vida da parte responsável antes do casamento de modo a partilhar um percentual do patrimônio da parte prejudicada que seja de uma ordem superior ao padrão de vida anterior da parte responsável.
+- Contudo, essa superioridade em padrão de vida deve ser proporcional ao tempo de casados.
+- Quanto mais tempo de casados, maior parte do patrimônio a parte responsável recebe.
+- Quanto mais próximo do padrão de vida atual for o padrão de vida antes do casamento da parte responsável, menos recebe.
+- Tem que analisar mais possibilidades nesse caso, então quero que você pense bem como fazer.
+
+Se a parte prejudicada é a parte economicamente vulnerável:
+- Comunhão parcial especial de bens de acordo com os seguintes critérios (o que foi falado na situação acima deve ser levado em consideração de acordo com os critérios abaixo de maneira que faça sentido):
+
+    - Parte prejudicada não trabalhou e nem estudou durante o casamento:
+    
+    - Parte prejudicada não trabalhou ou não estudou durante o casamento:
+    
+    - Parte prejudicada trabalhou e estudou durante o casamento:
+    
+    - Parte prejudicada trabalhou ou estudou durante o casamento:
 
 
 
