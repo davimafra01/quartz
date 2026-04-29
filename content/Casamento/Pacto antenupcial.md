@@ -107,19 +107,19 @@ Os nubentes adotam:
 - **Parte Economicamente Vulnerável**: menor patrimônio
 - **Conduta Grave Comprovada**: aquela que viole deveres conjugais e gere dano relevante, incluindo:
     - adultério;
-    - agressão física, apenas, uma vez que dirimir sobre outros tipos de agressão não é simples;
-    - abandono material ou afetivo com impacto econômico
-    - dilapidação patrimonial
+    - agressão física;
+    - abandono material ou afetivo;
+    - dilapidação patrimonial.
 
 ---
 ## III – PROVA DAS CONDUTAS
 
 > A caracterização de conduta grave dependerá de **prova robusta**, incluindo:
-- documentos
-- testemunhas
-- registros digitais
-- laudos periciais
-- decisões judiciais correlatas (quando houver)
+- Documentos;
+- Testemunhas;
+- Registros digitais;
+- Laudos periciais;
+- Decisões judiciais correlatas (quando houver).
 
 Isso é essencial para não virar alegação vazia.
 
