@@ -9,9 +9,18 @@ Trata-se da doutrina da Sagrada Escritura, Sagrada Tradição e Magistério da I
 > Está colocando tradições humanas no mesmo nível da Palavra de Deus, levando a uma corrupção doutrinária sistemática da fonte da verdade.
 
 2Timóteo 3:14-17
-> '14Tu, porém, permanece naquilo que aprendeste e de que foste inteirado, sabendo de quem o aprendeste 15e que, desde a infância, sabes as sagradas letras, que podem tornar-te sábio para a salvação pela fé em Cristo Jesus. 16Toda a Escritura é inspirada por Deus e útil para o ensino, para a repreensão, para a correção, para a educação na justiça, 17a fim de que o homem de Deus seja perfeito e perfeitamente habilitado para toda boa obra.'  
+> 14 Tu, porém, permanece naquilo que aprendeste e de que foste inteirado, sabendo de quem o aprendeste
+> 15 e que, desde a infância, sabes as sagradas letras, que podem tornar-te sábio para a salvação pela fé em Cristo Jesus.
+> 16 Toda a Escritura é inspirada por Deus e útil para o ensino, para a repreensão, para a correção, para a educação na justiça,
+> 17 a fim de que o homem de Deus seja perfeito e perfeitamente habilitado para toda boa obra.  
+
+Marcos 7:6-9  
+>6 Respondeu-lhes: Bem profetizou Isaías a respeito de vós, hipócritas, como está escrito: Este povo honra-me com os lábios, mas o seu coração está longe de mim.
+>7 E em vão me adoram, ensinando doutrinas que são preceitos de homens. # Is 29.13
+>8 Negligenciando o mandamento de Deus, guardais a tradição dos homens.
+>9 E disse-lhes ainda: Jeitosamente rejeitais o preceito de Deus para guardardes a vossa própria tradição.
   
->
+
 # 2. Doutrina da Justificação
 Trata-se
 
