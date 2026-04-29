@@ -96,7 +96,7 @@ Isso é quase um “*smart enforcement*”, mesmo sem *smart contract* formal
 
 Os nubentes adotam:
 
-> Regime de **separação total de bens**, nos termos do Código Civil brasileiro, com cláusulas compensatórias e indenizatórias previstas neste pacto.
+Regime de **separação total de bens**, nos termos do Código Civil brasileiro, com cláusulas compensatórias e indenizatórias previstas neste pacto.
 
 ---
 ## II – DEFINIÇÕES
@@ -109,6 +109,8 @@ Os nubentes adotam:
     - adultério;
     - agressão física;
     - abandono material.
+
+Devido ao caráter 
 
 ---
 ## III – PROVA DAS CONDUTAS
