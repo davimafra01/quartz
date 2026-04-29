@@ -160,11 +160,11 @@ A caracterização de conduta grave dependerá de **prova robusta**, incluindo:
 
 ---
 ## 2. Se a parte prejudicada for economicamente vulnerável
-Aplica-se **partilha ampliada** (equivalente à comunhão universal limitada ao período do casamento) com indenização de:
-- **20% a 35% da totalidade dos bens do casal, incluindo aqueles adquiridos antes do casamento**; com
-- Possibilidade de:
-    - pensão compensatória
-    - indenização por dano moral
+- Partilha ampliada:
+    - **60% a 80% do patrimônio comum para a parte vulnerável**
+- Compensação adicional:
+    - **10% a 20% do patrimônio comum**
+- Possível pensão temporária
 
 ---
 # VII – AGRAVANTES
