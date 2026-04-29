@@ -9,4 +9,6 @@ Trata-se da doutrina da Sagrada Escritura, Sagrada Tradição e Magistério da I
 Trata-se
 
 # 3. Transubstanciação
-Trata-se
+Está dentro da Doutrina da Presença Real de Cristo na Eucaristia
+
+# 4. 
