@@ -55,7 +55,7 @@ Queda Máxima = 1 - (LTV/CF)
 > 18 parcelas fixas de R$1.429,68, com juros de 5,95% ao mês.
 > Dívida Nubank (cheia): R$25.734,31
 > Juros total: R$10.734,31
-
+  
 **Caixa:** R$30.000 em BTC
 
 > Coloca tudo como colateral para empréstimo.
