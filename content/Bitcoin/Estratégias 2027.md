@@ -1,6 +1,17 @@
 ---
 draft: true
 ---
+## QUEDA MÁXIMA BTC
+(C * CF) * QuedaBTC = LTV * C
+
+Exemplo:
+**Colateral:** R$15.000 em BTC
+**LTV:** 40%
+**CF:** 80%
+**Dívida AAVE:** R$6.000 em USDT ou USDC
+
+(C * CF) * QuedaBTC = LTV * C
+(15000 * 0,8)
 ## 1. Empréstimo colateralizado para reinvestir e melhorar saúde do empréstimo
 **Colateral:** R$15.000 em BTC
 **LTV:** 40%
