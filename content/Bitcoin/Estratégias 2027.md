@@ -4,6 +4,7 @@ draft: true
 ## 1. Empréstimo colateralizado para reinvestir e melhorar saúde do empréstimo
 **Colateral:** R$15.000 em BTC
 **LTV:** 40%
+**CF:** 80%
 **Dívida AAVE:** R$6.000 em USDT ou USDC
 **Queda máxima BTC:** 0,4/0,8 = 50%
 
@@ -11,6 +12,7 @@ draft: true
  
 **Colateral:** R$21.000 em BTC
 **LTV:** 28,57%
+**CF:** 80%
 **Dívida AAVE:** R$6.000 em USDT ou USDC
 **Queda máxima BTC:** 1 - (0,2857/0,8) = 64,28%
 
@@ -29,6 +31,7 @@ draft: true
 
 **Colateral:** R$30.000 em BTC
 **LTV:** 28,84%
+**CF:** 80%
 **Dívida AAVE:** R$8.652 em USDT ou USDC
 **Queda máxima BTC:** 1 - (0,2884/0,8) = 63,95%
 
