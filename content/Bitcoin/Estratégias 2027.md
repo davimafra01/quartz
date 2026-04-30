@@ -16,7 +16,9 @@ Ou seja:
 Quando 80% do meu colateral se tornará exatamente igual à minha dívida?
 
 0,8 * c = 6000
+c = 7500
 
+Ou seja, quando o meu colateral em bitcoin valer 7500, serei liquidado. Se foi de 15000 para 7500, caiu 7,500
 
 Então eu sei que, se o Bitcoin cair, 80% do "Novo Colateral" tem que ser igual ao valor que peguei (40% do Colateral) para que eu seja liquidado. Considere QuedaBTC = x:
 
