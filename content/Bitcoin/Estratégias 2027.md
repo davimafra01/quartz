@@ -85,8 +85,9 @@ Queda Máxima = 1 - (LTV/CF)
 > 		Total real $\approx$ 12 x 1.429,68 = R$17.156,16 $\rightarrow$ Considerando os juros que abati do total.
 >
 > Resta pagar 6 parcelas de R$1.429,68
-> Dívida Nubank (sem juros): 15.000 - 8.652 = R$6.348
 > Dívida Nubank (cheia): 6 x 1.429,68 = R$8.578,08
+> 
+> Dívida Nubank (sem juros): 15.000 - 8.652 = R$6.348
 > Juros total: 8.578,08 - 6.348 = R$2.230,08
 
 **Colateral:** R$30.000 em BTC
