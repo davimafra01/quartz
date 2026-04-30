@@ -97,8 +97,7 @@ Queda Máxima = 1 - (LTV/CF)
 **Dívida Nubank (cheia):** 6 x 1.429,68 = R$8.578,08
 Dívida Total: 8.652 + 8.578,08 = R$17.230,08
 
-> 200% de alta no BTC $\rightarrow$ Retorno de R$90.000
+> 200% de alta no BTC $\rightarrow$ Retorno bruto de R$90.000 (menos dívida total = 72.769,92)
+> 300% de alta no BTC $\rightarrow$ Retorno bruto de R$120.000 (menos dívida total = 102.769,92)
 
-**Lucro:** 90.000 - 17.230,08 = R$72.769,92
-
-## 3. Empréstimo colateralizado para amortizar empréstimo Nubank
+## 3...
