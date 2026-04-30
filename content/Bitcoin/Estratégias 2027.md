@@ -10,9 +10,17 @@ Exemplo:
 **CF:** 80%
 **Dívida AAVE:** R$6.000 em USDT ou USDC
 
-(C * CF) * QuedaBTC = LTV * C
-(C * 0,8) * (1 - QuedaBTC) = 0,4 * C
+Então eu sei que, se o Bitcoin cair, 80% do "Novo Colateral" tem que ser igual ao valor que peguei (40% do Colateral) para que eu seja liquidado. Considere QuedaBTC = x:
 
+(C * CF) * (1 - x) = LTV * C
+0,8C * (1 - x) = 0,4C
+0,8 - 0,8x = 0,4
+0,8x = 0,8 - 0,4
+x = 0,4/0,8
+
+Queda Máxima = 1 - (LTV/CF)
+
+---
 ## 1. Empréstimo colateralizado para reinvestir e melhorar saúde do empréstimo
 **Colateral:** R$15.000 em BTC
 **LTV:** 40%
