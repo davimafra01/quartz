@@ -10,6 +10,14 @@ Exemplo:
 **CF:** 80%
 **Dívida AAVE:** R$6.000 em USDT ou USDC
 
+Ou seja:
+80% do novo colateral tem que ser maior do que o valor do meu empréstimo. Se for igual ou menor, sou liquidado. O protocolo tem que me liquidar com uma margem de 20% do colateral nesse caso, já que o CF é 80%.
+
+Quando 80% do meu colateral se tornará exatamente igual à minha dívida?
+
+0,8 * c = 6000
+
+
 Então eu sei que, se o Bitcoin cair, 80% do "Novo Colateral" tem que ser igual ao valor que peguei (40% do Colateral) para que eu seja liquidado. Considere QuedaBTC = x:
 
 (C * CF) * (1 - x) = LTV * C
