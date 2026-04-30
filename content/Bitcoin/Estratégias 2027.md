@@ -5,9 +5,13 @@ draft: false
 (C * CF) * QuedaBTC = LTV * C
 
 Exemplo:
+
 **Colateral:** R$15.000 em BTC
+
 **LTV:** 40%
+
 **CF:** 80%
+
 **Dívida AAVE:** R$6.000 em USDT ou USDC
 
 Ou seja:
