@@ -1,5 +1,15 @@
 
 Entenda aqui o que é [[Prolepse]].
+
+```
+<details>
+	<summary>
+		Clique para abrir
+	</summary>
+	
+	Conteúdo escondido aqui dentro.- Pode ter listas- Código- O que quiser
+</details>
+```
 # João 6:54
 
 **Grego:**
