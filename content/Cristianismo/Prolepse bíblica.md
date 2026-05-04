@@ -73,15 +73,7 @@ Entenda aqui o que é [[Prolepse]].
 > “Agora foi glorificado o Filho do Homem, e Deus foi glorificado nele.”
 
 ---
-# João 17:4
-
-**Grego:**
-> ἐγώ σε ἐδόξασα ἐπὶ τῆς γῆς, τὸ ἔργον **τελειώσας** ὃ δέδωκάς μοι ἵνα ποιήσω
-
-**Explicação grego:**
-> **τελειώσας** = “tendo completado”  
-> obra ainda não finalizada historicamente  
-> linguagem de conclusão antecipada
+# [[João 17.4 | João 17:4]]
 
 **Transliteração:**
 > ==Eu te glorifiquei== na terra, tendo completado a obra que me deste para fazer.
@@ -93,7 +85,7 @@ Entenda aqui o que é [[Prolepse]].
 > “Eu te glorifiquei na terra, consumando a obra que me confiaste para fazer.”
 
 ---
-# Mateus 26:28
+# Mateus 26:28 | Mateus 26:28
 
 **Grego:**
 > τοῦτο γάρ ἐστιν τὸ αἷμά μου… τὸ **ἐκχυννόμενον** περὶ πολλῶν
