@@ -1,6 +1,25 @@
 
 Entenda aqui o que é [[Prolepse]].
 
+No grego, o Particípio Presente faz referência a:
+(i) uma ação em andamento -> está crendo agora
+(ii) um hábito -> costuma crer
+(iii) uma característica geral ->
+
+
+### 🔹 1. Ação em andamento
+
+> “está crendo agora”
+
+### 🔹 2. Ação habitual
+
+> “costuma crer”
+
+### 🔹 3. Característica geral (o mais comum aqui)
+
+> “é alguém que crê”
+
+---
 # [[João 6.54 | João 6:54]]
 
 **Tradução interlinear:**
