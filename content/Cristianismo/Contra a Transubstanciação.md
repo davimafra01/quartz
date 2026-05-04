@@ -1,4 +1,108 @@
-# 1. Literalidade = Ordem Inexequível
+# 1. Participação na comunhão dos demônios (1Co 10:16)
+Rascunho
+
+---
+# 2. Comunhão em ambas as espécies
+Esse não é um argumento contra a transubstanciação, mas contra o modo que a Eucaristia é ministrada. A bíblia ensina a comunhão com as duas espécies em várias passagens:
+
+Mateus 26:26-28
+>“Tomai, comei; isto é o meu corpo… Bebei dele **TODOS**, porque isto é o meu sangue da nova aliança.”
+
+Marcos 14:22-24
+>“Tomai; isto é o meu corpo… Isto é o meu sangue da aliança, que é derramado por muitos.”
+
+Lucas 22:19-20
+>“Isto é o meu corpo, que é dado por vós… Este cálice é a nova aliança no meu sangue.”
+
+1 Coríntios 11:23-25
+>“Isto é o meu corpo… Este cálice é a nova aliança no meu sangue.”
+
+João 6:51-58
+>“Quem come a minha carne e bebe o meu sangue tem a vida eterna.”
+
+Há registros históricos de que a Igreja praticava a comunhão sob uma espécie, vejamos:
+
+- Comunhão apenas do pão para enfermos e ausentes:
+	- Um dos testemunhos mais antigos vem de Justino Mártir (†165), na Primeira Apologia (c. 67):
+	- “Aos que não estão presentes, os diáconos levam a Eucaristia.”
+	- Na prática, levava-se apenas o pão consagrado, por ser mais fácil de conservar e transportar.
+
+- Comunhão apenas do vinho em casos extremos:
+	- Cipriano de Cartago (†258) relata casos de enfermos que recebiam somente o vinho consagrado, quando não podiam ingerir alimento sólido.
+
+- Comunhão apenas do pão para crianças:
+	- Agostinho de Hipona (†430) menciona que crianças comungavam apenas sob a espécie do pão:
+	- “As crianças participam do corpo e do sangue de Cristo” - (*De peccatorum meritis*, I, 24)
+	- Mas, na prática litúrgica africana, recebiam só o pão, sem o cálice.
+
+Percebe-se então que a comunhão com uma espécie era realizada apenas em ocasiões extraordinárias e, por isso, defende-se que os padres da época tinham o entendimento de que Cristo estava inteiro em cada espécie e, portanto, as duas espécies não são necessárias. Transformou-se então a exceção disciplinar em regra pastoral, porque a exceção, de acordo com a Igreja Católica, já era teologicamente legítima.
+
+Sabe-se, no entanto, que o próprio Papa Gelásio I dizia que era um sacrilégio realizar a Eucaristia sem o vinho. Tendo isso em vista, como podemos normalizar a comunhão feita na maioria das igrejas católicas apenas com o pão, já que em grande parte dos casos, apenas os padres bebem o vinho?
+
+Jesus Cristo disse "[...] bebei dele TODOS [...]" e, se a premissa católica é acreditar na literalidade das palavras de Jesus, que seja por completo. Não é porque, de acordo com eles, Cristo está completo no pão e no vinho, que as ações físicas devem ser ignoradas ao afirmar que comer a hóstia inclui não apenas comer o corpo de Cristo, mas também beber o Seu sangue. Um exemplo esdrúxulo: se eu como uma manga, eu estou (i) comendo manga, (ii) bebendo suco de manga ou (iii) os dois ao mesmo tempo?
+
+Portanto, a comunhão em apenas uma espécie realiza na maioria das igrejas católicas não se sustenta sob nenhuma justificativa plausível, privando os próprios fiéis de cumprirem o que foi ordenado por Jesus, e não por razões extraordinárias (como as relacionadas acima), mas por pura doutrina própria.
+
+
+---
+# 3. Sacrifício eficaz
+Diz-se que um novo sacrifício não é feito, mas que o mesmo sacrifício é repetido. Podemos ver o Padre Paulo Ricardo diz a esse respeito em seu vídeo "[É necessário comungar sob as duas espécies?](https://www.youtube.com/watch?v=5XL55oBeNvA)":
+
+>O que a Igreja ensina a respeito da Comunhão sob as duas espécies?
+>
+>Existe muita confusão e acusação dos protestantes que dizem que nós, católicos, quando celebramos a "ceia", ou seja, o Santo Sacrifício da Missa, fazemos isso de forma incompleta, porque não damos a Comunhão sob as duas espécies do pão e do vinho.
+>
+>Essa heresia chama-se "utraquismo", ou seja: nós cremos que não é necessário para comungar, receber a Eucaristia "*sub utraque specie*", sob as duas espécies, *utraque* (duas/ambas) espécies, em latim.
+>
+>Vamos esclarecer primeiro o que é essa história de espécies, veja só: o padre, na Missa, consagra o pão e o pão se torna o Corpo de Cristo, mas continua ali a aparência de pão. A palavra "aparência", em latim, é *specie*, ou seja, é uma aparência de pão, então, quando a gente diz "receber a Comunhão sob ambas as espécies", quer dizer receber a Comunhão sob ambas aparências; a aparência de pão e a aparência de vinho, porque ali não tem mais pão, ali não tem mais vinho, o que está ali é o Corpo de Cristo, é o Sangue de Cristo.
+>
+>Então, quando recebemos a Comunhão, podemos receber essa Comunhão sob a aparência de pão ou sob a aparência de vinho ou sob ambas as aparências. Seja de uma forma ou de outra, nós estamos recebendo Jesus inteiro. Por que? Por causa do mistério - não se assuste com a palavra - da união hipostática, ou seja: Jesus é uma única Pessoa divina e, unida à Sua Pessoa divina, está toda a Sua natureza humana, portanto, Corpo, Sangue e Alma. A natureza humana inteira está unida a essa Pessoa divina, então não tem como se separar.
+>
+>Quando Jesus se fez Homem, se fez Homem para sempre, portanto, Ele está unido à Sua Humanidade em qualquer circunstância, ou seja, quando Jesus, na Cruz, morreu, o Corpo se separou da Alma, como acontece com as pessoas que morrem, mas a Divindade, ou seja, a Pessoa divina, a Segunda Pessoa da Santíssima Trindade, o Verbo Eterno, o Filho de Deus, não se separou, nem do Corpo e nem da Alma e nem do Sangue.
+>
+>Deus estava e está unido de forma plena, total e eterna, com esta Humanidade, a Humanidade de Cristo. Portanto, quando Jesus ressuscitou, ressuscitou glorioso, Corpo, Sangue e Alma, gloriosos e transformados, ali o Cristo glorioso está unido à Sua Pessoa divina, quando você recebe o Corpo de Cristo na aparência do Pão, está recebendo também o Sangue, a Alma e a Divindade; e se você recebe o Cristo sob a aparência de Vinho, ou seja, o Sangue de Cristo, sob a aparência do Vinho, está recebendo também o Corpo, a Alma e a Divindade.
+>
+>Essa é a doutrina da Igreja, é a doutrina colocada infalivelmente no Concílio de Trento. Isto que a Igreja ensina e sempre ensinou, aqueles que quiserem dar uma verificada, no *Denzinger*, é o número 1.731, onde a Igreja excomunga aqueles que dizem o contrário.
+>
+>No entanto, existe uma circunstância, uma situação, em que nós somos obrigados a receber a Eucaristia sob as duas espécies Que ocasião é essa? Quando se trata de um sacerdote celebrante.
+>
+>Ou seja, o sacerdote que celebra (não aquele que está participando da Missa junto com os fiéis, mas aquele que consagrou o Pão e o Vinho) é obrigado a comungar a aparência de Pão e a aparência de Vinho, **porque isso FAZ PARTE DO SACRIFÍCIO COMO UM TODO. Não é somente uma questão de comungar, mas uma questão de REALIZAR O SACRIFÍCIO plenamente**.
+>
+>**O padre, ao consagrar o Pão e ao consagrar o Vinho, ELE ESTÁ REALIZANDO UM SACRIFÍCIO, e faz parte do OFERECIMENTO DO SACRIFÍCIO que o sacerdote oferente comungue, ou seja, consuma este sacrifício que foi oferecido.**
+>
+>Então, aí está a doutrina da Igreja , que nos ensina que podemos receber o Cristo Todo, mesmo sob uma única espécie.
+
+Contudo, Hb 7:27 (ARA) é muito claro:
+>26 Com efeito, nos convinha um sumo sacerdote como este, santo, inculpável, sem mácula, separado dos pecadores e feito mais alto do que os céus,
+>
+>**27 que não tem necessidade, como os sumos sacerdotes, de oferecer todos os dias sacrifícios, primeiro, por seus próprios pecados, depois, pelos do povo; porque fez isto uma vez por todas, quando a si mesmo se ofereceu.**
+>
+>28 Porque a lei constitui sumos sacerdotes a homens sujeitos à fraqueza, mas a palavra do juramento, que foi posterior à lei, constitui o Filho, perfeito para sempre.
+
+O texto afirma não haver mais necessidade de oferecer sacrifícios todos os dias pelos pecados do sumo sacerdote e pelos do povo, pois Jesus fez isso uma vez por todas. Sendo assim, como conciliar isso com a aceitação de afirmações como:
+- "[...] porque isso faz parte do sacrifício como um todo [...]";
+- "[...] uma questão de realizar o sacrifício plenamente [...]";
+- "[...] ele (o sacerdote) está realizando um sacrifício [...]";
+- "[...] faz parte do oferecimento do sacrifício [...]".
+
+---
+# 4. O corpo de Jesus está restrito aos Céus
+Rascunho
+
+---
+# 5. Violação do conceito de sacramento
+Rascunho
+
+---
+# 6. Pais da igreja que negaram a transubstanciação
+Rascunho
+
+---
+# 7. Negação dos sentidos
+Rascunho
+
+---
+# 8. Literalidade = Ordem Inexequível
 
 Vamos (i) pressupor que a violação tem caráter teológico, que (ii) Jesus foi literal em sua afirmação e (iii) levar em consideração o entendimento católico de que, no momento da Eucaristia, bebe-se a substância do sangue de Cristo sob os acidentes do vinho.
 
@@ -68,103 +172,7 @@ Além disso, com esse raciocínio, somos levados a flexibilizar a literalidade d
 Com isso, estamos nos aproximando cada vez mais do simbolismo protestante no que diz respeito à Santa Ceia do Senhor, já que chegamos ao entendimento de que, na Eucaristia, não acontece a ingestão do corpo e do sangue de Cristo e de que não faz sentido que Jesus esteja fazendo referências literais à sua carne e ao seu sangue.
 
 ---
-# 2. Comunhão em apenas uma espécie
 
-Esse não é um argumento contra a transubstanciação, mas contra o modo que a Eucaristia é ministrada. A bíblia ensina a comunhão com as duas espécies em várias passagens:
-
-Mateus 26:26-28
->“Tomai, comei; isto é o meu corpo… Bebei dele **TODOS**, porque isto é o meu sangue da nova aliança.”
-
-Marcos 14:22-24
->“Tomai; isto é o meu corpo… Isto é o meu sangue da aliança, que é derramado por muitos.”
-
-Lucas 22:19-20
->“Isto é o meu corpo, que é dado por vós… Este cálice é a nova aliança no meu sangue.”
-
-1 Coríntios 11:23-25
->“Isto é o meu corpo… Este cálice é a nova aliança no meu sangue.”
-
-João 6:51-58
->“Quem come a minha carne e bebe o meu sangue tem a vida eterna.”
-
-Há registros históricos de que a Igreja praticava a comunhão sob uma espécie, vejamos:
-
-- Comunhão apenas do pão para enfermos e ausentes:
-	- Um dos testemunhos mais antigos vem de Justino Mártir (†165), na Primeira Apologia (c. 67):
-	- “Aos que não estão presentes, os diáconos levam a Eucaristia.”
-	- Na prática, levava-se apenas o pão consagrado, por ser mais fácil de conservar e transportar.
-
-- Comunhão apenas do vinho em casos extremos:
-	- Cipriano de Cartago (†258) relata casos de enfermos que recebiam somente o vinho consagrado, quando não podiam ingerir alimento sólido.
-
-- Comunhão apenas do pão para crianças:
-	- Agostinho de Hipona (†430) menciona que crianças comungavam apenas sob a espécie do pão:
-	- “As crianças participam do corpo e do sangue de Cristo” - (*De peccatorum meritis*, I, 24)
-	- Mas, na prática litúrgica africana, recebiam só o pão, sem o cálice.
-
-Percebe-se então que a comunhão com uma espécie era realizada apenas em ocasiões extraordinárias e, por isso, defende-se que os padres da época tinham o entendimento de que Cristo estava inteiro em cada espécie e, portanto, as duas espécies não são necessárias. Transformou-se então a exceção disciplinar em regra pastoral, porque a exceção, de acordo com a Igreja Católica, já era teologicamente legítima.
-
-Sabe-se, no entanto, que o próprio Papa Gelásio I dizia que era um sacrilégio realizar a Eucaristia sem o vinho. Tendo isso em vista, como podemos normalizar a comunhão feita na maioria das igrejas católicas apenas com o pão, já que em grande parte dos casos, apenas os padres bebem o vinho?
-
-Jesus Cristo disse "[...] bebei dele TODOS [...]" e, se a premissa católica é acreditar na literalidade das palavras de Jesus, que seja por completo. Não é porque, de acordo com eles, Cristo está completo no pão e no vinho, que as ações físicas devem ser ignoradas ao afirmar que comer a hóstia inclui não apenas comer o corpo de Cristo, mas também beber o Seu sangue. Um exemplo esdrúxulo: se eu como uma manga, eu estou (i) comendo manga, (ii) bebendo suco de manga ou (iii) os dois ao mesmo tempo?
-
-Portanto, a comunhão em apenas uma espécie realiza na maioria das igrejas católicas não se sustenta sob nenhuma justificativa plausível, privando os próprios fiéis de cumprirem o que foi ordenado por Jesus, e não por razões extraordinárias (como as relacionadas acima), mas por pura doutrina própria.
-
----
-# 3. Hebreus 7:27
-
-Diz-se que um novo sacrifício não é feito, mas que o mesmo sacrifício é repetido. Podemos ver o Padre Paulo Ricardo diz a esse respeito em seu vídeo "[É necessário comungar sob as duas espécies?](https://www.youtube.com/watch?v=5XL55oBeNvA)":
-
->O que a Igreja ensina a respeito da Comunhão sob as duas espécies?
->
->Existe muita confusão e acusação dos protestantes que dizem que nós, católicos, quando celebramos a "ceia", ou seja, o Santo Sacrifício da Missa, fazemos isso de forma incompleta, porque não damos a Comunhão sob as duas espécies do pão e do vinho.
->
->Essa heresia chama-se "utraquismo", ou seja: nós cremos que não é necessário para comungar, receber a Eucaristia "*sub utraque specie*", sob as duas espécies, *utraque* (duas/ambas) espécies, em latim.
->
->Vamos esclarecer primeiro o que é essa história de espécies, veja só: o padre, na Missa, consagra o pão e o pão se torna o Corpo de Cristo, mas continua ali a aparência de pão. A palavra "aparência", em latim, é *specie*, ou seja, é uma aparência de pão, então, quando a gente diz "receber a Comunhão sob ambas as espécies", quer dizer receber a Comunhão sob ambas aparências; a aparência de pão e a aparência de vinho, porque ali não tem mais pão, ali não tem mais vinho, o que está ali é o Corpo de Cristo, é o Sangue de Cristo.
->
->Então, quando recebemos a Comunhão, podemos receber essa Comunhão sob a aparência de pão ou sob a aparência de vinho ou sob ambas as aparências. Seja de uma forma ou de outra, nós estamos recebendo Jesus inteiro. Por que? Por causa do mistério - não se assuste com a palavra - da união hipostática, ou seja: Jesus é uma única Pessoa divina e, unida à Sua Pessoa divina, está toda a Sua natureza humana, portanto, Corpo, Sangue e Alma. A natureza humana inteira está unida a essa Pessoa divina, então não tem como se separar.
->
->Quando Jesus se fez Homem, se fez Homem para sempre, portanto, Ele está unido à Sua Humanidade em qualquer circunstância, ou seja, quando Jesus, na Cruz, morreu, o Corpo se separou da Alma, como acontece com as pessoas que morrem, mas a Divindade, ou seja, a Pessoa divina, a Segunda Pessoa da Santíssima Trindade, o Verbo Eterno, o Filho de Deus, não se separou, nem do Corpo e nem da Alma e nem do Sangue.
->
->Deus estava e está unido de forma plena, total e eterna, com esta Humanidade, a Humanidade de Cristo. Portanto, quando Jesus ressuscitou, ressuscitou glorioso, Corpo, Sangue e Alma, gloriosos e transformados, ali o Cristo glorioso está unido à Sua Pessoa divina, quando você recebe o Corpo de Cristo na aparência do Pão, está recebendo também o Sangue, a Alma e a Divindade; e se você recebe o Cristo sob a aparência de Vinho, ou seja, o Sangue de Cristo, sob a aparência do Vinho, está recebendo também o Corpo, a Alma e a Divindade.
->
->Essa é a doutrina da Igreja, é a doutrina colocada infalivelmente no Concílio de Trento. Isto que a Igreja ensina e sempre ensinou, aqueles que quiserem dar uma verificada, no *Denzinger*, é o número 1.731, onde a Igreja excomunga aqueles que dizem o contrário.
->
->No entanto, existe uma circunstância, uma situação, em que nós somos obrigados a receber a Eucaristia sob as duas espécies Que ocasião é essa? Quando se trata de um sacerdote celebrante.
->
->Ou seja, o sacerdote que celebra (não aquele que está participando da Missa junto com os fiéis, mas aquele que consagrou o Pão e o Vinho) é obrigado a comungar a aparência de Pão e a aparência de Vinho, **porque isso FAZ PARTE DO SACRIFÍCIO COMO UM TODO. Não é somente uma questão de comungar, mas uma questão de REALIZAR O SACRIFÍCIO plenamente**.
->
->**O padre, ao consagrar o Pão e ao consagrar o Vinho, ELE ESTÁ REALIZANDO UM SACRIFÍCIO, e faz parte do OFERECIMENTO DO SACRIFÍCIO que o sacerdote oferente comungue, ou seja, consuma este sacrifício que foi oferecido.**
->
->Então, aí está a doutrina da Igreja , que nos ensina que podemos receber o Cristo Todo, mesmo sob uma única espécie.
-
-Contudo, Hb 7:27 (ARA) é muito claro:
->26 Com efeito, nos convinha um sumo sacerdote como este, santo, inculpável, sem mácula, separado dos pecadores e feito mais alto do que os céus,
->
->**27 que não tem necessidade, como os sumos sacerdotes, de oferecer todos os dias sacrifícios, primeiro, por seus próprios pecados, depois, pelos do povo; porque fez isto uma vez por todas, quando a si mesmo se ofereceu.**
->
->28 Porque a lei constitui sumos sacerdotes a homens sujeitos à fraqueza, mas a palavra do juramento, que foi posterior à lei, constitui o Filho, perfeito para sempre.
-
-O texto afirma não haver mais necessidade de oferecer sacrifícios todos os dias pelos pecados do sumo sacerdote e pelos do povo, pois Jesus fez isso uma vez por todas. Sendo assim, como conciliar isso com a aceitação de afirmações como:
-- "[...] porque isso faz parte do sacrifício como um todo [...]";
-- "[...] uma questão de realizar o sacrifício plenamente [...]";
-- "[...] ele (o sacerdote) está realizando um sacrifício [...]";
-- "[...] faz parte do oferecimento do sacrifício [...]".
-
----
-# 4. 
-
----
-# 10. Se comêssemos do Corpo e bebêssemos do sangue, seríamos consumados
-Rascunho.
-
----
-
-# 10. Deus nunca ordenou que bebêssemos sangue. Seria essa é a única exceção?
-Rascunho.
-
----
 7 ARGUMENTOS CONTRA A TRANSUBSTANCIAÇÃO DO BANZOLI
 
 1 - 1 Coríntios 10:16: participação da comunhão com os demônios;
