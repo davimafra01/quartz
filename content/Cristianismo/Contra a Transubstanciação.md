@@ -85,21 +85,39 @@ O texto afirma não haver mais necessidade de oferecer sacrifícios todos os dia
 - "[...] ele (o sacerdote) está realizando um sacrifício [...]";
 - "[...] faz parte do oferecimento do sacrifício [...]".
 
+Hebreus 7:27: O sacrifício de Jesus foi único e a bíblia nada fala sobre ele precisar ser atualizado. Hebreus 10:10,12,14, 18, 24-28. Cristo sofrendo em todas as Eucaristias?
+
 ---
 # 4. O corpo de Jesus está restrito aos Céus
-Rascunho
+Atos 3:21
 
 ---
 # 5. Violação do conceito de sacramento
-Rascunho
+A transubstanciação viola o próprio conceito de sacramento:
+- Agostinho, na carta 98 a Bonifácio, escreveu: "Em virtude, essa semelhança, os sacramentos são chamados pelo nome da **realidade com a qual se assemelha**. Assim, **em certo sentido**, o sacramento do corpo de Cristo é o corpo de Cristo, e da mesma forma, o sacramento da fé, é a fé. Com base nisso, o apóstolo disse em relação ao sacramento do batismo: de sorte que **fomos sepultados com ele pelo batismo na morte**".
+- Gálatas 3:27: esse revestimento é físico? Nem os católicos afirmam isso.
+- 1 Coríntios 12:13: o corpo aqui é literal? Beber aqui é literal? Claro que não.
+- Os católicos interpretam tudo espiritualmente (como o batismo), mas na eucaristia entendem literalmente.
 
 ---
 # 6. Pais da igreja que negaram a transubstanciação
-Rascunho
+Os pais da igreja negaram massivamente essa doutrina:
+- Papa Gelásio (Das duas naturezas, capítulo 14): "A substância ou a natureza do pão e do vinho não deixam de existir";
+- Teodoreto, em seu diálogo II: "Mesmo após a consagração, os símbolos místicos não são privados de sua própria natureza. Eles permanecem sua substância, figura e forma originárias".
 
 ---
 # 7. Negação dos sentidos
-Rascunho
+A transubstanciação nos leva a negar os sentidos e a própria realidade:
+- Sempre que há um milagre na bíblia que envolve mudança de substância, necessariamente envolve mudança de acidentes, pois é a única forma de certificar que o milagre realmente aconteceu (exemplo de José transformando o cajado em serpente).
+- Como Jesus provou a sua ressureição a Tomé? Dizendo: vede, toque aqui, pois um espírito não tem carne e ossos.
+- Santo Inácio de Loyola disse: creio que o branco que eu vejo é preto se a hierarquia da igreja assim tiver determinado.
+	Sobre essa parte do debate, o Banzoli disse duas coisas:
+	- Sempre que há um milagre na bíblia que envolve mudança de substância, necessariamente envolve mudança de acidentes;
+	- A transubstanciação é o único milagre bíblico que exige que se neguem todos os cinco sentidos;
+	- Ou seja, o Banzoli disse sim que a transubstanciação é o único milagre invisível, o que está errado).
+	Como o Banzoli disso isso após ter dito a primeira coisa, creio que foi apenas um mal entendido, mas essa segunda fala dele está completamente errada e não tem como defendê-la ou reajustá-la, nem mesmo inferindo o que ele quis dizer. Se tentarmos reajustar, ficaria algo assim:
+	- A transubstanciação é o único milagre bíblico com mudança de substância e sem mudança de acidentes que exige que se neguem todos os cinco sentidos;;
+	- Agora já não faz mais sentido essa frase, já que o objetivo dela era apontar a transubstanciação como uma quebra de padrão entre milagres, mas agora não temos com o que compará-la, já que ela é o único milagre em que se muda a substância sem mudar os acidentes).
 
 ---
 # 8. Literalidade = Ordem Inexequível
@@ -172,38 +190,11 @@ Além disso, com esse raciocínio, somos levados a flexibilizar a literalidade d
 Com isso, estamos nos aproximando cada vez mais do simbolismo protestante no que diz respeito à Santa Ceia do Senhor, já que chegamos ao entendimento de que, na Eucaristia, não acontece a ingestão do corpo e do sangue de Cristo e de que não faz sentido que Jesus esteja fazendo referências literais à sua carne e ao seu sangue.
 
 ---
-# 9. João 3:
-# SETE ARGUMENTOS CONTRA A TRANSUBSTANCIAÇÃO DO BANZOLI
+# 9. Comunhão antes da instituição
+Nesse caso, os cafarnaítas entenderam que Jesus estava falando da eucaristia como é entendida hoje, ou seja, de comê-lo sacramentalmente, mesmo que de forma física; ou de praticar canibalismo?
+- João 3:54 diz: todo o que come a minha carne e bebe o meu sangue tem a vida eterna. Come e bebe está no particípio presente, o que traz a ideia de ação em execução. Como aquelas pessoas poderiam comer e beber de Cristo naquela momento se ele estivesse realmente falando da ideia da eucaristia, a qual só seria instituída 1 ano depois daquilo. Óbvio que implica que ele estava falando de algo que poderia ser feito naquele momento. Ou seja: por traz da linguagem de "comer" e "beber", ele está se referindo a crer nele.
 
-1 - 1 Coríntios 10:16: participação da comunhão com os demônios;
-
-2 - A bíblia ensina a comunhão em ambas as espécies;
-
-3 - Hebreus 7:27: O sacrifício de Jesus foi único e a bíblia nada fala sobre ele precisar ser atualizado. Hebreus 10:10,12,14, 18, 24-28. Cristo sofrendo em todas as Eucaristias?
-
-4 - O corpo de Jesus não é onipresente para estar fisicamente nas hóstias consagradas em todo o mundo (Atos 3:21);
-
-5 - A transubstanciação viola o próprio conceito de sacramento:
-- Agostinho, na carta 98 a Bonifácio, escreveu: "Em virtude, essa semelhança, os sacramentos são chamados pelo nome da **realidade com a qual se assemelha**. Assim, **em certo sentido**, o sacramento do corpo de Cristo é o corpo de Cristo, e da mesma forma, o sacramento da fé, é a fé. Com base nisso, o apóstolo disse em relação ao sacramento do batismo: de sorte que **fomos sepultados com ele pelo batismo na morte**".
-- Gálatas 3:27: esse revestimento é físico? Nem os católicos afirmam isso.
-- 1 Coríntios 12:13: o corpo aqui é literal? Beber aqui é literal? Claro que não.
-- Os católicos interpretam tudo espiritualmente (como o batismo), mas na eucaristia entendem literalmente.
-
-6 - Os pais da igreja negaram massivamente essa doutrina:
-- Papa Gelásio (Das duas naturezas, capítulo 14): "A substância ou a natureza do pão e do vinho não deixam de existir";
-- Teodoreto, em seu diálogo II: "Mesmo após a consagração, os símbolos místicos não são privados de sua própria natureza. Eles permanecem sua substância, figura e forma originárias".
-
-7 - A transubstanciação nos leva a negar os sentidos e a própria realidade:
-- Sempre que há um milagre na bíblia que envolve mudança de substância, necessariamente envolve mudança de acidentes, pois é a única forma de certificar que o milagre realmente aconteceu (exemplo de José transformando o cajado em serpente).
-- Como Jesus provou a sua ressureição a Tomé? Dizendo: vede, toque aqui, pois um espírito não tem carne e ossos.
-- Santo Inácio de Loyola disse: creio que o branco que eu vejo é preto se a hierarquia da igreja assim tiver determinado.
-	Sobre essa parte do debate, o Banzoli disse duas coisas:
-	- Sempre que há um milagre na bíblia que envolve mudança de substância, necessariamente envolve mudança de acidentes;
-	- A transubstanciação é o único milagre bíblico que exige que se neguem todos os cinco sentidos;
-	- Ou seja, o Banzoli disse sim que a transubstanciação é o único milagre invisível, o que está errado).
-	Como o Banzoli disso isso após ter dito a primeira coisa, creio que foi apenas um mal entendido, mas essa segunda fala dele está completamente errada e não tem como defendê-la ou reajustá-la, nem mesmo inferindo o que ele quis dizer. Se tentarmos reajustar, ficaria algo assim:
-	- A transubstanciação é o único milagre bíblico com mudança de substância e sem mudança de acidentes que exige que se neguem todos os cinco sentidos;;
-	- Agora já não faz mais sentido essa frase, já que o objetivo dela era apontar a transubstanciação como uma quebra de padrão entre milagres, mas agora não temos com o que compará-la, já que ela é o único milagre em que se muda a substância sem mudar os acidentes).
+---
 
 ==================================
 PONTOS DO ARIEL
@@ -219,7 +210,3 @@ A argumentação do Ariel não faz nem um pouco de sentido. Hebreus 7:27 deixa i
 
 Os judeus do tempo de Cristo estavam esperando um novo Moisés. Concordamos que ele é Jesus Cristo. Se o novo Moisés e Deus, se a nova aliança é com o próprio Deus, se o nome templo é Deus, se a nova terra prometida é Deus, o novo maná precisa ser Deus. Se não é assim, é a única coisa da nova aliança que não é Deus.
 - Tá, mas por que o maná não pode ser espiritual? Isso é um non-sequitur.
-
-João 6.
-- Nesse caso, os cafarnaítas entenderam que Jesus estava falando da eucaristia como é entendida hoje, ou seja, de comê-lo sacramentalmente, mesmo que de forma física; ou de praticar canibalismo?
-- Versículo 54 diz: todo o que come a minha carne e bebe o meu sangue tem a vida eterna. Come e bebe está no particípio presente, o que traz a ideia de ação em execução. Como aquelas pessoas poderiam comer e beber de Cristo naquela momento se ele estivesse realmente falando da ideia da eucaristia, a qual só seria instituída 1 ano depois daquilo. Óbvio que implica que ele estava falando de algo que poderia ser feito naquele momento. Ou seja: por traz da linguagem de "comer" e "beber", ele está se referindo a crer nele.
