@@ -121,7 +121,7 @@ Entenda aqui o que é [[Prolepse]].
 > “Eu lhes dou a vida eterna; jamais perecerão.”
 
 ---
-# João 11:25
+# João 11:25 | João 11:25
 
 **Grego:**
 > ἐγώ εἰμι ἡ ἀνάστασις καὶ ἡ ζωή· ὁ πιστεύων… κἂν ἀποθάνῃ **ζήσεται**
