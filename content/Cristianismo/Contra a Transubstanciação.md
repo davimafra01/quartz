@@ -192,7 +192,7 @@ Com isso, estamos nos aproximando cada vez mais do simbolismo protestante no que
 ---
 # 9. Comunhão antes da instituição
 
-João 6:35 (tradução interlinear):
+**[[João 6.35 | João 6:35]] (tradução interlinear):**
 > Disse-lhes Jesus: Eu sou o pão da vida; o que vem a mim não não terá fome, e o que crê em mim não não terá sede nunca.
 
 **[[João 6.54 | João 6:54]] (tradução interlinear):**
