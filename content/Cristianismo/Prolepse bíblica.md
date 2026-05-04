@@ -65,7 +65,7 @@ Entenda aqui o que é [[Prolepse]].
 > “Em verdade, em verdade vos digo: quem crê tem a vida eterna.”
 
 ---
-# João 12:31
+# [[João 12.31 | João 12:31]]
 
 **Grego:**
 > **νῦν ἐστὶν κρίσις** τοῦ κόσμου τούτου· νῦν ὁ ἄρχων τοῦ κόσμου τούτου ἐκβληθήσεται ἔξω
