@@ -121,15 +121,7 @@ Entenda aqui o que é [[Prolepse]].
 > “Eu lhes dou a vida eterna; jamais perecerão.”
 
 ---
-# João 11:25 | João 11:25
-
-**Grego:**
-> ἐγώ εἰμι ἡ ἀνάστασις καὶ ἡ ζωή· ὁ πιστεύων… κἂν ἀποθάνῃ **ζήσεται**
-
-**Explicação grego:**
-> **ζήσεται** = “viverá” (futuro)  
-> contrasta com realidade presente (“eu sou”)  
-> mistura presente + futuro escatológico
+# [[João 11.25 | João 11:25]]
 
 **Transliteração:**
 > Eu ==sou== a ressurreição e a vida; o que crê em mim, ainda que morra, viverá.
