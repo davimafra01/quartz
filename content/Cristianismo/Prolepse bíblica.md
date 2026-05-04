@@ -40,7 +40,7 @@ Entenda aqui o que é [[Prolepse]].
 # [[João 6.47 | João 6:47]]
 
 **Tradução interlinear:**
-> Amém, amém digo a vós: ==o que crê tem== vida eterna.
+> Amém, amém digo a vós: ==o que está crendo tem== vida eterna.
 
 **Católica:**
 > “Em verdade, em verdade vos digo: quem crê tem a vida eterna.”
