@@ -12,7 +12,7 @@ Entenda aqui o que é [[Prolepse]].
 > “Quem comer a minha carne e beber o meu sangue tem a vida eterna, e eu o ressuscitarei no último dia.”
 
 ---
-# João 5:24
+# [[João 5.24 | João 5:24]]
 
 **Grego:**
 > ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι ὁ ἀκούων μου τὸν λόγον καὶ πιστεύων τῷ πέμψαντί με **ἔχει ζωὴν αἰώνιον** καὶ εἰς κρίσιν οὐκ ἔρχεται, ἀλλὰ **μεταβέβηκεν** ἐκ τοῦ θανάτου εἰς τὴν ζωήν
@@ -32,7 +32,7 @@ Entenda aqui o que é [[Prolepse]].
 > “Em verdade, em verdade vos digo: quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna, não entra em juízo, mas passou da morte para a vida.”
 
 ---
-# João 3:36
+# [[João 3.36 | João 3:36]]
 
 **Grego:**
 > ὁ πιστεύων εἰς τὸν υἱὸν **ἔχει ζωὴν αἰώνιον**· ὁ δὲ ἀπειθῶν τῷ υἱῷ οὐκ ὄψεται ζωήν
