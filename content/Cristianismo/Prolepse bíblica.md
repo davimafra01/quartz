@@ -85,7 +85,7 @@ Entenda aqui o que é [[Prolepse]].
 > “Chegou o momento de ser julgado este mundo, e agora o seu príncipe será expulso.”
 
 ---
-# João 13:31
+# João 13:31 | João 13:31
 
 **Grego:**
 > νῦν **ἐδοξάσθη** ὁ υἱὸς τοῦ ἀνθρώπου, καὶ ὁ θεὸς ἐδοξάσθη ἐν αὐτῷ
