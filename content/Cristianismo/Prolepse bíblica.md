@@ -112,7 +112,7 @@ Entenda aqui o que é [[Prolepse]].
 # [[João 10.28 | João 10:28]]
 
 **Tradução interlinear:**
-> E eu ==dou== a eles vida eterna, e jamais perecerão.
+> E eu ==estou dando== a eles vida eterna, e jamais perecerão.
 
 **Católica:**
 > “Eu lhes dou a vida eterna, e jamais perecerão.”

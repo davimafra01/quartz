@@ -1,5 +1,5 @@
 **Transliteração:**
-> E eu dou a eles vida eterna, e jamais perecerão.
+> E eu estou dando a eles vida eterna, e jamais perecerão.
 
 **Grego:**
 > κἀγὼ **δίδωμι** αὐτοῖς ζωὴν αἰώνιον, καὶ οὐ μὴ ἀπόλωνται εἰς τὸν αἰῶνα
