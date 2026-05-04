@@ -2,6 +2,7 @@
 Entenda aqui o que é [[Prolepse]].
 
 # [[João 6.54 | João 6:54]]
+
 **Transliteração:**
 > O que ==está mastigando== a minha carne e ==bebendo== o meu sangue ==tem== vida eterna, e eu o ressuscitarei no último dia.
 
@@ -13,14 +14,6 @@ Entenda aqui o que é [[Prolepse]].
 
 ---
 # [[João 5.24 | João 5:24]]
-
-**Grego:**
-> ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι ὁ ἀκούων μου τὸν λόγον καὶ πιστεύων τῷ πέμψαντί με **ἔχει ζωὴν αἰώνιον** καὶ εἰς κρίσιν οὐκ ἔρχεται, ἀλλὰ **μεταβέβηκεν** ἐκ τοῦ θανάτου εἰς τὴν ζωήν
-
-**Explicação grego:**
-> **ἔχει** = “tem” (presente, posse atual)  
-> **μεταβέβηκεν** = “já passou” (perfeito → ação concluída com efeito contínuo)  
-> salvação futura descrita como realidade já consumada
 
 **Transliteração:**
 > Amém, amém digo a vós que o que está ouvindo minha palavra e crendo naquele que me enviou ==tem== vida eterna e para juízo ==não vem==, mas ==passou== da morte para a vida.
