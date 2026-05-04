@@ -1,5 +1,5 @@
 **Transliteração:**
-> Amém, amém digo a vós: o que crê tem vida eterna.
+> Amém, amém digo a vós: o que está crendo tem vida eterna.
 
 **Grego:**
 > ἀμὴν ἀμὴν λέγω ὑμῖν, ὁ πιστεύων **ἔχει ζωὴν αἰώνιον**
