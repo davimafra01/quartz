@@ -97,15 +97,7 @@ Entenda aqui o que é [[Prolepse]].
 > “Porque isto é o meu sangue… derramado em favor de muitos.”
 
 ---
-# Lucas 22:19
-
-**Grego:**
-> τοῦτό ἐστιν τὸ σῶμά μου τὸ **ὑπὲρ ὑμῶν διδόμενον**
-
-**Explicação grego:**
-> **διδόμενον** = “sendo dado”  
-> ação futura (cruz)  
-> expressa como presente contínuo
+# [[Lucas 22.19 | Lucas 22:19]]
 
 **Transliteração:**
 > Isto é o meu corpo, o que ==está sendo== dado por vós.
