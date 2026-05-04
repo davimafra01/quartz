@@ -124,7 +124,7 @@ Entenda aqui o que é [[Prolepse]].
 # [[João 11.25 | João 11:25]]
 
 **Tradução interlinear:**
-> Eu ==sou== a ressurreição e a vida; o que crê em mim, ainda que morra, viverá.
+> Eu ==sou== a ressurreição e a vida; o que ==está crendo== em mim, ainda que morra, viverá.
 
 **Católica:**
 > “Eu sou a ressurreição e a vida. Quem crê em mim, ainda que morra, viverá.”
