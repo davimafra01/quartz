@@ -192,7 +192,7 @@ Com isso, estamos nos aproximando cada vez mais do simbolismo protestante no que
 ---
 # 9. Comunhão antes da instituição
 
-**[[João 6.54 | João 6:54]] (transliteração):**
+**[[João 6.54 | João 6:54]] (tradução interlinear):**
 > O que ==está mastigando== a minha carne e ==bebendo== o meu sangue ==tem== vida eterna, e eu o ressuscitarei no último dia.
 
 Nesse caso, os cafarnaítas entenderam que Jesus estava falando da eucaristia como é entendida hoje, ou seja, de comê-lo sacramentalmente, mesmo que de forma física; ou de praticar canibalismo?
