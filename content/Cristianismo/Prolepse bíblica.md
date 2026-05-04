@@ -1,5 +1,5 @@
 
-Entenda aqui o que é Prolepse.
+Entenda aqui o que é [[Prolepse]].
 # João 6:54
 
 **Grego:**

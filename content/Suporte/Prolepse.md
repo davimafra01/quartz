@@ -25,8 +25,8 @@ Antecipação de eventos futuros dentro da narrativa, quebrando a ordem cronoló
 Antecipação de um termo na frase antes da posição sintática esperada.
 
 **Exemplos clássicos:**
-> “Esse livro, eu já li.”  
-> “O João, eu não confio nele.”  
+> “Esse livro, eu já li.”
+> “O João, eu não confio nele.”
 > “Aquela ideia, ninguém entendeu.”
 
 ---
@@ -34,8 +34,8 @@ Antecipação de um termo na frase antes da posição sintática esperada.
 Tratamento de eventos futuros como se já tivessem ocorrido, por serem certos no plano divino.
 
 **Exemplos clássicos:**
-> Em Romanos 8:30: “aos que justificou, também glorificou.”  
-> Em Apocalipse, a vitória final é descrita como garantida.  
+> Em Romanos 8:30: “aos que justificou, também glorificou.”
+> Em Apocalipse, a vitória final é descrita como garantida.
 > Em Hebreus, o sacrifício de Cristo é tratado com valor eterno.
 
 ---
