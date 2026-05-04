@@ -43,6 +43,6 @@ Tratamento de eventos futuros como se já tivessem ocorrido, por serem certos no
 Ideia pré-formada na mente, anterior à experiência completa.
 
 **Exemplos clássicos:**
-> A noção de “justiça” já existe antes de sua definição formal.  
-> A ideia de “bem” é reconhecida intuitivamente antes de ser analisada.  
-> A percepção de “verdade” antecede sua formulação conceitual, como discutido por Epicteto e Sêneca.
+> A noção de “justiça” já existe antes de sua definição formal.
+> A ideia de “bem” é reconhecida intuitivamente antes de ser analisada.
+> A percepção de “verdade” antecede sua formulação conceitual, como discutido por Epiteto e Sêneca.
