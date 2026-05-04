@@ -191,6 +191,8 @@ Com isso, estamos nos aproximando cada vez mais do simbolismo protestante no que
 
 ---
 # 9. Comunhão antes da instituição
+
+
 Nesse caso, os cafarnaítas entenderam que Jesus estava falando da eucaristia como é entendida hoje, ou seja, de comê-lo sacramentalmente, mesmo que de forma física; ou de praticar canibalismo?
 - João 3:54 diz: todo o que come a minha carne e bebe o meu sangue tem a vida eterna. Come e bebe está no particípio presente, o que traz a ideia de ação em execução. Como aquelas pessoas poderiam comer e beber de Cristo naquela momento se ele estivesse realmente falando da ideia da eucaristia, a qual só seria instituída 1 ano depois daquilo. Óbvio que implica que ele estava falando de algo que poderia ser feito naquele momento. Ou seja: por traz da linguagem de "comer" e "beber", ele está se referindo a crer nele.
 
