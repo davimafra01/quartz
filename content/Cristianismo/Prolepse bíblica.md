@@ -39,14 +39,6 @@ Entenda aqui o que é [[Prolepse]].
 ---
 # [[João 6.47 | João 6:47]]
 
-**Grego:**
-> ἀμὴν ἀμὴν λέγω ὑμῖν, ὁ πιστεύων **ἔχει ζωὴν αἰώνιον**
-
-**Explicação grego:**
-> **ἔχει** = presente  
-> mesma estrutura de João 6:54  
-> vida eterna como posse atual
-
 **Transliteração:**
 > Amém, amém digo a vós: o que crê ==tem== vida eterna.
 
@@ -59,14 +51,6 @@ Entenda aqui o que é [[Prolepse]].
 ---
 # [[João 12.31 | João 12:31]]
 
-**Grego:**
-> **νῦν ἐστὶν κρίσις** τοῦ κόσμου τούτου· νῦν ὁ ἄρχων τοῦ κόσμου τούτου ἐκβληθήσεται ἔξω
-
-**Explicação grego:**
-> **νῦν** = “agora”  
-> julgamento ligado à cruz (ainda futura)  
-> evento futuro descrito como presente
-
 **Transliteração:**
 > ==Agora é== o juízo deste mundo; agora o príncipe deste mundo será lançado fora.
 
@@ -78,14 +62,6 @@ Entenda aqui o que é [[Prolepse]].
 
 ---
 # [[João 13.31 | João 13:31]]
-
-**Grego:**
-> νῦν **ἐδοξάσθη** ὁ υἱὸς τοῦ ἀνθρώπου, καὶ ὁ θεὸς ἐδοξάσθη ἐν αὐτῷ
-
-**Explicação grego:**
-> **ἐδοξάσθη** = “foi glorificado” (aoristo)  
-> glorificação ainda não consumada (cruz/ressurreição)  
-> linguagem de fato já realizado
 
 **Transliteração:**
 > ==Agora foi== glorificado o Filho do Homem, e Deus foi glorificado nele.
