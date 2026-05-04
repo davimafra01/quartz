@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-# 1. Fidei Depositum
+# 1. [[Fidei Depositum]]
 ### 1.1 Explicação
 A Igreja Católica ensina que a revelação de Deus é transmitida conjuntamente pela Sagrada Escritura e pela Tradição Apostólica, sendo ambas interpretadas autenticamente pelo Magistério da Igreja, que possui autoridade para ensinar sem erro em matéria de fé e moral dentro de condições específicas.
 
