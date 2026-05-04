@@ -1,3 +1,29 @@
+# João 6:54
+
+**Grego:**
+
+> ὁ τρώγων μου τὴν σάρκα καὶ πίνων μου τὸ αἷμα **ἔχει ζωὴν αἰώνιον**, κἀγὼ ἀναστήσω αὐτὸν τῇ ἐσχάτῃ ἡμέρᾳ
+
+**Explicação grego:**
+
+> **τρώγων** = “o que está mastigando” (particípio presente → ação contínua e concreta)  
+> **πίνων** = “o que está bebendo” (ação contínua)  
+> **ἔχει** = “tem” (vida eterna no presente)  
+> combinação de ação contínua + resultado presente + promessa futura (**ἀναστήσω** = “ressuscitarei”)
+
+**Transliteração:**
+
+> O que está mastigando a minha carne e bebendo o meu sangue tem vida eterna, e eu o ressuscitarei no último dia.
+
+**Católica:**
+
+> “Quem come a minha carne e bebe o meu sangue tem a vida eterna; e eu o ressuscitarei no último dia.”
+
+**ARA:**
+
+> “Quem comer a minha carne e beber o meu sangue tem a vida eterna, e eu o ressuscitarei no último dia.”
+
+---
 # João 5:24
 
 **Grego:**
@@ -18,7 +44,6 @@
 > “Em verdade, em verdade vos digo: quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna, não entra em juízo, mas passou da morte para a vida.”
 
 ---
-
 # João 3:36
 
 **Grego:**
@@ -39,7 +64,6 @@
 > “Por isso, quem crê no Filho tem a vida eterna; o que, todavia, se mantém rebelde contra o Filho não verá a vida.”
 
 ---
-
 # João 6:47
 
 **Grego:**
@@ -60,7 +84,6 @@
 > “Em verdade, em verdade vos digo: quem crê tem a vida eterna.”
 
 ---
-
 # João 12:31
 
 **Grego:**
@@ -81,7 +104,6 @@
 > “Chegou o momento de ser julgado este mundo, e agora o seu príncipe será expulso.”
 
 ---
-
 # João 13:31
 
 **Grego:**
@@ -102,7 +124,6 @@
 > “Agora foi glorificado o Filho do Homem, e Deus foi glorificado nele.”
 
 ---
-
 # João 17:4
 
 **Grego:**
@@ -123,7 +144,6 @@
 > “Eu te glorifiquei na terra, consumando a obra que me confiaste para fazer.”
 
 ---
-
 # Mateus 26:28
 
 **Grego:**
@@ -144,7 +164,6 @@
 > “Porque isto é o meu sangue… derramado em favor de muitos.”
 
 ---
-
 # Lucas 22:19
 
 **Grego:**
@@ -165,7 +184,6 @@
 > “Isto é o meu corpo oferecido por vós.”
 
 ---
-
 # João 10:28
 
 **Grego:**
@@ -186,7 +204,6 @@
 > “Eu lhes dou a vida eterna; jamais perecerão.”
 
 ---
-
 # João 11:25
 
 **Grego:**
