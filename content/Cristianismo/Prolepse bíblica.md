@@ -1,19 +1,9 @@
 
 Entenda aqui o que é [[Prolepse]].
 
-# João 6:54
-
-**Grego:**
-> ὁ τρώγων μου τὴν σάρκα καὶ πίνων μου τὸ αἷμα **ἔχει ζωὴν αἰώνιον**, κἀγὼ ἀναστήσω αὐτὸν τῇ ἐσχάτῃ ἡμέρᾳ
-
-**Explicação grego:**
-> **τρώγων** = “o que está mastigando” (particípio presente → ação contínua e concreta)  
-> **πίνων** = “o que está bebendo” (ação contínua)  
-> **ἔχει** = “tem” (vida eterna no presente)  
-> combinação de ação contínua + resultado presente + promessa futura (**ἀναστήσω** = “ressuscitarei”)
-
+# [[João 6.54]]
 **Transliteração:**
-> O que ==está mastigando== a minha carne e bebendo o meu sangue tem vida eterna, e eu o ressuscitarei no último dia.
+> O que ==está mastigando== a minha carne e ==bebendo== o meu sangue ==tem== vida eterna, e eu o ressuscitarei no último dia.
 
 **Católica:**
 > “Quem come a minha carne e bebe o meu sangue tem a vida eterna; e eu o ressuscitarei no último dia.”
@@ -33,7 +23,7 @@ Entenda aqui o que é [[Prolepse]].
 > salvação futura descrita como realidade já consumada
 
 **Transliteração:**
-> Amém, amém digo a vós que o que está ouvindo minha palavra e crendo naquele que me enviou tem vida eterna e para juízo não vem, mas passou da morte para a vida.
+> Amém, amém digo a vós que o que está ouvindo minha palavra e crendo naquele que me enviou ==tem== vida eterna e para juízo ==não vem==, mas ==passou== da morte para a vida.
 
 **Católica:**
 > “Em verdade, em verdade vos digo: quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna e não incorre em condenação, mas passou da morte para a vida.”
@@ -53,7 +43,7 @@ Entenda aqui o que é [[Prolepse]].
 > realidade futura expressa como posse atual
 
 **Transliteração:**
-> O que está crendo no Filho tem vida eterna; o que desobedece ao Filho não verá vida.
+> O que ==está crendo== no Filho ==tem== vida eterna; o que ==desobedece== ao Filho não verá vida.
 
 **Católica:**
 > “Aquele que crê no Filho tem a vida eterna; o que se recusa a crer no Filho não verá a vida.”
@@ -73,7 +63,7 @@ Entenda aqui o que é [[Prolepse]].
 > vida eterna como posse atual
 
 **Transliteração:**
-> Amém, amém digo a vós: o que crê tem vida eterna.
+> Amém, amém digo a vós: o que crê ==tem== vida eterna.
 
 **Católica:**
 > “Em verdade, em verdade vos digo: quem crê tem a vida eterna.”
@@ -93,7 +83,7 @@ Entenda aqui o que é [[Prolepse]].
 > evento futuro descrito como presente
 
 **Transliteração:**
-> Agora é o juízo deste mundo; agora o príncipe deste mundo será lançado fora.
+> ==Agora é== o juízo deste mundo; agora o príncipe deste mundo será lançado fora.
 
 **Católica:**
 > “Agora é o julgamento deste mundo; agora o príncipe deste mundo será expulso.”
@@ -113,7 +103,7 @@ Entenda aqui o que é [[Prolepse]].
 > linguagem de fato já realizado
 
 **Transliteração:**
-> Agora foi glorificado o Filho do Homem, e Deus foi glorificado nele.
+> ==Agora foi== glorificado o Filho do Homem, e Deus foi glorificado nele.
 
 **Católica:**
 > “Agora foi glorificado o Filho do Homem, e Deus foi glorificado nele.”
@@ -133,7 +123,7 @@ Entenda aqui o que é [[Prolepse]].
 > linguagem de conclusão antecipada
 
 **Transliteração:**
-> Eu te glorifiquei na terra, tendo completado a obra que me deste para fazer.
+> ==Eu te glorifiquei== na terra, tendo completado a obra que me deste para fazer.
 
 **Católica:**
 > “Eu te glorifiquei na terra, terminei a obra que me deste para fazer.”
@@ -153,7 +143,7 @@ Entenda aqui o que é [[Prolepse]].
 > evento futuro descrito como em andamento
 
 **Transliteração:**
-> Pois isto é o meu sangue… o que está sendo derramado por muitos.
+> Pois isto é o meu sangue… o que ==está sendo== derramado por muitos.
 
 **Católica:**
 > “Porque isto é o meu sangue… que é derramado por muitos.”
@@ -173,7 +163,7 @@ Entenda aqui o que é [[Prolepse]].
 > expressa como presente contínuo
 
 **Transliteração:**
-> Isto é o meu corpo, o que está sendo dado por vós.
+> Isto é o meu corpo, o que ==está sendo== dado por vós.
 
 **Católica:**
 > “Isto é o meu corpo, que é dado por vós.”
@@ -193,7 +183,7 @@ Entenda aqui o que é [[Prolepse]].
 > segurança futura expressa no presente
 
 **Transliteração:**
-> E eu dou a eles vida eterna, e jamais perecerão.
+> E eu ==dou== a eles vida eterna, e jamais perecerão.
 
 **Católica:**
 > “Eu lhes dou a vida eterna, e jamais perecerão.”
@@ -213,11 +203,10 @@ Entenda aqui o que é [[Prolepse]].
 > mistura presente + futuro escatológico
 
 **Transliteração:**
-> Eu sou a ressurreição e a vida; o que crê em mim, ainda que morra, viverá.
+> Eu ==sou== a ressurreição e a vida; o que crê em mim, ainda que morra, viverá.
 
 **Católica:**
 > “Eu sou a ressurreição e a vida. Quem crê em mim, ainda que morra, viverá.”
 
 **ARA:**
 > “Eu sou a ressurreição e a vida. Quem crê em mim, ainda que morra, viverá.”
-
