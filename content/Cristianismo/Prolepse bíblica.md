@@ -1,15 +1,6 @@
 
 Entenda aqui o que é [[Prolepse]].
 
-```
-<details>
-	<summary>
-		Clique para abrir
-	</summary>
-	
-	Conteúdo escondido aqui dentro.- Pode ter listas- Código- O que quiser
-</details>
-```
 # João 6:54
 
 **Grego:**
@@ -22,7 +13,7 @@ Entenda aqui o que é [[Prolepse]].
 > combinação de ação contínua + resultado presente + promessa futura (**ἀναστήσω** = “ressuscitarei”)
 
 **Transliteração:**
-> O que está mastigando a minha carne e bebendo o meu sangue tem vida eterna, e eu o ressuscitarei no último dia.
+> O que ==está mastigando== a minha carne e bebendo o meu sangue tem vida eterna, e eu o ressuscitarei no último dia.
 
 **Católica:**
 > “Quem come a minha carne e bebe o meu sangue tem a vida eterna; e eu o ressuscitarei no último dia.”
