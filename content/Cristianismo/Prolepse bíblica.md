@@ -1,4 +1,3 @@
-
 Entenda aqui o que é [[Prolepse]].
 
 No grego, essa figura de linguagem é muito aplicada por meio do Particípio Presente, o qual pode fazer referência a:
