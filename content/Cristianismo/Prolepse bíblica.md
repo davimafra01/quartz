@@ -3,7 +3,7 @@ Entenda aqui o que é [[Prolepse]].
 
 # [[João 6.54 | João 6:54]]
 
-**Transliteração:**
+**Tradução interlinear:**
 > O que ==está mastigando== a minha carne e ==bebendo== o meu sangue ==tem== vida eterna, e eu o ressuscitarei no último dia.
 
 **Católica:**
@@ -15,7 +15,7 @@ Entenda aqui o que é [[Prolepse]].
 ---
 # [[João 5.24 | João 5:24]]
 
-**Transliteração:**
+**Tradução interlinear:**
 > Amém, amém digo a vós que o que está ouvindo minha palavra e crendo naquele que me enviou ==tem== vida eterna e para juízo ==não vem==, mas ==passou== da morte para a vida.
 
 **Católica:**
@@ -27,7 +27,7 @@ Entenda aqui o que é [[Prolepse]].
 ---
 # [[João 3.36 | João 3:36]]
 
-**Transliteração:**
+**Tradução interlinear:**
 > O que ==está crendo== no Filho ==tem== vida eterna; o que ==desobedece== ao Filho não verá vida.
 
 **Católica:**
@@ -39,7 +39,7 @@ Entenda aqui o que é [[Prolepse]].
 ---
 # [[João 6.47 | João 6:47]]
 
-**Transliteração:**
+**Tradução interlinear:**
 > Amém, amém digo a vós: o que crê ==tem== vida eterna.
 
 **Católica:**
@@ -51,7 +51,7 @@ Entenda aqui o que é [[Prolepse]].
 ---
 # [[João 12.31 | João 12:31]]
 
-**Transliteração:**
+**Tradução interlinear:**
 > ==Agora é== o juízo deste mundo; agora o príncipe deste mundo será lançado fora.
 
 **Católica:**
@@ -63,7 +63,7 @@ Entenda aqui o que é [[Prolepse]].
 ---
 # [[João 13.31 | João 13:31]]
 
-**Transliteração:**
+**Tradução interlinear:**
 > ==Agora foi== glorificado o Filho do Homem, e Deus foi glorificado nele.
 
 **Católica:**
@@ -75,7 +75,7 @@ Entenda aqui o que é [[Prolepse]].
 ---
 # [[João 17.4 | João 17:4]]
 
-**Transliteração:**
+**Tradução interlinear:**
 > ==Eu te glorifiquei== na terra, tendo completado a obra que me deste para fazer.
 
 **Católica:**
@@ -87,7 +87,7 @@ Entenda aqui o que é [[Prolepse]].
 ---
 # [[Mateus 26.28 | Mateus 26:28]]
 
-**Transliteração:**
+**Tradução interlinear:**
 > Pois isto é o meu sangue… o que ==está sendo== derramado por muitos.
 
 **Católica:**
@@ -99,7 +99,7 @@ Entenda aqui o que é [[Prolepse]].
 ---
 # [[Lucas 22.19 | Lucas 22:19]]
 
-**Transliteração:**
+**Tradução interlinear:**
 > Isto é o meu corpo, o que ==está sendo== dado por vós.
 
 **Católica:**
@@ -111,7 +111,7 @@ Entenda aqui o que é [[Prolepse]].
 ---
 # [[João 10.28 | João 10:28]]
 
-**Transliteração:**
+**Tradução interlinear:**
 > E eu ==dou== a eles vida eterna, e jamais perecerão.
 
 **Católica:**
@@ -123,7 +123,7 @@ Entenda aqui o que é [[Prolepse]].
 ---
 # [[João 11.25 | João 11:25]]
 
-**Transliteração:**
+**Tradução interlinear:**
 > Eu ==sou== a ressurreição e a vida; o que crê em mim, ainda que morra, viverá.
 
 **Católica:**
