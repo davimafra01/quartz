@@ -45,7 +45,7 @@ Entenda aqui o que é [[Prolepse]].
 > “Por isso, quem crê no Filho tem a vida eterna; o que, todavia, se mantém rebelde contra o Filho não verá a vida.”
 
 ---
-# João 6:47
+# João 6.47João 6:47
 
 **Grego:**
 > ἀμὴν ἀμὴν λέγω ὑμῖν, ὁ πιστεύων **ἔχει ζωὴν αἰώνιον**
