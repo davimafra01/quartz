@@ -1,4 +1,4 @@
-# 1. Participação na comunhão dos demônios (1Co 10:16)
+# 1. Participação na comunhão dos d (1Co 10:16)
 Rascunho
 
 ---
@@ -195,10 +195,11 @@ Nesse caso, os cafarnaítas entenderam que Jesus estava falando da eucaristia co
 - João 3:54 diz: todo o que come a minha carne e bebe o meu sangue tem a vida eterna. Come e bebe está no particípio presente, o que traz a ideia de ação em execução. Como aquelas pessoas poderiam comer e beber de Cristo naquela momento se ele estivesse realmente falando da ideia da eucaristia, a qual só seria instituída 1 ano depois daquilo. Óbvio que implica que ele estava falando de algo que poderia ser feito naquele momento. Ou seja: por traz da linguagem de "comer" e "beber", ele está se referindo a crer nele.
 
 ---
+# 10. A realidade é a perfeição das sombras
+Rascunho
 
-==================================
-PONTOS DO ARIEL
-
+---
+# Alguns pontos do Ariel
 Mateus 5: Se não assumimos que a eucaristia é uma presença física e real de Jesus Cristo, não estamos completando o AT.
 - No holocausto, queimamos tudo para Deus.
 - Nas oblações, o sacerdote come parte e outra parte é queimada para Deus (sacrifício de adoração).
@@ -210,6 +211,3 @@ A argumentação do Ariel não faz nem um pouco de sentido. Hebreus 7:27 deixa i
 
 Os judeus do tempo de Cristo estavam esperando um novo Moisés. Concordamos que ele é Jesus Cristo. Se o novo Moisés e Deus, se a nova aliança é com o próprio Deus, se o nome templo é Deus, se a nova terra prometida é Deus, o novo maná precisa ser Deus. Se não é assim, é a única coisa da nova aliança que não é Deus.
 - Tá, mas por que o maná não pode ser espiritual? Isso é um non-sequitur.
-
-# 10. A realidade é a perfeição das sombras
-Rascunho
