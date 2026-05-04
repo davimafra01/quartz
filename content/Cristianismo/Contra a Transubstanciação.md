@@ -192,7 +192,7 @@ Com isso, estamos nos aproximando cada vez mais do simbolismo protestante no que
 ---
 # 9. Comunhão antes da instituição
 
-A [[Prolepse bíblica]] é muito utilizada por Jesus em seus ensinamentos, e
+A [[Prolepsee | Prolepse bíblica]] é muito utilizada por Jesus em seus ensinamentos, e
 
 **[[João 6.35 | João 6:35]] (tradução interlinear):**
 > Disse-lhes Jesus: Eu sou o pão da vida; o que ==está vindo a mim== não jamais terá fome, e o que ==está crendo em mim== não jamais terá sede nunca.
