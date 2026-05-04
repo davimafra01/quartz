@@ -1,7 +1,7 @@
 
 Entenda aqui o que é [[Prolepse]].
 
-# [[João 6.54]]
+# [[João 6.54 | João 6:54]]
 **Transliteração:**
 > O que ==está mastigando== a minha carne e ==bebendo== o meu sangue ==tem== vida eterna, e eu o ressuscitarei no último dia.
 
