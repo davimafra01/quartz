@@ -5,6 +5,8 @@ No grego, essa figura de linguagem é muito aplicada por meio do Particípio Pre
 - um hábito -> costuma crer
 - uma característica geral -> é alguém que crê
 
+Em geral, Jesus falou no Particípio Presente não como uma ação em andamento, mas como um hábito ou característica geral. As traduções católicas e protestantes concordam nisso.
+
 ---
 # [[João 6.54 | João 6:54]]
 
