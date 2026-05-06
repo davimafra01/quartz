@@ -1,11 +1,13 @@
 Entenda aqui o que é [[Prolepse]].
 
-No grego, essa figura de linguagem é muito aplicada por meio do Particípio Presente, o qual pode fazer referência a:
+No grego, essa figura de linguagem aparece principalmente com o Presente, Aoristo e Perfeito, todos eles no indicativo ou particípio. Além disso, ela pode fazer referência a:
 - uma ação em andamento -> está crendo agora
 - um hábito -> costuma crer
 - uma característica geral -> é alguém que crê
 
-Em geral, Jesus falou no Particípio Presente não como uma ação em andamento, mas como um hábito ou característica geral. As traduções católicas e protestantes concordam nisso.
+Importante dizer que a prolepse não é um “uso de tempos verbais” em si. Ela é um efeito semântico (interpretação do tempo), não uma categoria gramatical fixa.
+
+Em geral, Jesus usou  não como uma ação em andamento, mas como um hábito ou característica geral. As traduções católicas e protestantes concordam nisso.
 
 ---
 # 1. Prolepse com presente indicativo
