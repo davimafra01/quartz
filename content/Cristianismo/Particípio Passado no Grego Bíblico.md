@@ -1,10 +1,10 @@
 Antes de falar do Particípio Passado, vamos nos situar com relação aos tempos verbais no grego:
 ### Indicativo (modo principal)
-- Presente -> Ação contínua
+- Presente -> Ação contínua -> Exemplo: crendo
 - Imperfeito -> Ação contínua no passado
 - Futuro -> Projeção
-- ==**Aoristo -> Ação concluída (pontual)**==
-- ==**Perfeito -> Ação concluída com efeito presente**==
+- ==**Aoristo -> Ação concluída (pontual) -> Exemplo: tendo crido**==
+- ==**Perfeito -> Ação concluída com efeito presente -> Exemplo: tendo crido (com efeito)**==
 - Mais-que-perfeito.
 ### Outros modos
 - Subjuntivo;
