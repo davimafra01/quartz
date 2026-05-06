@@ -1,10 +1,10 @@
-# 1. Participação na comunhão dos d (1Co 10:16)
+# 1. ==Participação na comunhão dos d (1Co 10:16)==
 Não necessariamente a comunhão tratada no texto é a mesma para os dois casos. Pode-se ter comunhão de várias maneiras. Tanto na Eucaristia quanto no caso da mesa dos d, mesmo que a comida nesse segundo caso não mude de substância.
 
 Tem que ver como Paulo faz esse paralelo das comunhões.
 
 ---
-# 2. Comunhão em ambas as espécies
+# 2. ==Comunhão em ambas as espécies==
 Esse não é um argumento contra a transubstanciação, mas contra o modo que a Eucaristia é ministrada. A bíblia ensina a comunhão com as duas espécies em várias passagens:
 
 Mateus 26:26-28
