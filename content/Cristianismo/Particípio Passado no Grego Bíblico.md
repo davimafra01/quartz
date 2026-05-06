@@ -1,44 +1,113 @@
 Antes de falar do Particípio Passado, vamos nos situar com relação aos tempos verbais no grego:
 ### Indicativo (modo principal)
-- Presente -> Ação contínua -> Exemplo: crendo
-- Imperfeito -> Ação contínua no passado
-- Futuro -> Projeção
-- ==**Aoristo -> Ação concluída (pontual) -> Exemplo: tendo crido**==
-- ==**Perfeito -> Ação concluída com efeito presente -> Exemplo: tendo crido (com efeito)**==
-- Mais-que-perfeito.
+- Presente -> Ação contínua -> Exemplo: πιστεύων (crendo)
+- Imperfeito -> Ação contínua no passado -> Exemplo: ἐπίστευεν (estava crendo)
+- Futuro -> Projeção -> Exemplo: πιστεύσει (crerá)
+- ==**Aoristo -> Ação concluída (pontual) -> Exemplo: πιστεύσας (tendo crido)**==
+- ==**Perfeito -> Ação concluída com efeito presente -> Exemplo: πεπιστευκώς (tendo crido com efeito contínuo)**==
+- Mais-que-perfeito -> Ação passada anterior a outra ação passada -> Exemplo: ἐπεπιστεύκει (tinha crido)
+
 ### Outros modos
-- Subjuntivo;
-- Imperativo;
-- Optativo (raro no NT).
+- Subjuntivo -> possibilidade / eventualidade -> Exemplo: πιστεύῃ (que creia)
+- Imperativo -> ordem / comando -> Exemplo: πίστευσον (crê)
+- Optativo (raro no NT) -> desejo / possibilidade remota
 
 ---
 # 1. Particípio no grego
 
-O particípio é uma forma nominal do verbo que expressa o resultado de uma ação, como em "cantado", "vendido" e "partido". 
+O particípio é uma forma nominal do verbo que pode expressar uma ação em relação a outro verbo e, ao mesmo tempo, funcionar como adjetivo.
 
-No grego, o particípio é uma forma verbal que funciona tanto como verbo, como adjetivo, podendo indicar uma ação e também qualificar um sujeito. Exemplo:
+No português, algo semelhante aparece em formas como "cantando", "tendo cantado" ou "cantado", mas sem equivalência perfeita.
+
+No grego, o particípio pode:
+- indicar uma ação
+- qualificar um sujeito
+- funcionar como substantivo
+
+Exemplo:
 - **πιστεύων** = “crendo”
 - **ὁ πιστεύων** = “o que crê”
 
-Tecnicamente, não se chama "Particípio Passado" no grego, mas, funcionalmente, equivale a isso. No grego, falamos de Aoristo ou Perfeito.
+Tecnicamente, não se chama "Particípio Passado" no grego. Em vez disso, usamos:
+- Particípio Aoristo
+- Particípio Perfeito
 
 ---
 # 2. Particípio Aoristo
 
-Refere-se a uma ação já concluída, como "tendo completado a obra", em João 17:4. Foi algo pontual que aconteceu e acabou por lá mesmo.
+Refere-se a uma ação já concluída, vista como um todo, sem foco na duração.
+
+Exemplo bíblico:
+- **τελειώσας** = “tendo completado” (João 17:4)
+
+Indica:
+- ação pontual
+- anterior à ação principal
+- sem ênfase em continuidade
 
 ---
 # 3. Particípio Perfeito
 
-Refere-se a uma ação concluída com efeito contínuo, como "tendo sido salvos", em Efésios 2:8. Foi algo que aconteceu, mas cujo resultado continua válido (efeito presente).
+Refere-se a uma ação concluída com efeito contínuo no presente.
+
+Exemplo bíblico:
+- **σεσῳσμένοι** = “tendo sido salvos” (Efésios 2:8)
+
+Indica:
+- ação concluída
+- resultado ainda válido
+- estado presente derivado da ação passada
 
 ---
 # 4. Particípio de Identidade x Particípio Circunstancial
 
-O Particípio Aoristo e Perfeito podem ser utilizados de formas diferentes para fins diferentes. No grego, quando se utiliza a partícula "ὁ" antes do verbo, refere-se ao Particípio de Identidade, enquanto que sem essa partícula, refere-se ao Particípio Circunstancial.
+Os particípios (sejam no presente, aoristo ou perfeito) podem exercer funções diferentes dependendo da estrutura da frase.
 
-O Particípio de Identidade tem efeito de substantivo, enquanto o Circunstancial tem efeito de gerúndio, por exemplo:
-- **Particípio de Identidade:** ὁ πιστεύσας (aquele que creu)
-- **Particípio Circunstancial:** πιστεύσας ἔφυγεν (crendo, partiu / tendo crido, partiu)
+### Particípio de Identidade
+Ocorre quando o particípio vem com artigo (geralmente **ὁ**).
 
-Nos dois casos acima, o verbo foi utilizado no Aoristo, contudo, com funções diferentes definidas pela presença ou não da partícula "ὁ" antes do verbo.
+Função:
+- funciona como substantivo
+- define um tipo de pessoa ou condição
+
+Exemplo:
+- **ὁ πιστεύσας** = “aquele que creu”
+
+Indica:
+- identidade
+- característica
+- classe de pessoas
+
+### Particípio Circunstancial
+Ocorre quando o particípio aparece sem artigo.
+
+Função:
+- funciona como advérbio verbal
+- descreve a circunstância da ação principal
+
+Exemplo:
+- **πιστεύσας ἔφυγεν** = “tendo crido, partiu”
+
+Indica:
+- ação anterior ou simultânea
+- contexto da ação principal
+- ideias como: “quando”, “enquanto”, “porque”, “depois de”
+
+---
+## Comparação direta
+
+- **Particípio de Identidade:** ὁ πιστεύσας → “aquele que creu”
+- **Particípio Circunstancial:** πιστεύσας ἔφυγεν → “tendo crido, partiu”
+
+Nos dois casos acima, o verbo está no Aoristo, mas a função muda:
+- com **ὁ** → identidade (substantivo)
+- sem artigo → circunstância (advérbio)
+
+---
+## Observação importante
+
+A diferença entre particípio de identidade e circunstancial:
+- não está no tempo verbal (presente, aoristo ou perfeito)
+- está na função sintática e na presença do artigo
+
+Ou seja: o mesmo particípio pode assumir funções diferentes dependendo da estrutura da frase.
