@@ -135,7 +135,7 @@ Abaixo, veja o texto:
 
 Podemos refutar essa tentativa de argumento simplesmente utilizando outras versões bíblicas além da católica. Na versão ARA, citada anteriormente, não se traduziu o texto como uma ação que estava acontecendo naquele momento, mas sim como uma (i) condição ou até mesmo como uma (ii) ação que poderia vir a ser realizada no futuro, o que reforçaria ainda mais a interpretação católica.
 
-Além disso, a própria [[Particípio Grego Bíblico | gramática do grego]] quebra completamente esta ideia. Sabe-se que, nesta passagem, usa-se o Particípio Presente de Identidade, modo verbal caracterizado pelo uso da partícula "ὁ" seguida do verbo no particípio:
+Além disso, a própria [[Particípio Grego Bíblico | gramática do grego]] quebra completamente esta ideia. Sabe-se que, nesta passagem, usa-se o Particípio Presente de Identidade, modo verbal caracterizado pelo uso da partícula "ὁ" seguida do verbo no particípio. É uma forma nominal (substantivo) do presente com valor identitário (justamente por ser nominal). Um exemplo disso seria "aquele que crê", que teria efeito de um substantivo, um efeito identitário. Vejamos no grego:
 
 **Grego:**  
 > ==**ὁ τρώγων**== τὴν σάρκα μου καὶ ==**πίνων**== μου τὸ αἷμα ἔχει ζωὴν αἰώνιον
@@ -147,7 +147,7 @@ Além disso, a própria [[Particípio Grego Bíblico | gramática do grego]] que
 Aqui “forma contínua” não é “contínuo” no sentido de estar literalmente acontecendo agora (como inglês _is eating right now_), nem necessariamente “hábito” no sentido psicológico repetitivo.
 
 No grego do particípio presente, “contínua” quer dizer:
-> Aspecto imperfeito: a ação é apresentada como não concluída, em progresso ou como característica do sujeito
+> Aspecto imperfeito: a ação é apresentada como (i) não concluída, em progresso ou como (ii) característica do sujeito.
 
 Neste caso, como termos a partícula "ὁ", fica claro que estamos falando de uma característica do sujeito, e não de um gerúndio, como algo que estaria acontecendo exatamente naquele momento.
 
