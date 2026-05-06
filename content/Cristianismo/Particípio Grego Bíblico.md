@@ -37,8 +37,9 @@ Exemplo:
 - **ὁ πιστεύων** = “o que crê”
 
 Tecnicamente, não se chama "Particípio Passado" no grego. Em vez disso, usamos:
-- Particípio Aoristo
-- Particípio Perfeito
+- Particípio Presente;
+- Particípio Aoristo; ou
+- Particípio Perfeito.
 
 ---
 # 2. Particípio Presente
@@ -48,10 +49,10 @@ Refere-se a uma ação em andamento ou a uma característica contínua do sujeit
 Exemplo bíblico:
 - **ὁ πιστεύων** = “o que crê” (João 6:47)
 
-Indica:
+**"πιστεύων" indica:
 - ação contínua / em progresso
 - ou característica permanente
-- identidade do sujeito quando usado com artigo (ὁ + particípio)
+- identidade do sujeito quando usado com artigo (ὁ + particípio), que é o caso.
 
 ---
 # 3. Particípio Aoristo
