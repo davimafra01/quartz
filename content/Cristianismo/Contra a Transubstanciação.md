@@ -93,9 +93,13 @@ Hebreus 7:27: O sacrifício de Jesus foi único e a bíblia nada fala sobre ele 
 
 Os católicos afirmam que, na verdade, rasga-se o tempo e espaço e aquele sacrifício é REVIVIDO. Somos RECONECTADOS com ele. Somos UNIDOS com ele. Mas para que reviver o sacrifício? Por que não estamos conectados sempre e para sempre? O que realmente nos conecta ao sacrifício na cruz?
 
-Por que Jesus diria: "façam isso (reviver, reconectar, reunir) em memória de mim?".
+Por que Jesus diria: "façam isso (reviver, reconectar, reunir) EM MEMÓRIA DE MIM?".
 
-Jesus disse para fazerem aquilo, e como? EM MEMÓRIA DE MIM. O modo deles fazerem é em memória. Não é em
+Ou seja: revivemos, nos reconectamos e somos unidos ao sacrifício em memória, e não rasgando o tempo e espaço.
+
+Jesus disse para fazerem aquilo como? EM MEMÓRIA DE MIM. O modo deles fazerem é em memória.
+
+Além disso, por
 
 ---
 # 4. O corpo de Jesus está restrito aos Céus
