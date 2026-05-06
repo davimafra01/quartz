@@ -102,6 +102,19 @@ Indica:
 - ideias como: “quando”, “enquanto”, “porque”, “depois de”
 
 ---
+# 5. Combinações de Particípio
+
+**Particípio de identidade (com artigo ὁ):**
+- particípio presente de identidade → **ὁ πιστεύων** → “aquele que crê”
+- particípio aoristo de identidade → **ὁ πιστεύσας** → “aquele que creu”
+- **particípio perfeito de identidade → ὁ πεπιστευκώς → “aquele que tem crido (com efeito contínuo)”**
+
+**Particípio circunstancial (sem artigo):**
+- particípio presente circunstancial → **πιστεύων** → “crendo / enquanto crê”
+- particípio aoristo circunstancial → **πιστεύσας** → “tendo crido”
+- **particípio perfeito circunstancial → πεπιστευκώς → “tendo crido (com efeito contínuo)”**
+
+---
 ## Comparação direta
 
 - **Particípio de Identidade:** ὁ πιστεύσας → “aquele que creu”
