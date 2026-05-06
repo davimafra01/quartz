@@ -115,6 +115,8 @@ A transubstanciação viola o próprio conceito de sacramento:
 - 1 Coríntios 12:13: o corpo aqui é literal? Beber aqui é literal? Claro que não.
 - Os católicos interpretam tudo espiritualmente (como o batismo), mas na eucaristia entendem literalmente.
 
+Como a Eucaristia pode ser um sinal eficaz se não tem sinal nenhum?
+
 ---
 # 6. ==Pais da igreja que negaram a transubstanciação==
 Os pais da igreja negaram massivamente essa doutrina:
