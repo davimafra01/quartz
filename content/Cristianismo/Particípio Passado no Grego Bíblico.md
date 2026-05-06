@@ -1,10 +1,10 @@
 Antes de falar do Particípio Passado, vamos nos situar com relação aos tempos verbais no grego:
 ### Indicativo (modo principal)
-- Presente;
-- Imperfeito;
-- Futuro;
-- Aoristo;
-- Perfeito;
+- Presente -> Ação contínua
+- Imperfeito -> Ação contínua no passado
+- Futuro -> Projeção
+- ==**Aoristo -> Ação concluída (pontual)**==
+- ==**Perfeito -> Ação concluída com efeito presente**==
 - Mais-que-perfeito.
 ### Outros modos
 - Subjuntivo;
@@ -20,8 +20,24 @@ No grego, o particípio é uma forma verbal que funciona tanto como verbo, como 
 - **πιστεύων** = “crendo”
 - **ὁ πιστεύων** = “o que crê”
 
+Tecnicamente, não se chama "Particípio Passado" no grego, mas, funcionalmente, equivale a isso. No grego, falamos de Aoristo ou Perfeito.
 
+---
+# 2. Particípio Aoristo
 
+Refere-se a uma ação já concluída, como "tendo completado a obra", em João 17:4. Foi algo pontual que aconteceu e acabou por lá mesmo.
+
+a
+
+---
+# 3. Particípio Perfeito
+
+Refere-se a uma ação concluída com efeito contínuo, como "tendo sido salvos", em Efésios 2:8. Foi algo que aconteceu, mas cujo resultado continua válido (efeito presente).
+
+a
+
+---
+# 4. 
 
 
 
