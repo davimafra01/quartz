@@ -8,6 +8,126 @@ No grego, essa figura de linguagem é muito aplicada por meio do Particípio Pre
 Em geral, Jesus falou no Particípio Presente não como uma ação em andamento, mas como um hábito ou característica geral. As traduções católicas e protestantes concordam nisso.
 
 ---
+# 1. Prolepse com presente indicativo
+
+O presente é o principal veículo da prolepse no Novo Testamento, especialmente em João.
+
+## Características
+- ação descrita como atual
+- resultado futuro tratado como presente
+- forte uso teológico (estado já realizado)
+
+## Estrutura típica
+- presente + complemento escatológico
+
+## Exemplo
+João 3:36  
+ὁ πιστεύων εἰς τὸν υἱὸν ἔχει ζωὴν αἰώνιον  
+o que está crendo no Filho tem vida eterna
+
+## Classificação
+- prolepse de realidade presente
+- resultado futuro antecipado como posse atual
+
+---
+# 2. Prolepse com particípio presente (ὁ + particípio presente)
+
+Forma nominal do presente com valor identitário.
+
+#### Características
+- identidade contínua
+- ação habitual ou permanente
+- escatologia realizada (especialmente em João)
+
+#### Estrutura típica
+- ὁ + particípio presente
+
+#### Exemplo
+João 6:47  
+ὁ πιστεύων εἰς ἐμὲ ἔχει ζωὴν αἰώνιον  
+o que está crendo em mim tem vida eterna
+
+#### Classificação
+
+- prolepse de identidade contínua
+- estado presente que antecipa consumação futura
+
+---
+# 3. Prolepse com aoristo indicativo
+
+O aoristo pode expressar eventos futuros tratados como concluídos.
+
+#### Características
+- ação vista como completa
+- efeito de certeza absoluta
+- frequente em linguagem profética ou decretiva
+
+#### Exemplo
+Marcos 16:16  
+ὁ πιστεύσας καὶ βαπτισθεὶς σωθήσεται  
+o que tendo crido e sido batizado será salvo
+
+#### Classificação
+- prolepse de evento concluído antecipado
+- ação futura tratada como fato encerrado
+
+---
+# 4. Prolepse com particípio aoristo
+
+Forma nominal do aoristo com valor anterior à ação principal.
+
+#### Características
+- ação pontual já concluída
+- antecedência lógica
+- pode assumir valor escatológico em contextos salvíficos
+
+#### Exemplo
+Atos 10:43  
+πᾶς ὁ πιστεύσας ἐν αὐτῷ  
+todo o que tendo crido nele
+
+#### Classificação
+- prolepse de ação concluída
+- fundamento passado que garante resultado futuro
+
+---
+# 5. Prolepse com perfeito indicativo
+
+O perfeito é a forma mais forte de prolepse no NT.
+
+#### Características
+- ação concluída
+- estado permanente resultante
+- realidade final tratada como já estabelecida
+
+#### Exemplo
+Efésios 2:5  
+χάριτί ἐστε σεσῳσμένοι  
+pela graça vocês têm sido salvos
+
+#### Classificação
+- prolepse de estado final consumado
+- resultado definitivo antecipado como presente
+
+---
+# 6. Prolepse com particípio perfeito (ὁ + perfeito)
+
+Forma nominal rara, mas teoricamente e semanticamente possível.
+
+#### Características
+- estado permanente derivado de ação concluída
+- identidade definida pelo resultado passado
+- forte valor teológico
+
+#### Exemplo (forma equivalente)
+ὁ πεπιστευκὼς εἰς τὸν υἱόν  
+o que tem crido no Filho
+
+#### Classificação
+- prolepse de identidade resultante
+- estado final tratado como identidade atual
+
+---
 # [[João 6.54 | João 6:54]]
 
 **Tradução interlinear:**
