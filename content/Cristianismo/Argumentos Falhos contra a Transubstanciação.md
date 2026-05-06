@@ -125,10 +125,7 @@ Leituras para depois:
 
 Em João 6:54, Jesus diz que os que estão **comendo** a sua carne e **bebendo** o seu sangue tem a vida eterna. Contudo, como aquelas pessoas poderiam estar comendo e bebendo de Jesus naquele momento se a Eucaristia ainda iria ser instituída um ano depois? Isso significa que Ele estava falando sobre algo que poderia ser feito naquele momento. Então, por traz da linguagem de comer e beber, ele está se referindo a crer nele. Isto caracteriza este argumento.
 
-Abaixo, veja os textos:
-
-**[[João 6.35 | João 6:35]] (tradução interlinear):**
-> Disse-lhes Jesus: Eu sou o pão da vida; o que ==está vindo a mim== não jamais terá fome, e o que ==está crendo em mim== não jamais terá sede nunca.
+Abaixo, veja o texto:
 
 **[[João 6.54 | João 6:54]] (tradução interlinear):**
 > O que ==está mastigando== a minha carne e ==bebendo== o meu sangue ==tem== vida eterna, e eu o ressuscitarei no último dia.3
@@ -141,8 +138,17 @@ Podemos refutar essa tentativa de argumento simplesmente utilizando outras vers�
 Além disso, a própria gramática do grego quebra completamente esta ideia. Sabe-se que, nesta passagem, usa-se o Particípio Presente de Identidade, modo verbal caracterizado pelo uso da partícula "ὁ" seguida do verbo no particípio:
 
 **Grego:**  
-> **ὁ τρώγων** τὴν σάρκα μου καὶ **πίνων** μου τὸ αἷμα ἔχει ζωὴν αἰώνιον
+> ==**ὁ τρώγων**== τὴν σάρκα μου καὶ ==**πίνων**== μου τὸ αἷμα ἔχει ζωὴν αἰώνιον
 
 **Formas envolvidas no Particípio Presente:**
-- τρώγων → o que está comendo / o que está mastigando / o que come (forma contínua)
-- πίνων → o que está bebendo / o que bebe (forma contínua)
+- τρώγων → o que está comendo / o que está mastigando / o que come (forma contínua*)
+- πίνων → o que está bebendo / o que bebe (forma contínua*)
+
+Aqui “forma contínua” não é “contínuo” no sentido de estar literalmente acontecendo agora (como inglês _is eating right now_), nem necessariamente “hábito” no sentido psicológico repetitivo.
+
+No grego do particípio presente, “contínua” quer dizer:
+> Aspecto imperfeito: a ação é apresentada como não concluída, em progresso ou como característica do sujeito
+
+Neste caso, como termos a partícula "ὁ", fica claro que estamos falando de uma característica do sujeito, e não de um gerúndio, como algo que estaria acontecendo exatamente naquele momento.
+
+Ou seja: Jesus quis dizer que aquele que é do tipo de pessoa (característica) que mastiga a sua carne e bebe o seu sangue, tem a vida eterna.
