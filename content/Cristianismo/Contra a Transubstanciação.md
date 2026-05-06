@@ -91,6 +91,8 @@ O texto afirma não haver mais necessidade de oferecer sacrifícios todos os dia
 
 Hebreus 7:27: O sacrifício de Jesus foi único e a bíblia nada fala sobre ele precisar ser atualizado. Hebreus 10:10,12,14, 18, 24-28. Cristo sofrendo em todas as Eucaristias?
 
+Os católicos afirmam que, na verdade, rompe-se o tempo e espaço e aquele sacrifício é revivido, apenas. Mas para que reviver o sacrifício? Não faz sentido.
+
 ---
 # 4. O corpo de Jesus está restrito aos Céus
 Atos 3:21
@@ -207,7 +209,7 @@ Mateus 5:17 em diante: Se não assumimos que a eucaristia é uma presença físi
 - Sacrifício pacífico, tanto a família como o sacerdote comem (comunhão e ação de graças).
 - Sacrifícios pelo pecado, onde o sacerdote come ou tudo é queimado;
 - Sacrifício da pertença à aliança (páscoa): a família precisa comer a carne do cordeiro, como em exodo 12 eles comem o cordeiro e os pães asmos.
-A argumentação do Ariel não faz nem um pouco de sentido. Hebreus 7:27 deixa isso claro, pois, não é necessário que realizemos o sacrifício de novo e de novo como faziam os sacerdotes no antigo testamente. Como assim não comemos da carne de Jesus se morremos com ele e o seu sacrifício foi eficaz? A lógica é que aquele que crê em Jesus como filho de Deus e seu Senhor e Salvador, será justificado. Na época de Moisés não tinha isso de crer no cordeiro sacrificado, kkkkkk. A forma de fazer parte do sacrifício mudou e, não apenas isso, mas se aperfeiçoou em Cristo. Além disso, Paulo diz que o batismo é a nova circuncisão. Só batiza homens e meninos? Tem que ser no oitavo dia? Não, pois existem diferenças cruciais entre sombra e realidade. A realidade é a perfeição da sombra. Jesus veio e aperfeiçoou tudo o que antes existia, e querer que tudo seja feito exatamente como antes é reduzir Jesus às sombras do VT.
+A argumentação do Ariel não faz nem um pouco de sentido. Hebreus 7:27 deixa isso claro, pois, não é necessário que realizemos o sacrifício de novo e de novo como faziam os sacerdotes no antigo testamento. Como assim não comemos da carne de Jesus se morremos com ele e o seu sacrifício foi eficaz? A lógica é que aquele que crê em Jesus como filho de Deus e seu Senhor e Salvador, será justificado. Na época de Moisés não tinha isso de crer no cordeiro sacrificado, kkkkkk. A forma de fazer parte do sacrifício mudou e, não apenas isso, mas se aperfeiçoou em Cristo. Além disso, Paulo diz que o batismo é a nova circuncisão. Só batiza homens e meninos? Tem que ser no oitavo dia? Não, pois existem diferenças cruciais entre sombra e realidade. A realidade é a perfeição da sombra. Jesus veio e aperfeiçoou tudo o que antes existia, e querer que tudo seja feito exatamente como antes é reduzir Jesus às sombras do VT.
 - Sobre essa última parte, o Ariel argumenta que, no exemplo da circuncisão, aqueles eram detalhes marginais, enquanto os "detalhes" do sacrifício eram pontos centrais.
 
 Os judeus do tempo de Cristo estavam esperando um novo Moisés. Concordamos que ele é Jesus Cristo. Se o novo Moisés e Deus, se a nova aliança é com o próprio Deus, se o nome templo é Deus, se a nova terra prometida é Deus, o novo maná precisa ser Deus. Se não é assim, é a única coisa da nova aliança que não é Deus.
