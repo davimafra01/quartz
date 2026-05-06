@@ -27,42 +27,18 @@ Tecnicamente, não se chama "Particípio Passado" no grego, mas, funcionalmente,
 
 Refere-se a uma ação já concluída, como "tendo completado a obra", em João 17:4. Foi algo pontual que aconteceu e acabou por lá mesmo.
 
-a
-
 ---
 # 3. Particípio Perfeito
 
 Refere-se a uma ação concluída com efeito contínuo, como "tendo sido salvos", em Efésios 2:8. Foi algo que aconteceu, mas cujo resultado continua válido (efeito presente).
 
-a
-
 ---
-# 4. 
+# 4. Particípio de Identidade x Particípio Circunstancial
 
+O Particípio Aoristo e Perfeito podem ser utilizados de formas diferentes para fins diferentes. No grego, quando se utiliza a partícula "ὁ" antes do verbo, refere-se ao Particípio de Identidade, enquanto que sem essa partícula, refere-se ao Particípio Circunstancial.
 
+O Particípio de Identidade tem efeito de substantivo, enquanto o Circunstancial tem efeito de gerúndio, por exemplo:
+- **Particípio de Identidade:** ὁ πιστεύσας (aquele que creu)
+- **Particípio Circunstancial:** πιστεύσας ἔφυγεν (crendo, partiu / tendo crido, partiu)
 
-
-Um argumento contra a doutrina católica da Eucaristia é João 6:54, quando Jesus diz:
-## [[João 6.54 | João 6:54]]
-
-**Tradução interlinear:**
-> O que ==está mastigando== a minha carne e ==bebendo== o meu sangue ==tem== vida eterna, e eu o ressuscitarei no último dia.
-
-**Católica:**
-> “Quem come a minha carne e bebe o meu sangue tem a vida eterna; e eu o ressuscitarei no último dia.”
-
-**ARA:**
-> “Quem comer a minha carne e beber o meu sangue tem a vida eterna, e eu o ressuscitarei no último dia.”
-
-Diz-se que, por ter sido utilizado o Particípio Presente do grego para escrever esse versículo, significa que Jesus estava se referindo a uma ação que poderia ser realizada naquele momento pelos cafarnaítas. O problema é que a Eucaristia só viria a ser instituída aproximadamente um ano depois, o que, de acordo com este argumento, significa que Jesus estaria se referindo a crer nEle quando falou sobre mastigar o seu corpo e beber o seu sangue, e não de forma literal.
-
-Esse argumento é facilmente refutado em dois níveis que veremos a seguir.
-
----
-# 1. Traduções Protestantes
-
-Podemos refutar essa tentativa de argumento simplesmente utilizando outras versões bíblicas além da católica. Na versão ARA, citada anteriormente, não se traduziu o texto como uma ação que estava acontecendo naquele momento, mas sim como uma (i) condição ou até mesmo como uma (ii) ação que poderia vir a ser realizada no futuro, o que reforçaria ainda mais a interpretação católica.
-
----
-# 2. Particípio Passado no Grego
-Além disso,
+Nos dois casos acima, o verbo foi utilizado no Aoristo, contudo, com funções diferentes definidas pela presença ou não da partícula "ὁ" antes do verbo.

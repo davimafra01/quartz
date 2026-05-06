@@ -206,6 +206,8 @@ Nesse caso, os cafarnaítas entenderam que Jesus estava falando da eucaristia co
 
 Como aquelas pessoas poderiam comer e beber de Cristo naquela momento se ele estivesse realmente falando da ideia da eucaristia, a qual só seria instituída 1 ano depois daquilo. Óbvio que implica que ele estava falando de algo que poderia ser feito naquele momento. Ou seja: por traz da linguagem de "comer" e "beber", ele está se referindo a crer nele.
 
+Podemos refutar essa tentativa de argumento simplesmente utilizando outras versões bíblicas além da católica. Na versão ARA, citada anteriormente, não se traduziu o texto como uma ação que estava acontecendo naquele momento, mas sim como uma (i) condição ou até mesmo como uma (ii) ação que poderia vir a ser realizada no futuro, o que reforçaria ainda mais a interpretação católica.
+
 ---
 # 10. A realidade é a perfeição das sombras
 Rascunho
