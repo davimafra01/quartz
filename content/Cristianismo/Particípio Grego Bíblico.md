@@ -108,7 +108,7 @@ Função:
 - descreve a circunstância da ação principal
 
 Exemplo:
-- **πιστεύσας ἔφυγεν** = “tendo crido, partiu”
+- **πιστεύσας ἔφυγεν** = “tendo crido / crendo, partiu”
 
 Indica:
 - ação anterior ou simultânea
