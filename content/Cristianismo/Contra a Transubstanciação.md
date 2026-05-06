@@ -101,6 +101,8 @@ Jesus disse para fazerem aquilo como? EM MEMÓRIA DE MIM. O modo deles fazerem �
 
 Além disso, por
 
+A Última Ceia foi uma prolepse da morte de cruz de Jesus, rasgando o tempo e o espaço para o futuro. Pensei agora nisso. Depois desenvolvo.
+
 ---
 # 4. O corpo de Jesus está restrito aos Céus
 Atos 3:21
