@@ -104,7 +104,7 @@ A transubstanciação viola o próprio conceito de sacramento:
 - Os católicos interpretam tudo espiritualmente (como o batismo), mas na eucaristia entendem literalmente.
 
 ---
-# 6. Pais da igreja que negaram a transubstanciação
+# 6. ==Pais da igreja que negaram a transubstanciação==
 Os pais da igreja negaram massivamente essa doutrina:
 - Papa Gelásio (Das duas naturezas, capítulo 14): "A substância ou a natureza do pão e do vinho não deixam de existir";
 - Teodoreto, em seu diálogo II: "Mesmo após a consagração, os símbolos místicos não são privados de sua própria natureza. Eles permanecem sua substância, figura e forma originárias".
