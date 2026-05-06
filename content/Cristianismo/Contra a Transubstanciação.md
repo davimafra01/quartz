@@ -238,6 +238,8 @@ Jesus intensifica para chocar e mostrar a falta de fé, mas depois suaviza e exp
 
 Além disso, a estrutura dessa conversa é Jesus iniciar falando sobre fé (v. 35, 40, 47), depois usar comer e beber e depois voltar aprofundando o crer ao falar que o espírito é o que vivifica e a carne nada aproveita, finalizando seu ensinamento de que crer (inicialmente tratado) vem do Pai, nos é concedido pelo Pai. Jesus foi didática e mostrou isso na prática ao exemplificar que aqueles que enxergavam as coisas pela ótica da carne, nada aproveitariam.
 
+Um ponto bom para os católicos: quando Jesus diz que o espírito é o que vivifica, ele pode estar falando justamente sobre comer e beber sacramentalmente (ou seja, não a carne física, mas a carne substancial, ou seu espírito). Essa leitura poderia corroborar a visão católica.
+
 ---
 # Alguns pontos do Ariel
 Mateus 5:17 em diante: Se não assumimos que a eucaristia é uma presença física e real de Jesus Cristo, não estamos completando o AT.
