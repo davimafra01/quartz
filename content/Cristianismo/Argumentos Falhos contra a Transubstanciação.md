@@ -71,7 +71,7 @@ Mt 28:20 (ARA)
 Substancialmente, Jesus é onipresente.
 
 ---
-# 4. Conceito de Sacramento
+# 4. Conceito de sacramento
 
 Primeiro, o que é um sacramento segundo a teologia clássica, ou seja, a formulação consagrada por Agostinho de Hipona (354-430 AD) e sistematizada por Tomás de Aquino (1225-1274 AD)?
 
@@ -121,3 +121,20 @@ Leituras para depois:
 >Erro protestante: pensar que todo signo deve ser fundado em sua respectiva substância. O erro é pensar que os acidentes não podem exercer a função significativa que o Sacramento exige. Eles pensam que signo material é o mesmo que signo sacramental. Eles precisam provar que signo, necessariamente, se trata da substância, e não que não pode ser um acidente.
 
 ---
+# 5. Comunhão antes da instituição
+
+Em João 6:54, Jesus diz que os que estão **comendo** a sua carne e **bebendo** o seu sangue tem a vida eterna. Contudo, como aquelas pessoas poderiam estar comendo e bebendo de Jesus naquele momento se a Eucaristia ainda iria ser instituída um ano depois? Isso significa que Ele estava falando sobre algo que poderia ser feito naquele momento. Então, por traz da linguagem de comer e beber, ele está se referindo a crer nele.
+
+A [[Prolepse bíblica| prolepse]] é muito utilizada por Jesus em seus ensinamentos e, quando Ele fala sobre o seu corpo e o seu sangue, Cristo está prefigurando a morte no madeiro, e não afirmando que, literalmente, o pão é sua carne e o vinho é o seu sangue.
+
+**[[João 6.35 | João 6:35]] (tradução interlinear):**
+> Disse-lhes Jesus: Eu sou o pão da vida; o que ==está vindo a mim== não jamais terá fome, e o que ==está crendo em mim== não jamais terá sede nunca.
+
+**[[João 6.54 | João 6:54]] (tradução interlinear):**
+> O que ==está mastigando== a minha carne e ==bebendo== o meu sangue ==tem== vida eterna, e eu o ressuscitarei no último dia.
+
+Nesse caso, os cafarnaítas entenderam que Jesus estava falando da eucaristia como é entendida hoje, ou seja, de comê-lo sacramentalmente, mesmo que de forma física; ou de praticar canibalismo?
+
+Como aquelas pessoas poderiam comer e beber de Cristo naquela momento se ele estivesse realmente falando da ideia da eucaristia, a qual só seria instituída 1 ano depois daquilo. Óbvio que implica que ele estava falando de algo que poderia ser feito naquele momento. Ou seja: por traz da linguagem de "comer" e "beber", ele está se referindo a crer nele.
+
+Podemos refutar essa tentativa de argumento simplesmente utilizando outras versões bíblicas além da católica. Na versão ARA, citada anteriormente, não se traduziu o texto como uma ação que estava acontecendo naquele momento, mas sim como uma (i) condição ou até mesmo como uma (ii) ação que poderia vir a ser realizada no futuro, o que reforçaria ainda mais a interpretação católica.
