@@ -123,20 +123,19 @@ Leituras para depois:
 ---
 # 5. Comunhão antes da instituição
 
-Em João 6:54, Jesus diz que os que estão **comendo** a sua carne e **bebendo** o seu sangue tem a vida eterna. Contudo, como aquelas pessoas poderiam estar comendo e bebendo de Jesus naquele momento se a Eucaristia ainda iria ser instituída um ano depois? Isso significa que Ele estava falando sobre algo que poderia ser feito naquele momento. Então, por traz da linguagem de comer e beber, ele está se referindo a crer nele.
+Em João 6:54, Jesus diz que os que estão **comendo** a sua carne e **bebendo** o seu sangue tem a vida eterna. Contudo, como aquelas pessoas poderiam estar comendo e bebendo de Jesus naquele momento se a Eucaristia ainda iria ser instituída um ano depois? Isso significa que Ele estava falando sobre algo que poderia ser feito naquele momento. Então, por traz da linguagem de comer e beber, ele está se referindo a crer nele. Isto caracteriza este argumento.
 
-
-
-A [[Prolepse Bíblica| prolepse]] é muito utilizada por Jesus em seus ensinamentos e, quando Ele fala sobre o seu corpo e o seu sangue, Cristo está prefigurando a morte no madeiro, e não afirmando que, literalmente, o pão é sua carne e o vinho é o seu sangue.
+Abaixo, veja os textos:
 
 **[[João 6.35 | João 6:35]] (tradução interlinear):**
 > Disse-lhes Jesus: Eu sou o pão da vida; o que ==está vindo a mim== não jamais terá fome, e o que ==está crendo em mim== não jamais terá sede nunca.
 
 **[[João 6.54 | João 6:54]] (tradução interlinear):**
-> O que ==está mastigando== a minha carne e ==bebendo== o meu sangue ==tem== vida eterna, e eu o ressuscitarei no último dia.
+> O que ==está mastigando== a minha carne e ==bebendo== o meu sangue ==tem== vida eterna, e eu o ressuscitarei no último dia.3
 
-Nesse caso, os cafarnaítas entenderam que Jesus estava falando da eucaristia como é entendida hoje, ou seja, de comê-lo sacramentalmente, mesmo que de forma física; ou de praticar canibalismo?
-
-Como aquelas pessoas poderiam comer e beber de Cristo naquela momento se ele estivesse realmente falando da ideia da eucaristia, a qual só seria instituída 1 ano depois daquilo. Óbvio que implica que ele estava falando de algo que poderia ser feito naquele momento. Ou seja: por traz da linguagem de "comer" e "beber", ele está se referindo a crer nele.
+**[[João 6.54 | João 6:54]] (ARA):**
+> “Quem comer a minha carne e beber o meu sangue tem a vida eterna, e eu o ressuscitarei no último dia.”
 
 Podemos refutar essa tentativa de argumento simplesmente utilizando outras versões bíblicas além da católica. Na versão ARA, citada anteriormente, não se traduziu o texto como uma ação que estava acontecendo naquele momento, mas sim como uma (i) condição ou até mesmo como uma (ii) ação que poderia vir a ser realizada no futuro, o que reforçaria ainda mais a interpretação católica.
+
+Além disso, a própria gramática do grego quebra completamente esta ideia. Sabe-se que 

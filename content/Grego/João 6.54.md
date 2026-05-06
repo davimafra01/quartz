@@ -11,3 +11,5 @@
 > 
 > **ἔχει** = “tem” (vida eterna no presente)  
 > combinação de ação contínua + resultado presente + promessa futura (**ἀναστήσω** = “ressuscitarei”)
+
+Neste texto, há uma prolepse, pois a vida eterna é tratada como realidade atual.
