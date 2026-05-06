@@ -219,6 +219,9 @@ Rascunho
 
 ---
 # 10. Carfanaítas em João 6
+Argumenta-se, por parte dos católicos, que os cafarnaítas estavam entendendo 
+
+
 Se os cafarnaítas entenderam que Jesus estava falando sobre canibalismo:
 - 
 
