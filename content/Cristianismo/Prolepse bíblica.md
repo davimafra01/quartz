@@ -134,7 +134,7 @@ o que tem crido no Filho
 
 ---
 # 7. Exemplos Bíblicos
-# [[João 6.54 | João 6:54]]
+## [[João 6.54 | João 6:54]]
 
 **Grego:**  
 > ὁ τρώγων τὴν σάρκα μου καὶ πίνων μου τὸ αἷμα ἔχει ζωὴν αἰώνιον
@@ -159,7 +159,7 @@ o que tem crido no Filho
 - vida eterna tratada como realidade atual
 
 ---
-# [[João 5.24 | João 5:24]]
+## [[João 5.24 | João 5:24]]
 
 **Grego:**  
 > ὁ ἀκούων τὸν λόγον μου καὶ πιστεύων τῷ πέμψαντί με ἔχει ζωὴν αἰώνιον καὶ οὐκ ἔρχεται εἰς κρίσιν ἀλλὰ μεταβέβηκεν ἐκ τοῦ θανάτου εἰς τὴν ζωήν
@@ -185,7 +185,7 @@ o que tem crido no Filho
 - escatologia realizada (morte → vida já efetuada)
 
 ---
-# [[João 3.36 | João 3:36]]
+## [[João 3.36 | João 3:36]]
 
 **Grego:**  
 > ὁ πιστεύων εἰς τὸν υἱὸν ἔχει ζωὴν αἰώνιον· ὁ δὲ ἀπειθῶν τῷ υἱῷ οὐκ ὄψεται ζωήν
@@ -211,7 +211,7 @@ o que tem crido no Filho
 - identidade contínua com consequência futura
 
 ---
-# [[João 6.47 | João 6:47]]
+## [[João 6.47 | João 6:47]]
 
 **Grego:**  
 > ἀμὴν ἀμὴν λέγω ὑμῖν ὁ πιστεύων εἰς ἐμὲ ἔχει ζωὴν αἰώνιον
@@ -235,7 +235,7 @@ o que tem crido no Filho
 - identidade contínua
 
 ---
-# [[João 12.31 | João 12:31]]
+## [[João 12.31 | João 12:31]]
 
 **Grego:**  
 > νῦν κρίσις ἐστὶν τοῦ κόσμου τούτου νῦν ὁ ἄρχων τοῦ κόσμου τούτου ἐκβληθήσεται ἔξω
@@ -259,7 +259,7 @@ o que tem crido no Filho
 - realidade futura apresentada como já iniciada
 
 ---
-# [[João 13.31 | João 13:31]]
+## [[João 13.31 | João 13:31]]
 
 **Grego:**  
 > νῦν ἐδοξάσθη ὁ υἱὸς τοῦ ἀνθρώπου καὶ ὁ θεὸς ἐδοξάσθη ἐν αὐτῷ
@@ -282,7 +282,7 @@ o que tem crido no Filho
 - glorificação antecipada
 
 ---
-# [[João 17.4 | João 17:4]]
+## [[João 17.4 | João 17:4]]
 
 **Grego:**  
 > ἐγώ σε ἐδόξασα ἐπὶ τῆς γῆς τὸ ἔργον τελειώσας ὃ δέδωκάς μοι ἵνα ποιήσω
@@ -306,7 +306,7 @@ o que tem crido no Filho
 - obra futura tratada como finalizada
 
 ---
-# [[Mateus 26.28 | Mateus 26:28]]
+## [[Mateus 26.28 | Mateus 26:28]]
 
 **Grego:**  
 > τοῦτο γάρ ἐστιν τὸ αἷμά μου τῆς διαθήκης τὸ περὶ πολλῶν ἐκχυννόμενον
@@ -329,7 +329,7 @@ o que tem crido no Filho
 - evento da cruz antecipado como ação em curso
 
 ---
-# [[Lucas 22.19 | Lucas 22:19]]
+## [[Lucas 22.19 | Lucas 22:19]]
 
 **Grego:**  
 > τοῦτό ἐστιν τὸ σῶμά μου τὸ ὑπὲρ ὑμῶν διδόμενον
@@ -352,7 +352,7 @@ o que tem crido no Filho
 - entrega futura tratada como ação atual
 
 ---
-# [[João 10.28 | João 10:28]]
+## [[João 10.28 | João 10:28]]
 
 **Grego:**  
 > κἀγὼ δίδωμι αὐτοῖς ζωὴν αἰώνιον καὶ οὐ μὴ ἀπόλωνται εἰς τὸν αἰῶνα
@@ -375,7 +375,7 @@ o que tem crido no Filho
 - posse permanente antecipada
 
 ---
-# [[João 11.25 | João 11:25]]
+## [[João 11.25 | João 11:25]]
 
 **Grego:**  
 > ἐγώ εἰμι ἡ ἀνάστασις καὶ ἡ ζωή ὁ πιστεύων εἰς ἐμὲ κἂν ἀποθάνῃ ζήσεται

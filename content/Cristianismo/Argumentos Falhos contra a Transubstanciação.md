@@ -127,7 +127,7 @@ Em João 6:54, Jesus diz que os que estão **comendo** a sua carne e **bebendo**
 
 
 
-A [[Prolepse bíblica| prolepse]] é muito utilizada por Jesus em seus ensinamentos e, quando Ele fala sobre o seu corpo e o seu sangue, Cristo está prefigurando a morte no madeiro, e não afirmando que, literalmente, o pão é sua carne e o vinho é o seu sangue.
+A [[Prolepse Bíblica| prolepse]] é muito utilizada por Jesus em seus ensinamentos e, quando Ele fala sobre o seu corpo e o seu sangue, Cristo está prefigurando a morte no madeiro, e não afirmando que, literalmente, o pão é sua carne e o vinho é o seu sangue.
 
 **[[João 6.35 | João 6:35]] (tradução interlinear):**
 > Disse-lhes Jesus: Eu sou o pão da vida; o que ==está vindo a mim== não jamais terá fome, e o que ==está crendo em mim== não jamais terá sede nunca.
