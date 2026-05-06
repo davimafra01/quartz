@@ -201,7 +201,7 @@ Rascunho
 
 ---
 # Alguns pontos do Ariel
-Mateus 5: Se não assumimos que a eucaristia é uma presença física e real de Jesus Cristo, não estamos completando o AT.
+Mateus 5:17 em diante: Se não assumimos que a eucaristia é uma presença física e real de Jesus Cristo, não estamos completando o AT.
 - No holocausto, queimamos tudo para Deus.
 - Nas oblações, o sacerdote come parte e outra parte é queimada para Deus (sacrifício de adoração).
 - Sacrifício pacífico, tanto a família como o sacerdote comem (comunhão e ação de graças).
