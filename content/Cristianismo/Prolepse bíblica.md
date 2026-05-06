@@ -2,10 +2,7 @@
 
 Entenda aqui o que é [[Prolepse]].
 
-No grego, essa figura de linguagem aparece principalmente com o Presente, Aoristo e Perfeito, todos eles no indicativo ou particípio. Além disso, ela pode fazer referência a:
-- uma ação em andamento -> está crendo agora
-- um hábito -> costuma crer
-- uma característica geral -> é alguém que crê
+No grego, essa figura de linguagem aparece principalmente com o Presente, Aoristo e Perfeito, todos eles no indicativo ou particípio (como exemplificados nas próximas seções).
 
 Importante dizer que a prolepse não é um “uso de tempos verbais” em si. Ela é um efeito semântico (interpretação do tempo), não uma categoria gramatical fixa.
 
