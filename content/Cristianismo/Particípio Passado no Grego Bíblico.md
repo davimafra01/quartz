@@ -1,16 +1,23 @@
 Antes de falar do Particípio Passado, vamos nos situar com relação aos tempos verbais no grego:
+
 ### Indicativo (modo principal)
-- Presente -> Ação contínua -> Exemplo: πιστεύων (crendo)
-- Imperfeito -> Ação contínua no passado -> Exemplo: ἐπίστευεν (estava crendo)
-- Futuro -> Projeção -> Exemplo: πιστεύσει (crerá)
-- ==**Aoristo -> Ação concluída (pontual) -> Exemplo: πιστεύσας (tendo crido)**==
-- ==**Perfeito -> Ação concluída com efeito presente -> Exemplo: πεπιστευκώς (tendo crido com efeito contínuo)**==
-- Mais-que-perfeito -> Ação passada anterior a outra ação passada -> Exemplo: ἐπεπιστεύκει (tinha crido)
+
+| Tempo             | Ideia principal                            | Exemplo (grego) | Tradução                          |
+| ----------------- | ------------------------------------------ | --------------- | --------------------------------- |
+| Presente          | Ação contínua                              | πιστεύων        | crendo                            |
+| Imperfeito        | Ação contínua no passado                   | ἐπίστευεν       | estava crendo                     |
+| Futuro            | Projeção                                   | πιστεύσει       | crerá                             |
+| Aoristo           | Ação concluída (pontual)                   | πιστεύσας       | tendo crido                       |
+| Perfeito          | Ação concluída com efeito presente         | πεπιστευκώς     | tendo crido (com efeito contínuo) |
+| Mais-que-perfeito | Ação passada anterior a outra ação passada | ἐπεπιστεύκει    | tinha crido                       |
 
 ### Outros modos
-- Subjuntivo -> possibilidade / eventualidade -> Exemplo: πιστεύῃ (que creia)
-- Imperativo -> ordem / comando -> Exemplo: πίστευσον (crê)
-- Optativo (raro no NT) -> desejo / possibilidade remota
+
+| Modo | Ideia principal | Exemplo (grego) | Tradução |
+|------|----------------|----------------|----------|
+| Subjuntivo | Possibilidade / eventualidade | πιστεύῃ | que creia |
+| Imperativo | Ordem / comando | πίστευσον | crê |
+| Optativo | Desejo / possibilidade remota (raro no NT) | πιστεύοι | que talvez cresse |
 
 ---
 # 1. Particípio no grego
