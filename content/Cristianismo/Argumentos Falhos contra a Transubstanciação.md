@@ -42,7 +42,7 @@ Inclusive, sabe-se que o Papa Sisto IV aprovou a tese de Scotus a respeito da Im
 
 Mas, voltando ao tema, fato é que a transubstanciação apenas explica o fenômeno milagroso da Eucaristia, o que significa que seu registro na Santa Escritura não é necessário e nem mesmo faria sentido, haja vista sua complexidade.
 
-Para Bellarmino, o que a Escritura ensina é a presença real, enquanto a explicação de que isso ocorre por mudança de substância é uma definição dogmática da Igreja, especialmente consolidada no Concílio de Trento. Em outras palavras: não é **improvável** que não hajam textos que comprovem como ocorre, mas há abundância de textos que comprovam a presença real.
+Para Bellarmino, o que a Escritura ensina é a presença real, enquanto a explicação de que isso ocorre por mudança de substância é uma definição dogmática da Igreja, especialmente consolidada no Concílio de Trento. Em outras palavras: não é **improvável** que não haja textos que comprovem como ocorre, mas há abundância de textos que comprovam a presença real.
 
 Santo Tomás de Aquino defende que a transubstanciação não está materialmente contida na Bíblia, mas virtualmente. Isso significa que a Escritura não apresenta de forma explícita e conceitual a doutrina tal como ela foi depois definida pela Igreja, porém contém princípios e afirmações (como “isto é o meu corpo”) que, quando corretamente interpretados pela razão teológica e pela autoridade da Tradição, implicam necessariamente essa doutrina. Assim, a transubstanciação não está formalmente formulada no texto bíblico, mas está virtualmente presente como conclusão legítima extraída dele.
 
