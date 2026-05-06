@@ -91,14 +91,16 @@ O texto afirma não haver mais necessidade de oferecer sacrifícios todos os dia
 
 Hebreus 7:27: O sacrifício de Jesus foi único e a bíblia nada fala sobre ele precisar ser atualizado. Hebreus 10:10,12,14, 18, 24-28. Cristo sofrendo em todas as Eucaristias?
 
-Os católicos afirmam que, na verdade, rasga-se o tempo e espaço e aquele sacrifício é REVIVIDO. Somos RECONECTADOS com ele. Somos UNIDOS com ele. Mas para que reviver o sacrifício? Por que não estamos conectados sempre e para sempre? O que realmente nos conecta ao sacrifício na cruz?
+	Os católicos afirmam que, na verdade, rasga-se o tempo e espaço e aquele sacrifício é REVIVIDO. Somos RECONECTADOS com ele. Somos UNIDOS com ele. Mas para que reviver o sacrifício? Por que não estamos conectados sempre e para sempre? O que realmente nos conecta ao sacrifício na cruz?
+	
+	Por que Jesus diria: "façam isso (reviver, reconectar, reunir) EM MEMÓRIA DE MIM?".
+	
+	Ou seja: revivemos, nos reconectamos e somos unidos ao sacrifício em memória, e não rasgando o tempo e espaço. Jesus disse para fazerem aquilo como? EM MEMÓRIA DE MIM. O modo deles fazerem é em memória, e não como participação nEle, como união com Ele ou em participação nEle.
+	
+	Além disso, por que os fiéis tem que, necessariamente, participar do sacrifício dessa maneira, revivendo?
 
-Por que Jesus diria: "façam isso (reviver, reconectar, reunir) EM MEMÓRIA DE MIM?".
 
-Ou seja: revivemos, nos reconectamos e somos unidos ao sacrifício em memória, e não rasgando o tempo e espaço. Jesus disse para fazerem aquilo como? EM MEMÓRIA DE MIM. O modo deles fazerem é em memória, e não como participação nEle, como união com Ele ou em participação nEle.
-
-Além disso, por que os fiéis tem que, necessariamente, participar do sacrifício dessa maneira, revivendo?
-
+	Poderíamos dizer que fazer isso em memória de mim seria algo como: comam a minha carne e bebam o meu sangue em memória de mim, o que seria um pouco mais favorável à visão católica.
 
 
 A Última Ceia foi uma prolepse da morte de cruz de Jesus, rasgando o tempo e o espaço para o futuro. Pensei agora nisso. Depois desenvolvo.
