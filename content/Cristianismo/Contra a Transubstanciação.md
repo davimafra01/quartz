@@ -218,6 +218,14 @@ Com isso, estamos nos aproximando cada vez mais do simbolismo protestante no que
 Rascunho
 
 ---
+# 10. Carfanaítas em João 6
+Se os cafarnaítas entenderam que Jesus estava falando sobre canibalismo:
+- 
+
+Se os cafarnaítas entenderam que Jesus estava falando sobre sacramento:
+- 
+
+---
 # Alguns pontos do Ariel
 Mateus 5:17 em diante: Se não assumimos que a eucaristia é uma presença física e real de Jesus Cristo, não estamos completando o AT.
 - No holocausto, queimamos tudo para Deus.
