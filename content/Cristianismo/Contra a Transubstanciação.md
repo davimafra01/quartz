@@ -99,9 +99,11 @@ Hebreus 7:27: O sacrifício de Jesus foi único e a bíblia nada fala sobre ele 
 	
 	Além disso, por que os fiéis tem que, necessariamente, participar do sacrifício dessa maneira, revivendo?
 
+--
 
 	Poderíamos dizer que fazer isso em memória de mim seria algo como: comam a minha carne e bebam o meu sangue em memória de mim, o que seria um pouco mais favorável à visão católica.
 
+--
 
 A Última Ceia foi uma prolepse da morte de cruz de Jesus, rasgando o tempo e o espaço para o futuro. Pensei agora nisso. Depois desenvolvo.
 
