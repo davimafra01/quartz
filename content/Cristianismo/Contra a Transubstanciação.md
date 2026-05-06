@@ -97,7 +97,9 @@ Por que Jesus diria: "façam isso (reviver, reconectar, reunir) EM MEMÓRIA DE M
 
 Ou seja: revivemos, nos reconectamos e somos unidos ao sacrifício em memória, e não rasgando o tempo e espaço. Jesus disse para fazerem aquilo como? EM MEMÓRIA DE MIM. O modo deles fazerem é em memória, e não como participação nEle, como união com Ele ou em participação nEle.
 
-Além disso, por que os fiéis tem que participar do sacrifício
+Além disso, por que os fiéis tem que, necessariamente, participar do sacrifício dessa maneira, revivendo?
+
+
 
 A Última Ceia foi uma prolepse da morte de cruz de Jesus, rasgando o tempo e o espaço para o futuro. Pensei agora nisso. Depois desenvolvo.
 
