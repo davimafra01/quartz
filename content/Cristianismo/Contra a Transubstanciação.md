@@ -212,5 +212,12 @@ Mateus 5:17 em diante: Se não assumimos que a eucaristia é uma presença físi
 A argumentação do Ariel não faz nem um pouco de sentido. Hebreus 7:27 deixa isso claro, pois, não é necessário que realizemos o sacrifício de novo e de novo como faziam os sacerdotes no antigo testamento. Como assim não comemos da carne de Jesus se morremos com ele e o seu sacrifício foi eficaz? A lógica é que aquele que crê em Jesus como filho de Deus e seu Senhor e Salvador, será justificado. Na época de Moisés não tinha isso de crer no cordeiro sacrificado, kkkkkk. A forma de fazer parte do sacrifício mudou e, não apenas isso, mas se aperfeiçoou em Cristo. Além disso, Paulo diz que o batismo é a nova circuncisão. Só batiza homens e meninos? Tem que ser no oitavo dia? Não, pois existem diferenças cruciais entre sombra e realidade. A realidade é a perfeição da sombra. Jesus veio e aperfeiçoou tudo o que antes existia, e querer que tudo seja feito exatamente como antes é reduzir Jesus às sombras do VT.
 - Sobre essa última parte, o Ariel argumenta que, no exemplo da circuncisão, aqueles eram detalhes marginais, enquanto os "detalhes" do sacrifício eram pontos centrais.
 
-Os judeus do tempo de Cristo estavam esperando um novo Moisés (Dt . Concordamos que ele é Jesus Cristo. Se o novo Moisés é Deus, se a nova aliança é com o próprio Deus, se o nome templo é Deus, se a nova terra prometida é Deus, o novo maná precisa ser Deus. Se não é assim, é a única coisa da nova aliança que não é Deus.
-- Tá, mas por que o maná não pode ser espiritual? Isso é um non-sequitur.
+Os judeus do tempo de Cristo estavam esperando um novo Moisés (Dt 15:15-19, Jr 31:31-34, Ez Cap 40-48). Concordamos que ele é Jesus Cristo.
+Se o novo Moisés é Deus,
+se a nova aliança é com o próprio Deus,
+se o nome templo é Deus (corpo de Cristo),
+se a nova terra prometida é Deus (é a vida com o próprio Deus),
+o novo maná precisa ser Deus (como corpo de Cristo).
+
+Se não é assim, é a única coisa da nova aliança que não é Deus.
+- Tá, mas por que o maná não pode ser espiritual? Isso é um non-sequitur (se o novo maná é Deus, então, necessariamente, é Deus fisicamente).
