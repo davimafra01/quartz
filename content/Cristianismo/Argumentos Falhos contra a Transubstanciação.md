@@ -68,7 +68,7 @@ Mt 18:20 (ARA)
 Mt 28:20 (ARA)
 >20 ensinando-os a guardar todas as coisas que vos tenho ordenado. E eis que estou convosco todos os dias até à consumação do século.
 
-Substancialmente, Jesus é onipresente.
+Substancialmente/espitirualmente, Jesus é onipresente.
 
 ---
 # 4. Conceito de sacramento
