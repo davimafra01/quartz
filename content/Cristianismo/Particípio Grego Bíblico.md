@@ -162,7 +162,7 @@ Marcos 16:16, João 7:39, João 11:40, Atos 2:41, Atos 10:43, Atos 15:7, Romanos
 **Tradução interlinear**:
 o que tendo crido e permanecendo no estado de ter crido no Filho tem vida eterna
 
-**Outras ocorrências:
+**Outras ocorrências:**
 João 6:69, João 8:31, João 11:27, João 12:44, João 20:29, 1 João 5:4, 1 João 5:13, Efésios 1:13, Hebreus 10:39
 
 ---
@@ -174,7 +174,7 @@ João 6:69, João 8:31, João 11:27, João 12:44, João 20:29, 1 João 5:4, 1 Jo
 **Tradução interlinear**:
 indo / enquanto ia viu um homem
 
-**Outras ocorrências:
+**Outras ocorrências:**
 Mateus 4:18, Mateus 9:9, Mateus 9:27, Marcos 1:16, Marcos 5:22, Lucas 5:27, João 1:29, João 4:6, João 11:20, Atos 3:1
 
 ---
@@ -186,7 +186,7 @@ Mateus 4:18, Mateus 9:9, Mateus 9:27, Marcos 1:16, Marcos 5:22, Lucas 5:27, Joã
 **Tradução interlinear**:
 tendo vindo Jesus para dentro da casa
 
-**Outras ocorrências: 
+**Outras ocorrências:**
 Mateus 2:1, Mateus 9:28, Mateus 13:36, Mateus 21:23, Marcos 1:21, Marcos 5:38, Lucas 4:31, Lucas 7:11, João 18:28, Atos 10:25
 
 ---
@@ -198,7 +198,7 @@ Mateus 2:1, Mateus 9:28, Mateus 13:36, Mateus 21:23, Marcos 1:21, Marcos 5:38, L
 **Tradução interlinear**:
 tendo sido salvos vocês estão pela graça
 
-**Outras ocorrências:
+**Outras ocorrências:**
 Efésios 2:5, Efésios 2:8, Efésios 2:13, Colossenses 1:21, Colossenses 2:13, Romanos 5:1, Romanos 8:24, 1 Coríntios 1:18, 2 Timóteo 1:9, Tito 3:5
 
 ---
