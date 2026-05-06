@@ -49,12 +49,11 @@ Forma nominal do presente com valor identitário.
 - ὁ + particípio presente
 
 #### Exemplo
-João 6:47  
-ὁ πιστεύων εἰς ἐμὲ ἔχει ζωὴν αἰώνιον  
-o que está crendo em mim tem vida eterna
+João 6:47:  
+>ὁ πιστεύων εἰς ἐμὲ ἔχει ζωὴν αἰώνιον  
+>o que está crendo em mim tem vida eterna
 
 #### Classificação
-
 - prolepse de identidade contínua
 - estado presente que antecipa consumação futura
 
