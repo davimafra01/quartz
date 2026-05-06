@@ -1,3 +1,25 @@
+Antes de falar do Particípio Passado, vamos nos situar com relação aos tempos verbais no grego:
+
+### Indicativo (modo principal)
+- Presente;
+- Imperfeito;
+- Futuro;
+- Aoristo;
+- Perfeito;
+- Mais-que-perfeito.
+### Outros modos
+- Subjuntivo;
+- Imperativo;
+- Optativo (raro no NT).
+
+
+
+
+
+
+
+
+
 Um argumento contra a doutrina católica da Eucaristia é João 6:54, quando Jesus diz:
 ## [[João 6.54 | João 6:54]]
 
