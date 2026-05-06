@@ -118,7 +118,7 @@ A transubstanciação nos leva a negar os sentidos e a própria realidade:
 - Como Jesus provou a sua ressureição a Tomé? Dizendo: vede, toque aqui, pois um espírito não tem carne e ossos.
 - Santo Inácio de Loyola disse: creio que o branco que eu vejo é preto se a hierarquia da igreja assim tiver determinado.
 	Sobre essa parte do debate, o Banzoli disse duas coisas:
-	- Sempre que há um milagre na bíblia que envolve mudança de substância, necessariamente envolve mudança de acidentes;
+	- Sempre que há um milagre na bíblia que envolve mudança de substância, necessariamente envolve mudança de acidentes [...];
 	- A transubstanciação é o único milagre bíblico que exige que se neguem todos os cinco sentidos;
 	- Ou seja, o Banzoli disse sim que a transubstanciação é o único milagre invisível, o que está errado).
 	Como o Banzoli disso isso após ter dito a primeira coisa, creio que foi apenas um mal entendido, mas essa segunda fala dele está completamente errada e não tem como defendê-la ou reajustá-la, nem mesmo inferindo o que ele quis dizer. Se tentarmos reajustar, ficaria algo assim:
