@@ -128,7 +128,7 @@ Em João 6:54, Jesus diz que os que estão **comendo** a sua carne e **bebendo**
 Abaixo, veja o texto:
 
 **[[João 6.54 | João 6:54]] (tradução interlinear):**
-> O que ==está mastigando== a minha carne e ==bebendo== o meu sangue ==tem== vida eterna, e eu o ressuscitarei no último dia.3
+> O que ==está mastigando== a minha carne e ==bebendo== o meu sangue ==tem== vida eterna, e eu o ressuscitarei no último dia.
 
 **[[João 6.54 | João 6:54]] (ARA):**
 > “Quem comer a minha carne e beber o meu sangue tem a vida eterna, e eu o ressuscitarei no último dia.”
