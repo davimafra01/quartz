@@ -130,7 +130,76 @@ Indica:
 ---
 # 7. Ocorrências no Novo Testamento
 
+#### 7.1 Particípio presente de identidade (ὁ + presente)
 
+**Grego**:
+ὁ πιστεύων εἰς αὐτὸν ἔχει ζωὴν αἰώνιον
+
+**Tradução interlinear**:
+o que está crendo nele tem vida eterna
+
+**Outras ocorrências:**
+João 3:16, João 3:18, João 5:24, João 6:35, João 6:40, João 6:47, João 11:26, João 12:46, 1 João 5:1, 1 João 5:5, 1 João 5:10, Romanos 10:4
+
+---
+#### 7.2 Particípio aoristo de identidade (ὁ + aoristo)
+
+**Grego**:
+ὁ πιστεύσας καὶ βαπτισθεὶς σωθήσεται
+
+**Tradução interlinear**:
+o que tendo crido e tendo sido batizado será salvo
+
+**Outras ocorrências:**
+Marcos 16:16, João 7:39, João 11:40, Atos 2:41, Atos 10:43, Atos 15:7, Romanos 10:14, Romanos 13:11, 1 Coríntios 15:2
+
+---
+#### 7.3 Particípio perfeito de identidade (ὁ + perfeito)
+
+**Grego**:
+ὁ πεπιστευκὼς εἰς τὸν υἱὸν ἔχει ζωὴν αἰώνιον
+
+**Tradução interlinear**:
+o que tendo crido e permanecendo no estado de ter crido no Filho tem vida eterna
+
+**Outras ocorrências:
+João 6:69, João 8:31, João 11:27, João 12:44, João 20:29, 1 João 5:4, 1 João 5:13, Efésios 1:13, Hebreus 10:39
+
+---
+#### 7.4 Particípio presente circunstancial (sem artigo)
+
+**Grego**:
+ἐρχόμενος εἶδεν ἄνθρωπον
+
+**Tradução interlinear**:
+indo / enquanto ia viu um homem
+
+**Outras ocorrências:
+Mateus 4:18, Mateus 9:9, Mateus 9:27, Marcos 1:16, Marcos 5:22, Lucas 5:27, João 1:29, João 4:6, João 11:20, Atos 3:1
+
+---
+#### 7.5 Particípio aoristo circunstancial (sem artigo)
+
+**Grego**:
+ἐλθὼν ὁ Ἰησοῦς εἰς τὴν οἰκίαν
+
+**Tradução interlinear**:
+tendo vindo Jesus para dentro da casa
+
+**Outras ocorrências: 
+Mateus 2:1, Mateus 9:28, Mateus 13:36, Mateus 21:23, Marcos 1:21, Marcos 5:38, Lucas 4:31, Lucas 7:11, João 18:28, Atos 10:25
+
+---
+#### 7.6 Particípio perfeito circunstancial (sem artigo)
+
+**Grego**:
+σεσῳσμένοι ἐστε τῇ χάριτι
+
+**Tradução interlinear**:
+tendo sido salvos vocês estão pela graça
+
+**Outras ocorrências:
+Efésios 2:5, Efésios 2:8, Efésios 2:13, Colossenses 1:21, Colossenses 2:13, Romanos 5:1, Romanos 8:24, 1 Coríntios 1:18, 2 Timóteo 1:9, Tito 3:5
 
 ---
 # 8. Comparação Direta
