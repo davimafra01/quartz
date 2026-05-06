@@ -21,6 +21,8 @@ Antes de falar do Particípio Passado, vamos nos situar com relação aos tempos
 ---
 # 1. Particípio no grego
 
+No grego, particípio não é um tempo verbal, é uma forma verbal.
+
 O particípio é uma forma nominal do verbo que pode expressar uma ação em relação a outro verbo e, ao mesmo tempo, funcionar como adjetivo.
 
 No português, algo semelhante aparece em formas como "cantando", "tendo cantado" ou "cantado", mas sem equivalência perfeita.
