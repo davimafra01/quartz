@@ -228,6 +228,16 @@ Se os cafarnaítas entenderam que Jesus estava falando sobre canibalismo:
 Se os cafarnaítas entenderam que Jesus estava falando sobre sacramento:
 - 
 
+Diz-se que Jesus intensificou para tornar literal, mas não necessariamente. Ele pode ter intensificado retoricamente para chocar, e não para literalizar. Para mostrar o que ele disse em João 6:65:
+> 'E prosseguiu: Por causa disto, é que vos tenho dito: ninguém poderá vir a mim, se, pelo Pai, não lhe for concedido.'
+
+Ou seja:
+
+Jesus intensifica para chocar e mostrar a falta de fé, mas depois suaviza e explica:
+> 'O espírito é o que vivifica; a carne para nada aproveita; as palavras que eu vos tenho dito são espírito e são vida.' - João 6:63  
+
+Além disso, a estrutura dessa conversa é Jesus iniciar falando sobre fé (v. 35, 40, 47), depois usar comer e beber e depois voltar aprofundando o crer ao falar que o espírito é o que vivifica e a carne nada aproveita, finalizando seu ensinamento de que crer (inicialmente tratado) vem do Pai, nos é concedido pelo Pai. Jesus foi didática e mostrou isso na prática ao exemplificar que aqueles que enxergavam as coisas pela ótica da carne, nada aproveitariam.
+
 ---
 # Alguns pontos do Ariel
 Mateus 5:17 em diante: Se não assumimos que a eucaristia é uma presença física e real de Jesus Cristo, não estamos completando o AT.
