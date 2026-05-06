@@ -172,7 +172,7 @@ o que tem crido no Filho
 - μεταβέβηκεν → perfeito indicativo
 
 **Tradução interlinear:**
-> Amém, amém digo a vós que o que ==está ouvindo== minha palavra e ==crendo== naquele que me enviou ==tem== vida eterna e para juízo ==não vem==, mas ==passou== da morte para a vida.
+> Amém, amém digo a vós que o que ==está ouvindo== minha palavra e ==está crendo== naquele que me enviou ==tem== vida eterna e para juízo ==não vem==, mas ==passou== da morte para a vida.
 
 **Católica:**
 > “Em verdade, em verdade vos digo: quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna e não incorre em condenação, mas passou da morte para a vida.”
