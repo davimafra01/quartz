@@ -4,7 +4,7 @@ Antes de falar do Particípio Passado, vamos nos situar com relação aos tempos
 
 | Tempo             | Ideia principal                            | Exemplo (grego) | Tradução                              |
 | ----------------- | ------------------------------------------ | --------------- | ------------------------------------- |
-| Presente          | Ação contínua                              | πιστεύων        | crendo                                |
+| ==Presente==      | ==Ação contínua==                          | ==πιστεύων==    | ==crendo==                            |
 | Imperfeito        | Ação contínua no passado                   | ἐπίστευεν       | estava crendo                         |
 | Futuro            | Projeção                                   | πιστεύσει       | crerá                                 |
 | ==Aoristo==       | ==Ação concluída (pontual)==               | ==πιστεύσας==   | ==tendo crido==                       |
