@@ -135,7 +135,7 @@ Abaixo, veja o texto:
 
 Podemos refutar essa tentativa de argumento simplesmente utilizando outras versões bíblicas além da católica. Na versão ARA, citada anteriormente, não se traduziu o texto como uma ação que estava acontecendo naquele momento, mas sim como uma (i) condição ou até mesmo como uma (ii) ação que poderia vir a ser realizada no futuro, o que reforçaria ainda mais a interpretação católica.
 
-Além disso, a própria gramática do grego quebra completamente esta ideia. Sabe-se que, nesta passagem, usa-se o Particípio Presente de Identidade, modo verbal caracterizado pelo uso da partícula "ὁ" seguida do verbo no particípio:
+Além disso, a própria [[Particípio Grego Bíblico | gramática do grego]] quebra completamente esta ideia. Sabe-se que, nesta passagem, usa-se o Particípio Presente de Identidade, modo verbal caracterizado pelo uso da partícula "ὁ" seguida do verbo no particípio:
 
 **Grego:**  
 > ==**ὁ τρώγων**== τὴν σάρκα μου καὶ ==**πίνων**== μου τὸ αἷμα ἔχει ζωὴν αἰώνιον

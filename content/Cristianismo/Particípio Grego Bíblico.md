@@ -1,4 +1,4 @@
-Antes de falar do Particípio Passado, vamos nos situar com relação aos tempos verbais no grego:
+Antes de falar do Particípio, vamos nos situar com relação aos tempos verbais no grego:
 
 ### Indicativo (modo principal):
 
