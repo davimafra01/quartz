@@ -125,6 +125,8 @@ Leituras para depois:
 
 Em João 6:54, Jesus diz que os que estão **comendo** a sua carne e **bebendo** o seu sangue tem a vida eterna. Contudo, como aquelas pessoas poderiam estar comendo e bebendo de Jesus naquele momento se a Eucaristia ainda iria ser instituída um ano depois? Isso significa que Ele estava falando sobre algo que poderia ser feito naquele momento. Então, por traz da linguagem de comer e beber, ele está se referindo a crer nele.
 
+
+
 A [[Prolepse bíblica| prolepse]] é muito utilizada por Jesus em seus ensinamentos e, quando Ele fala sobre o seu corpo e o seu sangue, Cristo está prefigurando a morte no madeiro, e não afirmando que, literalmente, o pão é sua carne e o vinho é o seu sangue.
 
 **[[João 6.35 | João 6:35]] (tradução interlinear):**

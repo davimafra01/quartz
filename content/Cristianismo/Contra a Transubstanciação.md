@@ -190,10 +190,9 @@ Além disso, com esse raciocínio, somos levados a flexibilizar a literalidade d
 Com isso, estamos nos aproximando cada vez mais do simbolismo protestante no que diz respeito à Santa Ceia do Senhor, já que chegamos ao entendimento de que, na Eucaristia, não acontece a ingestão do corpo e do sangue de Cristo e de que não faz sentido que Jesus esteja fazendo referências literais à sua carne e ao seu sangue.
 
 ---
-# 9. 
 
 ---
-# 10. A realidade é a perfeição das sombras
+# 9. A realidade é a perfeição das sombras
 Rascunho
 
 ---
