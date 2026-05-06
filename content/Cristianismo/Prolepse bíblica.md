@@ -7,7 +7,7 @@ No grego, essa figura de linguagem aparece principalmente com o Presente, Aorist
 
 Importante dizer que a prolepse não é um “uso de tempos verbais” em si. Ela é um efeito semântico (interpretação do tempo), não uma categoria gramatical fixa.
 
-No grego aplicado ao NT, quando Jesus utilizou a prolepse junto com o Particípio de Identida não como uma ação em andamento, mas como um hábito ou característica geral. As traduções católicas e protestantes concordam nisso.
+No grego aplicado ao NT, quando Jesus utilizou a prolepse junto com o Particípio de Identidade (seja presente, aoristo ou perfeito), Ele não se referiu a uma ação em andamento, mas a um hábito ou característica geral. As traduções católicas e protestantes concordam nisso.
 
 ---
 # 1. Prolepse com presente indicativo
