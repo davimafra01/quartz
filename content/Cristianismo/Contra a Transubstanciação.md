@@ -91,7 +91,7 @@ O texto afirma não haver mais necessidade de oferecer sacrifícios todos os dia
 
 Hebreus 7:27: O sacrifício de Jesus foi único e a bíblia nada fala sobre ele precisar ser atualizado. Hebreus 10:10,12,14, 18, 24-28. Cristo sofrendo em todas as Eucaristias?
 
-Os católicos afirmam que, na verdade, rompe-se o tempo e espaço e aquele sacrifício é revivido, apenas. Mas para que reviver o sacrifício? Não faz sentido.
+Os católicos afirmam que, na verdade, rasga-se o tempo e espaço e aquele sacrifício é revivido. Somos reconectados com ele. Mas para que reviver o sacrifício? Por que não estamos conectados sempre e para sempre? O que realmente nos conecta ao sacrifício na cruz?
 
 ---
 # 4. O corpo de Jesus está restrito aos Céus
