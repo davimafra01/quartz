@@ -41,7 +41,20 @@ Tecnicamente, não se chama "Particípio Passado" no grego. Em vez disso, usamos
 - Particípio Perfeito
 
 ---
-# 2. Particípio Aoristo
+# 2. Particípio Presente
+
+Refere-se a uma ação em andamento ou a uma característica contínua do sujeito.
+
+Exemplo bíblico:
+- **ὁ πιστεύων** = “o que crê” (João 6:47)
+
+Indica:
+- ação contínua / em progresso
+- ou característica permanente
+- identidade do sujeito quando usado com artigo (ὁ + particípio)
+
+---
+# 3. Particípio Aoristo
 
 Refere-se a uma ação já concluída, vista como um todo, sem foco na duração.
 
@@ -54,7 +67,7 @@ Indica:
 - sem ênfase em continuidade
 
 ---
-# 3. Particípio Perfeito
+# 4. Particípio Perfeito
 
 Refere-se a uma ação concluída com efeito contínuo no presente.
 
@@ -67,7 +80,7 @@ Indica:
 - estado presente derivado da ação passada
 
 ---
-# 4. Particípio de Identidade x Particípio Circunstancial
+# 5. Particípio de Identidade x Particípio Circunstancial
 
 Os particípios (sejam no presente, aoristo ou perfeito) podem exercer funções diferentes dependendo da estrutura da frase.
 
@@ -102,7 +115,7 @@ Indica:
 - ideias como: “quando”, “enquanto”, “porque”, “depois de”
 
 ---
-# 5. Combinações de Particípio
+# 6. Combinações de Particípio
 
 **Particípio de identidade (com artigo ὁ):**
 - particípio presente de identidade → **ὁ πιστεύων** → “aquele que crê”
@@ -115,17 +128,22 @@ Indica:
 - **particípio perfeito circunstancial → πεπιστευκώς → “tendo crido (com efeito contínuo)”**
 
 ---
-## Comparação direta
+# 7. Ocorrências no Novo Testamento
 
-- **Particípio de Identidade:** ὁ πιστεύσας → “aquele que creu”
-- **Particípio Circunstancial:** πιστεύσας ἔφυγεν → “tendo crido, partiu”
+
+
+---
+# 8. Comparação Direta
+
+- **Particípio de Identidade (aoristo):** ὁ πιστεύσας → “aquele que creu”
+- **Particípio Circunstancial (aoristo):** πιστεύσας ἔφυγεν → “tendo crido, partiu”
 
 Nos dois casos acima, o verbo está no Aoristo, mas a função muda:
 - com **ὁ** → identidade (substantivo)
 - sem artigo → circunstância (advérbio)
 
 ---
-## Observação importante
+# 9. Observações Importantes
 
 A diferença entre particípio de identidade e circunstancial:
 - não está no tempo verbal (presente, aoristo ou perfeito)
