@@ -122,7 +122,7 @@ A transubstanciação nos leva a negar os sentidos e a própria realidade:
 	- A transubstanciação é o único milagre bíblico que exige que se neguem todos os cinco sentidos;
 	- Ou seja, o Banzoli disse sim que a transubstanciação é o único milagre invisível, o que está errado).
 	Como o Banzoli disso isso após ter dito a primeira coisa, creio que foi apenas um mal entendido, mas essa segunda fala dele está completamente errada e não tem como defendê-la ou reajustá-la, nem mesmo inferindo o que ele quis dizer. Se tentarmos reajustar, ficaria algo assim:
-	- A transubstanciação é o único milagre bíblico com mudança de substância e sem mudança de acidentes que exige que se neguem todos os cinco sentidos;;
+	- A transubstanciação é o único milagre bíblico ---com mudança de substância e sem mudança de acidentes--- que exige que se neguem todos os cinco sentidos;
 	- Agora já não faz mais sentido essa frase, já que o objetivo dela era apontar a transubstanciação como uma quebra de padrão entre milagres, mas agora não temos com o que compará-la, já que ela é o único milagre em que se muda a substância sem mudar os acidentes).
 
 ---
