@@ -146,7 +146,7 @@ o que tem crido no Filho
 - ἔχει → presente indicativo
 
 **Tradução interlinear:**
-> O que ==está mastigando== a minha carne e ==bebendo== o meu sangue ==tem== vida eterna, e eu o ressuscitarei no último dia.
+> O que ==está mastigando== a minha carne e ==está bebendo== o meu sangue ==tem== vida eterna, e eu o ressuscitarei no último dia.
 
 **Católica:**
 > “Quem come a minha carne e bebe o meu sangue tem a vida eterna; e eu o ressuscitarei no último dia.”
