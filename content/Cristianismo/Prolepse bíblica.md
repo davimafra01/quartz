@@ -9,6 +9,8 @@ Importante dizer que a prolepse não é um “uso de tempos verbais” em si. El
 
 No grego aplicado ao NT, quando Jesus utilizou a prolepse junto com o Particípio de Identidade (seja presente, aoristo ou perfeito), Ele não se referiu a uma ação em andamento, mas a um hábito ou característica identitária. As traduções católicas e protestantes concordam nisso.
 
+Em exemplo desse uso é 
+
 ---
 # 1. Prolepse com presente indicativo
 
