@@ -1,5 +1,4 @@
 Antes de falar do Particípio Passado, vamos nos situar com relação aos tempos verbais no grego:
-
 ### Indicativo (modo principal)
 - Presente;
 - Imperfeito;
@@ -12,7 +11,14 @@ Antes de falar do Particípio Passado, vamos nos situar com relação aos tempos
 - Imperativo;
 - Optativo (raro no NT).
 
+---
+# 1. Particípio no grego
 
+O particípio é uma forma nominal do verbo que expressa o resultado de uma ação, como em "cantado", "vendido" e "partido". 
+
+No grego, o particípio é uma forma verbal que funciona tanto como verbo, como adjetivo, podendo indicar uma ação e também qualificar um sujeito. Exemplo:
+- **πιστεύων** = “crendo”
+- **ὁ πιστεύων** = “o que crê”
 
 
 
