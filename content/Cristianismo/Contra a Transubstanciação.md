@@ -466,35 +466,13 @@ Dentro dessa perspectiva, João 6 se encaixa naturalmente nesse padrão. Após a
 
 Assim, o endurecimento do discurso pode ser entendido não como confirmação de literalidade física, mas como parte do método pedagógico e judicial frequentemente utilizado por Jesus ao lidar com corações incrédulos.
 
+Jesus pode ter endurecido suas palavras para forçar a literalidade? Sim.
+
+Existem precedentes bíblicos para isso? Não.
+
+Existem precedentes bíblicos para o contrário? Sim.
+
 ---
-
-Em João 6, Jesus começa falando 
-
-João 3: Nascer de novo -> Nicodemos entende literalmente -> Jesus explica
-João 4: Água da vida -> Mulher samaritana entende literalmente -> Jesus explica
-João 8: A verdade vos libertará -> Nunca fomos escravos -> Jesus explica
-João 10: Pastor/ovelhas -> Dize-nos claramente -> Jesus explica
-Mateus 16: Acautelar do fermento -> Discípulos entendem literalmente -> Jesus explica
-
-João 6: Comer o pão -> Murmuração entre si -> Jesus intensifica
-
-Jesus afirma
-Nicodemos não entende
-Jesus aprofunda
-Nicodemos não entende
-Jesus repreende e explica melhor
-
-Jesus afirma
-Cafarnaítas murmuram
-Jesus aprofunda
-Discípulos não entendem
-Jesus repreende e explica melhor
-
-Jesus afirma
-Mulher samaritana não entende
-Jesus aprofunda
-Mulher samaritana pede pela água
-
 ### 15.1 Versículos sobre crer em Cristo:
 
 **João 6:29 (ARA)**
