@@ -423,6 +423,12 @@ Quem come a carne e bebe o sangue:
 ---
 #### Crer x Carne:
 
+**João 6:47 (ARA)**
+> Em verdade, em verdade vos digo: quem ==crê== em mim tem a ==vida eterna==.
+
+**João 6:54 (ARA)**
+> Quem ==comer a minha carne== e ==beber o meu sangue== tem a ==vida eterna==, e eu o ressuscitarei no último dia.
+
 **João 6:63 (ARA)**
 > O espírito é o que vivifica; a carne para nada aproveita; as palavras que eu vos tenho dito são espírito e são vida.
 
