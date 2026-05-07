@@ -386,13 +386,13 @@ Ou seja: Jesus quis dizer que aquele que é do tipo de pessoa (característica) 
 > Replicou-lhes Jesus: Em verdade, em verdade vos digo: não foi Moisés quem vos deu o pão do céu; o verdadeiro pão do céu é meu Pai quem vos dá. Porque o pão de Deus é o que desce do céu e dá vida ao mundo.
 
 **João 6:35–36 (ARA)**
-> Declarou-lhes, pois, Jesus: Eu sou o pão da vida; o que vem a mim jamais terá fome; e o que crê em mim jamais terá sede. Porém eu já vos disse que, embora me tenhais visto, não credes.
+> Declarou-lhes, pois, Jesus: Eu sou o pão da vida; o que vem a mim jamais terá fome; e o que ==crê== em mim jamais terá sede. Porém eu já vos disse que, embora me tenhais visto, ==não credes==.
 
 **João 6:40 (ARA)**
-> De fato, a vontade de meu Pai é que todo homem que vir o Filho e nele crer tenha a vida eterna; e eu o ressuscitarei no último dia.
+> De fato, a vontade de meu Pai é que todo homem que vir o Filho e nele ==crer== tenha a vida eterna; e eu o ressuscitarei no último dia.
 
 **João 6:47 (ARA)**
-> Em verdade, em verdade vos digo: quem crê em mim tem a vida eterna.
+> Em verdade, em verdade vos digo: quem ==crê== em mim tem a vida eterna.
 
 
 
