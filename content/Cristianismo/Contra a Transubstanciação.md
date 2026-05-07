@@ -431,6 +431,41 @@ Nesse ponto, Jesus esclarece que suas palavras devem ser entendidas espiritualme
 
 Portanto, a progressão do discurso mostra que Jesus começa falando sobre crer, utiliza a linguagem do pão por causa do contexto levantado pelos cafarnaítas, retorna repetidamente ao tema da fé e, diante da incredulidade e murmuração deles, endurece propositalmente a linguagem para expor seus corações e ensinar os discípulos. A intensificação, nessa leitura, não torna o discurso mais literal; torna-o mais confrontador.
 
+Outro ponto importante é perceber que Jesus nem sempre ensinava de maneira a facilitar imediatamente a compreensão ou a conversão dos ouvintes. Em diversos momentos dos evangelhos, ele deliberadamente utiliza uma linguagem difícil, provocativa ou até obscurecida, justamente para revelar o estado do coração daqueles que o ouviam.
+
+O exemplo mais explícito disso está nas parábolas. Em Mateus 13, os discípulos perguntam por que Jesus fala por parábolas ao povo. A resposta de Jesus é surpreendente:
+
+> “Por isso, lhes falo por parábolas; porque, vendo, não veem; e, ouvindo, não ouvem, nem entendem.” (Mateus 13:13)
+
+E em Marcos 4:11-12:
+
+> “A vós outros vos é dado conhecer o mistério do reino de Deus; mas aos de fora tudo se ensina por meio de parábolas, para que, vendo, vejam e não percebam; e, ouvindo, ouçam e não entendam.”
+
+Ou seja, Jesus afirma explicitamente que sua forma de ensinar tinha também um aspecto judicial e seletivo. As parábolas não existiam apenas para facilitar a compreensão por meio de ilustrações simples; em muitos casos, elas serviam para ocultar a verdade daqueles cujo coração já estava endurecido.
+
+Isso ajuda a compreender João 6. O fato de Jesus intensificar o discurso após a murmuração dos judeus não significa necessariamente que ele estivesse tentando tornar sua fala mais literal. Pelo contrário, pode significar exatamente o endurecimento pedagógico que aparece em outros momentos dos evangelhos: uma fala deliberadamente difícil, escandalosa e confrontadora para expor a incredulidade dos ouvintes.
+
+O mesmo padrão pode ser observado no episódio do jovem rico. Em Mateus 19, após o homem afirmar que guardava os mandamentos, Jesus responde:
+
+> “Vai, vende os teus bens, dá aos pobres [...] depois, vem e segue-me.”
+
+O jovem vai embora triste. O ponto importante é que Jesus não suaviza a exigência para facilitar sua permanência. Ele não corre atrás do jovem para reformular a fala, nem reduz a dureza do chamado para evitar que ele se escandalize. Pelo contrário: permite que ele vá embora.
+
+Em seguida, Jesus ainda intensifica diante dos discípulos:
+
+> “É mais fácil passar um camelo pelo fundo de uma agulha do que entrar um rico no reino de Deus.”
+
+Mais uma vez, Jesus utiliza linguagem dura e chocante, não para tornar a mensagem mais acessível, mas para revelar a condição espiritual do coração humano e ensinar os discípulos.
+
+Esse padrão aparece repetidamente nos evangelhos. Jesus nem sempre busca o caminho da facilitação discursiva. Em muitos casos, ele endurece o ensino, utiliza paradoxos, metáforas radicais, hipérboles e falas escandalosas justamente para separar:
+
+- os que apenas se interessam superficialmente;
+- daqueles que realmente creem nele.
+
+Dentro dessa perspectiva, João 6 se encaixa naturalmente nesse padrão. Após a murmuração e rejeição dos cafarnaítas, Jesus não reduz o choque de sua linguagem. Ele a intensifica, expondo a incredulidade deles e conduzindo os discípulos a uma decisão: abandonar-se à compreensão carnal ou permanecer confiando nele mesmo sem compreender tudo imediatamente.
+
+Assim, o endurecimento do discurso pode ser entendido não como confirmação de literalidade física, mas como parte do método pedagógico e judicial frequentemente utilizado por Jesus ao lidar com corações incrédulos.
+
 ---
 
 Em João 6, Jesus começa falando 
