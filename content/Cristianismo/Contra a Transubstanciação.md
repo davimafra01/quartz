@@ -379,8 +379,10 @@ Ou seja: Jesus quis dizer que aquele que é do tipo de pessoa (característica) 
 João 3: Nascer de novo -> Nicodemos entende literalmente -> Jesus explica
 João 4: Água da vida -> Mulher samaritana entende literalmente -> Jesus explica
 João 8: A verdade vos libertará -> Nunca fomos escravos -> Jesus explica
-Mateus 16: Acautelar do fermento -> Discípulos entendem literalmente -> Jesus explica
 João 10: Pastor/ovelhas -> Dize-nos claramente -> Jesus explica
+Mateus 16: Acautelar do fermento -> Discípulos entendem literalmente -> Jesus explica
+
+João 6: Comer o pão -> Dis
 
 
 ### 15.1 Versículos sobre crer em Cristo:
