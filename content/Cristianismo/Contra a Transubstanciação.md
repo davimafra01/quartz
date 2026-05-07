@@ -386,15 +386,15 @@ Jesus não tira o tema da comida do nada. Ele fala de alimento porque os própri
 
 Isso fica evidente logo em seguida. Quando perguntam quais seriam as obras de Deus, Jesus responde no versículo 29:
 
-> “A obra de Deus é esta: que ==creiais== naquele que por ele foi enviado.”
+> “A obra de Deus é esta: que creiais naquele que por ele foi enviado.”
 
-Aqui Jesus retorna claramente ao eixo principal do discurso: ==crer==. A partir desse momento, a ênfase dominante do texto é a ==fé==. Nos versículos 29, 35, 36, 40 e 47, Jesus insiste repetidamente no ato de ==crer== nele. O centro da mensagem permanece o mesmo: ==vida eterna mediante a fé==.
+Aqui Jesus retorna claramente ao eixo principal do discurso: crer. A partir desse momento, a ênfase dominante do texto é a fé. Nos versículos 29, 35, 36, 40 e 47, Jesus insiste repetidamente no ato de crer nele. O centro da mensagem permanece o mesmo: vida eterna mediante a fé.
 
 No versículo 35, por exemplo, Jesus declara:
 
-> “Eu sou o pão da vida; o que vem a mim jamais terá fome; e o que ==crê== em mim jamais terá sede.”
+> “Eu sou o pão da vida; o que vem a mim jamais terá fome; e o que crê em mim jamais terá sede.”
 
-O paralelismo é importante. “Vir” a Jesus corresponde a “não ter fome”, e “==crer==” corresponde a “não ter sede”. O próprio Jesus interpreta o significado do pão em termos de ==fé==. A linguagem alimentar serve como metáfora para a confiança nele.
+O paralelismo é importante. “Vir” a Jesus corresponde a “não ter fome”, e “crer” corresponde a “não ter sede”. O próprio Jesus interpreta o significado do pão em termos de fé. A linguagem alimentar serve como metáfora para a confiança nele.
 
 Somente a partir do versículo 32 o tema do pão volta a ganhar destaque. E isso novamente acontece por iniciativa dos próprios cafarnaítas. Eles perguntam sobre sinais e citam o maná do deserto:
 
@@ -433,7 +433,7 @@ Portanto, a progressão do discurso mostra que Jesus começa falando sobre crer,
 
 Outro ponto importante é perceber que Jesus nem sempre ensinava de maneira a facilitar imediatamente a compreensão ou a conversão dos ouvintes. Em diversos momentos dos evangelhos, ele deliberadamente utiliza uma linguagem difícil, provocativa ou até obscurecida, justamente para revelar o estado do coração daqueles que o ouviam.
 
-O exemplo mais explícito disso está nas parábolas. Em Mateus 13, os discípulos perguntam por que Jesus fala por parábolas ao povo. A resposta de Jesus é surpreendente:
+O exemplo mais explícito disso está nas parábolas. Em Mateus 13, os discípulos perguntam por que Jesus fala por parábolas ao povo. A resposta de Jesus é:
 
 > “Por isso, lhes falo por parábolas; porque, vendo, não veem; e, ouvindo, não ouvem, nem entendem.” (Mateus 13:13)
 
