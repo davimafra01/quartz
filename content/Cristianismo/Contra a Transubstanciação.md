@@ -427,7 +427,7 @@ Por fim, após muitos discípulos se escandalizarem e abandonarem Jesus, ele mes
 
 > “O espírito é o que vivifica; a carne para nada aproveita; as palavras que eu vos tenho dito são espírito e são vida.”
 
-Nesse ponto, Jesus esclarece que suas palavras devem ser entendidas espiritualmente, e não carnalmente. O erro dos cafarnaítas foi permanecer em uma compreensão material, exatamente como já haviam feito anteriormente ao procurar apenas pão físico. Assim, dentro de uma leitura protestante, o foco central de João 6 não é a ingestão literal do corpo de Cristo, mas a fé nele. Comer e beber aparecem como imagens intensificadas da participação espiritual em Cristo mediante a fé.
+Nesse ponto, Jesus esclarece que suas palavras devem ser entendidas espiritualmente, e não carnalmente. O erro dos cafarnaítas foi permanecer em uma compreensão material, exatamente como já haviam feito anteriormente ao procurar apenas pão físico. Assim, o foco central de João 6 não é a ingestão literal do corpo de Cristo, mas a fé nEle. Comer e beber aparecem como imagens intensificadas da participação espiritual em Cristo mediante a fé.
 
 Portanto, a progressão do discurso mostra que Jesus começa falando sobre crer, utiliza a linguagem do pão por causa do contexto levantado pelos cafarnaítas, retorna repetidamente ao tema da fé e, diante da incredulidade e murmuração deles, endurece propositalmente a linguagem para expor seus corações e ensinar os discípulos. A intensificação, nessa leitura, não torna o discurso mais literal; torna-o mais confrontador.
 
