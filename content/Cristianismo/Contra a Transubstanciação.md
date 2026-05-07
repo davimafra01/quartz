@@ -428,7 +428,7 @@ Ou seja: Jesus quis dizer que aquele que é do tipo de pessoa (característica) 
 > O espírito é o que vivifica; a carne para nada aproveita; as palavras que eu vos tenho dito são espírito e são vida.
 
 **João 6:64 (ARA)**
-> Contudo, há descrentes entre vós. Pois Jesus sabia, desde o princípio, quais eram os que não criam e quem o havia de trair.
+> Contudo, há descrentes entre vós. Pois Jesus sabia, desde o princípio, quais eram os que não ==criam== e quem o havia de trair.
 
 
 
