@@ -423,6 +423,10 @@ Ou seja, Jesus já sabia que muitos ali não criam. Por isso, o endurecimento do
 
 O discurso passa então a assumir um caráter pedagógico para os discípulos. Jesus expõe a incredulidade dos cafarnaítas e utiliza a crise provocada por suas palavras para ensinar sobre fé verdadeira, eleição e dependência da ação do Pai.
 
+Isso aparece repetidamente nos evangelhos. Em muitos momentos, Jesus permite situações difíceis, escandalosas ou incompreensíveis não para facilitar a adesão das multidões, mas para moldar a fé dos discípulos.
+
+Em João 11, por exemplo, Jesus espera deliberadamente a morte de Lázaro para ensinar os discípulos e revelar a glória de Deus. Em Mateus 8, permite a tempestade e o medo tomarem conta do barco para expor e fortalecer a fé deles. Da mesma forma, em João 6, o discurso duro pode ser entendido menos como uma tentativa de persuadir os cafarnaítas incrédulos e mais como um momento pedagógico destinado aos discípulos que permaneceriam.
+
 Por fim, após muitos discípulos se escandalizarem e abandonarem Jesus, ele mesmo oferece a interpretação correta de suas palavras no versículo 63:
 
 > “O espírito é o que vivifica; a carne para nada aproveita; as palavras que eu vos tenho dito são espírito e são vida.”
