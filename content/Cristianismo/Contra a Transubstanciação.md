@@ -430,7 +430,7 @@ Ou seja: Jesus quis dizer que aquele que é do tipo de pessoa (característica) 
 **João 6:64 (ARA)**
 > Contudo, há descrentes entre vós. Pois Jesus sabia, desde o princípio, quais eram os que não ==criam== e quem o havia de trair.
 
-
+Quero que você faça um gráfico de João 6 do versículo 22 até o 65, versão ARA. No eixo x ficarão os versículos e no eixo y ficará o número de ocorrências de determinadas palavras. As palavras que quero são todas as que JESUS (apenas JESUS) disse, que são: crer, comer, mastigar, pão, vinho, carne, sangue em se tiver mais alguma palavra chave, coloque. Cada palavra será uma linha plotada no mesmo gráfico.
 
 
 
