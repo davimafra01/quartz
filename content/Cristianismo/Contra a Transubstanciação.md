@@ -1,10 +1,10 @@
-# 01. ==Participação na comunhão dos d (1Co 10:16)==
+# 01. 🟢 Participação na comunhão dos d (1Co 10:16)
 Não necessariamente a comunhão tratada no texto é a mesma para os dois casos. Pode-se ter comunhão de várias maneiras. Tanto na Eucaristia quanto no caso da mesa dos d, mesmo que a comida nesse segundo caso não mude de substância.
 
 Tem que ver como Paulo faz esse paralelo das comunhões.
 
 ---
-# 02. ==Comunhão em ambas as espécies==
+# 02. 🟢 Comunhão em ambas as espécies
 Esse não é um argumento contra a transubstanciação, mas contra o modo que a Eucaristia é ministrada. A bíblia ensina a comunhão com as duas espécies em várias passagens:
 
 Mateus 26:26-28
@@ -49,7 +49,7 @@ Portanto, a comunhão em apenas uma espécie realiza na maioria das igrejas cat�
 
 
 ---
-# 03. Sacrifício eficaz
+# 03. 🔴 Sacrifício eficaz
 Diz-se que um novo sacrifício não é feito, mas que o mesmo sacrifício é repetido. Podemos ver o Padre Paulo Ricardo diz a esse respeito em seu vídeo "[É necessário comungar sob as duas espécies?](https://www.youtube.com/watch?v=5XL55oBeNvA)":
 
 >O que a Igreja ensina a respeito da Comunhão sob as duas espécies?
@@ -108,11 +108,11 @@ Hebreus 7:27: O sacrifício de Jesus foi único e a bíblia nada fala sobre ele 
 A Última Ceia foi uma prolepse da morte de cruz de Jesus, rasgando o tempo e o espaço para o futuro. Pensei agora nisso. Depois desenvolvo.
 
 ---
-# 04. O corpo de Jesus está restrito aos Céus
+# 04. 🔴 O corpo de Jesus está restrito aos Céus
 Atos 3:21
 
 ---
-# 05. Violação do conceito de sacramento
+# 05. 🔴 Violação do conceito de sacramento
 A transubstanciação viola o próprio conceito de sacramento:
 - Agostinho, na carta 98 a Bonifácio, escreveu: "Em virtude, essa semelhança, os sacramentos são chamados pelo nome da **realidade com a qual se assemelha**. Assim, **em certo sentido**, o sacramento do corpo de Cristo é o corpo de Cristo, e da mesma forma, o sacramento da fé, é a fé. Com base nisso, o apóstolo disse em relação ao sacramento do batismo: de sorte que **fomos sepultados com ele pelo batismo na morte**".
 - Gálatas 3:27: esse revestimento é físico? Nem os católicos afirmam isso.
@@ -122,13 +122,13 @@ A transubstanciação viola o próprio conceito de sacramento:
 Como a Eucaristia pode ser um sinal eficaz se não tem sinal nenhum?
 
 ---
-# 06. ==Pais da igreja que negaram a transubstanciação==
+# 06. 🟢 Pais da igreja que negaram a transubstanciação
 Os pais da igreja negaram massivamente essa doutrina:
 - Papa Gelásio (Das duas naturezas, capítulo 14): "A substância ou a natureza do pão e do vinho não deixam de existir";
 - Teodoreto, em seu diálogo II: "Mesmo após a consagração, os símbolos místicos não são privados de sua própria natureza. Eles permanecem sua substância, figura e forma originárias".
 
 ---
-# 07. Negação dos sentidos
+# 07. 🔴 Negação dos sentidos
 A transubstanciação nos leva a negar os sentidos e a própria realidade:
 - Banzoli: "Sempre que há um milagre na bíblia que envolve mudança de substância, necessariamente envolve mudança de acidentes, pois é a única forma de certificar que o milagre realmente aconteceu" (exemplo de José transformando o cajado em serpente).
 - Como Jesus provou a sua ressureição a Tomé? Dizendo: vede, toque aqui, pois um espírito não tem carne e ossos.
@@ -142,7 +142,7 @@ A transubstanciação nos leva a negar os sentidos e a própria realidade:
 	- Agora já não faz mais sentido essa frase, já que o objetivo dela era apontar a transubstanciação como uma quebra de padrão entre milagres, mas agora não temos com o que compará-la, já que ela é o único milagre em que se muda a substância sem mudar os acidentes).
 
 ---
-# 08. ==Literalidade = Ordem Inexequível==
+# 08. 🟢 Literalidade = Ordem Inexequível
 
 Vamos (i) pressupor que a violação tem caráter teológico, que (ii) Jesus foi literal em sua afirmação e (iii) levar em consideração o entendimento católico de que, no momento da Eucaristia, bebe-se a substância do sangue de Cristo sob os acidentes do vinho.
 
@@ -214,11 +214,11 @@ Com isso, estamos nos aproximando cada vez mais do simbolismo protestante no que
 ---
 
 ---
-# 09. ==A realidade é a perfeição das sombras==
+# 09. 🟢 A realidade é a perfeição das sombras
 Rascunho
 
 ---
-# 10. Proibição em Gênesis, Levítico, Deuteronômio e Atos
+# 10. 🔴 Proibição em Gênesis, Levítico, Deuteronômio e Atos
 
 Beber sangue é expressamente proibido nos livros de Gênesis, Levítico, Deuteronômio e Atos, além de existir relatos da desaprovação e punição divina em 1Samuel e Ezequiel. Além disso, nenhum dos rituais de Levítico que lida com sangue inclui sua ingestão, apenas manipulação.
 
@@ -235,7 +235,7 @@ Sendo assim, consideraremos a violação teológica, que, de fato, faz mais sent
 ** Está implícito que a autodoação por parte de qualquer outro ser humano não implica em validez sobre o ato de "beber sangue", pois ninguém pode doar aquilo que não tem, e mesmo a nossa vida não nos pertence.
 
 ---
-# 11. ==Não há prova escritural a favor da Transubstanciação==
+# 11. 🟢 Não há prova escritural
 
 Roberto Bellarmino (1542-1621) foi um dos mais importantes teólogos, cardeais e intelectuais da Igreja Católica no período da Contra-Reforma, vivendo entre os séculos XVI e XVII. Jesuíta, professor e depois cardeal, destacou-se sobretudo por sua atuação na defesa da doutrina católica contra o protestantismo, sendo um dos principais sistematizadores da teologia pós-Trento. Sua obra mais famosa, *Disputationes de Controversiis Christianae Fidei*, tornou-se um dos manuais teológicos mais influentes da época, usada durante séculos na formação do clero, pois organizava de modo rigoroso as controtrinas católicas sobre Escritura, Igreja, sacramentos, autoridade do papa e tradição. Belarmino teve também papel relevante em questões políticas e eclesiásticas, inclusive no contexto do caso Galileu, embora pessoalmente fosse conhecido por prudência intelectual e moderação. Pela profundidade teológica, clareza argumentativa e fidelidade ao magistério, foi canonizado em 1930 e proclamado Doutor da Igreja em 1931, sendo reconhecido como uma das maiores autoridades intelectuais da história do catolicismo.
 
@@ -269,7 +269,7 @@ Santo Tomás de Aquino defende que a transubstanciação não está materialment
 Portanto, mesmo que os cardeais Bellarmino e Caetano tenham afirmado que não há provas concretas na bíblia a favor da transubstanciação, isso em nada enfraquece a doutrina da presença real de Cristo na Eucaristia.
 
 ---
-# 12. Atos 3:21
+# 12. 🔴 Atos 3:21
 
 Atos 3:21 (ARA):
 >19 Arrependei-vos, pois, e convertei-vos para serem cancelados os vossos pecados,
@@ -293,7 +293,7 @@ Substancialmente/espitirualmente, Jesus é onipresente.
 ---
 
 
-# 13. Conceito de sacramento
+# 13. 🔴 Conceito de sacramento
 
 Primeiro, o que é um sacramento segundo a teologia clássica, ou seja, a formulação consagrada por Agostinho de Hipona (354-430 AD) e sistematizada por Tomás de Aquino (1225-1274 AD)?
 
@@ -343,7 +343,7 @@ Leituras para depois:
 >Erro protestante: pensar que todo signo deve ser fundado em sua respectiva substância. O erro é pensar que os acidentes não podem exercer a função significativa que o Sacramento exige. Eles pensam que signo material é o mesmo que signo sacramental. Eles precisam provar que signo, necessariamente, se trata da substância, e não que não pode ser um acidente.
 
 ---
-# 14. Comunhão antes da instituição
+# 14. 🔴 Comunhão antes da instituição
 
 Em João 6:54, Jesus diz que os que estão **comendo** a sua carne e **bebendo** o seu sangue tem a vida eterna. Contudo, como aquelas pessoas poderiam estar comendo e bebendo de Jesus naquele momento se a Eucaristia ainda iria ser instituída um ano depois? Isso significa que Ele estava falando sobre algo que poderia ser feito naquele momento. Então, por traz da linguagem de comer e beber, ele está se referindo a crer nele. Isto caracteriza este argumento.
 
@@ -374,7 +374,7 @@ No grego do particípio presente, “contínua” quer dizer:
 Neste caso, como termos a partícula "ὁ", fica claro que estamos falando de uma característica do sujeito, e não de um gerúndio, como algo que estaria acontecendo exatamente naquele momento.
 
 Ou seja: Jesus quis dizer que aquele que é do tipo de pessoa (característica) que mastiga a sua carne e bebe o seu sangue, tem a vida eterna.
-# 15. ==João 6==
+# 15. 🟢 João 6
 
 Em João 6, Jesus inicia seu discurso apontando o verdadeiro motivo pelo qual os cafarnaítas o procuravam. Logo no versículo 26, ele afirma que eles não o seguiam porque haviam compreendido o sinal realizado, mas porque haviam comido dos pães e se fartado. Ou seja, Jesus expõe que aquelas pessoas ainda estavam presas a uma compreensão material e carnal da situação. Elas não haviam enxergado o significado espiritual do milagre da multiplicação dos pães; estavam interessadas apenas no benefício terreno.
 
