@@ -142,7 +142,7 @@ A transubstanciação nos leva a negar os sentidos e a própria realidade:
 	- Agora já não faz mais sentido essa frase, já que o objetivo dela era apontar a transubstanciação como uma quebra de padrão entre milagres, mas agora não temos com o que compará-la, já que ela é o único milagre em que se muda a substância sem mudar os acidentes).
 
 ---
-# 8. Literalidade = Ordem Inexequível
+# 8. ==Literalidade = Ordem Inexequível==
 
 Vamos (i) pressupor que a violação tem caráter teológico, que (ii) Jesus foi literal em sua afirmação e (iii) levar em consideração o entendimento católico de que, no momento da Eucaristia, bebe-se a substância do sangue de Cristo sob os acidentes do vinho.
 
@@ -214,7 +214,7 @@ Com isso, estamos nos aproximando cada vez mais do simbolismo protestante no que
 ---
 
 ---
-# 9. A realidade é a perfeição das sombras
+# 9. ==A realidade é a perfeição das sombras==
 Rascunho
 
 ---
@@ -235,7 +235,7 @@ Sendo assim, consideraremos a violação teológica, que, de fato, faz mais sent
 ** Está implícito que a autodoação por parte de qualquer outro ser humano não implica em validez sobre o ato de "beber sangue", pois ninguém pode doar aquilo que não tem, e mesmo a nossa vida não nos pertence.
 
 ---
-# 11. Não há prova escritural a favor da Transubstanciação
+# 11. ==Não há prova escritural a favor da Transubstanciação==
 
 Roberto Bellarmino (1542-1621) foi um dos mais importantes teólogos, cardeais e intelectuais da Igreja Católica no período da Contra-Reforma, vivendo entre os séculos XVI e XVII. Jesuíta, professor e depois cardeal, destacou-se sobretudo por sua atuação na defesa da doutrina católica contra o protestantismo, sendo um dos principais sistematizadores da teologia pós-Trento. Sua obra mais famosa, *Disputationes de Controversiis Christianae Fidei*, tornou-se um dos manuais teológicos mais influentes da época, usada durante séculos na formação do clero, pois organizava de modo rigoroso as controtrinas católicas sobre Escritura, Igreja, sacramentos, autoridade do papa e tradição. Belarmino teve também papel relevante em questões políticas e eclesiásticas, inclusive no contexto do caso Galileu, embora pessoalmente fosse conhecido por prudência intelectual e moderação. Pela profundidade teológica, clareza argumentativa e fidelidade ao magistério, foi canonizado em 1930 e proclamado Doutor da Igreja em 1931, sendo reconhecido como uma das maiores autoridades intelectuais da história do catolicismo.
 
@@ -374,7 +374,7 @@ No grego do particípio presente, “contínua” quer dizer:
 Neste caso, como termos a partícula "ὁ", fica claro que estamos falando de uma característica do sujeito, e não de um gerúndio, como algo que estaria acontecendo exatamente naquele momento.
 
 Ou seja: Jesus quis dizer que aquele que é do tipo de pessoa (característica) que mastiga a sua carne e bebe o seu sangue, tem a vida eterna.
-# 15. Carfanaítas em João 6
+# 15. ==Carfanaítas em João 6==
 Argumenta-se, por parte dos católicos, que os cafarnaítas estavam entendendo 
 
 
