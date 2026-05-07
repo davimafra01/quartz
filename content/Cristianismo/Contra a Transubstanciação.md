@@ -376,7 +376,7 @@ Neste caso, como termos a partícula "ὁ", fica claro que estamos falando de um
 Ou seja: Jesus quis dizer que aquele que é do tipo de pessoa (característica) que mastiga a sua carne e bebe o seu sangue, tem a vida eterna.
 # 15. ==João 6==
 
-#### Crer:
+### 15.1 Versículos sobre crer em Cristo:
 
 **João 6:29 (ARA)**
 > Respondeu-lhes Jesus: A obra de Deus é esta: que ==creiais== naquele que por ele foi enviado.
@@ -397,12 +397,12 @@ Ou seja: Jesus quis dizer que aquele que é do tipo de pessoa (característica) 
 > Contudo, há descrentes entre vós. Pois Jesus sabia, desde o princípio, quais eram os que não ==criam== e quem o havia de trair.
 
 Quem crê:
+- Tem a vida eterna;
 - Faz a obra de Deus;
-- Jamais terá sede;
-- Tem a vida eterna.
+- Jamais terá sede.
 
 ---
-#### Carne:
+### 15.2 Versículos sobre comer e beber carne e sangue de Cristo:
 
 **João 6:53 (ARA)**
 > Respondeu-lhes Jesus: Em verdade, em verdade vos digo: se não comerdes a ==carne== do Filho do Homem e não beberdes o seu ==sangue==, não tendes vida em vós mesmos.
@@ -421,7 +421,9 @@ Quem come a carne e bebe o sangue:
 - Permanece em Cristo e Cristo nele.
 
 ---
-#### Crer x Carne:
+### 15.3 Crer x Comer e beber carne e sangue:
+
+Podemos concluir que crer, e comer e beber carne e sangue de Cristo, tem o mesmo efeito: 
 
 **João 6:47 (ARA)**
 > Em verdade, em verdade vos digo: quem ==crê== em mim tem a ==vida eterna==.
