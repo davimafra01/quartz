@@ -374,15 +374,7 @@ No grego do particípio presente, “contínua” quer dizer:
 Neste caso, como termos a partícula "ὁ", fica claro que estamos falando de uma característica do sujeito, e não de um gerúndio, como algo que estaria acontecendo exatamente naquele momento.
 
 Ou seja: Jesus quis dizer que aquele que é do tipo de pessoa (característica) que mastiga a sua carne e bebe o seu sangue, tem a vida eterna.
-# 15. ==Carfanaítas em João 6==
-Argumenta-se, por parte dos católicos, que os cafarnaítas estavam entendendo 
-
-
-Se os cafarnaítas entenderam que Jesus estava falando sobre canibalismo:
-- 
-
-Se os cafarnaítas entenderam que Jesus estava falando sobre sacramento:
-- 
+# 15. ==João 6==
 
 Diz-se que Jesus intensificou para tornar literal, mas não necessariamente. Ele pode ter intensificado retoricamente para chocar, e não para literalizar. Para mostrar o que ele disse em João 6:65:
 > 'E prosseguiu: Por causa disto, é que vos tenho dito: ninguém poderá vir a mim, se, pelo Pai, não lhe for concedido.'
