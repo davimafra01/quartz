@@ -1,10 +1,10 @@
-# 1. ==Participação na comunhão dos d (1Co 10:16)==
+# 01. ==Participação na comunhão dos d (1Co 10:16)==
 Não necessariamente a comunhão tratada no texto é a mesma para os dois casos. Pode-se ter comunhão de várias maneiras. Tanto na Eucaristia quanto no caso da mesa dos d, mesmo que a comida nesse segundo caso não mude de substância.
 
 Tem que ver como Paulo faz esse paralelo das comunhões.
 
 ---
-# 2. ==Comunhão em ambas as espécies==
+# 02. ==Comunhão em ambas as espécies==
 Esse não é um argumento contra a transubstanciação, mas contra o modo que a Eucaristia é ministrada. A bíblia ensina a comunhão com as duas espécies em várias passagens:
 
 Mateus 26:26-28
@@ -49,7 +49,7 @@ Portanto, a comunhão em apenas uma espécie realiza na maioria das igrejas cat�
 
 
 ---
-# 3. Sacrifício eficaz
+# 03. Sacrifício eficaz
 Diz-se que um novo sacrifício não é feito, mas que o mesmo sacrifício é repetido. Podemos ver o Padre Paulo Ricardo diz a esse respeito em seu vídeo "[É necessário comungar sob as duas espécies?](https://www.youtube.com/watch?v=5XL55oBeNvA)":
 
 >O que a Igreja ensina a respeito da Comunhão sob as duas espécies?
@@ -108,11 +108,11 @@ Hebreus 7:27: O sacrifício de Jesus foi único e a bíblia nada fala sobre ele 
 A Última Ceia foi uma prolepse da morte de cruz de Jesus, rasgando o tempo e o espaço para o futuro. Pensei agora nisso. Depois desenvolvo.
 
 ---
-# 4. O corpo de Jesus está restrito aos Céus
+# 04. O corpo de Jesus está restrito aos Céus
 Atos 3:21
 
 ---
-# 5. Violação do conceito de sacramento
+# 05. Violação do conceito de sacramento
 A transubstanciação viola o próprio conceito de sacramento:
 - Agostinho, na carta 98 a Bonifácio, escreveu: "Em virtude, essa semelhança, os sacramentos são chamados pelo nome da **realidade com a qual se assemelha**. Assim, **em certo sentido**, o sacramento do corpo de Cristo é o corpo de Cristo, e da mesma forma, o sacramento da fé, é a fé. Com base nisso, o apóstolo disse em relação ao sacramento do batismo: de sorte que **fomos sepultados com ele pelo batismo na morte**".
 - Gálatas 3:27: esse revestimento é físico? Nem os católicos afirmam isso.
@@ -122,13 +122,13 @@ A transubstanciação viola o próprio conceito de sacramento:
 Como a Eucaristia pode ser um sinal eficaz se não tem sinal nenhum?
 
 ---
-# 6. ==Pais da igreja que negaram a transubstanciação==
+# 06. ==Pais da igreja que negaram a transubstanciação==
 Os pais da igreja negaram massivamente essa doutrina:
 - Papa Gelásio (Das duas naturezas, capítulo 14): "A substância ou a natureza do pão e do vinho não deixam de existir";
 - Teodoreto, em seu diálogo II: "Mesmo após a consagração, os símbolos místicos não são privados de sua própria natureza. Eles permanecem sua substância, figura e forma originárias".
 
 ---
-# 7. Negação dos sentidos
+# 07. Negação dos sentidos
 A transubstanciação nos leva a negar os sentidos e a própria realidade:
 - Banzoli: "Sempre que há um milagre na bíblia que envolve mudança de substância, necessariamente envolve mudança de acidentes, pois é a única forma de certificar que o milagre realmente aconteceu" (exemplo de José transformando o cajado em serpente).
 - Como Jesus provou a sua ressureição a Tomé? Dizendo: vede, toque aqui, pois um espírito não tem carne e ossos.
@@ -142,7 +142,7 @@ A transubstanciação nos leva a negar os sentidos e a própria realidade:
 	- Agora já não faz mais sentido essa frase, já que o objetivo dela era apontar a transubstanciação como uma quebra de padrão entre milagres, mas agora não temos com o que compará-la, já que ela é o único milagre em que se muda a substância sem mudar os acidentes).
 
 ---
-# 8. ==Literalidade = Ordem Inexequível==
+# 08. ==Literalidade = Ordem Inexequível==
 
 Vamos (i) pressupor que a violação tem caráter teológico, que (ii) Jesus foi literal em sua afirmação e (iii) levar em consideração o entendimento católico de que, no momento da Eucaristia, bebe-se a substância do sangue de Cristo sob os acidentes do vinho.
 
@@ -214,7 +214,7 @@ Com isso, estamos nos aproximando cada vez mais do simbolismo protestante no que
 ---
 
 ---
-# 9. ==A realidade é a perfeição das sombras==
+# 09. ==A realidade é a perfeição das sombras==
 Rascunho
 
 ---
