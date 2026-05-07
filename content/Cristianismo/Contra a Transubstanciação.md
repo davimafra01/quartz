@@ -376,6 +376,9 @@ Neste caso, como termos a partícula "ὁ", fica claro que estamos falando de um
 Ou seja: Jesus quis dizer que aquele que é do tipo de pessoa (característica) que mastiga a sua carne e bebe o seu sangue, tem a vida eterna.
 # 15. ==João 6==
 
+Jesus não consagra o pão, mas o abenço
+Todo milagre que Jesus faz, há verbalização clara
+
 João 3: Nascer de novo -> Nicodemos entende literalmente -> Jesus explica
 João 4: Água da vida -> Mulher samaritana entende literalmente -> Jesus explica
 João 8: A verdade vos libertará -> Nunca fomos escravos -> Jesus explica
