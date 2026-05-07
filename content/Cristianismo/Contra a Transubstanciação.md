@@ -399,7 +399,7 @@ Ou seja: Jesus quis dizer que aquele que é do tipo de pessoa (característica) 
 Quem crê:
 - Faz a obra de Deus;
 - Jamais terá sede;
-- 
+- Tem a vida eterna.
 
 ---
 #### Carne:
