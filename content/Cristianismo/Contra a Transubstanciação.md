@@ -376,6 +376,58 @@ Neste caso, como termos a partícula "ὁ", fica claro que estamos falando de um
 Ou seja: Jesus quis dizer que aquele que é do tipo de pessoa (característica) que mastiga a sua carne e bebe o seu sangue, tem a vida eterna.
 # 15. ==João 6==
 
+#### Crer:
+
+**João 6:29 (ARA)**
+> Respondeu-lhes Jesus: A obra de Deus é esta: que ==creiais== naquele que por ele foi enviado.
+
+**João 6:35 (ARA)**
+> Declarou-lhes, pois, Jesus: Eu sou o pão da vida; o que vem a mim jamais terá fome; e o que ==crê== em mim jamais terá sede.
+
+**João 6:36 (ARA)**
+> Porém eu já vos disse que, embora me tenhais visto, ==não credes==.
+
+**João 6:40 (ARA)**
+> De fato, a vontade de meu Pai é que todo homem que vir o Filho e nele ==crer== tenha a vida eterna; e eu o ressuscitarei no último dia.
+
+**João 6:47 (ARA)**
+> Em verdade, em verdade vos digo: quem ==crê== em mim tem a vida eterna.
+
+**João 6:64 (ARA)**
+> Contudo, há descrentes entre vós. Pois Jesus sabia, desde o princípio, quais eram os que não ==criam== e quem o havia de trair.
+
+Quem crê:
+- Faz a obra de Deus;
+- Jamais terá sede;
+- 
+
+---
+#### Carne:
+
+**João 6:53 (ARA)**
+> Respondeu-lhes Jesus: Em verdade, em verdade vos digo: se não comerdes a ==carne== do Filho do Homem e não beberdes o seu ==sangue==, não tendes vida em vós mesmos.
+
+**João 6:54 (ARA)**
+> Quem comer a minha ==carne== e beber o meu ==sangue== tem a vida eterna, e eu o ressuscitarei no último dia.
+
+**João 6:55 (ARA)**
+> Pois a minha ==carne== é verdadeira comida, e o meu ==sangue== é verdadeira bebida.
+
+**João 6:56 (ARA)**
+> Quem comer a minha ==carne== e beber o meu ==sangue== permanece em mim, e eu, nele.
+
+Quem come a carne e bebe o sangue:
+- Tem vida eterna;
+- Permanece em Cristo e Cristo nele.
+
+---
+#### Crer x Carne:
+
+**João 6:63 (ARA)**
+> O espírito é o que vivifica; a carne para nada aproveita; as palavras que eu vos tenho dito são espírito e são vida.
+
+---
+
 **João 6:26 (ARA)**
 > Respondeu-lhes Jesus: Em verdade, em verdade vos digo: vós me procurais, não porque vistes sinais, mas porque comestes dos pães e vos fartastes.
 
