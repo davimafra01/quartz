@@ -376,7 +376,7 @@ Neste caso, como termos a partícula "ὁ", fica claro que estamos falando de um
 Ou seja: Jesus quis dizer que aquele que é do tipo de pessoa (característica) que mastiga a sua carne e bebe o seu sangue, tem a vida eterna.
 # 15. ==João 6==
 
-Jesus não consagra o pão, mas o abenço
+Jesus não consagra o pão, mas o abençoa. Seria isso válido para um milagra?
 Todo milagre que Jesus faz, há verbalização clara
 
 João 3: Nascer de novo -> Nicodemos entende literalmente -> Jesus explica
