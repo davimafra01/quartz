@@ -379,7 +379,8 @@ Ou seja: Jesus quis dizer que aquele que é do tipo de pessoa (característica) 
 **João 6:26–27 (ARA)**
 > Respondeu-lhes Jesus: Em verdade, em verdade vos digo: vós me procurais, não porque vistes sinais, mas porque comestes dos pães e vos fartastes. Trabalhai, não pela comida que perece, mas pela que subsiste para a vida eterna, a qual o Filho do Homem vos dará; porque Deus, o Pai, o confirmou com o seu selo.
 >
->
+> - Trabalhai não pela comida que perece, mas pela que subsist;
+> - 
 
 **João 6:29 (ARA)**
 > Respondeu-lhes Jesus: A obra de Deus é esta: que creiais naquele que por ele foi enviado.
