@@ -382,7 +382,7 @@ João 8: A verdade vos libertará -> Nunca fomos escravos -> Jesus explica
 João 10: Pastor/ovelhas -> Dize-nos claramente -> Jesus explica
 Mateus 16: Acautelar do fermento -> Discípulos entendem literalmente -> Jesus explica
 
-João 6: Comer o pão -> Dis
+João 6: Comer o pão -> Murmuração entre si -> Jesus intensifica
 
 
 ### 15.1 Versículos sobre crer em Cristo:
