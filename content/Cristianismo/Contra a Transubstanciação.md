@@ -413,7 +413,7 @@ Isso contrasta com outros personagens dos evangelhos:
 
 Em João 6, porém, ocorre algo diferente: os judeus murmuram entre si e passam a desprezar a fala de Jesus em vez de buscar compreendê-la. O texto deixa claro que há endurecimento e incredulidade.
 
-É nesse contexto que Jesus endurece o discurso. A intensificação da linguagem não necessariamente indica maior literalidade, mas maior confronto. Jesus passa a falar não apenas de comer, mas de mastigar sua carne e beber seu sangue. Esse é um recurso deliberado para expor a incredulidade dos ouvintes e provocar separação entre os verdadeiros discípulos e os meros interessados em pão material, pois é com fogo que se separa o joio do trigo.
+É nesse contexto que Jesus endurece o discurso. A intensificação da linguagem não necessariamente indica maior literalidade, mas maior confronto. Jesus passa a falar não apenas de comer, mas de mastigar sua carne e beber seu sangue. Esse é um recurso deliberado para expor a incredulidade dos ouvintes e provocar separação entre os verdadeiros discípulos e os meros interessados em pão material. A dureza do discurso atua como instrumento de revelação/separação.
 
 O próprio evangelho fornece a chave interpretativa para isso. Em João 6:64, lemos:
 
