@@ -218,7 +218,7 @@ Com isso, estamos nos aproximando cada vez mais do simbolismo protestante no que
 Rascunho
 
 ---
-# 10. 🔴 Proibição em Gênesis, Levítico, Deuteronômio e Atos
+# 10. 🔴 Proibição em Gn, Lv, Dt e At
 
 Beber sangue é expressamente proibido nos livros de Gênesis, Levítico, Deuteronômio e Atos, além de existir relatos da desaprovação e punição divina em 1Samuel e Ezequiel. Além disso, nenhum dos rituais de Levítico que lida com sangue inclui sua ingestão, apenas manipulação.
 
@@ -592,6 +592,17 @@ Além disso, a estrutura dessa conversa é Jesus iniciar falando sobre fé (v. 3
 Um ponto bom para os católicos: quando Jesus diz que o espírito é o que vivifica, ele pode estar falando justamente sobre comer e beber sacramentalmente (ou seja, não a carne física, mas a carne substancial, ou seu espírito). Essa leitura poderia corroborar a visão católica.
 
 ---
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 # Católicos e Protestantes se alimentam espiritualmente
 
 Católicos comem o corpo e bebem o sangue espiritualmente (substância)
