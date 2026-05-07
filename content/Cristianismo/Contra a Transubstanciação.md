@@ -396,6 +396,10 @@ Jesus aprofunda
 Discípulos não entendem
 Jesus repreende e explica melhor
 
+Jesus afirma
+Mulher samaritana não entende
+Jesus aprofunda
+Mulher samaritana pede pela água
 
 ### 15.1 Versículos sobre crer em Cristo:
 
