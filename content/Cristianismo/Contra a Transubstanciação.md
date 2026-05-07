@@ -384,6 +384,18 @@ Mateus 16: Acautelar do fermento -> Discípulos entendem literalmente -> Jesus e
 
 João 6: Comer o pão -> Murmuração entre si -> Jesus intensifica
 
+Jesus afirma
+Nicodemos não entende
+Jesus aprofunda
+Nicodemos não entende
+Jesus repreende e explica melhor
+
+Jesus afirma
+Cafarnaítas murmuram
+Jesus aprofunda
+Discípulos não entendem
+Jesus repreende e explica melhor
+
 
 ### 15.1 Versículos sobre crer em Cristo:
 
