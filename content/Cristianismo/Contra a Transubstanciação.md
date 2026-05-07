@@ -435,6 +435,28 @@ Podemos concluir que crer, e comer e beber carne e sangue de Cristo, tem o mesmo
 > O espírito é o que vivifica; a carne para nada aproveita; as palavras que eu vos tenho dito são espírito e são vida.
 
 ---
+
+Então o alvo pedagógico pode não ser apenas:
+
+> convencer a multidão
+
+mas:
+
+> formar os Doze.
+
+Isso acontece várias vezes:
+
+## João 11 — Lázaro
+
+Jesus espera Lázaro morrer:
+
+- para ensinar os discípulos
+
+## Mateus 8 — tempestade
+
+Permite o caos:
+
+- para revelar fé
 ### 15.4 Conclusão
 Diz-se que Jesus intensificou para tornar literal, mas não necessariamente. O texto indica que Jesus intensificou retoricamente para chocar, expondo a falta de fé dos que escutavam, e não para literalizar. Intensificou para mostrar o que ele disse em
 
