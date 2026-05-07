@@ -376,23 +376,65 @@ Neste caso, como termos a partícula "ὁ", fica claro que estamos falando de um
 Ou seja: Jesus quis dizer que aquele que é do tipo de pessoa (característica) que mastiga a sua carne e bebe o seu sangue, tem a vida eterna.
 # 15. ==João 6==
 
-**João 6:26–27 (ARA)**
-> Respondeu-lhes Jesus: Em verdade, em verdade vos digo: vós me procurais, não porque vistes sinais, mas porque comestes dos pães e vos fartastes. Trabalhai, não pela comida que perece, mas pela que subsiste para a vida eterna, a qual o Filho do Homem vos dará; porque Deus, o Pai, o confirmou com o seu selo.
+**João 6:26 (ARA)**
+> Respondeu-lhes Jesus: Em verdade, em verdade vos digo: vós me procurais, não porque vistes sinais, mas porque comestes dos pães e vos fartastes.
+
+**João 6:27 (ARA)**
+> Trabalhai, não pela comida que perece, mas pela que subsiste para a vida eterna, a qual o Filho do Homem vos dará; porque Deus, o Pai, o confirmou com o seu selo.
 
 **João 6:29 (ARA)**
 > Respondeu-lhes Jesus: A obra de Deus é esta: que ==creiais== naquele que por ele foi enviado.
 
-**João 6:32–33 (ARA)**
-> Replicou-lhes Jesus: Em verdade, em verdade vos digo: não foi Moisés quem vos deu o pão do céu; o verdadeiro pão do céu é meu Pai quem vos dá. Porque o pão de Deus é o que desce do céu e dá vida ao mundo.
+**João 6:32 (ARA)**
+> Replicou-lhes Jesus: Em verdade, em verdade vos digo: não foi Moisés quem vos deu o pão do céu; o verdadeiro pão do céu é meu Pai quem vos dá.
 
-**João 6:35–36 (ARA)**
-> Declarou-lhes, pois, Jesus: Eu sou o pão da vida; o que vem a mim jamais terá fome; e o que ==crê== em mim jamais terá sede. Porém eu já vos disse que, embora me tenhais visto, ==não credes==.
+**João 6:33 (ARA)**
+> Porque o pão de Deus é o que desce do céu e dá vida ao mundo.
+
+**João 6:35 (ARA)**
+> Declarou-lhes, pois, Jesus: Eu sou o pão da vida; o que vem a mim jamais terá fome; e o que ==crê== em mim jamais terá sede.
+
+**João 6:36 (ARA)**
+> Porém eu já vos disse que, embora me tenhais visto, ==não credes==.
 
 **João 6:40 (ARA)**
 > De fato, a vontade de meu Pai é que todo homem que vir o Filho e nele ==crer== tenha a vida eterna; e eu o ressuscitarei no último dia.
 
 **João 6:47 (ARA)**
 > Em verdade, em verdade vos digo: quem ==crê== em mim tem a vida eterna.
+
+**João 6:50 (ARA)**
+> Este é o pão que desce do céu, para que todo o que dele comer não pereça.
+
+**João 6:51 (ARA)**
+> Eu sou o pão vivo que desceu do céu; se alguém dele comer, viverá eternamente; e o pão que eu darei pela vida do mundo é a minha carne.
+
+**João 6:53 (ARA)**
+> Respondeu-lhes Jesus: Em verdade, em verdade vos digo: se não comerdes a carne do Filho do Homem e não beberdes o seu sangue, não tendes vida em vós mesmos.
+
+**João 6:54 (ARA)**
+> Quem comer a minha carne e beber o meu sangue tem a vida eterna, e eu o ressuscitarei no último dia.
+
+**João 6:55 (ARA)**
+> Pois a minha carne é verdadeira comida, e o meu sangue é verdadeira bebida.
+
+**João 6:56 (ARA)**
+> Quem comer a minha carne e beber o meu sangue permanece em mim, e eu, nele.
+
+**João 6:58 (ARA)**
+> Este é o pão que desceu do céu, em nada semelhante àquele que os vossos pais comeram e, contudo, morreram; quem comer este pão viverá eternamente.
+
+**João 6:63 (ARA)**
+> O espírito é o que vivifica; a carne para nada aproveita; as palavras que eu vos tenho dito são espírito e são vida.
+
+**João 6:64 (ARA)**
+> Contudo, há descrentes entre vós. Pois Jesus sabia, desde o princípio, quais eram os que não criam e quem o havia de trair.
+
+
+
+
+
+
 
 
 
