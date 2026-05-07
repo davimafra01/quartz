@@ -458,7 +458,6 @@ Em seguida, Jesus ainda intensifica diante dos discípulos:
 Mais uma vez, Jesus utiliza linguagem dura e chocante, não para tornar a mensagem mais acessível, mas para revelar a condição espiritual do coração humano e ensinar os discípulos.
 
 Esse padrão aparece repetidamente nos evangelhos. Jesus nem sempre busca o caminho da facilitação discursiva. Em muitos casos, ele endurece o ensino, utiliza paradoxos, metáforas radicais, hipérboles e falas escandalosas justamente para separar:
-
 - os que apenas se interessam superficialmente;
 - daqueles que realmente creem nele.
 
@@ -530,30 +529,6 @@ Podemos concluir que crer, e comer e beber carne e sangue de Cristo, tem o mesmo
 
 **João 6:63 (ARA)**
 > O espírito é o que vivifica; a carne para nada aproveita; as palavras que eu vos tenho dito são espírito e são vida.
-
----
-
-Então o alvo pedagógico pode não ser apenas:
-
-> convencer a multidão
-
-mas:
-
-> formar os Doze.
-
-Isso acontece várias vezes:
-
-## João 11 — Lázaro
-
-Jesus espera Lázaro morrer:
-
-- para ensinar os discípulos
-
-## Mateus 8 — tempestade
-
-Permite o caos:
-
-- para revelar fé
 
 ---
 .
