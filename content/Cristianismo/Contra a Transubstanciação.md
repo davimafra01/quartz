@@ -404,7 +404,12 @@ Mais uma vez, Jesus responde dentro da linguagem levantada por eles. Como os jud
 
 Entretanto, há uma mudança importante no decorrer do capítulo. Depois de Jesus afirmar que Ele é o pão que desceu do céu, os judeus começam a murmurar entre si. Esse detalhe é fundamental. Diferentemente de outros episódios dos evangelhos, aqui os ouvintes deixam de dialogar diretamente com Jesus e passam a murmurar mutuamente, questionando sua autoridade.
 
-Isso contrasta com outros personagens dos evangelhos. Nicodemos, em João 3, mesmo sem compreender, continua perguntando diretamente a Jesus. A mulher samaritana, em João 4, permanece dialogando com ele até compreender progressivamente o sentido espiritual de suas palavras. Em João 8, quando os judeus respondem que nunca foram escravos, ainda continuam conversando com Jesus. Em João 10, quando não entendem o discurso do pastor e das ovelhas, pedem que ele fale claramente. Em Mateus 16, os discípulos confundem o “fermento dos fariseus” com pão literal, mas continuam atentos à explicação do Mestre.
+Isso contrasta com outros personagens dos evangelhos:
+- Nicodemos, em João 3, mesmo sem compreender, continua perguntando diretamente a Jesus.
+- A mulher samaritana, em João 4, permanece dialogando com ele até compreender progressivamente o sentido espiritual de suas palavras.
+- Em João 8, quando os judeus respondem que nunca foram escravos, ainda continuam conversando com Jesus.
+- Em João 10, quando não entendem o discurso do pastor e das ovelhas, pedem que ele fale claramente.
+- Em Mateus 16, os discípulos confundem o “fermento dos fariseus” com pão literal, mas continuam atentos à explicação do Mestre.
 
 Em João 6, porém, ocorre algo diferente: os judeus murmuram entre si e passam a desprezar a fala de Jesus em vez de buscar compreendê-la. O texto deixa claro que há endurecimento e incredulidade.
 
