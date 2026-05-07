@@ -376,6 +376,58 @@ Neste caso, como termos a partícula "ὁ", fica claro que estamos falando de um
 Ou seja: Jesus quis dizer que aquele que é do tipo de pessoa (característica) que mastiga a sua carne e bebe o seu sangue, tem a vida eterna.
 # 15. ==João 6==
 
+Em João 6, Jesus inicia seu discurso apontando o verdadeiro motivo pelo qual os cafarnaítas o procuravam. Logo no versículo 26, ele afirma que eles não o seguiam porque haviam compreendido o sinal realizado, mas porque haviam comido dos pães e se fartado. Ou seja, Jesus expõe que aquelas pessoas ainda estavam presas a uma compreensão material e carnal da situação. Elas não haviam enxergado o significado espiritual do milagre da multiplicação dos pães; estavam interessadas apenas no benefício terreno.
+
+É justamente por causa desse contexto que Jesus introduz a linguagem da comida no versículo 27:
+
+> “Trabalhai, não pela comida que perece, mas pela que subsiste para a vida eterna, a qual o Filho do Homem vos dará; porque Deus, o Pai, o confirmou com o seu selo.”
+
+Jesus não tira o tema da comida do nada. Ele fala de alimento porque os próprios cafarnaítas estavam procurando pão. O discurso acompanha o contexto deles. O ponto central, porém, não é o pão físico, mas aquilo para o qual o pão apontava: a fé no Filho enviado por Deus.
+
+Isso fica evidente logo em seguida. Quando perguntam quais seriam as obras de Deus, Jesus responde no versículo 29:
+
+> “A obra de Deus é esta: que creiais naquele que por ele foi enviado.”
+
+Aqui Jesus retorna claramente ao eixo principal do discurso: crer. A partir desse momento, a ênfase dominante do texto é a fé. Nos versículos 29, 35, 36, 40 e 47, Jesus insiste repetidamente no ato de crer nele. O centro da mensagem permanece o mesmo: vida eterna mediante a fé.
+
+No versículo 35, por exemplo, Jesus declara:
+
+> “Eu sou o pão da vida; o que vem a mim jamais terá fome; e o que crê em mim jamais terá sede.”
+
+O paralelismo é importante. “Vir” a Jesus corresponde a “não ter fome”, e “crer” corresponde a “não ter sede”. O próprio Jesus interpreta o significado do pão em termos de fé. A linguagem alimentar serve como metáfora para a confiança nele.
+
+Somente a partir do versículo 32 o tema do pão volta a ganhar destaque. E isso novamente acontece por iniciativa dos próprios cafarnaítas. Eles perguntam sobre sinais e citam o maná do deserto:
+
+> “Nossos pais comeram o maná no deserto.”
+
+Mais uma vez, Jesus responde dentro da linguagem levantada por eles. Como os judeus trouxeram o tema do pão do céu, Jesus desenvolve o simbolismo do pão verdadeiro enviado pelo Pai. O discurso acompanha o campo semântico criado pelos próprios ouvintes.
+
+Entretanto, há uma mudança importante no decorrer do capítulo. Depois de Jesus afirmar que ele é o pão que desceu do céu, os judeus começam a murmurar entre si. Esse detalhe é fundamental. Diferentemente de outros episódios dos evangelhos, aqui os ouvintes deixam de dialogar diretamente com Jesus e passam a murmurar mutuamente, questionando sua autoridade.
+
+Isso contrasta com outros personagens dos evangelhos. Nicodemos, em João 3, mesmo sem compreender, continua perguntando diretamente a Jesus. A mulher samaritana, em João 4, permanece dialogando com ele até compreender progressivamente o sentido espiritual de suas palavras. Em João 8, quando os judeus respondem que nunca foram escravos, ainda continuam conversando com Jesus. Em João 10, quando não entendem o discurso do pastor e das ovelhas, pedem que ele fale claramente. Em Mateus 16, os discípulos confundem o “fermento dos fariseus” com pão literal, mas continuam atentos à explicação do Mestre.
+
+Em João 6, porém, ocorre algo diferente: os judeus murmuram entre si e passam a desprezar a fala de Jesus em vez de buscar compreendê-la. O texto deixa claro que há endurecimento e incredulidade.
+
+É nesse contexto que Jesus endurece o discurso. A intensificação da linguagem não necessariamente indica maior literalidade, mas maior confronto. Jesus passa a falar não apenas de comer, mas de mastigar sua carne e beber seu sangue. O objetivo apologético protestante entende essa intensificação como um recurso deliberado para expor a incredulidade dos ouvintes e provocar separação entre os verdadeiros discípulos e os meros interessados em pão material.
+
+O próprio evangelho fornece a chave interpretativa para isso. Em João 6:64, lemos:
+
+> “Pois Jesus sabia, desde o princípio, quais eram os que não criam e quem o havia de trair.”
+
+Ou seja, Jesus já sabia que muitos ali não criam. Por isso, o endurecimento do discurso não acontece para conduzi-los a uma compreensão literal da ingestão de sua carne, mas para revelar a dureza de seus corações e demonstrar que ninguém pode vir a ele se isso não lhe for concedido pelo Pai.
+
+O discurso passa então a assumir um caráter pedagógico para os discípulos. Jesus expõe a incredulidade dos cafarnaítas e utiliza a crise provocada por suas palavras para ensinar sobre fé verdadeira, eleição e dependência da ação do Pai.
+
+Por fim, após muitos discípulos se escandalizarem e abandonarem Jesus, ele mesmo oferece a interpretação correta de suas palavras no versículo 63:
+
+> “O espírito é o que vivifica; a carne para nada aproveita; as palavras que eu vos tenho dito são espírito e são vida.”
+
+Nesse ponto, Jesus esclarece que suas palavras devem ser entendidas espiritualmente, e não carnalmente. O erro dos cafarnaítas foi permanecer em uma compreensão material, exatamente como já haviam feito anteriormente ao procurar apenas pão físico. Assim, dentro de uma leitura protestante, o foco central de João 6 não é a ingestão literal do corpo de Cristo, mas a fé nele. Comer e beber aparecem como imagens intensificadas da participação espiritual em Cristo mediante a fé.
+
+Portanto, a progressão do discurso mostra que Jesus começa falando sobre crer, utiliza a linguagem do pão por causa do contexto levantado pelos cafarnaítas, retorna repetidamente ao tema da fé e, diante da incredulidade e murmuração deles, endurece propositalmente a linguagem para expor seus corações e ensinar os discípulos. A intensificação, nessa leitura, não torna o discurso mais literal; torna-o mais confrontador.
+
+---
+
 Em João 6, Jesus começa falando 
 
 João 3: Nascer de novo -> Nicodemos entende literalmente -> Jesus explica
