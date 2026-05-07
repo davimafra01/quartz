@@ -386,23 +386,23 @@ Jesus não tira o tema da comida do nada. Ele fala de alimento porque os própri
 
 Isso fica evidente logo em seguida. Quando perguntam quais seriam as obras de Deus, Jesus responde no versículo 29:
 
-> “A obra de Deus é esta: que creiais naquele que por ele foi enviado.”
+> “A obra de Deus é esta: que ==creiais== naquele que por ele foi enviado.”
 
-Aqui Jesus retorna claramente ao eixo principal do discurso: crer. A partir desse momento, a ênfase dominante do texto é a fé. Nos versículos 29, 35, 36, 40 e 47, Jesus insiste repetidamente no ato de crer nele. O centro da mensagem permanece o mesmo: vida eterna mediante a fé.
+Aqui Jesus retorna claramente ao eixo principal do discurso: ==crer==. A partir desse momento, a ênfase dominante do texto é a ==fé==. Nos versículos 29, 35, 36, 40 e 47, Jesus insiste repetidamente no ato de ==crer== nele. O centro da mensagem permanece o mesmo: ==vida eterna mediante a fé==.
 
 No versículo 35, por exemplo, Jesus declara:
 
-> “Eu sou o pão da vida; o que vem a mim jamais terá fome; e o que crê em mim jamais terá sede.”
+> “Eu sou o pão da vida; o que vem a mim jamais terá fome; e o que ==crê== em mim jamais terá sede.”
 
-O paralelismo é importante. “Vir” a Jesus corresponde a “não ter fome”, e “crer” corresponde a “não ter sede”. O próprio Jesus interpreta o significado do pão em termos de fé. A linguagem alimentar serve como metáfora para a confiança nele.
+O paralelismo é importante. “Vir” a Jesus corresponde a “não ter fome”, e “==crer==” corresponde a “não ter sede”. O próprio Jesus interpreta o significado do pão em termos de ==fé==. A linguagem alimentar serve como metáfora para a confiança nele.
 
 Somente a partir do versículo 32 o tema do pão volta a ganhar destaque. E isso novamente acontece por iniciativa dos próprios cafarnaítas. Eles perguntam sobre sinais e citam o maná do deserto:
 
 > “Nossos pais comeram o maná no deserto.”
 
-Mais uma vez, Jesus responde dentro da linguagem levantada por eles. Como os judeus trouxeram o tema do pão do céu, Jesus desenvolve o simbolismo do pão verdadeiro enviado pelo Pai. O discurso acompanha o campo semântico criado pelos próprios ouvintes.
+Mais uma vez, Jesus responde dentro da linguagem levantada por eles. Como os judeus trouxeram o tema do pão do céu, Jesus desenvolve o simbolismo do pão verdadeiro enviado pelo Pai. O discurso acompanha o campo semântico criado pelos próprios ouvintes, mas nada que reforce a ideia da transubstanciação, já que, até aqui, podemos entender "comer o pão" como algo puramente espiritual, uma vez que o argumento católico se encontra posteriormente, quando há intensificação na linguagem de "comer" para "mastigar".
 
-Entretanto, há uma mudança importante no decorrer do capítulo. Depois de Jesus afirmar que ele é o pão que desceu do céu, os judeus começam a murmurar entre si. Esse detalhe é fundamental. Diferentemente de outros episódios dos evangelhos, aqui os ouvintes deixam de dialogar diretamente com Jesus e passam a murmurar mutuamente, questionando sua autoridade.
+Entretanto, há uma mudança importante no decorrer do capítulo. Depois de Jesus afirmar que Ele é o pão que desceu do céu, os judeus começam a murmurar entre si. Esse detalhe é fundamental. Diferentemente de outros episódios dos evangelhos, aqui os ouvintes deixam de dialogar diretamente com Jesus e passam a murmurar mutuamente, questionando sua autoridade.
 
 Isso contrasta com outros personagens dos evangelhos. Nicodemos, em João 3, mesmo sem compreender, continua perguntando diretamente a Jesus. A mulher samaritana, em João 4, permanece dialogando com ele até compreender progressivamente o sentido espiritual de suas palavras. Em João 8, quando os judeus respondem que nunca foram escravos, ainda continuam conversando com Jesus. Em João 10, quando não entendem o discurso do pastor e das ovelhas, pedem que ele fale claramente. Em Mateus 16, os discípulos confundem o “fermento dos fariseus” com pão literal, mas continuam atentos à explicação do Mestre.
 
@@ -552,6 +552,13 @@ Além disso, a estrutura dessa conversa é Jesus iniciar falando sobre fé (v. 3
 Um ponto bom para os católicos: quando Jesus diz que o espírito é o que vivifica, ele pode estar falando justamente sobre comer e beber sacramentalmente (ou seja, não a carne física, mas a carne substancial, ou seu espírito). Essa leitura poderia corroborar a visão católica.
 
 ---
+# Católicos e Protestantes se alimentam espiritualmente
+
+Católicos comem o corpo e bebem o sangue espiritualmente (substância)
+Protestantes comer o corpo e bebem o sangue espiritualmente
+
+Sendo assim, a pergunta central não é se temos que comer e beber, mas como. O que a igreja católica tem como argumentos para afirmar que deve-se ser feito da forma que é por eles? Alimenta-se espiritualmente daquela maneira, apenas?
+
 # 16. Alguns pontos do Ariel
 Mateus 5:17 em diante: Se não assumimos que a eucaristia é uma presença física e real de Jesus Cristo, não estamos completando o AT.
 - No holocausto, queimamos tudo para Deus.
