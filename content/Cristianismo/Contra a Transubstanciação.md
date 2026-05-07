@@ -554,20 +554,6 @@ Jesus espera Lázaro morrer:
 Permite o caos:
 
 - para revelar fé
-### 15.4 Conclusão
-Diz-se que Jesus intensificou para tornar literal, mas não necessariamente. O texto indica que Jesus intensificou retoricamente para chocar, expondo a falta de fé dos que escutavam, e não para literalizar. Intensificou para mostrar o que ele disse em
-
-**João 6:65 (ARA)**
-> 'E prosseguiu: Por causa disto, é que vos tenho dito: ninguém poderá vir a mim, se, pelo Pai, não lhe for concedido.'
-
-Jesus intensifica para chocar e mostrar a falta de fé, mas depois suaviza e explica:
-
-**João 6:63 (ARA)**
-> 'O espírito é o que vivifica; a carne para nada aproveita; as palavras que eu vos tenho dito são espírito e são vida.' 
-
-Além disso, a estrutura dessa conversa é Jesus iniciar falando sobre fé (v. 35, 40, 47), depois usar comer e beber e depois voltar aprofundando o crer ao falar que o espírito é o que vivifica e a carne nada aproveita, finalizando seu ensinamento de que crer (inicialmente tratado) vem do Pai, nos é concedido pelo Pai. Jesus foi didática e mostrou isso na prática ao exemplificar que aqueles que enxergavam as coisas pela ótica da carne, nada aproveitariam.
-
-Um ponto bom para os católicos: quando Jesus diz que o espírito é o que vivifica, ele pode estar falando justamente sobre comer e beber sacramentalmente (ou seja, não a carne física, mas a carne substancial, ou seu espírito). Essa leitura poderia corroborar a visão católica.
 
 ---
 .
