@@ -376,8 +376,7 @@ Neste caso, como termos a partícula "ὁ", fica claro que estamos falando de um
 Ou seja: Jesus quis dizer que aquele que é do tipo de pessoa (característica) que mastiga a sua carne e bebe o seu sangue, tem a vida eterna.
 # 15. ==João 6==
 
-João 6:26  
-> 'Respondeu-lhes Jesus: Em verdade, em verdade vos digo: vós me procurais, não porque vistes sinais, mas porque comestes dos pães e vos fartastes. '  
+
 
 
 
