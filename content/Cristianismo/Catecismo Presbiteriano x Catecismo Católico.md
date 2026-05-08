@@ -29,6 +29,31 @@ draft: true
 - (iv) Receber o penhor da vida eterna.
 
 ---
+O exemplo clássico é:  
+Livro do Gênesis 1:2:
+> “o Espírito de Deus pairava sobre as águas”.
+
+Outro exemplo:  
+Atos dos Apóstolos 2:
+- o Espírito Santo desce sobre os discípulos.
+
+Outro:  
+Primeira Epístola aos Coríntios 3:16:
+> “vós sois santuário de Deus”.
+
+Então biblicamente:
+- o Espírito habita,
+- enche,
+- desce,
+- paira,
+- conduz,
+- unge,
+- envia.
+
+Mas Deus é onipresente:
+Livro dos Salmos 139:
+> “Para onde me ausentarei do teu Espírito?”
+
 Tese: tanto para os católicos como para os presbiterianos, Cristo está inteiramente presente em espírito, que é a mesma coisa que em substância. A diferença é que para o católico, Ele está na hóstia, e para o presbiteriano, Ele está na participação da Ceia.
 
 A participação dos fiéis decorre da união espiritual operada pelo Espírito na ação sacramental, pois não é possível realizar uma ação física sobre um ente metafísico, então o Espírito Santo faz isso por nós.
