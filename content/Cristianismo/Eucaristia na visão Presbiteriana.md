@@ -11,9 +11,12 @@ draft: true
 - (iii) testemunho e renovação da gratidão e consagração (para com Deus) e mútuo amor (para com os irmãos).
 
 Para a teologia presbiteriana clássica expressa nos símbolos de Westminster, na Ceia do Senhor estão presentes:
-- o Espírito Santo;
+- o Espírito Santo em sua onipresença;
 - a divindade de Jesus Cristo em sua onipresença; mas
 - não a humanidade local de Cristo.
+
+**Salmos 139:**
+> “Para onde me ausentarei do teu Espírito?”
 
 A humanidade glorificada de Cristo — seu Corpo, Sangue e Alma — permanece restrita ao céu:
 
@@ -72,3 +75,14 @@ Em qualquer lugar que Cristo esteja substancialmente/espiritualmente, é necess�
 - Se a matéria é privada de sua substância, então a transubstanciação não é um milagre, já que ocorre a todo momento para que Cristo esteja conosco todos os dias;
 - Se a matéria NÃO é privada de sua substância, então a doutrina da transubstanciação e a infalibilidade papal caem por terra.
 A forma do católico sair dessa é afirmando que o espírito de Cristo nunca priva as coisas de suas substâncias, sobrepondo-as sempre, com exceção na Eucaristia. A regra é não privar e a Eucaristia é a exceção.
+
+Diferenças:
+- Revivem e se reconectam:
+	- católicos participando sacramentalmente e presbiterianos relembrando sacramentalmente;
+	- a participação sacramental dos católicos acontece por meio da transubstanciação.
+- Unem-se, participam e recebem Cristo:
+	- católicos independente da fé e presbiterianos pela fé.
+- Presença real de Cristo:
+	- católicos nos símbolos e presbiterianos no templo.
+
+Por outro lado, na visão presbiteriana expressa pelos símbolos de Westminster, os fiéis não tornam o sacrifício sacramentalmente presente nem participam de um ato sacrificial renovado. Assim, os presbiterianos: (i) Revivem e se reconectam ao sacrifício se relembrando dele; e (ii) unem-se, participam e recebem Cristo espiritual e sacramentalmente, pela fé e pela ação do Espírito Santo, porque Cristo está verdadeira, real, local e substancialmente presente no lugar de ministração da Eucaristia.

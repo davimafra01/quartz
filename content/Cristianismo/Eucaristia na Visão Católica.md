@@ -62,3 +62,14 @@ Para ambos, o sacrifício de Cristo é entendido como único, completo, consumad
 # Para desenvolver depois
 
 O Espírito Santo age quando o fiel come e bebe o pão e o vinho para que haja união, ou a união acontece por conta própria no ato de comer e beber? Quero saber se tanto católicos como presbiterianos recebem os benefícios do sacrifício de forma indireta, ou seja: operada pelo Espírito Santo. Isso seria bom de provar para mostrar que são muito parecidos.
+
+Diferenças:
+- Revivem e se reconectam:
+	- católicos participando sacramentalmente e presbiterianos relembrando sacramentalmente;
+	- a participação sacramental dos católicos acontece por meio da transubstanciação.
+- Unem-se, participam e recebem Cristo:
+	- católicos independente da fé e presbiterianos pela fé.
+- Presença real de Cristo:
+	- católicos nos símbolos e presbiterianos no templo.
+
+Por outro lado, na visão presbiteriana expressa pelos símbolos de Westminster, os fiéis não tornam o sacrifício sacramentalmente presente nem participam de um ato sacrificial renovado. Assim, os presbiterianos: (i) Revivem e se reconectam ao sacrifício se relembrando dele; e (ii) unem-se, participam e recebem Cristo espiritual e sacramentalmente, pela fé e pela ação do Espírito Santo, porque Cristo está verdadeira, real, local e substancialmente presente no lugar de ministração da Eucaristia.
