@@ -29,6 +29,7 @@ Jesus Cristo:
 	- e, nessa união, participa verdadeiramente de sua humanidade glorificada;
 	- Presença por comunhão e não por localização
 	- Cristo está presente, para os presbiterianos, em três níveis: em sua divindade onipresente, pelo Espírito Santo (já que são um), pela união espiritual (aí sim é o Cristo inteiro)
+	- Cristo está presente conosco todos os dias porque sua pessoa divina, pelo Espírito Santo, age continuamente em nós e nos une realmente ao Cristo inteiro que permanece corporalmente no céu.
 
 Graça e operação divina:
 - a Ceia é meio real de graça pelo qual Deus fortalece espiritualmente os fiéis mediante a fé e a operação do Espírito Santo.
