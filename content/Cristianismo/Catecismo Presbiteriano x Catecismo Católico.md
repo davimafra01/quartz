@@ -9,13 +9,15 @@
 - (ii) confirmação da união e comunhão com Cristo;
 - (iii) testemunho e renovação da gratidão e consagração (para com Deus) e mútuo amor (para com os irmãos).
 
-\* aqui, não se explica sob que forma (corporal ou substancial/espiritual) o corpo é comido e o sangue é bebido, mas outras pergunta
+\* aqui, não se explica sob que forma (corporal ou substancial/espiritual) o corpo é comido e o sangue é bebido, mas a pergunta 170 do Catecismo Maior deixa claro que trata-se de um alimento espiritual, e não corporal ou carnal.
 
+---
 
 **271. O que é a Eucaristia? (CIC)**
 > É o próprio ==sacrifício do Corpo e do Sangue do Senhor Jesus==, que Ele instituiu ==para perpetuar o sacrifício da cruz== no decorrer dos séculos até ao seu regresso, confiando assim à sua Igreja o ==memorial da sua Morte e Ressurreição==. É o ==sinal da unidade==, o ==vínculo da caridade==, o ==banquete pascal==, em que ==se recebe Cristo==, ==a alma se enche de graça e nos é dado o penhor da vida eterna==.
 
-- É o sacrifício do corpo e do sangue de Cristo;
+É o sacrifício do corpo e do sangue de Cristo para:
+- Perpetuar o sacrifício da cruz;
 - 
 
 
