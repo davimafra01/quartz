@@ -31,6 +31,8 @@ draft: true
 ---
 Tese: tanto para os católicos como para os presbiterianos, Cristo está inteiramente presente em espírito, que é a mesma coisa que em substância. A diferença é que para o católico, Ele está na hóstia, e para o presbiteriano, Ele está na participação da Ceia.
 
+A participação dos fiéis decorre da união espiritual operada pelo Espírito na ação sacramental, pois não é possível realizar uma ação física sobre um ente metafísico, então o Espírito Santo faz isso por nós.
+
 Para o presbiteriano, Cristo está presente espiritual e realmente aos fiéis na participação da Ceia, e não no lugar.
 
 A Ceia do Senhor proclama e aplica os benefícios do sacrifício de Cristo.
