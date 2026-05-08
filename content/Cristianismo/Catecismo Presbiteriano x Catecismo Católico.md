@@ -46,23 +46,11 @@ Diferenças:
 - Presença real de Cristo:
 	- católicos nos símbolos e presbiterianos no templo.
 
+Ao comer o pão e beber o vinho, de forma direta, o ==católico== recebe os benefícios do sacrifício de Cristo mediante a união espiritual com Cristo, independente da fé, porque recebeu sacramentalmente o próprio Cristo substancialmente presente na Eucaristia.
 
+Ao comer o pão e beber o vinho, de forma indireta, o ==presbiteriano== recebe os benefícios do sacrifício de Cristo mediante a união espiritual com Cristo, pela fé, porque recebeu sacramentalmente o próprio Cristo substancialmente presente no templo. 
 
 Em qualquer lugar que Cristo esteja substancialmente/espiritualmente, é necessário que a (i) matéria seja privada de sua substância para que a substância/espírito de Cristo esteja lá, ou (ii) a substância/espírito de Cristo pode sobrepor outras substâncias.
 - Se a matéria é privada de sua substância, então a transubstanciação não é um milagre, já que ocorre a todo momento para que Cristo esteja conosco todos os dias;
 - Se a matéria NÃO é privada de sua substância, então a doutrina da transubstanciação e a infalibilidade papal caem por terra.
 A forma do católico sair dessa é afirmando que o espírito de Cristo nunca priva as coisas de suas substâncias, sobrepondo-as sempre, com exceção na Eucaristia. A regra é não privar e a Eucaristia é a exceção.
-
-Ao comer o pão e beber o vinho, de forma direta, o ==católico== recebe os benefícios do sacrifício de Cristo mediante a união espiritual com Cristo, independente da fé, porque recebeu sacramentalmente o próprio Cristo substancialmente presente na Eucaristia.
-
-Ao comer o pão e beber o vinho, de forma indireta, o ==presbiteriano== recebe os benefícios do sacrifício de Cristo mediante a união espiritual com Cristo, pela fé, porque recebeu sacramentalmente o próprio Cristo substancialmente presente no templo. 
-
-
-Após comer do sacrifício, o ==católico== recebe os benefícios do sacrifício de Cristo. No caso do ==presbiteriano==, ao comer não do sacrifício, mas do pão e beber do vinho ele também recebe os benefícios do sacrifício de Cristo (ou em outro momento???), mas a diferença é que esse benefício não vem de comer a substância do corpo e sangue de Cristo, mas da fé em Cristo como Senhor e Salvador naquele momento simbólico de comer o pão e beber o vinho.
-
-Resumo:
-Católicos revivem e se reconectam com o sacrifício realizando um sacramento que o torna presente, enquanto os presbiterianos revivem e se reconectam com o sacrifício apenas de forma memorial.
-
-Católicos e protestantes se unem e recebem Cristo espiritual e sacramentalmente ao comerem o pão e beberem o vinho, a diferença é que para os católicos, nesse momento, eles estão comendo e bebendo, substancialmente, o corpo e sangue de Cristo. Contudo, ambos se unem e recebem Cristo espiritual e sacramentalmente, da mesma forma. Se ignorarmos a transubstanciação, o efeito seria o mesmo.
-
-Corrija e melhore se necessário.
