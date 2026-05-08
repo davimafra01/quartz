@@ -109,6 +109,12 @@ Mas Deus é onipresente:
 Livro dos Salmos 139:
 > “Para onde me ausentarei do teu Espírito?”
 
+## Catolicismo
+Metafísica da presença nos elementos e posterior metafísica da união espiritual com Cristo.
+
+## Westminster
+Metafísica da união espiritual com Cristo.
+
 Cristo está presente por união espiritual mediada pelo Espírito Santo, e não localmente.
 
 Cristo está, na Eucaristia, inteiramente presente em espírito, que é a mesma coisa que em substância. A diferença é que para o católico, Ele está na hóstia, e para o presbiteriano, Ele está na participação da Ceia.
