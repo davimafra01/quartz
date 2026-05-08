@@ -37,13 +37,15 @@ O que estou entendendo é que os ==católicos== afirmam que a Eucaristia é a re
 
 Por outro lado, na visão ==presbiteriana== expressa pelos símbolos de Westminster, os fiéis não tornam o sacrifício sacramentalmente presente nem participam de um ato sacrificial renovado. Assim, os presbiterianos: (i) Revivem e se reconectam ao sacrifício se relembrando dele; e (ii) unem-se, participam e recebem Cristo espiritual e sacramentalmente, pela fé e pela ação do Espírito Santo, porque Cristo está verdadeira, real, local e substancialmente presente no lugar de ministração da Eucaristia.
 
-
 Diferenças:
 - Revivem e se reconectam:
-	- católicos participando e presbiterianos relembrando;
+	- católicos participando sacramentalmente e presbiterianos relembrando sacramentalmente;
 - Unem-se, participam e recebem Cristo:
 	- católicos independente da fé e presbiterianos pela fé;
-- 
+- Presença real de Cristo:
+	- católicos nos símbolos e presbiterianos no templo.
+
+
 
 A transubstanciação é necessária, pois em qualquer lugar que Cristo esteja espiritualmente, é necessário que a matéria seja privada de sua substância, a não ser que a substância
 
