@@ -6,10 +6,6 @@ draft: true
 Tanto para os católicos como para os presbiterianos, na Eucaristia, há a presença:
 - do Espírito Santo;
 - de Jesus Cristo em sua humanidade e divindade;
-- da divindade de Cristo;
-- da humanidade de Cristo;
-- da graça e operação divina;
-- da verdadeira comunhão dos fiéis com Cristo.
 
 ---
 #### 1.1 Modo das presenças para os católicos
