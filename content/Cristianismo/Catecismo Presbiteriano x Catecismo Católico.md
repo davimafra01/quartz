@@ -9,7 +9,7 @@
 - (ii) confirmação da união e comunhão com Cristo;
 - (iii) testemunho e renovação da gratidão e consagração (para com Deus) e mútuo amor (para com os irmãos).
 
-\* aqui, não se explica sob que forma (corporal ou substancial/espiritual) o corpo é comido e o sangue é bebido.
+\* aqui, não se explica sob que forma (corporal ou substancial/espiritual) o corpo é comido e o sangue é bebido, mas outras pergunta
 
 
 **271. O que é a Eucaristia? (CIC)**
