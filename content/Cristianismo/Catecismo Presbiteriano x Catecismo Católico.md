@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # 1. Eucaristia
 
 **168. O que é a Ceia do Senhor? (CMW)**  
@@ -42,6 +45,7 @@ Diferenças:
 	- católicos independente da fé e presbiterianos pela fé;
 - 
 
+A transubstanciação é necessária, pois em qualquer lugar que Cristo
 
 Tendo isso em visto, a única diferença é a parte de como revivemos o sacrifício? Vamos falar sobre essa primeira parte de reviver então e depois sobre como recebemos os benefícios da cruz.
 

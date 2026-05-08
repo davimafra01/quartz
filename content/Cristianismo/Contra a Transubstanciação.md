@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # 01. 🟢 Participação na comunhão dos d (1Co 10:16)
 Não necessariamente a comunhão tratada no texto é a mesma para os dois casos. Pode-se ter comunhão de várias maneiras. Tanto na Eucaristia quanto no caso da mesa dos d, mesmo que a comida nesse segundo caso não mude de substância.
 
