@@ -47,7 +47,9 @@ Diferenças:
 
 
 
-A transubstanciação é necessária, pois em qualquer lugar que Cristo esteja espiritualmente, é necessário que a matéria seja privada de sua substância, a não ser que a substância
+A transubstanciação é necessária, pois em qualquer lugar que Cristo esteja espiritualmente, é necessário que a (i) matéria seja privada de sua substância para que a substância de Cristo esteja lá, ou (ii) a substância/espírito de Cristo pode sobrepor outras substâncias.
+- Se a matéria é privada de sua substância, então a transubstanciação não é um milagre;
+- Se a matéria não é privada de sua substância
 
 Tendo isso em visto, a única diferença é a parte de como revivemos o sacrifício? Vamos falar sobre essa primeira parte de reviver então e depois sobre como recebemos os benefícios da cruz.
 
