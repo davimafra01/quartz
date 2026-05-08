@@ -25,17 +25,4 @@
 - (iii) Encher a alma de graça;
 - (iv) Receber o penhor da vida eterna.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
