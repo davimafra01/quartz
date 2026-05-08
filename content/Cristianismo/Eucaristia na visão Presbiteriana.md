@@ -3,16 +3,14 @@
 > Mt 26:26,27; I Co 10:16-21;11:23-27.
 
 É a anunciação da morte de Cristo para:
-- (i) alimentação* do seu corpo e sangue;
+- (i) alimentação do seu corpo e sangue;
 - (ii) confirmação da união e comunhão com Cristo;
 - (iii) testemunho e renovação da gratidão e consagração (para com Deus) e mútuo amor (para com os irmãos).
 
----
-
 Para a teologia presbiteriana clássica expressa nos símbolos de Westminster, na Ceia do Senhor estão presentes:
 - o Espírito Santo;
-- a divindade de Cristo em sua onipresença;
-- mas não a humanidade local de Cristo.
+- a divindade de Cristo em sua onipresença; mas
+- não a humanidade local de Cristo.
 
 A humanidade glorificada de Cristo — seu Corpo, Sangue e Alma — permanece restrita ao céu:
 
