@@ -29,6 +29,8 @@ draft: true
 - (iv) Receber o penhor da vida eterna.
 
 ---
+Tese: tanto para os católicos como para os presbiterianos, Cristo está presente em espírito, que é a mesma coisa que em substância. A diferença é que para o católico, Ele está na hóstia, e para o presbiteriano, Ele está no templo.
+
 A Ceia do Senhor proclama e aplica os benefícios do sacrifício de Cristo.
 
 Para ambos, o sacrifício de Cristo é entendido como único, completo, consumado e irrepetível.
