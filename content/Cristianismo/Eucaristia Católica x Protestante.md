@@ -35,7 +35,7 @@ Comunhão dos fiéis com Cristo:
 - os fiéis entram em comunhão sacramental com Cristo mediante a recepção do Cristo substancialmente presente na Eucaristia.
 
 ---
-#### 1.1 Modo das presenças para os presbiterianos
+#### 1.2 Modo das presenças para os presbiterianos
 
 Espírito Santo:
 - o Espírito Santo atua na Ceia unindo espiritualmente os fiéis a Cristo, comunicando graça e tornando real a participação sacramental. Sua presença também não é localizada nos elementos ou no ambiente, mas operativa e relacional na ação sacramental.
