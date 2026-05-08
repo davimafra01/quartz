@@ -30,9 +30,13 @@ A Ceia do Senhor proclama e aplica os benefícios do sacrifício de Cristo.
 
 Para ambos, o sacrifício de Cristo é entendido como único, completo, consumado e irrepetível.
 
-O que estou entendendo é que os ==católicos== afirmam que a Eucaristia é a realização sacramental do mesmo sacrifício de Cristo. Metaforicamente, seria como se o único sacrifício da cruz fosse tornado presente novamente aos fiéis, não por repetição temporal ou por uma nova morte de Cristo, mas por uma atualização sacramental desse único sacrifício. Assim, os católicos: (i) Revivem e se reconectam ao sacrifício participando dele (tornando-o sacramentalmente presente); e (ii) unem-se e recebem Cristo espiritual e sacramentalmente, porque Cristo está verdadeira, real, local e substancialmente presente nos símbolos místicos da Eucaristia, a dizer: o pão e o vinho.
+O que estou entendendo é que os ==católicos== afirmam que a Eucaristia é a realização sacramental do mesmo sacrifício de Cristo. Metaforicamente, seria como se o único sacrifício da cruz fosse tornado presente novamente aos fiéis, não por repetição temporal ou por uma nova morte de Cristo, mas por uma atualização sacramental desse único sacrifício. Assim, os católicos: (i) Revivem e se reconectam ao sacrifício participando dele (tornando-o sacramentalmente presente); e (ii) unem-se, participam e recebem Cristo espiritual e sacramentalmente, independente da fé (ex opere operato) e pela ação do Espírito Santo, porque Cristo está verdadeira, real, local e substancialmente presente nos símbolos místicos da Eucaristia, a dizer: o pão e o vinho.
 
-Por outro lado, na visão ==presbiteriana== expressa pelos símbolos de Westminster, os fiéis não tornam o sacrifício sacramentalmente presente nem participam de um ato sacrificial renovado. Assim, os presbiterianos: (i) Revivem e se reconectam ao sacrifício se relembrando dele; e (ii) unem-se e recebem Cristo Cristo e os faz realmente participar dele espiritual e sacramentalmente, pela fé e pela operação do Espírito Santo.
+Por outro lado, na visão ==presbiteriana== expressa pelos símbolos de Westminster, os fiéis não tornam o sacrifício sacramentalmente presente nem participam de um ato sacrificial renovado. Assim, os presbiterianos: (i) Revivem e se reconectam ao sacrifício se relembrando dele; e (ii) unem-se, participam e recebem Cristo espiritual e sacramentalmente, pela fé e pela ação do Espírito Santo, porque Cristo está verdadeira, real, local e substancialmente presente no lugar de ministração da Eucaristia.
+
+
+
+
 
 Tendo isso em visto, a única diferença é a parte de como revivemos o sacrifício? Vamos falar sobre essa primeira parte de reviver então e depois sobre como recebemos os benefícios da cruz.
 
