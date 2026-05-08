@@ -5,23 +5,6 @@ Mas Deus é onipresente:
 Livro dos Salmos 139:
 > “Para onde me ausentarei do teu Espírito?”
 
-## Catolicismo
-Metafísica da presença nos elementos e posterior metafísica da união espiritual com Cristo.
-
-## Westminster
-Metafísica da união espiritual com Cristo.
-
-Cristo está presente por união espiritual mediada pelo Espírito Santo, e não localmente.
-
-Cristo está, na Eucaristia, inteiramente presente em espírito, que é a mesma coisa que em substância. A diferença é que para o católico, Ele está na hóstia, e para o presbiteriano, Ele está na participação da Ceia.
-
-A participação dos fiéis decorre da união espiritual operada pelo Espírito na ação sacramental, pois não é possível realizar uma ação física sobre um ente metafísico, então o Espírito Santo faz isso por nós.
-
-Para o presbiteriano, Cristo está presente espiritual e realmente aos fiéis na participação da Ceia, e não no lugar.
-
-A Ceia do Senhor proclama e aplica os benefícios do sacrifício de Cristo.
-
-Para ambos, o sacrifício de Cristo é entendido como único, completo, consumado e irrepetível.
 
 O que estou entendendo é que os católicos afirmam que a Eucaristia é a realização sacramental do mesmo sacrifício de Cristo. Metaforicamente, seria como se o único sacrifício da cruz fosse tornado presente novamente aos fiéis, não por repetição temporal ou por uma nova morte de Cristo, mas por uma atualização sacramental desse único sacrifício. Assim, os católicos: (i) Revivem e se reconectam ao sacrifício participando dele (tornando-o sacramentalmente presente); e (ii) unem-se, participam e recebem Cristo espiritual e sacramentalmente, independente da fé (ex opere operato) e pela ação do Espírito Santo, porque Cristo está verdadeira, real, local e substancialmente presente nos símbolos místicos da Eucaristia, a dizer: o pão e o vinho.
 

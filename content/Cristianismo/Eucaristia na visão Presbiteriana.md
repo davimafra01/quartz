@@ -5,7 +5,7 @@ draft: true
 > A Ceia do Senhor é um sacramento do Novo Testamento no qual, dando-se e recebendo-se pão e vinho, conforme a instituição de Jesus Cristo, ==é anunciada a sua morte==; e os que dignamente participam dele, ==alimentam-se do corpo e do sangue de Cristo== para sua ==nutrição espiritual e crescimento na graça==; têm a sua ==união e comunhão com ele confirmadas==; ==testemunham e renovam a sua gratidão e consagração a Deus e o seu mútuo amor uns para com os outros==, como membros do mesmo corpo místico. 
 > Mt 26:26,27; I Co 10:16-21;11:23-27.
 
-É a anunciação da morte de Cristo para:
+É a anunciação da morte de Cristo e a aplicação de seus benefícios para:
 - (i) alimentação do seu corpo e sangue;
 - (ii) confirmação da união e comunhão com Cristo;
 - (iii) testemunho e renovação da gratidão e consagração (para com Deus) e mútuo amor (para com os irmãos).
@@ -57,7 +57,13 @@ Dessa forma, a principal diferença entre a visão católica e presbiteriana est
 - para os católicos, ela está sacramentalmente presente nos elementos;
 - para os presbiterianos, ela permanece no céu, sendo comunicada espiritualmente ao fiel pelo Espírito Santo mediante a fé.
 
+Para ambos, o sacrifício de Cristo é entendido como único, completo, consumado e irrepetível.
+
+---
+# Para desenvolver depois
 
 Não é necessário haver a presença local da humanidade de Cristo para que a união, comunhão, participação e recebimento de Cristo —  em Corpo, Sangue, Alma e Divindade —  ocorra. O Espírito Santo pode sim realizar isso em nós mesmo com o Corpo glorificado de Cristo restrito aos céus. Desse modo, a Humanidade de Cristo não está presente localmente no local de ministração da Ceia do Senhor, mas está presente virtualmente.
 
 Para provar que a presença local substancial de Cristo é absolutamente necessária, é imprescindível que se prove que Cristo, ao afirmar que o pão é o seu Corpo e que o vinho é o seu Sangue, afirmou isso de maneira literal-sacramental. Apenas então a presença virtual de Cristo não poderia ser admitida.
+
+Da mesma forma que é como se os católicos rasgassem o espaço e o tempo para estarem com Cristo na cruz, é como se os presbiterianos 
