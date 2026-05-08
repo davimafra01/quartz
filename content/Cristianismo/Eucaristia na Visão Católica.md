@@ -10,3 +10,48 @@
 - (iii) Encher a alma de graça;
 - (iv) Receber o penhor da vida eterna.
 
+Para a Igreja Católica, na Eucaristia estão presentes:
+- o Espírito Santo;
+- a divindade de Jesus Cristo;
+- e a própria humanidade de Cristo, isto é: Corpo, Sangue, Alma e Divindade.
+
+Segundo o Compêndio do Catecismo da Igreja Católica:
+
+**CIC Compêndio, 282:**
+> “Jesus Cristo está presente na Eucaristia dum modo único e incomparável. De facto, está presente de modo verdadeiro, real, substancial: com o seu Corpo e o seu Sangue, com a sua Alma e a sua Divindade.” 
+
+A Igreja Católica entende as palavras de Cristo — “Isto é o meu corpo” e “Isto é o meu sangue” — de maneira literal-sacramental. Por isso, considera necessário afirmar que a própria humanidade glorificada de Cristo está objetivamente presente na Eucaristia.
+
+Durante a consagração, o Espírito Santo atua realizando a transubstanciação:
+
+> “Transubstanciação significa a conversão de toda a substância do pão na substância do Corpo de Cristo e de toda a substância do vinho na substância do seu Sangue.”  
+> (CIC Compêndio, 283)
+
+Assim:
+
+- o pão deixa de ser substancialmente pão;
+- o vinho deixa de ser substancialmente vinho;
+- permanecendo apenas as espécies sensíveis;
+- enquanto Cristo inteiro torna-se sacramentalmente presente.
+
+Consequentemente:
+
+- na hóstia está presente Cristo inteiro;
+- no cálice está presente Cristo inteiro;
+- Corpo, Sangue, Alma e Divindade estão presentes inseparavelmente.
+
+A união do fiel com Cristo também ocorre pela ação do Espírito Santo, porque toda comunhão com Cristo é trinitária e operada pelo Espírito. Contudo, para o catolicismo, essa união não depende apenas da fé subjetiva do fiel, pois o próprio Cristo está objetivamente presente no sacramento:
+
+> “A sagrada Comunhão aumenta a nossa união com Cristo e com a sua Igreja.”  
+> (CIC Compêndio, 292)
+
+Assim, ao comer a hóstia e beber o vinho consagrado:
+
+- o fiel recebe sacramentalmente o próprio Cristo;
+- participa de sua humanidade glorificada;
+- une-se espiritualmente a Ele;
+- e recebe os frutos da graça comunicados pela Eucaristia.
+
+Dessa forma, a principal diferença entre a visão católica e presbiteriana está no modo da presença da humanidade de Cristo:
+- para os católicos, ela está sacramentalmente presente nos elementos;
+- para os presbiterianos, ela permanece no céu, sendo comunicada espiritualmente ao fiel pelo Espírito Santo mediante a fé.

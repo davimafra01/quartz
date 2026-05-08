@@ -9,7 +9,7 @@
 
 Para a teologia presbiteriana clássica expressa nos símbolos de Westminster, na Ceia do Senhor estão presentes:
 - o Espírito Santo;
-- a divindade de Cristo em sua onipresença; mas
+- a divindade de Jesus Cristo em sua onipresença; mas
 - não a humanidade local de Cristo.
 
 A humanidade glorificada de Cristo — seu Corpo, Sangue e Alma — permanece restrita ao céu:
@@ -50,3 +50,6 @@ Assim, ao comer o pão e beber o vinho, o fiel não recebe substancialmente o co
 **CMW 168:**
 > “alimentam-se do corpo e do sangue de Cristo para sua nutrição espiritual e crescimento na graça”
 
+Dessa forma, a principal diferença entre a visão católica e presbiteriana está no modo da presença da humanidade de Cristo:
+- para os católicos, ela está sacramentalmente presente nos elementos;
+- para os presbiterianos, ela permanece no céu, sendo comunicada espiritualmente ao fiel pelo Espírito Santo mediante a fé.
