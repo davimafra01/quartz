@@ -37,6 +37,6 @@ Após comer do sacrifício, o ==católico== recebe os benefícios do sacrifício
 Resumo:
 Católicos revivem e se reconectam com o sacrifício realizando um sacramento que o torna presente, enquanto os presbiterianos revivem e se reconectam com o sacrifício apenas de forma memorial.
 
-Católicos e protestantes se unem e recebem Cristo espiritual e sacramentalmente ao comerem o pão e beberem o vinho, a diferença é que para os católicos, nesse momento, eles estão comendo e bebendo, substancialmente, o corpo e sangue de Cristo.
+Católicos e protestantes se unem e recebem Cristo espiritual e sacramentalmente ao comerem o pão e beberem o vinho, a diferença é que para os católicos, nesse momento, eles estão comendo e bebendo, substancialmente, o corpo e sangue de Cristo. Contudo, ambos se unem e recebem Cristo espiritual e sacramentalmente, da mesma forma. Se ignorarmos a transubstanciação, o efeito seria o mesmo.
 
 Corrija e melhore se necessário.
