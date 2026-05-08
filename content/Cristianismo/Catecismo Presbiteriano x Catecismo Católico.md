@@ -55,8 +55,12 @@ Livro dos Salmos 139:
 > “Para onde me ausentarei do teu Espírito?”
 
 Tese: tanto para os católicos como para os presbiterianos, na Eucaristia, há a presença:
-- Do Espírito Santo;
-- D
+- do Espírito Santo;
+- de Jesus Cristo;
+- da divindade de Cristo;
+- da humanidade de Cristo;
+- da graça e operação divina;
+- da verdadeira comunhão dos fiéis com Cristo.
 
 
 Cristo está, na Eucaristia, inteiramente presente em espírito, que é a mesma coisa que em substância. A diferença é que para o católico, Ele está na hóstia, e para o presbiteriano, Ele está na participação da Ceia.
