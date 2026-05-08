@@ -29,7 +29,7 @@ draft: true
 - (iv) Receber o penhor da vida eterna.
 
 ---
-Tese: tanto para os católicos como para os presbiterianos, Cristo está presente em espírito, que é a mesma coisa que em substância. A diferença é que para o católico, Ele está na hóstia, e para o presbiteriano, Ele está no templo.
+Tese: tanto para os católicos como para os presbiterianos, Cristo está inteiramente presente em espírito, que é a mesma coisa que em substância. A diferença é que para o católico, Ele está na hóstia, e para o presbiteriano, Ele está na participação da Ceia.
 
 Para o presbiteriano, Cristo está presente espiritual e realmente aos fiéis na participação da Ceia, e não no lugar.
 
