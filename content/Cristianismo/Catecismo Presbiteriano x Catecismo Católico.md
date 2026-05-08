@@ -62,6 +62,7 @@ Tese: tanto para os católicos como para os presbiterianos, na Eucaristia, há a
 - da graça e operação divina;
 - da verdadeira comunhão dos fiéis com Cristo.
 
+Cristo está presente por união espiritual mediada pelo Espírito Santo, e não localmente.
 
 Cristo está, na Eucaristia, inteiramente presente em espírito, que é a mesma coisa que em substância. A diferença é que para o católico, Ele está na hóstia, e para o presbiteriano, Ele está na participação da Ceia.
 
