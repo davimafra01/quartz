@@ -12,7 +12,7 @@
 
 Para a Igreja Católica, na Eucaristia estão presentes:
 - o Espírito Santo;
-- a divindade de Jesus Cristo;
+- a divindade de Jesus Cristo (em sua onipresença e, extraordinariamente, na hóstia);
 - e a própria humanidade de Cristo, isto é: Corpo, Sangue, Alma e Divindade.
 
 Segundo o Compêndio do Catecismo da Igreja Católica:
