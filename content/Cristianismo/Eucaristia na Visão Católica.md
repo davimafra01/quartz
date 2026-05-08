@@ -78,4 +78,6 @@ Se o Espírito Santo é quem une Cristo com o fiel, qual é o fim da transubstan
 
 "O Espírito é o que vivifica; a carne para nada aproveita; as palavras que vos tenho dito são espírito e são vida." João 6:63
 
-Se mastigar a carne e beber o sangue é espírito, como poderia ser substancial?
+Se mastigar a carne e beber o sangue é espírito, como poderia ser substancial? A Humanidade de Jesus é: Carne, Sangue e Alma. 
+
+Espírito porque seria comer e mastigar espiritualmente ou porque seria comer e mastigar algo espiritual?
