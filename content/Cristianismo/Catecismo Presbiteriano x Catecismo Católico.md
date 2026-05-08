@@ -9,7 +9,7 @@
 - (ii) confirmação da união e comunhão com Cristo;
 - (iii) testemunho e renovação da gratidão e consagração (para com Deus) e mútuo amor (para com os irmãos).
 
-* alimentamo-nos do corpo e sangue de Cristo para (i) nutrição espiritual e (ii) crescimento na graça;
+* aqui não se explicita a forma com que comemos o corpo e o sangue de Cristo, mas 
 
 
 **271. O que é a Eucaristia? (CIC)**
