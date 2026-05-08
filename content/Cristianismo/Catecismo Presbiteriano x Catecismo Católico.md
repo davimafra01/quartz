@@ -26,3 +26,17 @@
 - (iv) Receber o penhor da vida eterna.
 
 ---
+O que estou entendendo é que os ==católicos== afirmam que a eucaristia é a realização do mesmo sacrifício de Cristo, metaforicamente, como se rasgassem o tempo e espaço para reviver aquele sacrifício, reconectando com ele e os unindo a Cristo. (i) Revivem e se reconectam ao sacrifício realizando o sacrifício e (ii) se unem e recebem a Cristo espiritual e sacramentalmente (corrija de estiver errado). Por outro lado, na visão ==presbiteriana==, nós (i) revivemos o sacrifício apenas em memória, e, assim como os católicos, (ii) unimos e recebemos a Cristo espiritual e sacramentalmente (já que isso também ocorre por meio de um sacramento)? (corrija de estiver errado)
+
+Tendo isso em visto, a única diferença é a parte de como revivemos o sacrifício? Vamos falar sobre essa primeira parte de reviver então e depois sobre como recebemos os benefícios da cruz.
+
+Os ==católicos== revivem por meio da transubstanciação, comendo a substancia do corpo e bebendo a substancia do sangue de Cristo, o que seria tornar o mesmo sacrifício (ou apenas a vítima, já que não tem os outros elementos do sacrifício) substancialmente presente para que participem. Os ==presbiterianos==, por sua vez, fazem essa parte do sacramento de reviver por meio de se lembrar, em memória, apenas.
+
+Após comer do sacrifício, o ==católico== recebe os benefícios do sacrifício de Cristo. No caso do ==presbiteriano==, ao comer não do sacrifício, mas do pão e beber do vinho ele também recebe os benefícios do sacrifício de Cristo (ou em outro momento???), mas a diferença é que esse benefício não vem de comer a substância do corpo e sangue de Cristo, mas da fé em Cristo como Senhor e Salvador naquele momento simbólico de comer o pão e beber o vinho.
+
+Resumo:
+Católicos revivem e se reconectam com o sacrifício realizando um sacramento que o torna presente, enquanto os presbiterianos revivem e se reconectam com o sacrifício apenas de forma memorial.
+
+Católicos e protestantes se unem e recebem Cristo espiritual e sacramentalmente ao comerem o pão e beberem o vinho, a diferença é que para os católicos, nesse momento, eles estão comendo e bebendo, substancialmente, o corpo e sangue de Cristo.
+
+Corrija e melhore se necessário.
