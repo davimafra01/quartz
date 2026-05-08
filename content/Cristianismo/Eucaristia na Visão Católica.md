@@ -24,26 +24,24 @@ A Igreja Católica entende as palavras de Cristo — “Isto é o meu corpo” e
 
 Durante a consagração, o Espírito Santo atua realizando a transubstanciação:
 
-> “Transubstanciação significa a conversão de toda a substância do pão na substância do Corpo de Cristo e de toda a substância do vinho na substância do seu Sangue.”  
-> (CIC Compêndio, 283)
+**CIC Compêndio, 283:**
+> “Transubstanciação significa a conversão de toda a substância do pão na substância do Corpo de Cristo e de toda a substância do vinho na substância do seu Sangue.” 
 
 Assim:
-
 - o pão deixa de ser substancialmente pão;
 - o vinho deixa de ser substancialmente vinho;
 - permanecendo apenas as espécies sensíveis;
 - enquanto Cristo inteiro torna-se sacramentalmente presente.
 
 Consequentemente:
-
 - na hóstia está presente Cristo inteiro;
 - no cálice está presente Cristo inteiro;
 - Corpo, Sangue, Alma e Divindade estão presentes inseparavelmente.
 
 A união do fiel com Cristo também ocorre pela ação do Espírito Santo, porque toda comunhão com Cristo é trinitária e operada pelo Espírito. Contudo, para o catolicismo, essa união não depende apenas da fé subjetiva do fiel, pois o próprio Cristo está objetivamente presente no sacramento:
 
+**CIC Compêndio, 292:**
 > “A sagrada Comunhão aumenta a nossa união com Cristo e com a sua Igreja.”  
-> (CIC Compêndio, 292)
 
 Assim, ao comer a hóstia e beber o vinho consagrado:
 

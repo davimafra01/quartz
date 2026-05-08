@@ -53,3 +53,8 @@ Assim, ao comer o pão e beber o vinho, o fiel não recebe substancialmente o co
 Dessa forma, a principal diferença entre a visão católica e presbiteriana está no modo da presença da humanidade de Cristo:
 - para os católicos, ela está sacramentalmente presente nos elementos;
 - para os presbiterianos, ela permanece no céu, sendo comunicada espiritualmente ao fiel pelo Espírito Santo mediante a fé.
+
+
+Não é necessário haver a presença local da humanidade de Cristo para que a união, comunhão, participação e recebimento de Cristo —  em Corpo, Sangue, Alma e Divindade —  ocorra. O Espírito Santo pode sim realizar isso em nós mesmo com o Corpo glorificado de Cristo restrito aos céus. Desse modo, a Humanidade de Cristo não está presente localmente no local de ministração da Ceia do Senhor, mas está presente virtualmente.
+
+Para provar que a presença local substancial de Cristo é absolutamente necessária, é imprescindível que se prove que Cristo, ao afirmar que o pão é o seu Corpo e que o vinho é o seu Sangue, afirmou isso de maneira literal-sacramental. Apenas então a presença virtual de Cristo não poderia ser admitida.
