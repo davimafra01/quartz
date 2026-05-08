@@ -53,9 +53,9 @@ Em qualquer lugar que Cristo esteja substancialmente/espiritualmente, é necess�
 - Se a matéria NÃO é privada de sua substância, então a doutrina da transubstanciação e a infalibilidade papal caem por terra.
 A forma do católico sair dessa é afirmando que o espírito de Cristo nunca priva as coisas de suas substâncias, sobrepondo-as sempre, com exceção na Eucaristia. A regra é não privar e a Eucaristia é a exceção.
 
-Ao comer o pão e beber o vinho, o ==católico== recebe os benefícios do sacrifício de Cristo mediante a união espiritual com Cristo, independente da fé, porque recebeu sacramentalmente o próprio Cristo substancialmente presente na Eucaristia.
+Ao comer o pão e beber o vinho, de forma direta, o ==católico== recebe os benefícios do sacrifício de Cristo mediante a união espiritual com Cristo, independente da fé, porque recebeu sacramentalmente o próprio Cristo substancialmente presente na Eucaristia.
 
-Ao comer o pão e beber o vinho, o ==presbiteriano== recebe os benefícios do sacrifício de Cristo mediante a união espiritual com Cristo, pela fé, porque recebeu sacramentalmente o próprio Cristo substancialmente presente no templo. 
+Ao comer o pão e beber o vinho, de forma indireta, o ==presbiteriano== recebe os benefícios do sacrifício de Cristo mediante a união espiritual com Cristo, pela fé, porque recebeu sacramentalmente o próprio Cristo substancialmente presente no templo. 
 
 
 Após comer do sacrifício, o ==católico== recebe os benefícios do sacrifício de Cristo. No caso do ==presbiteriano==, ao comer não do sacrifício, mas do pão e beber do vinho ele também recebe os benefícios do sacrifício de Cristo (ou em outro momento???), mas a diferença é que esse benefício não vem de comer a substância do corpo e sangue de Cristo, mas da fé em Cristo como Senhor e Salvador naquele momento simbólico de comer o pão e beber o vinho.
