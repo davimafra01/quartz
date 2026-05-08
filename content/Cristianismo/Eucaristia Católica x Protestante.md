@@ -13,17 +13,6 @@ Jesus Cristo:
 	- Divindade está unida à sua humanidade de forma inseparável
 
 ---
-#### 1.2 Modo das presenças para os presbiterianos
-
-Espírito Santo:
-- o Espírito Santo atua na Ceia unindo espiritualmente os fiéis a Cristo, comunicando graça e tornando real a participação sacramental. Sua presença também não é localizada nos elementos ou no ambiente, mas operativa e relacional na ação sacramental.
-
-Jesus Cristo:
-- Cristo inteiro — Corpo, Sangue, Alma e Divindade — está verdadeira e realmente presente sob as espécies do fiel, uma vez que o fiel é unido e participa espiritualmente de Cristo, mediante a fé e a operação do Espírito Santo.
-	- e, nessa união, participa verdadeiramente de sua humanidade glorificada;
-	- Presença por comunhão e não por localização
-	- Cristo está presente, para os presbiterianos, em três níveis: em sua divindade onipresente, pelo Espírito Santo (já que são um), pela união espiritual (aí sim é o Cristo inteiro)
-	- Cristo está presente conosco todos os dias porque sua pessoa divina, pelo Espírito Santo, age continuamente em nós e nos une realmente ao Cristo inteiro que permanece corporalmente no céu.
 
 Graça e operação divina:
 - a Ceia é meio real de graça pelo qual Deus fortalece espiritualmente os fiéis mediante a fé e a operação do Espírito Santo.

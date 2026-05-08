@@ -29,7 +29,7 @@ Contudo, a Ceia não é mero memorial psicológico. Westminster insiste que os f
 
 Essa participação acontece pela ação do Espírito Santo e mediante a fé. O Espírito une verdadeiramente o fiel ao Cristo glorificado que permanece no céu, como nos afirma o texto de Atos 3:21. Sua presença também não é localizada nos elementos ou no ambiente, mas operativa e relacional na ação sacramental. Assim:
 - a humanidade de Cristo não desce localmente à Ceia;
-- mas o fiel é unido espiritualmente a Cristo;
+- mas o fiel é unido espiritualmente a Cristo por meio da fé, mediante a ação do Espírito Santo;
 - participando verdadeiramente de sua humanidade e divindade.
 
 Portanto, para Westminster:
