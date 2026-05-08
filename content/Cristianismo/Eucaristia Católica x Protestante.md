@@ -1,12 +1,6 @@
 ---
 draft: true
 ---
-# 1. O que está presente?
-
-Tanto para os católicos como para os presbiterianos, na Eucaristia, há a presença:
-- do Espírito Santo;
-- de Jesus Cristo em sua humanidade e divindade;
-
 ---
 #### 1.1 Modo das presenças para os católicos
 
