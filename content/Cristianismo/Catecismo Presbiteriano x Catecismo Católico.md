@@ -7,7 +7,7 @@
 - É a anunciação da morte de Cristo para:
 	- (i) alimentação do seu corpo e sangue;
 	- (ii) confirmação da união e comunhão com Cristo;
-	- (iii) testemunho e renovação da gratidão, consagração e mútuo amor;
+	- (iii) testemunho e renovação da gratidão e consagração (para com Deus) e mútuo amor (para com os irmãos);
 - Alimentamo-nos do corpo e sangue de Cristo para (i) nutrição espiritual e (ii) crescimento na graça;
 - Temos confirmada a nossa união e comunhão com Cristo;
 - Testemunham e renovam a sua gratidão e consagração a Deus e o seu mútuo amor uns para com os outros.
