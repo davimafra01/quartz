@@ -41,7 +41,7 @@ Consequentemente:
 - no cálice está presente Cristo inteiro;
 - Corpo, Sangue, Alma e Divindade estão presentes inseparavelmente.
 
-==A união do fiel com Cristo também ocorre pela ação do Espírito Santo, porque toda comunhão com Cristo é trinitária e operada pelo Espírito. Contudo, para o catolicismo, essa união não depende apenas da fé subjetiva do fiel, pois o próprio Cristo está objetivamente presente no sacramento:==
+==A união do fiel com Cristo também ocorre pela ação do Espírito Santo, porque toda comunhão com Cristo é trinitária e operada pelo Espírito. Contudo, para o catolicismo, essa união não depende da fé subjetiva do fiel, pois o próprio Cristo está objetivamente presente no sacramento:==
 
 **CIC Compêndio, 292:**
 > “A sagrada Comunhão aumenta a nossa união com Cristo e com a sua Igreja.”  
@@ -57,3 +57,8 @@ Dessa forma, a principal diferença entre a visão católica e presbiteriana est
 - para os presbiterianos, ela permanece no céu, sendo comunicada espiritualmente ao fiel pelo Espírito Santo mediante a fé.
 
 Para ambos, o sacrifício de Cristo é entendido como único, completo, consumado e irrepetível.
+
+---
+# Para desenvolver depois
+
+O Espírito Santo age quando o fiel come e bebe o pão e o vinho para que haja união, ou a união acontece por conta própria no ato de comer e beber? Quero saber se tanto católicos como presbiterianos recebem os benefícios do sacrifício de forma indireta, ou seja: operada pelo Espírito Santo. Isso seria bom de provar para mostrar que são muito parecidos.

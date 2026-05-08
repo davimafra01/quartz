@@ -66,4 +66,9 @@ Não é necessário haver a presença local da humanidade de Cristo para que a u
 
 Para provar que a presença local substancial de Cristo é absolutamente necessária, é imprescindível que se prove que Cristo, ao afirmar que o pão é o seu Corpo e que o vinho é o seu Sangue, afirmou isso de maneira literal-sacramental. Apenas então a presença virtual de Cristo não poderia ser admitida.
 
-Da mesma forma que na Eucaristia é como se o Espírito Santo rasgasse o espaço e o tempo para estarem com Cristo na cruz, na Santa Ceia é como se o Espírito Santo rasgasse o espaço e o tempo para nos unir com Cristo (presença virtual).  
+Da mesma forma que na Eucaristia é como se o Espírito Santo rasgasse o espaço e o tempo para estarem com Cristo na cruz, na Santa Ceia é como se o Espírito Santo rasgasse o espaço e o tempo para nos unir com Cristo (presença virtual).
+
+Em qualquer lugar que Cristo esteja substancialmente/espiritualmente, é necessário que a (i) matéria seja privada de sua substância para que a substância/espírito de Cristo esteja lá, ou (ii) a substância/espírito de Cristo pode sobrepor outras substâncias.
+- Se a matéria é privada de sua substância, então a transubstanciação não é um milagre, já que ocorre a todo momento para que Cristo esteja conosco todos os dias;
+- Se a matéria NÃO é privada de sua substância, então a doutrina da transubstanciação e a infalibilidade papal caem por terra.
+A forma do católico sair dessa é afirmando que o espírito de Cristo nunca priva as coisas de suas substâncias, sobrepondo-as sempre, com exceção na Eucaristia. A regra é não privar e a Eucaristia é a exceção.
