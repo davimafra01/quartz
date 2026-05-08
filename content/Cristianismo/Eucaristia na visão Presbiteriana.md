@@ -66,4 +66,4 @@ Não é necessário haver a presença local da humanidade de Cristo para que a u
 
 Para provar que a presença local substancial de Cristo é absolutamente necessária, é imprescindível que se prove que Cristo, ao afirmar que o pão é o seu Corpo e que o vinho é o seu Sangue, afirmou isso de maneira literal-sacramental. Apenas então a presença virtual de Cristo não poderia ser admitida.
 
-Da mesma forma que é como se os católicos rasgassem o espaço e o tempo para estarem com Cristo na cruz, é como se os presbiterianos 
+Da mesma forma que na Eucaristia é como se o Espírito Santo rasgasse o espaço e o tempo para estarem com Cristo na cruz, na Santa Ceia é como se o Espírito Santo rasgasse o espaço e o tempo para nos unir com Cristo (presença virtual).  
