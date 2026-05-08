@@ -53,7 +53,9 @@ Em qualquer lugar que Cristo esteja substancialmente/espiritualmente, é necess�
 - Se a matéria NÃO é privada de sua substância, então a doutrina da transubstanciação e a infalibilidade papal caem por terra.
 A forma do católico sair dessa é afirmando que o espírito de Cristo nunca priva as coisas de suas substâncias, sobrepondo-as sempre, com exceção na Eucaristia. A regra é não privar e a Eucaristia é a exceção.
 
-Tendo isso em visto, a única diferença é a parte de como revivemos o sacrifício? Vamos falar sobre essa primeira parte de reviver então e depois sobre como recebemos os benefícios da cruz.
+Após participar da Eucaristia, o ==católico== recebe os benefícios do sacrifício de Cristo porque recebeu sacramentalmente o próprio Cristo substancialmente presente na Eucaristia.
+
+No caso do ==presbiteriano==, ao comer o pão e beber o vinho, ele também recebe os benefícios do sacrifício de Cristo no próprio ato sacramental da Ceia. Porém, esses benefícios não são recebidos mediante a ingestão substancial do corpo e sangue de Cristo, mas mediante a união espiritual com Cristo pela fé, no uso sacramental do pão e do vinho.
 
 Após comer do sacrifício, o ==católico== recebe os benefícios do sacrifício de Cristo. No caso do ==presbiteriano==, ao comer não do sacrifício, mas do pão e beber do vinho ele também recebe os benefícios do sacrifício de Cristo (ou em outro momento???), mas a diferença é que esse benefício não vem de comer a substância do corpo e sangue de Cristo, mas da fé em Cristo como Senhor e Salvador naquele momento simbólico de comer o pão e beber o vinho.
 
