@@ -40,8 +40,9 @@ Por outro lado, na visão ==presbiteriana== expressa pelos símbolos de Westmins
 Diferenças:
 - Revivem e se reconectam:
 	- católicos participando sacramentalmente e presbiterianos relembrando sacramentalmente;
+	- a participação sacramental dos católicos acontece por meio da transubstanciação.
 - Unem-se, participam e recebem Cristo:
-	- católicos independente da fé e presbiterianos pela fé;
+	- católicos independente da fé e presbiterianos pela fé.
 - Presença real de Cristo:
 	- católicos nos símbolos e presbiterianos no templo.
 
@@ -53,8 +54,6 @@ Em qualquer lugar que Cristo esteja substancialmente/espiritualmente, é necess�
 A forma do católico sair dessa é afirmando que o espírito de Cristo nunca priva as coisas de suas substâncias, sobrepondo-as sempre, com exceção na Eucaristia. A regra é não privar e a Eucaristia é a exceção.
 
 Tendo isso em visto, a única diferença é a parte de como revivemos o sacrifício? Vamos falar sobre essa primeira parte de reviver então e depois sobre como recebemos os benefícios da cruz.
-
-Os ==católicos== revivem por meio da transubstanciação, comendo a substancia do corpo e bebendo a substancia do sangue de Cristo, o que seria tornar o mesmo sacrifício (ou apenas a vítima, já que não tem os outros elementos do sacrifício) substancialmente presente para que participem. Os ==presbiterianos==, por sua vez, fazem essa parte do sacramento de reviver por meio de se lembrar, em memória, apenas.
 
 Após comer do sacrifício, o ==católico== recebe os benefícios do sacrifício de Cristo. No caso do ==presbiteriano==, ao comer não do sacrifício, mas do pão e beber do vinho ele também recebe os benefícios do sacrifício de Cristo (ou em outro momento???), mas a diferença é que esse benefício não vem de comer a substância do corpo e sangue de Cristo, mas da fé em Cristo como Senhor e Salvador naquele momento simbólico de comer o pão e beber o vinho.
 
