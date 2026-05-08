@@ -50,6 +50,7 @@ Diferenças:
 Em qualquer lugar que Cristo esteja substancialmente/espiritualmente, é necessário que a (i) matéria seja privada de sua substância para que a substância/espírito de Cristo esteja lá, ou (ii) a substância/espírito de Cristo pode sobrepor outras substâncias.
 - Se a matéria é privada de sua substância, então a transubstanciação não é um milagre, já que ocorre a todo momento para que Cristo esteja conosco todos os dias;
 - Se a matéria NÃO é privada de sua substância, então a doutrina da transubstanciação e a infalibilidade papal caem por terra.
+A forma do católico sair dessa é afirmando que o espírito de Cristo nunca priva as coisas de suas substâncias, sobrepondo-as sempre, com exceção na Eucaristia. A regra é não privar e a Eucaristia é a exceção.
 
 Tendo isso em visto, a única diferença é a parte de como revivemos o sacrifício? Vamos falar sobre essa primeira parte de reviver então e depois sobre como recebemos os benefícios da cruz.
 
