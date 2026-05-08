@@ -1,27 +1,6 @@
 ---
 draft: true
 ---
-O exemplo clássico é:  
-Livro do Gênesis 1:2:
-> “o Espírito de Deus pairava sobre as águas”.
-
-Outro exemplo:  
-Atos dos Apóstolos 2:
-- o Espírito Santo desce sobre os discípulos.
-
-Outro:  
-Primeira Epístola aos Coríntios 3:16:
-> “vós sois santuário de Deus”.
-
-Então biblicamente:
-- o Espírito habita,
-- enche,
-- desce,
-- paira,
-- conduz,
-- unge,
-- envia.
-
 Mas Deus é onipresente:
 Livro dos Salmos 139:
 > “Para onde me ausentarei do teu Espírito?”
