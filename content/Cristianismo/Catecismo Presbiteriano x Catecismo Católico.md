@@ -26,6 +26,8 @@
 - (iv) Receber o penhor da vida eterna.
 
 ---
+A Ceia do Senhor proclama e aplica os benefícios do sacrifício de Cristo.
+
 O que estou entendendo é que os ==católicos== afirmam que a eucaristia é a realização do mesmo sacrifício de Cristo, metaforicamente, como se rasgassem o tempo e espaço para reviver aquele sacrifício, reconectando com ele e os unindo a Cristo. (i) Revivem e se reconectam ao sacrifício realizando o sacrifício e (ii) se unem e recebem a Cristo espiritual e sacramentalmente (corrija de estiver errado). Por outro lado, na visão ==presbiteriana==, nós (i) revivemos o sacrifício apenas em memória, e, assim como os católicos, (ii) unimos e recebemos a Cristo espiritual e sacramentalmente (já que isso também ocorre por meio de um sacramento)? (corrija de estiver errado)
 
 Tendo isso em visto, a única diferença é a parte de como revivemos o sacrifício? Vamos falar sobre essa primeira parte de reviver então e depois sobre como recebemos os benefícios da cruz.
