@@ -1,22 +1,6 @@
 ---
 draft: true
 ---
----
-#### 1.1 Modo das presenças para os católicos
-
-Espírito Santo:
-- o Espírito Santo atua na consagração da Eucaristia, realizando a transubstanciação e unindo os fiéis a Jesus Cristo. Sua presença não é entendida como localizada exclusivamente na hóstia ou no templo, pois, sendo Deus, é onipresente. Contudo, há uma atuação sacramental especial na liturgia eucarística.
-
-Jesus Cristo:
-- Cristo inteiro — Corpo, Sangue, Alma e Divindade — está verdadeira, real e substancialmente presente sob as espécies do pão e do vinho.
-	- Corpo, Sangue e Alma = Humanidade
-	- Divindade está unida à sua humanidade de forma inseparável
-
----
-
-
-
----
 O exemplo clássico é:  
 Livro do Gênesis 1:2:
 > “o Espírito de Deus pairava sobre as águas”.

@@ -1,3 +1,6 @@
+---
+draft: true
+---
 **168. O que é a Ceia do Senhor? (CMW)**  
 > A Ceia do Senhor é um sacramento do Novo Testamento no qual, dando-se e recebendo-se pão e vinho, conforme a instituição de Jesus Cristo, ==é anunciada a sua morte==; e os que dignamente participam dele, ==alimentam-se do corpo e do sangue de Cristo== para sua ==nutrição espiritual e crescimento na graça==; têm a sua ==união e comunhão com ele confirmadas==; ==testemunham e renovam a sua gratidão e consagração a Deus e o seu mútuo amor uns para com os outros==, como membros do mesmo corpo místico. 
 > Mt 26:26,27; I Co 10:16-21;11:23-27.

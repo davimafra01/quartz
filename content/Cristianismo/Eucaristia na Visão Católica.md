@@ -1,3 +1,6 @@
+---
+draft: true
+---
 **271. O que é a Eucaristia? (CIC)**
 > É o próprio ==sacrifício do Corpo e do Sangue do Senhor Jesus==, que Ele instituiu ==para perpetuar o sacrifício da cruz== no decorrer dos séculos até ao seu regresso, confiando assim à sua Igreja o ==memorial da sua Morte e Ressurreição==. É o ==sinal da unidade==, o ==vínculo da caridade==, o ==banquete pascal==, em que ==se recebe Cristo==, ==a alma se enche de graça e nos é dado o penhor da vida eterna==.
 
@@ -38,13 +41,12 @@ Consequentemente:
 - no cálice está presente Cristo inteiro;
 - Corpo, Sangue, Alma e Divindade estão presentes inseparavelmente.
 
-A união do fiel com Cristo também ocorre pela ação do Espírito Santo, porque toda comunhão com Cristo é trinitária e operada pelo Espírito. Contudo, para o catolicismo, essa união não depende apenas da fé subjetiva do fiel, pois o próprio Cristo está objetivamente presente no sacramento:
+==A união do fiel com Cristo também ocorre pela ação do Espírito Santo, porque toda comunhão com Cristo é trinitária e operada pelo Espírito. Contudo, para o catolicismo, essa união não depende apenas da fé subjetiva do fiel, pois o próprio Cristo está objetivamente presente no sacramento:==
 
 **CIC Compêndio, 292:**
 > “A sagrada Comunhão aumenta a nossa união com Cristo e com a sua Igreja.”  
 
 Assim, ao comer a hóstia e beber o vinho consagrado:
-
 - o fiel recebe sacramentalmente o próprio Cristo;
 - participa de sua humanidade glorificada;
 - une-se espiritualmente a Ele;
