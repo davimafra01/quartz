@@ -19,6 +19,8 @@ Espírito Santo:
 
 Jesus Cristo:
 - Cristo inteiro — Corpo, Sangue, Alma e Divindade — está verdadeira, real e substancialmente presente sob as espécies do pão e do vinho.
+- Corpo, Sangue e Alma = Humanidade
+- Divindade está unida à sua humanidade de forma inseparável
 
 Divindade de Cristo:
 - a divindade de Cristo está presente inseparavelmente unida à sua humanidade na Eucaristia, porque Cristo inteiro está presente nas espécies eucarísticas.
