@@ -18,18 +18,6 @@ Jesus Cristo:
 	- Corpo, Sangue e Alma = Humanidade
 	- Divindade está unida à sua humanidade de forma inseparável
 
-Divindade de Cristo:
-- a divindade de Cristo está presente inseparavelmente unida à sua humanidade na Eucaristia, porque Cristo inteiro está presente nas espécies eucarísticas.
-
-Humanidade de Cristo:
-- a humanidade glorificada de Cristo está sacramentalmente presente na Eucaristia, porque o próprio Cristo inteiro está presente nos elementos consagrados.
-
-Graça e operação divina:
-- a Eucaristia comunica graça sacramental objetiva porque o próprio Cristo está presente substancialmente no sacramento.
-
-Comunhão dos fiéis com Cristo:
-- os fiéis entram em comunhão sacramental com Cristo mediante a recepção do Cristo substancialmente presente na Eucaristia.
-
 ---
 #### 1.2 Modo das presenças para os presbiterianos
 
@@ -37,13 +25,8 @@ Espírito Santo:
 - o Espírito Santo atua na Ceia unindo espiritualmente os fiéis a Cristo, comunicando graça e tornando real a participação sacramental. Sua presença também não é localizada nos elementos ou no ambiente, mas operativa e relacional na ação sacramental.
 
 Jesus Cristo:
-- Cristo inteiro é realmente recebido e participado espiritualmente pelos fiéis na Ceia, mediante a fé e a operação do Espírito Santo, sem presença substancial nos elementos.
-
-Divindade de Cristo:
-- a divindade de Cristo, sendo onipresente, está realmente atuante e comunicante na Ceia, unindo os fiéis ao Cristo inteiro.
-
-Humanidade de Cristo:
-- a humanidade glorificada de Cristo permanece localizada no céu; contudo, os fiéis realmente participam dessa humanidade espiritualmente pela união com Cristo operada pelo Espírito Santo.
+- Cristo inteiro — Corpo, Sangue, Alma e Divindade — está verdadeira e realmente presente sob as espécies do fiel, uma vez que o fiel é unido e participa espiritualmente de Cristo, mediante a fé e a operação do Espírito Santo.
+- 
 
 Graça e operação divina:
 - a Ceia é meio real de graça pelo qual Deus fortalece espiritualmente os fiéis mediante a fé e a operação do Espírito Santo.
