@@ -73,3 +73,5 @@ Diferenças:
 	- católicos nos símbolos e presbiterianos no templo.
 
 Por outro lado, na visão presbiteriana expressa pelos símbolos de Westminster, os fiéis não tornam o sacrifício sacramentalmente presente nem participam de um ato sacrificial renovado. Assim, os presbiterianos: (i) Revivem e se reconectam ao sacrifício se relembrando dele; e (ii) unem-se, participam e recebem Cristo espiritual e sacramentalmente, pela fé e pela ação do Espírito Santo, porque Cristo está verdadeira, real, local e substancialmente presente no lugar de ministração da Eucaristia.
+
+Se o Espírito Santo é quem une Cristo com o fiel, qual é o fim da transubstanciação? Ela não teria função nenhuma. Seria como se a Ceia do Senhor, dos presbiterianos, estivesse sendo realizada, e o pão e o vinho transubstanciados estivessem ali, sendo comidos e bebidos, mas de canto, sem função.
