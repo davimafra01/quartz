@@ -1,6 +1,59 @@
 ---
 draft: true
 ---
+# 1. O que está presente?
+
+Tanto para os católicos como para os presbiterianos, na Eucaristia, há a presença:
+- do Espírito Santo;
+- de Jesus Cristo;
+- da divindade de Cristo;
+- da humanidade de Cristo;
+- da graça e operação divina;
+- da verdadeira comunhão dos fiéis com Cristo.
+
+---
+#### 1.1 Modo das presenças para os católicos
+
+Espírito Santo:
+- o Espírito Santo atua na consagração da Eucaristia, realizando a transubstanciação e unindo os fiéis a Jesus Cristo. Sua presença não é entendida como localizada exclusivamente na hóstia ou no templo, pois, sendo Deus, é onipresente. Contudo, há uma atuação sacramental especial na liturgia eucarística.
+
+Jesus Cristo:
+- Cristo inteiro — Corpo, Sangue, Alma e Divindade — está verdadeira, real e substancialmente presente sob as espécies do pão e do vinho.
+
+Divindade de Cristo:
+- a divindade de Cristo está presente inseparavelmente unida à sua humanidade na Eucaristia, porque Cristo inteiro está presente nas espécies eucarísticas.
+
+Humanidade de Cristo:
+- a humanidade glorificada de Cristo está sacramentalmente presente na Eucaristia, porque o próprio Cristo inteiro está presente nos elementos consagrados.
+
+Graça e operação divina:
+- a Eucaristia comunica graça sacramental objetiva porque o próprio Cristo está presente substancialmente no sacramento.
+
+Comunhão dos fiéis com Cristo:
+- os fiéis entram em comunhão sacramental com Cristo mediante a recepção do Cristo substancialmente presente na Eucaristia.
+
+---
+#### 1.1 Modo das presenças para os presbiterianos
+
+Espírito Santo:
+- o Espírito Santo atua na Ceia unindo espiritualmente os fiéis a Cristo, comunicando graça e tornando real a participação sacramental. Sua presença também não é localizada nos elementos ou no ambiente, mas operativa e relacional na ação sacramental.
+
+Jesus Cristo:
+- Cristo inteiro é realmente recebido e participado espiritualmente pelos fiéis na Ceia, mediante a fé e a operação do Espírito Santo, sem presença substancial nos elementos.
+
+Divindade de Cristo:
+- a divindade de Cristo, sendo onipresente, está realmente atuante e comunicante na Ceia, unindo os fiéis ao Cristo inteiro.
+
+Humanidade de Cristo:
+- a humanidade glorificada de Cristo permanece localizada no céu; contudo, os fiéis realmente participam dessa humanidade espiritualmente pela união com Cristo operada pelo Espírito Santo.
+
+Graça e operação divina:
+- a Ceia é meio real de graça pelo qual Deus fortalece espiritualmente os fiéis mediante a fé e a operação do Espírito Santo.
+
+Comunhão dos fiéis com Cristo:
+- os fiéis entram em comunhão espiritual e sacramental com Cristo mediante a fé e a ação do Espírito Santo durante a participação da Ceia.
+
+---
 # 1. Eucaristia
 
 **168. O que é a Ceia do Senhor? (CMW)**  
@@ -53,14 +106,6 @@ Então biblicamente:
 Mas Deus é onipresente:
 Livro dos Salmos 139:
 > “Para onde me ausentarei do teu Espírito?”
-
-Tese: tanto para os católicos como para os presbiterianos, na Eucaristia, há a presença:
-- do Espírito Santo;
-- de Jesus Cristo;
-- da divindade de Cristo;
-- da humanidade de Cristo;
-- da graça e operação divina;
-- da verdadeira comunhão dos fiéis com Cristo.
 
 Cristo está presente por união espiritual mediada pelo Espírito Santo, e não localmente.
 
