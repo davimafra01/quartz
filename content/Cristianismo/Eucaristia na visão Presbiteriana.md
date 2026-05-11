@@ -51,7 +51,7 @@ Portanto, para Westminster:
 Assim, ao comer o pão e beber o vinho, o fiel não recebe substancialmente o corpo e o sangue de Cristo, mas recebe verdadeira comunhão com Cristo inteiro, sendo alimentado espiritualmente pela fé:
 
 **CMW 168:**
-> “alimentam-se do corpo e do sangue de Cristo para sua nutrição espiritual e crescimento na graça”
+> "A Ceia do Senhor é um sacramento do Novo Testamento no qual, dando-se e recebendo-se pão e vinho, conforme a instituição de Jesus Cristo, é anunciada a sua morte; e os que dignamente participam dele, alimentam-se do corpo e do sangue de Cristo para sua nutrição espiritual e crescimento na graça; têm a sua união e comunhão com ele confirmadas; testemunham e renovam a sua gratidão e consagração a Deus e o seu mútuo amor uns para com os outros, como membros do mesmo corpo místico."
 
 Dessa forma, a principal diferença entre a visão católica e presbiteriana está no modo da presença da humanidade de Cristo:
 - para os católicos, ela está sacramentalmente presente nos elementos;
