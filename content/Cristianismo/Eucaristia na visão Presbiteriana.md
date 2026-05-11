@@ -37,7 +37,7 @@ Por isso:
 Contudo, a Ceia não apenas um mero memorial psicológico. Westminster insiste que os fiéis realmente participam de Cristo:
 
 **CMW 170:**
-> “os que dignamente participam [...] se alimentam do corpo e do sangue de Cristo [...] espiritual, contudo verdadeira e realmente”  
+> "Desde que o corpo e o sangue de Cristo não estão, nem corporal, nem carnalmente, presentes no, com ou sob o pão e o vinho na Ceia do Senhor, mas, sim, espiritualmente à fé do comungante, não menos verdadeira e realmente do que estão os mesmos elementos aos seus sentidos exteriores, assim os que dignamente participam do sacramento da Ceia do Senhor se alimentam do corpo e do sangue de Cristo, não de uma maneira corporal e carnal, mas espiritual, contudo verdadeira e realmente, visto que pela fé recebem e aplicam a si mesmos o Cristo crucificado e todos os benefícios de sua morte."
 
 Essa participação acontece pela ação do Espírito Santo e mediante a fé. O Espírito une verdadeiramente o fiel ao Cristo glorificado que permanece no céu, como nos afirma o texto de Atos 3:21. Sua presença também não é localizada nos elementos ou no ambiente, mas operativa e relacional na ação sacramental. Assim:
 - a humanidade de Cristo não desce localmente à Ceia;
