@@ -75,10 +75,12 @@ Consequentemente:
 >
 >na _narração da instituição,_ a força das palavras e da acção de Cristo e o poder do Espírito Santo tomam sacramentalmente presentes, sob as espécies do pão e do vinho, o corpo e o sangue do mesmo Cristo, o seu sacrifício oferecido na cruz de uma vez por todas;
 
+Além disso,
+
 **CIC Compêndio, 292:**
 > “A sagrada Comunhão aumenta a nossa união com Cristo e com a sua Igreja.”  
 
-Assim, ao comer a hóstia e beber o vinho consagrado:
+Sendo assim, ao comer a hóstia e beber o vinho consagrado:
 - o fiel recebe sacramentalmente o próprio Cristo;
 - participa de sua humanidade glorificada;
 - une-se espiritualmente a Ele;
