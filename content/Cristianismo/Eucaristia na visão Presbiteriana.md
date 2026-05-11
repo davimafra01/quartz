@@ -11,12 +11,9 @@ draft: true
 - (iii) testemunho e renovação da gratidão e consagração (para com Deus) e mútuo amor (para com os irmãos).
 
 Para a teologia presbiteriana clássica expressa nos símbolos de Westminster, na Ceia do Senhor estão presentes:
-- o Espírito Santo em sua onipresença;
-- a divindade de Jesus Cristo em sua onipresença; mas
+- o Espírito Santo, em sua onipresença;
+- a divindade de Jesus Cristo, em sua onipresença; mas
 - não a humanidade local de Cristo.
-
-**Salmos 139:**
-> “Para onde me ausentarei do teu Espírito?”
 
 A humanidade glorificada de Cristo — seu Corpo, Sangue e Alma — permanece restrita ao céu:
 
