@@ -70,6 +70,11 @@ Consequentemente:
 >
 >**1112.** _A missão do Espírito Santo na liturgia da Igreja é preparar a assembleia para o encontro com Cristo, lembrar e manifestar Cristo à fé da assembleia, tornar presente e actualizar a obra salvífica de Cristo pelo seu poder transformante e fazer frutificar o dom da comunhão na Igreja._
 
+**CIC 1353:**
+>na _epiclese,_ pede ao Pai que envie o seu Espírito Santo (ou o poder da sua bênção)(185)sobre o pão e o vinho, para que se tornem, pelo seu poder, o corpo e o sangue de Jesus Cristo, e para que os que participam na Eucaristia sejam um só corpo e um só espírito. (Algumas tradições litúrgicas colocam a epiclese depois da anamnese);
+>
+>na _narração da instituição,_ a força das palavras e da acção de Cristo e o poder do Espírito Santo tomam sacramentalmente presentes, sob as espécies do pão e do vinho, o corpo e o sangue do mesmo Cristo, o seu sacrifício oferecido na cruz de uma vez por todas;
+
 **CIC Compêndio, 292:**
 > “A sagrada Comunhão aumenta a nossa união com Cristo e com a sua Igreja.”  
 
