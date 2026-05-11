@@ -32,9 +32,9 @@ Por isso:
 - mas ambos são separados para uso Santo e Sacramental:
 
 **CMW 169:**
-> “Cristo ordenou que os ministros [...] separassem o pão e o vinho do uso comum pela palavra da instituição, ações de graça e oração”  
+> "Cristo ordenou que os ministros da Palavra, na administração deste sacramento da Ceia do Senhor, separassem o pão e o vinho do uso comum pela palavra da instituição, ações de graça e oração; que  tomassem e partissem o pão e dessem, tanto este como o vinho, aos comungantes, os quais, pela mesma instituição, devem tomar e comer o pão e beber o vinho, em grata recordação de que o corpo de Cristo foi partido e dado, e o seu sangue derramado em favor deles."
 
-Contudo, a Ceia não é mero memorial psicológico. Westminster insiste que os fiéis realmente participam de Cristo:
+Contudo, a Ceia não apenas um mero memorial psicológico. Westminster insiste que os fiéis realmente participam de Cristo:
 
 **CMW 170:**
 > “os que dignamente participam [...] se alimentam do corpo e do sangue de Cristo [...] espiritual, contudo verdadeira e realmente”  
