@@ -43,6 +43,33 @@ Consequentemente:
 
 ==A união do fiel com Cristo também ocorre pela ação do Espírito Santo, porque toda comunhão com Cristo é trinitária e operada pelo Espírito. Contudo, para o catolicismo, essa união não depende da fé subjetiva do fiel, pois o próprio Cristo está objetivamente presente no sacramento:==
 
+**CIC 1104-1112:**
+>O ESPÍRITO SANTO ACTUALIZA O MISTÉRIO DE CRISTO
+>
+>**1104.** A liturgia cristã não se limita a recordar os acontecimentos que nos salvaram: actualiza-os, torna-os presentes. O mistério pascal de Cristo celebra-se, não se repete; as celebrações é que se repetem. Mas em cada uma delas sobrevém a efusão do Espírito Santo, que actualiza o único mistério.
+>
+>**1105.** A _epiclese_ («invocação sobre») é a intercessão mediante a qual o sacerdote suplica ao Pai que envie o Espírito santificador para que as oferendas se tornem o corpo e o sangue de Cristo e para que, recebendo-as, os fiéis se tornem eles próprios uma oferenda viva para Deus.
+>
+>**1106** Juntamente com a anamnese, a epiclese é o coração de qualquer celebração sacramental, e mais particularmente da Eucaristia:
+>
+> «Tu perguntas como é que o pão se torna corpo de Cristo, e o vinho [..] sangue de Cristo? Por mim, digo-te: o Espírito Santo irrompe e realiza isso que ultrapassa toda a palavra e todo o pensamento. [...] Baste-te ouvir que é pelo Espírito Santo, do mesmo modo que é da Santíssima Virgem e pelo Espírito Santo que o Senhor, por Si mesmo e em Si mesmo, assumiu a carne» (20).
+>
+>**1107.** O poder transformante do Espírito Santo na liturgia apressa a vinda do Reino e a consumação do mistério da salvação. Na expectativa e na esperança. Ele faz-nos realmente antecipar a comunhão plena da Santíssima Trindade. Enviado pelo Pai, que atende a epiclese da Igreja, o Espírito dá a vida aos que O acolhem e constitui para eles, desde já, as «arras» da sua herança (21).
+>
+>A COMUNHÃO DO ESPÍRITO SANTO
+>
+>**1108.** A finalidade da missão do Espírito Santo em toda a acção litúrgica é pôr-nos em comunhão com Cristo, para formarmos o seu corpo. O Espírito Santo é como que a seiva da Videira do Pai, que dá fruto nos sarmentos (22). Na liturgia, realiza-se a mais íntima cooperação do Espírito Santo com a Igreja. Ele, Espírito de comunhão, permanece indefectivelmente na Igreja, e é por isso que a Igreja é o grande sacramento da comunhão divina que reúne os filhos de Deus dispersos. O fruto do Espírito na liturgia é, inseparavelmente, comunhão com a Santíssima Trindade e comunhão fraterna (23).
+>
+>**1109.** A epiclese é também oração pelo pleno efeito da comunhão da assembleia no mistério de Cristo. «A graça de nosso Senhor Jesus Cristo, o amor do Pai e a comunhão do Espírito Santo» (2 _Cor_ 13, 13) devem estar sempre connosco e dar frutos, para além da celebração eucarística. Por isso, a Igreja pede ao Pai que envie o Espírito Santo, para que faça da vida dos fiéis uma oferenda viva para Deus pela transformação espiritual à imagem de Cristo, pela preocupação com a unidade da Igreja e pela participação na sua missão, mediante o testemunho e o serviço da caridade.
+>
+>**Resumindo:**
+>
+>**1110.** _Na liturgia da Igreja, Deus Pai é bendito e adorado como fonte de todas as bênçãos da criação e da salvação, com que nos abençoou no seu Filho, para nos dar o Espírito da adopção filial._
+>
+>**1111.** _A obra de Cristo na liturgia é sacramental, porque o seu mistério de salvação torna-se ali presente pelo poder do seu Espírito Santo; porque o seu corpo, que é a Igreja, é como que o sacramento (sinal e instrumento) no qual o Espírito Santo dispensa o mistério da salvação; e porque, através das suas acções litúrgicas, a Igreja peregrina participa já, por antecipação, na liturgia do céu._
+>
+>**1112.** _A missão do Espírito Santo na liturgia da Igreja é preparar a assembleia para o encontro com Cristo, lembrar e manifestar Cristo à fé da assembleia, tornar presente e actualizar a obra salvífica de Cristo pelo seu poder transformante e fazer frutificar o dom da comunhão na Igreja._
+
 **CIC Compêndio, 292:**
 > “A sagrada Comunhão aumenta a nossa união com Cristo e com a sua Igreja.”  
 
