@@ -57,29 +57,18 @@ Dessa forma, a principal diferença entre a visão católica e presbiteriana est
 - para os católicos, ela está sacramentalmente presente nos elementos;
 - para os presbiterianos, ela permanece no céu, sendo comunicada espiritualmente ao fiel pelo Espírito Santo mediante a fé.
 
+Não é necessário haver a presença local da humanidade de Cristo para que a união, comunhão, participação e recebimento de Cristo —  em Corpo, Sangue, Alma e Divindade —  ocorra. O Espírito Santo pode sim realizar isso em nós mesmo com o Corpo glorificado de Cristo restrito aos céus. Desse modo, a Humanidade de Cristo não está presente localmente no local de ministração da Ceia do Senhor, mas está presente virtualmente.
+
+Para provar que a presença local substancial de Cristo é absolutamente necessária, é imprescindível que se prove que Cristo, ao afirmar que o pão é o seu Corpo e que o vinho é o seu Sangue, afirmou isso de maneira literal-sacramental. Apenas então a presença virtual de Cristo não poderia ser admitida.
+
+Da mesma forma que, na Eucaristia, é como se o Espírito Santo rasgasse o espaço e o tempo para os fiéis estarem com Cristo na cruz, na Santa Ceia, é como se o Espírito Santo rasgasse o espaço e o tempo para nos unir com Cristo no Céu (presença virtual).
+
 Para ambos, o sacrifício de Cristo é entendido como único, completo, consumado e irrepetível.
 
 ---
 # Para desenvolver depois
 
-Não é necessário haver a presença local da humanidade de Cristo para que a união, comunhão, participação e recebimento de Cristo —  em Corpo, Sangue, Alma e Divindade —  ocorra. O Espírito Santo pode sim realizar isso em nós mesmo com o Corpo glorificado de Cristo restrito aos céus. Desse modo, a Humanidade de Cristo não está presente localmente no local de ministração da Ceia do Senhor, mas está presente virtualmente.
-
-Para provar que a presença local substancial de Cristo é absolutamente necessária, é imprescindível que se prove que Cristo, ao afirmar que o pão é o seu Corpo e que o vinho é o seu Sangue, afirmou isso de maneira literal-sacramental. Apenas então a presença virtual de Cristo não poderia ser admitida.
-
-Da mesma forma que na Eucaristia é como se o Espírito Santo rasgasse o espaço e o tempo para estarem com Cristo na cruz, na Santa Ceia é como se o Espírito Santo rasgasse o espaço e o tempo para nos unir com Cristo (presença virtual).
-
 Em qualquer lugar que Cristo esteja substancialmente/espiritualmente, é necessário que a (i) matéria seja privada de sua substância para que a substância/espírito de Cristo esteja lá, ou (ii) a substância/espírito de Cristo pode sobrepor outras substâncias.
 - Se a matéria é privada de sua substância, então a transubstanciação não é um milagre, já que ocorre a todo momento para que Cristo esteja conosco todos os dias;
 - Se a matéria NÃO é privada de sua substância, então a doutrina da transubstanciação e a infalibilidade papal caem por terra.
 A forma do católico sair dessa é afirmando que o espírito de Cristo nunca priva as coisas de suas substâncias, sobrepondo-as sempre, com exceção na Eucaristia. A regra é não privar e a Eucaristia é a exceção.
-
-Diferenças:
-- Revivem e se reconectam:
-	- católicos participando sacramentalmente e presbiterianos relembrando sacramentalmente;
-	- a participação sacramental dos católicos acontece por meio da transubstanciação.
-- Unem-se, participam e recebem Cristo:
-	- católicos independente da fé e presbiterianos pela fé.
-- Presença real de Cristo:
-	- católicos nos símbolos e presbiterianos no templo.
-
-Por outro lado, na visão presbiteriana expressa pelos símbolos de Westminster, os fiéis não tornam o sacrifício sacramentalmente presente nem participam de um ato sacrificial renovado. Assim, os presbiterianos: (i) Revivem e se reconectam ao sacrifício se relembrando dele; e (ii) unem-se, participam e recebem Cristo espiritual e sacramentalmente, pela fé e pela ação do Espírito Santo, porque Cristo está verdadeira, real, local e substancialmente presente no lugar de ministração da Eucaristia.
