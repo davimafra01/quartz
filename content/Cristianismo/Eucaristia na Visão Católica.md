@@ -44,7 +44,7 @@ Consequentemente:
 ==A união do fiel com Cristo também ocorre pela ação do Espírito Santo, porque toda comunhão com Cristo é trinitária e operada pelo Espírito. Contudo, para o catolicismo, essa união não depende da fé subjetiva do fiel, pois o próprio Cristo está objetivamente presente no sacramento:==
 
 **CIC 1104-1112:**
->O ESPÍRITO SANTO ACTUALIZA O MISTÉRIO DE CRISTO
+>**O ESPÍRITO SANTO ACTUALIZA O MISTÉRIO DE CRISTO**
 >
 >**1104.** A liturgia cristã não se limita a recordar os acontecimentos que nos salvaram: actualiza-os, torna-os presentes. O mistério pascal de Cristo celebra-se, não se repete; as celebrações é que se repetem. Mas em cada uma delas sobrevém a efusão do Espírito Santo, que actualiza o único mistério.
 >
@@ -56,7 +56,7 @@ Consequentemente:
 >
 >**1107.** O poder transformante do Espírito Santo na liturgia apressa a vinda do Reino e a consumação do mistério da salvação. Na expectativa e na esperança. Ele faz-nos realmente antecipar a comunhão plena da Santíssima Trindade. Enviado pelo Pai, que atende a epiclese da Igreja, o Espírito dá a vida aos que O acolhem e constitui para eles, desde já, as «arras» da sua herança (21).
 >
->A COMUNHÃO DO ESPÍRITO SANTO
+>**A COMUNHÃO DO ESPÍRITO SANTO**
 >
 >**1108.** A finalidade da missão do Espírito Santo em toda a acção litúrgica é pôr-nos em comunhão com Cristo, para formarmos o seu corpo. O Espírito Santo é como que a seiva da Videira do Pai, que dá fruto nos sarmentos (22). Na liturgia, realiza-se a mais íntima cooperação do Espírito Santo com a Igreja. Ele, Espírito de comunhão, permanece indefectivelmente na Igreja, e é por isso que a Igreja é o grande sacramento da comunhão divina que reúne os filhos de Deus dispersos. O fruto do Espírito na liturgia é, inseparavelmente, comunhão com a Santíssima Trindade e comunhão fraterna (23).
 >
@@ -109,11 +109,5 @@ Cristo, por sua vez, (i) é o conteúdo da Eucaristia, (ii) torna possível toda
 
 ---
 # Para desenvolver depois
-
-Por outro lado, na visão presbiteriana expressa pelos símbolos de Westminster, os fiéis não tornam o sacrifício sacramentalmente presente nem participam de um ato sacrificial renovado. Assim, os presbiterianos: (i) Revivem e se reconectam ao sacrifício se relembrando dele; e (ii) unem-se, participam e recebem Cristo espiritual e sacramentalmente, pela fé e pela ação do Espírito Santo, porque Cristo está verdadeira, real, local e substancialmente presente no lugar de ministração da Eucaristia.
-
-Se o Espírito Santo é quem une Cristo com o fiel, qual é o fim da transubstanciação? Ela não teria função nenhuma. Seria como se a Ceia do Senhor, dos presbiterianos, estivesse sendo realizada, e o pão e o vinho transubstanciados estivessem ali, sendo comidos e bebidos, mas de canto, sem função.
-
-"O Espírito é o que vivifica; a carne para nada aproveita; as palavras que vos tenho dito são espírito e são vida." João 6:63
 
 Se a carne NADA aproveita, como aproveita a sua substância. Jesus disse que suas palavras são espírito. Seria, por ventura, a substância da carne, espírito? Espírito de que? Da carne? Não faz sentido. É o Espírito (Santo) que vivifica, e não a carne ou sua substância.
