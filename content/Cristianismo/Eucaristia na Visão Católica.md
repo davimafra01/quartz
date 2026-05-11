@@ -58,6 +58,9 @@ Dessa forma, a principal diferença entre a visão católica e presbiteriana est
 
 Para ambos, o sacrifício de Cristo é entendido como único, completo, consumado e irrepetível.
 
+**CIC 1104:**
+> A liturgia cristã não se limita a recordar os acontecimentos que nos salvaram: actualiza-os, torna-os presentes. **O mistério pascal de Cristo celebra-se, não se repete**; as celebrações é que se repetem. Mas em cada uma delas sobrevém a efusão do Espírito Santo, que actualiza o único mistério.
+
 ---
 # Para desenvolver depois
 
