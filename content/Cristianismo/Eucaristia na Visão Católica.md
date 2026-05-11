@@ -23,7 +23,7 @@ Segundo o Compêndio do Catecismo da Igreja Católica:
 **CIC Compêndio, 282:**
 > “Jesus Cristo está presente na Eucaristia dum modo único e incomparável. De facto, está presente de modo verdadeiro, real, substancial: com o seu Corpo e o seu Sangue, com a sua Alma e a sua Divindade.” 
 
-A Igreja Católica entende as palavras de Cristo — “Isto é o meu corpo” e “Isto é o meu sangue” — de maneira literal-sacramental. Por isso, considera necessário afirmar que a própria humanidade glorificada de Cristo está objetivamente presente na Eucaristia.
+A Igreja Católica entende as palavras de Cristo — “Isto é o meu corpo” e “Isto é o meu sangue” — de maneira literal-sacramental. Por isso, considera necessário afirmar que a própria humanidade glorificada de Cristo está objetivamente presente na Eucaristia, em substância.
 
 Durante a consagração, o Espírito Santo atua realizando a transubstanciação:
 
