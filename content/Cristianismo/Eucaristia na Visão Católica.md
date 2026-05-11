@@ -105,12 +105,10 @@ Benefícios eucarísticos (todos aplicados pelo Espírito Santo mediante a prese
 - Unidade eclesial;
 - Antecipação da glória futura.
 
-O que 
+Cristo, por sua vez, (i) é o conteúdo da Eucaristia, (ii) torna possível toda graça sacramental pelos benefícios da cruz, (iii) se entrega sacramentalmente e (iv) permanece presente substancialmente.
 
 ---
 # Para desenvolver depois
-
-O Espírito Santo age quando o fiel come e bebe o pão e o vinho para que haja união, ou a união acontece por conta própria no ato de comer e beber? Quero saber se tanto católicos como presbiterianos recebem os benefícios do sacrifício de forma indireta, ou seja: operada pelo Espírito Santo. Isso seria bom de provar para mostrar que são muito parecidos.
 
 Diferenças:
 - Revivem e se reconectam:
