@@ -95,6 +95,18 @@ Para ambos, o sacrifício de Cristo é entendido como único, completo, consumad
 **CIC 1104:**
 > A liturgia cristã não se limita a recordar os acontecimentos que nos salvaram: actualiza-os, torna-os presentes. **O mistério pascal de Cristo celebra-se, não se repete**; as celebrações é que se repetem. Mas em cada uma delas sobrevém a efusão do Espírito Santo, que actualiza o único mistério.
 
+Benefícios eucarísticos (todos aplicados pelo Espírito Santo mediante a presença real de Cristo):
+- União com Cristo;
+- Alimentação espiritual da alma;
+- Crescimento na vida da graça;
+- Perdão dos pecados veniais;
+- Fortalecimento contra o pecado;
+- Unidade da Igreja;
+- Unidade eclesial;
+- Antecipação da glória futura.
+
+O que 
+
 ---
 # Para desenvolver depois
 
