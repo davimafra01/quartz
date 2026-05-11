@@ -54,7 +54,7 @@ Assim, ao comer a hóstia e beber o vinho consagrado:
 
 Dessa forma, a principal diferença entre a visão católica e presbiteriana está no modo da presença da humanidade de Cristo:
 - para os católicos, ela está sacramentalmente presente nos elementos;
-- para os presbiterianos, ela permanece no céu, sendo comunicada espiritualmente ao fiel pelo Espírito Santo mediante a fé.
+- para os presbiterianos, ela permanece no céu, sendo comunicada espiritualmente ao fiel pelo Espírito Santo, mediante a fé.
 
 Para ambos, o sacrifício de Cristo é entendido como único, completo, consumado e irrepetível.
 
