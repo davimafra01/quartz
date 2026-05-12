@@ -1,9 +1,9 @@
 ---
 draft: true
 ---
-# Sistema de Classificação Experiencial de Locais
+# 1. Sistema de Classificação Experiencial de Locais
 
-## Visão Geral
+## 1.1. Visão Geral
 
 O sistema é uma plataforma de descoberta, classificação e análise de locais baseada não apenas em avaliações gerais, mas também em características experienciais específicas dos lugares.
 
@@ -21,7 +21,8 @@ A proposta é permitir que usuários encontrem locais com base em atributos subj
 O sistema busca funcionar como uma evolução contextual de plataformas como Google Maps, focando na experiência percebida do ambiente.
 
 ---
-# Problema que o Sistema Resolve
+
+# 2. Problema que o Sistema Resolve
 
 Plataformas tradicionais de mapas e reviews fornecem principalmente:
 
@@ -31,7 +32,7 @@ Plataformas tradicionais de mapas e reviews fornecem principalmente:
 
 Entretanto, usuários frequentemente desejam encontrar lugares com características subjetivas específicas.
 
-Exemplos:
+## 2.1. Exemplos de Necessidades dos Usuários
 
 - lugares bons para estudar
 - restaurantes românticos
@@ -45,7 +46,8 @@ Atualmente, essas informações estão dispersas em comentários e são difícei
 O sistema propõe organizar essas percepções em classificações semânticas pesquisáveis.
 
 ---
-# Objetivo do Sistema
+
+# 3. Objetivo do Sistema
 
 Permitir que usuários:
 
@@ -56,12 +58,15 @@ Permitir que usuários:
 - encontrem eventos relacionados a contextos específicos
 
 ---
-# Estrutura Conceitual Inicial
 
-## Place
+# 4. Estrutura Conceitual Inicial
+
+## 4.1. Place
+
 Representa um local físico.
 
-Exemplos:
+### 4.1.1. Exemplos
+
 - restaurantes
 - cafeterias
 - parques
@@ -70,21 +75,24 @@ Exemplos:
 - eventos
 
 ---
-## Review
+
+## 4.2. Review
+
 Representa uma avaliação realizada por um usuário sobre um local.
 
-Cada review pode conter:
+### 4.2.1. Cada review pode conter
 
 - nota geral
 - comentário textual opcional
 - avaliações específicas de tags
 
 ---
-## Tags Experienciais
+
+## 4.3. Tags Experienciais
 
 As tags representam dimensões subjetivas da experiência do local.
 
-Exemplos:
+### 4.3.1. Exemplos de Tags
 
 - romântico
 - silencioso
@@ -97,23 +105,30 @@ Exemplos:
 Cada local possuirá uma pontuação agregada para cada tag baseada nas avaliações dos usuários.
 
 ---
-# Exemplo Conceitual
 
-## Lugar
-Café Aurora
+# 5. Exemplo Conceitual
 
-### Nota Geral
+## 5.1. Lugar
+
+### 5.1.1. Café Aurora
+
+#### 5.1.1.1. Nota Geral
+
+```text
 4.6
+```
 
-### Perfil Experiencial
+#### 5.1.1.2. Perfil Experiencial
+
 - Romântico: 4.8
 - Silencioso: 4.2
 - Familiar: 2.1
 
 ---
-# Funcionalidades Planejadas
 
-## MVP Inicial
+# 6. Funcionalidades Planejadas
+
+## 6.1. MVP Inicial
 
 - cadastro de usuários
 - cadastro de locais
@@ -125,7 +140,8 @@ Café Aurora
 - visualização em mapa
 
 ---
-# Funcionalidades Futuras
+
+## 6.2. Funcionalidades Futuras
 
 - sistema de eventos
 - favoritos
@@ -140,7 +156,8 @@ Café Aurora
 - API pública
 
 ---
-# Estratégia Inicial
+
+# 7. Estratégia Inicial
 
 O sistema deverá iniciar focado em:
 
@@ -148,18 +165,21 @@ O sistema deverá iniciar focado em:
 - uma cidade inicial
 - categorias selecionadas
 
-Objetivo:
-resolver o problema de cold start e construir densidade de dados de qualidade.
+## 7.1. Objetivo Estratégico
+
+Resolver o problema de cold start e construir densidade de dados de qualidade.
 
 ---
-# Potenciais Modelos de Monetização
 
-## Destaque patrocinado de estabelecimentos
+# 8. Potenciais Modelos de Monetização
+
+## 8.1. Destaque Patrocinado de Estabelecimentos
 
 Estabelecimentos podem pagar para aparecer em posições privilegiadas.
 
 ---
-## Assinatura empresarial
+
+## 8.2. Assinatura Empresarial
 
 Painel analítico para empresas acompanharem:
 
@@ -168,39 +188,51 @@ Painel analítico para empresas acompanharem:
 - reputação contextual
 
 ---
-## Publicidade contextual
 
-Exemplo:
-promoções de restaurantes românticos para usuários buscando experiências românticas.
+## 8.3. Publicidade Contextual
+
+### 8.3.1. Exemplo
+
+Promoções de restaurantes românticos para usuários buscando experiências românticas.
 
 ---
-## API e Inteligência de Dados
+
+## 8.4. API e Inteligência de Dados
 
 Possibilidade futura de disponibilizar APIs e dados analíticos sobre comportamento e percepção urbana.
 
 ---
-# Stack Tecnológica Inicial
 
-## Backend
+# 9. Stack Tecnológica Inicial
+
+## 9.1. Backend
+
 - FastAPI
 - SQLAlchemy
 - PostgreSQL
 
-## Frontend
+---
+
+## 9.2. Frontend
+
 - Next.js
 - TypeScript
 
-## Infraestrutura
+---
+
+## 9.3. Infraestrutura
+
 - GitHub
 - Obsidian
 - dbdiagram
 
 ---
-# Considerações Estratégicas
+
+# 10. Considerações Estratégicas
 
 O diferencial competitivo principal do sistema não está apenas em reviews tradicionais, mas na modelagem semântica e experiencial dos lugares.
 
-O foco do produto deve ser:
+## 10.1. Foco Principal do Produto
 
 - contexto
 - experiência
