@@ -154,6 +154,89 @@ Cada local possuirá uma pontuação agregada para cada tag baseada nas avaliaç
 - perfis empresariais
 - analytics para estabelecimentos
 - API pública
+- geração inteligente de itinerários urbanos
+
+---
+
+## 6.2.1. Sistema de Itinerários
+
+O sistema deverá futuramente ser capaz de gerar programações completas e contextualizadas para usuários com base em preferências, localização, horário, orçamento e perfil experiencial desejado.
+
+Os itinerários poderão combinar diferentes tipos de locais e eventos em uma sequência planejada de atividades.
+
+### 6.2.1.1. Exemplos de Itinerários
+
+#### Encontro Romântico
+
+- cafeteria aconchegante
+- parque ou praça tranquila
+- restaurante romântico
+- evento noturno
+
+---
+
+#### Dia de Estudos
+
+- cafeteria silenciosa
+- biblioteca
+- restaurante econômico
+- ambiente tranquilo para leitura
+
+---
+
+#### Passeio em Família
+
+- parque
+- praça
+- restaurante familiar
+- evento infantil
+
+---
+
+#### Turismo Urbano
+
+- pontos turísticos
+- restaurantes locais
+- eventos culturais
+- áreas naturais
+
+---
+
+## 6.2.2. Objetivos do Sistema de Itinerários
+
+O objetivo é transformar o sistema não apenas em uma plataforma de descoberta de lugares, mas em uma plataforma de planejamento experiencial urbano.
+
+O sistema deverá futuramente considerar:
+
+- distância entre locais
+- horários de funcionamento
+- trânsito
+- orçamento
+- contexto emocional/social desejado
+- duração estimada
+- eventos disponíveis
+- clima
+- preferências pessoais do usuário
+
+---
+
+## 6.2.3. Potencial Estratégico
+
+O sistema de itinerários possui alto potencial estratégico e comercial, pois aumenta:
+
+- retenção de usuários
+- tempo de uso da plataforma
+- personalização
+- valor da recomendação contextual
+- possibilidades de monetização
+
+Além disso, permite futura integração com:
+
+- turismo
+- eventos
+- reservas
+- publicidade contextual
+- inteligência artificial personalizada
 
 ---
 
