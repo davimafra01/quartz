@@ -406,9 +406,119 @@ Premissas e conclusão católica;
 Agora, vamos passar em cada uma das 10 premissas.
 
 ---
+## 15.1 Jesus não corrige os judeus
+
+Jesus nem sempre corrige mal-entendidos imediatamente. Em diversos momentos ele permite que a dificuldade permaneça por razões pedagógicas, judiciais ou seletivas. Em João 6, os cafarnaítas não estão apenas confusos; eles murmuram entre si e desprezam a autoridade de Jesus. O texto enfatiza que Jesus já sabia que eles não creriam. Assim, o silêncio corretivo pode ser entendido não como confirmação da literalidade, mas como endurecimento deliberado diante da incredulidade.
+
+---
+## 15.2 Jesus intensifica o discurso ao invés de suavizar
+
+Intensificar não significa necessariamente tornar algo mais literal. Jesus frequentemente endurece a linguagem diante da incredulidade ou oposição. Em João 6, a intensificação ocorre precisamente após a murmuração coletiva. Isso se encaixa no padrão bíblico de juízo pedagógico: palavras mais duras para expor a incredulidade dos ouvintes e ensinar os discípulos, não necessariamente para afirmar materialidade sacramental.
+
+---
+## 15.3 Comer e beber trazem vida eterna
+
+No próprio contexto de João 6, Jesus já havia definido o eixo central do discurso como “crer”. Antes da linguagem de comer, ele repete várias vezes que quem crê tem vida eterna. Assim, “comer” pode funcionar como linguagem vívida para apropriação espiritual de Cristo pela fé, e não necessariamente ingestão literal de substância física.
+
+---
+## 15.4 O pão é a carne de Cristo
+
+Jesus frequentemente identifica símbolos consigo mesmo:
+- “eu sou a porta”;
+- “eu sou a videira”;
+- “eu sou o caminho”.
+
+Dizer “o pão é minha carne” não exige automaticamente identidade ontológica literal. Dentro do contexto do maná levantado pelos próprios cafarnaítas, Jesus usa o pão como linguagem teológica para apontar para si mesmo como fonte da vida.
+
+---
+## 15.5 O discurso vai de crer para comer
+
+A mudança de linguagem não implica mudança de assunto. Jesus adapta constantemente seu vocabulário ao contexto do interlocutor. Como os cafarnaítas introduzem o tema do pão e do maná, Jesus continua ensinando dentro dessa mesma linguagem. O tema central continua sendo união com Cristo pela fé.
+
+---
+## 15.6 Repetição da linguagem de carne e sangue
+
+Repetição não prova literalidade. Jesus também repete metáforas em outros contextos sem intenção material:
+- porta,
+- videira,
+- água viva,
+- fermento,
+- luz.
+
+A repetição em João 6 pode servir para aumentar o impacto retórico e o escândalo pedagógico do discurso, especialmente diante da incredulidade crescente da multidão.
+
+---
+## 15.7 “Verdadeira comida” e “verdadeira bebida”
+
+No Evangelho de João, “verdadeiro” frequentemente significa:
+- definitivo,
+- celestial,
+- pleno,
+- espiritual, e não necessariamente físico-material.
+
+Exemplos:
+- “verdadeira luz”;
+- “verdadeira videira”.
+
+Assim, “verdadeira comida” pode significar que Cristo é o alimento espiritual definitivo que cumpre o simbolismo do maná.
+
+---
+## 15.8 Muitos discípulos abandonam Jesus
+
+O abandono dos discípulos mostra que o discurso foi ofensivo, mas não determina automaticamente que a interpretação deles estava correta. Pessoas também abandonaram Jesus por outros ensinos espirituais difíceis:
+- soberania divina,
+- humilhação messiânica,
+- necessidade de fé,
+- morte e ressurreição.
+
+O escândalo pode ter sido justamente a radicalidade da dependência absoluta de Cristo, não necessariamente o canibalismo literal.
+
+---
+## 15.9 Jesus não impede a saída deles
+
+Jesus frequentemente deixa pessoas irem embora:
+- o jovem rico;
+- discípulos escandalizados;
+- ouvintes das parábolas.
+
+Isso faz parte do padrão em que ele não força adesão nem adapta o ensino para torná-lo aceitável aos incrédulos. O fato de não impedir a saída não prova que a interpretação literal deles estivesse correta.
+
+---
+## 15.10 “Espírito e vida”
+
+Ao final do discurso, Jesus afirma:
+
+> “a carne para nada aproveita; as palavras que eu vos tenho dito são espírito e são vida”.
+
+Isso funciona naturalmente como chave interpretativa do capítulo. Jesus contrapõe:
+- entendimento carnal;
+- entendimento espiritual.
+
+Assim, o foco não seria ingestão física de substância corporal, mas apropriação espiritual de Cristo por meio da fé.
+
+---
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# TEXTO
 
 Em João 6, Jesus inicia seu discurso apontando o verdadeiro motivo pelo qual os cafarnaítas o procuravam. Logo no versículo 26, ele afirma que eles não o seguiam porque haviam compreendido o sinal realizado, mas porque haviam comido dos pães e se fartado. Ou seja, Jesus expõe que aquelas pessoas ainda estavam presas a uma compreensão material e carnal da situação. Elas não haviam enxergado o significado espiritual do milagre da multiplicação dos pães; estavam interessadas apenas no benefício terreno.
 
