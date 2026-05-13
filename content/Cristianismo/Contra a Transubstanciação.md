@@ -406,7 +406,7 @@ Premissas e conclusão católica;
 Agora, vamos passar em cada uma das 10 premissas.
 
 ---
-# 15.1 Jesus não corrige os judeus
+
 
 
 
