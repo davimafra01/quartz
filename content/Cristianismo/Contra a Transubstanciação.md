@@ -512,7 +512,7 @@ E em Marcos 4:11-12:
 ==Ou seja, Jesus afirma explicitamente que sua forma de ensinar tinha também um aspecto judicial e seletivo. As parábolas não existiam apenas para facilitar a compreensão por meio de ilustrações simples; em muitos casos, elas serviam para ocultar a verdade daqueles cujo coração já estava endurecido.==
 
 ==João 10: Jesus intensifica quando encontra incredulidade
-João 11 e Mateus 8: Jesus permite situações difíceis, escandalosas ou incompreensíveis para ensinar seus discípulos;
+João 11 e Mateus 8 e Mateus 19: Jesus permite situações difíceis, escandalosas ou incompreensíveis para ensinar seus discípulos;
 Mateus 13 e Marcos 4: Jesus fala em parábolas para que alguns não entendam==
 
 Isso ajuda a compreender João 6. O fato de Jesus intensificar o discurso após a murmuração dos judeus não significa necessariamente que ele estivesse tentando tornar sua fala mais literal. Pelo contrário, pode significar exatamente o endurecimento pedagógico que aparece em outros momentos dos evangelhos: uma fala deliberadamente difícil, escandalosa e confrontadora para expor a incredulidade dos ouvintes.
