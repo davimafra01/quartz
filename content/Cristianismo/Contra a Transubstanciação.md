@@ -388,10 +388,10 @@ Em João 6, Jesus inicia seu discurso apontando o verdadeiro motivo pelo qual os
 Jesus não tira o tema da comida do nada. Ele fala de alimento porque os próprios cafarnaítas estavam procurando pão. O discurso acompanha o contexto deles. O ponto central, porém, não é o pão físico, mas aquilo para o qual o pão apontava: a fé no Filho enviado por Deus.
 
 **CATÓLICOS**
-Premissa 1: Jesus iniciou falando de pão e comida
-Premissa 2: 
-Premissa 3: 
-Premissa 4: 
+Premissa 1: Jesus intensifica o discurso em vez de suavizá-lo
+Premissa 2: Jesus permite que discípulos abandonem o discurso
+Premissa 3: Uso repetitivo e insistente da linguagem corporal
+Premissa 4: Mudança do verbo φαγεῖν para τρώγειν
 Premissa 5: 
 Conclusão: Jesus falou de forma literal-sacramental.
 
