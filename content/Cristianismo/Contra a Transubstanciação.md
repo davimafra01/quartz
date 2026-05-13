@@ -379,6 +379,37 @@ Neste caso, como termos a partícula "ὁ", fica claro que estamos falando de um
 Ou seja: Jesus quis dizer que aquele que é do tipo de pessoa (característica) que mastiga a sua carne e bebe o seu sangue, tem a vida eterna.
 # 15. 🟡 João 6
 
+Estrutura lógica católica resumida:
+1. Jesus fala realisticamente;
+2. os ouvintes entendem realisticamente;
+3. Jesus intensifica;
+4. muitos vão embora;
+5. Jesus não corrige;
+6. depois institui a Eucaristia;
+7. a Igreja antiga interpreta realisticamente;
+8. Paulo fala realisticamente;
+9. logo: João 6 aponta para uma presença real-sacramental do corpo e sangue de Cristo.
+
+Premissas e conclusão católica;
+1. Os judeus entendem Jesus literalmente e Jesus não os corrige.
+2. Após a murmuração, Jesus intensifica o discurso em vez de suavizá-lo.
+3. Jesus associa comer sua carne e beber seu sangue à vida eterna e à ressurreição.
+4. Jesus identifica explicitamente o pão com sua própria carne (“o pão que eu darei é a minha carne”).
+5. O discurso progride de “crer” para “comer/beber”, como algo adicional e não apenas repetição metafórica.
+6. Jesus repete continuamente a linguagem de comer, carne e sangue sem reinterpretá-la simbolicamente.
+7. Jesus chama sua carne de “verdadeira comida” e seu sangue de “verdadeira bebida”.
+8. Muitos discípulos abandonam Jesus por causa desse discurso.
+9. Jesus não impede a saída deles nem reformula sua fala.
+10. Jesus diz que suas palavras são “espírito e vida”, não que sejam apenas símbolos ou metáforas;
+11. Logo, Jesus falou de forma literal-sacramental.
+
+Agora, vamos passar em cada uma das 10 premissas.
+
+---
+# 15.1 Jesus não corrige os judeus
+
+
+
 Em João 6, Jesus inicia seu discurso apontando o verdadeiro motivo pelo qual os cafarnaítas o procuravam. Logo no versículo 26, ele afirma que eles não o seguiam porque haviam compreendido o sinal realizado, mas porque haviam comido dos pães e se fartado. Ou seja, Jesus expõe que aquelas pessoas ainda estavam presas a uma compreensão material e carnal da situação. Elas não haviam enxergado o significado espiritual do milagre da multiplicação dos pães; estavam interessadas apenas no benefício terreno.
 
 É justamente por causa desse contexto que Jesus introduz a linguagem da comida no versículo 27:
