@@ -459,11 +459,11 @@ Entretanto, há uma mudança importante no decorrer do capítulo. Depois de Jesu
 
 Isso contrasta com outros personagens dos evangelhos:
 - Nicodemos, em João 3, mesmo sem compreender, continua perguntando diretamente a Jesus;
-- A mulher samaritana, em João 4, permanece dialogando com ele até compreender progressivamente o sentido espiritual de suas palavras;
 - Em João 8, quando os judeus respondem que nunca foram escravos, ainda continuam conversando com Jesus;
 - Em Mateus 16, os discípulos confundem o “fermento dos fariseus” com pão literal, mas continuam atentos à explicação do Mestre.
 
 - Em João 10, quando não entendem o discurso do pastor e das ovelhas, Jesus explica, mas quando há dissensão e pedem que ele fale claramente, Jesus não fala, mas intensifica aplicando a imagem das ovelhas para eles e dizendo mais do que antes, falando que ele o o Pai são um, escandalizando a ponto de pegarem em pedras para apedrejá-lo. João 6 segue esse padrão.
+- A mulher samaritana, em João 4, permanece dialogando com ele até compreender progressivamente o sentido espiritual de suas palavras;
 
 Em João 6, porém, ocorre algo diferente: os judeus murmuram entre si e passam a desprezar a fala de Jesus em vez de buscar compreendê-la. O texto deixa claro que há endurecimento e incredulidade.
 
