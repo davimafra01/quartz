@@ -387,6 +387,22 @@ Em João 6, Jesus inicia seu discurso apontando o verdadeiro motivo pelo qual os
 
 Jesus não tira o tema da comida do nada. Ele fala de alimento porque os próprios cafarnaítas estavam procurando pão. O discurso acompanha o contexto deles. O ponto central, porém, não é o pão físico, mas aquilo para o qual o pão apontava: a fé no Filho enviado por Deus.
 
+**CATÓLICOS**
+Premissa 1: Jesus iniciou falando de pão e comida
+Premissa 2: 
+Premissa 3: 
+Premissa 4: 
+Premissa 5: 
+Conclusão: Jesus falou de forma literal-sacramental.
+
+**PROTESTANTES**
+Premissa 1: 
+Premissa 2: 
+Premissa 3: 
+Premissa 4: 
+Premissa 5: 
+Conclusão: Jesus falou de forma espiritual.
+
 Isso fica evidente logo em seguida. Quando perguntam quais seriam as obras de Deus, Jesus responde no versículo 29:
 
 > “A obra de Deus é esta: que creiais naquele que por ele foi enviado.”
