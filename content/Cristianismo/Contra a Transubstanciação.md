@@ -390,20 +390,10 @@ Estrutura lógica católica resumida:
 8. Paulo fala realisticamente;
 9. logo: João 6 aponta para uma presença real-sacramental do corpo e sangue de Cristo.
 
-Premissas e conclusão católica;
-1. Os judeus entendem Jesus literalmente e Jesus não os corrige.
-2. Após a murmuração, Jesus intensifica o discurso em vez de suavizá-lo.
-3. Jesus associa comer sua carne e beber seu sangue à vida eterna e à ressurreição.
-4. Jesus identifica explicitamente o pão com sua própria carne (“o pão que eu darei é a minha carne”).
-5. O discurso progride de “crer” para “comer/beber”, como algo adicional e não apenas repetição metafórica.
-6. Jesus repete continuamente a linguagem de comer, carne e sangue sem reinterpretá-la simbolicamente.
-7. Jesus chama sua carne de “verdadeira comida” e seu sangue de “verdadeira bebida”.
-8. Muitos discípulos abandonam Jesus por causa desse discurso.
-9. Jesus não impede a saída deles nem reformula sua fala.
-10. Jesus diz que suas palavras são “espírito e vida”, não que sejam apenas símbolos ou metáforas;
-11. Logo, Jesus falou de forma literal-sacramental.
-
-Agora, vamos passar em cada uma das 10 premissas.
+Premissas católicas:
+1. Jesus não corrige os judeus;
+2. Jesus intensifica o discurso;
+3. Jesus não impede a saída dos que o abandonaram.
 
 ---
 ## 15.1 Jesus não corrige os judeus
@@ -416,54 +406,7 @@ Jesus nem sempre corrige mal-entendidos imediatamente. Em diversos momentos ele 
 Intensificar não significa necessariamente tornar algo mais literal. Jesus frequentemente endurece a linguagem diante da incredulidade ou oposição. Em João 6, a intensificação ocorre precisamente após a murmuração coletiva. Isso se encaixa no padrão bíblico de juízo pedagógico: palavras mais duras para expor a incredulidade dos ouvintes e ensinar os discípulos, não necessariamente para afirmar materialidade sacramental.
 
 ---
-## 15.3 Comer e beber trazem vida eterna
-
-No próprio contexto de João 6, Jesus já havia definido o eixo central do discurso como “crer”. Antes da linguagem de comer, ele repete várias vezes que quem crê tem vida eterna. Assim, “comer” pode funcionar como linguagem vívida para apropriação espiritual de Cristo pela fé, e não necessariamente ingestão literal de substância física.
-
----
-## 15.4 O pão é a carne de Cristo
-
-Jesus frequentemente identifica símbolos consigo mesmo:
-- “eu sou a porta”;
-- “eu sou a videira”;
-- “eu sou o caminho”.
-
-Dizer “o pão é minha carne” não exige automaticamente identidade ontológica literal. Dentro do contexto do maná levantado pelos próprios cafarnaítas, Jesus usa o pão como linguagem teológica para apontar para si mesmo como fonte da vida.
-
----
-## 15.5 O discurso vai de crer para comer
-
-A mudança de linguagem não implica mudança de assunto. Jesus adapta constantemente seu vocabulário ao contexto do interlocutor. Como os cafarnaítas introduzem o tema do pão e do maná, Jesus continua ensinando dentro dessa mesma linguagem. O tema central continua sendo união com Cristo pela fé.
-
----
-## 15.6 Repetição da linguagem de carne e sangue
-
-Repetição não prova literalidade. Jesus também repete metáforas em outros contextos sem intenção material:
-- porta,
-- videira,
-- água viva,
-- fermento,
-- luz.
-
-A repetição em João 6 pode servir para aumentar o impacto retórico e o escândalo pedagógico do discurso, especialmente diante da incredulidade crescente da multidão.
-
----
-## 15.7 “Verdadeira comida” e “verdadeira bebida”
-
-No Evangelho de João, “verdadeiro” frequentemente significa:
-- definitivo,
-- celestial,
-- pleno,
-- espiritual, e não necessariamente físico-material.
-
-Exemplos:
-- “verdadeira luz”;
-- “verdadeira videira”.
-
-Assim, “verdadeira comida” pode significar que Cristo é o alimento espiritual definitivo que cumpre o simbolismo do maná.
-
----
-## 15.8 Muitos discípulos abandonam Jesus
+## 15.3 Muitos discípulos abandonam Jesus
 
 O abandono dos discípulos mostra que o discurso foi ofensivo, mas não determina automaticamente que a interpretação deles estava correta. Pessoas também abandonaram Jesus por outros ensinos espirituais difíceis:
 - soberania divina,
@@ -474,7 +417,7 @@ O abandono dos discípulos mostra que o discurso foi ofensivo, mas não determin
 O escândalo pode ter sido justamente a radicalidade da dependência absoluta de Cristo, não necessariamente o canibalismo literal.
 
 ---
-## 15.9 Jesus não impede a saída deles
+## 15.3 Jesus não impede a saída deles
 
 Jesus frequentemente deixa pessoas irem embora:
 - o jovem rico;
@@ -484,39 +427,6 @@ Jesus frequentemente deixa pessoas irem embora:
 Isso faz parte do padrão em que ele não força adesão nem adapta o ensino para torná-lo aceitável aos incrédulos. O fato de não impedir a saída não prova que a interpretação literal deles estivesse correta.
 
 ---
-## 15.10 “Espírito e vida”
-
-Ao final do discurso, Jesus afirma:
-
-> “a carne para nada aproveita; as palavras que eu vos tenho dito são espírito e são vida”.
-
-Isso funciona naturalmente como chave interpretativa do capítulo. Jesus contrapõe:
-- entendimento carnal;
-- entendimento espiritual.
-
-Assim, o foco não seria ingestão física de substância corporal, mas apropriação espiritual de Cristo por meio da fé.
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # TEXTO
 
 Em João 6, Jesus inicia seu discurso apontando o verdadeiro motivo pelo qual os cafarnaítas o procuravam. Logo no versículo 26, ele afirma que eles não o seguiam porque haviam compreendido o sinal realizado, mas porque haviam comido dos pães e se fartado. Ou seja, Jesus expõe que aquelas pessoas ainda estavam presas a uma compreensão material e carnal da situação. Elas não haviam enxergado o significado espiritual do milagre da multiplicação dos pães; estavam interessadas apenas no benefício terreno.
