@@ -391,8 +391,8 @@ Jesus não tira o tema da comida do nada. Ele fala de alimento porque os própri
 Premissa 1: Jesus intensifica o discurso em vez de suavizá-lo
 Premissa 2: Jesus permite que discípulos abandonem o discurso
 Premissa 3: Uso repetitivo e insistente da linguagem corporal
-Premissa 4: Mudança do verbo φαγεῖν para τρώγειν
-Premissa 5: 
+Premissa 4: Paralelo com a Última Ceia
+Premissa 5: Paralelo com a Páscoa judaica
 Conclusão: Jesus falou de forma literal-sacramental.
 
 **PROTESTANTES**
