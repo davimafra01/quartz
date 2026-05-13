@@ -511,7 +511,7 @@ Assim, o foco não seria ingestão física de substância corporal, mas apropria
 
 
 
-
+O eixo da fala de Jesus é crer. Ele usa comida e bebida, carne sa
 
 
 
