@@ -447,6 +447,8 @@ No versículo 35, por exemplo, Jesus declara:
 
 > “Eu sou o pão da vida; o que vem a mim jamais terá fome; e o que crê em mim jamais terá sede.”
 
+==MOSTRAR QUE QUANDO JESUS FALA SOBRE CRER, FALA SOBRE CRER QUE ELE É DEUS.==
+
 Somente a partir do versículo 32 o tema do pão volta a ganhar destaque. E isso novamente acontece por iniciativa dos próprios cafarnaítas. Eles perguntam sobre sinais e citam o maná do deserto:
 
 > “Nossos pais comeram o maná no deserto.”
