@@ -5,6 +5,10 @@ O debate em questão é uma participação do Tales na live do Banzoli intitulad
 ---
 ### 1.1 O Contexto de Santo Optato e a Sé de Roma como Símbolo de Unidade
 
+**Premissa do Tales:** Bruno Lima disse que Santo Agostinho não reivindicou a primazia de Roma contra os Donatistas.
+
+**O que Bruno Lima disse:** Santo Agostinho nunca usa a Sé de Roma como apelo final. Pelo contrário: ele coloca o Concílio Plenário como um apelo mais alto/importante.
+
 Tales introduz a discussão sobre os pais da igreja do norte da África explicando que autores como Santo Optato de Milevo (frequentemente citado por apologistas católicos) viam a Cátedra de Pedro em Roma primordialmente como um símbolo prático e geográfico de unidade visível contra o cisma donatista, e não como uma fonte de jurisdição legal absoluta sobre toda a Igreja Universal. Para a mentalidade africana da época, estar em comunhão com Roma significava não estar isolado em um cisma regional, mas o poder de governo eclesiástico final continuava sendo exercido pelos concílios.
 
 - **Réplicas:** Bruno Lima concorda e acrescenta que na eclesiologia africana, a autoridade e as "chaves" dadas a Pedro pertenciam, na verdade, a toda a Igreja representativamente, e que a instância máxima de apelação e decisão final eram os concílios plenários regionais ou gerais, e nunca decretos monocráticos do bispo de Roma.
