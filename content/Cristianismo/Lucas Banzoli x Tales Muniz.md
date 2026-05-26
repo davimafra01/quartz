@@ -21,6 +21,8 @@ O debate em questão é uma participação do Tales na live do Banzoli intitulad
 
 - **Tréplica de Tales (Defendendo a visão católica):** Tales rebate a linha protestante explicando que os concílios e a autoridade papal não se excluem, mas trabalham em total harmonia no catolicismo. O fato de Agostinho apontar o Concílio Plenário como uma instância ampla não significa que ele rejeitava a primazia de Roma, mas sim que o Concílio era a ferramenta ecumênica para manifestar de forma retumbante e universal a mesma fé que Roma preservava. Para Tales, os protestantes erram ao tentar usar a existência dos concílios para pintar um Agostinho "independente", ignorando que tanto o Concílio quanto a Sé Romana faziam parte do mesmo ecossistema católico que combatia as heresias locais.
 
+roma falou tá acabado, foi interpolação?
+
 ---
 ### 1.2 A Teoria do Desenvolvimento de Doutrina (Cardeal Newman) e o "Catolicismo Frankenstein"
 
