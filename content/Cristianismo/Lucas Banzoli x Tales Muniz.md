@@ -20,6 +20,10 @@ Concílio de Jerusalém não permite comer comida com sangue? E os católicos?
 
 ---
 
+Para organizar:
+Concílio de Cartago sob São Cipriano (257 d.C.) contra o **batismo herético**.
+Pelagisnismo e caso do presbítero Apiario no século V.
+
  Klaus Schatz afirma, sobre o ==caso do pelagianismo==, que não havia exercício de primazia do exercício de Roma. Ele discorda de Roma locuta causa finata est. Ele diz que o apelo da igreja norte afriacana a roma não é uma evidência ou prova de que essa igreja acreditava na primazia jurídica de roma a ela. Texto dele: ![[Pasted image 20260527135948.png]]
 ![[Pasted image 20260527161832.png]]
 Klaus Schatz também mostra, no ==caso do Apiario== como a igreja africana preservou sua autonomia frente a reivindicações de Roma no caso de Apiário. Os norte africanos não aceitaram a intervenção de Roma e criaram uma instância de recurso interna para que nenhum presbítero apelasse a Roma (ou seja, proibiram recursos ultramarinos não apens para bispos, como era nos canones de sardica, mas também para presbíteros), opondo-se aos cânones de Sárdica (que fui usado como embasamento por Apiario, mas mesmo assim estava errado, já que os cânones falam apenas de bispos, e não de presbíteros). Nesse caso, diz-se que Roma apresentou os cânones de Sardica como se fossem de Niceia (falsificação | Schatz e "Eno" afirma isso? Os norte-africanos corrigem Roma, mas ela permanece irredutível). Ora, se Roma tinha autoridade, por que falsificar esse canon? Agostinho estava envolvido nesse contexto da igreja norte-africana.
