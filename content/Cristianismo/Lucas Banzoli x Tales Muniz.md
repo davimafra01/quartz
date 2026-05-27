@@ -11,3 +11,6 @@ Texto do Papa Leão citando o decreto Gelasiano ou o contrário? No decreto atri
 Jerônimo não colocou livros na vulgata 2 anos depois do Concílio de Roma (332). Ele não incluiu livros que foram considerados canônicos 2 anos antes.
 
 Ninguém considera que o Concílio de Roma existiu?
+
+Cardeal Caeteno informou a possibilidade de o canon reformado estar correto?
+
