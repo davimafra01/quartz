@@ -16,7 +16,7 @@ Ninguém considera que o Concílio de Roma existiu?
 
 Cardeal Caeteno informou a possibilidade de o canon reformado estar correto?
 
-Concílio de Jerusalém não permite comer comida com sangue? E os católicos?
+Concílio de Jerusalém não permite comer comida com sangue? E os católicos
 
 ---
 
@@ -55,3 +55,5 @@ Klaus Schatz também mostra, no caso do Apiario como a igreja africana preservou
 ```
 
 ---
+
+Agostinho disse: nem aos bispos católicos temos que assentir caso em algum momento sustentem qualquer opinião contra a Palavra canônica de Deus.
