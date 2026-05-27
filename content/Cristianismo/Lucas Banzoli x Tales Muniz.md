@@ -51,6 +51,8 @@ Sobre autoridade papal
 Quando Papa Zósimo interferiu na jurisdição da igreja africana (ele confundiu os cânones de sardica com o primeiro concilio de niceia), tanto Santo Agostinho quando Bispo Aurélio, no Concílio Africano de 419 (concilio de cartago) o advertiram a não falsificar os documentos da igreja católica (isso está em pear-review).
 
 JND Kelly diz relativo ao final da controvérsia envolvendo Apiário: Os bispos africanos, sarcasticamente, perguntaram a Celestino se há alguém que acredita que nosso Deus escolheu dotar apenas uma pessoa com senso de justiça e negar isso a um incontável número de bispos em concílio.
+
+Os bispos (entre eles Santo Agostinho e Aurélio de Cartago) reafirmaram um sistema interno africano de julgamento e apelação e determinaram que presbíteros, diáconos e até bispos não recorressem “além-mar”, isto é, a Roma, insistindo que causas eclesiásticas deveriam ser resolvidas dentro das próprias instâncias conciliares africanas, começando no bispo local e podendo avançar para sínodos provinciais e concílios regionais africanos; esse posicionamento é frequentemente usado na apologética protestante como evidência de que importantes líderes da Igreja antiga não reconheciam uma jurisdição papal universal e imediata sobre todas as igrejas, mas entendiam que concílios regionais de bispos possuíam autoridade legítima para julgar autonomamente seus próprios casos disciplinares.
 ```
 
 ---
