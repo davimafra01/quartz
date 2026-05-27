@@ -23,11 +23,13 @@ O debate em questão é uma participação do Tales na live do Banzoli intitulad
 
 "Roma falou tá acabado", foi interpolação?
 
-Concílio de Cártago sob São Cipriano
+Concílio de Cártago sob São Cipriano mostra que não havia jurisdição universal de Roma.
 
-Texto do Papa Leão citando o decreto Gelasiano ou o contrário? No decreto atribuído ao Papa Dâmaso (mas que não é dele) tem citações de Agostinho (30 anos mais tarde), condenação de livros 2 séculos mais tarde, introdução de assuntos que só seriam discutidos mais tarde na igreja.
+Texto do Papa Leão citando o decreto Gelasiano ou o contrário? No decreto atribuído ao Papa Dâmaso (mas que não é dele) tem citações de Agostinho (30 anos mais tarde), condenação de livros 2 séculos mais tarde, introdução de assuntos que só seriam discutidos mais tarde na igreja. Por que Ansiodoro e Dionísio Esíguo não citaram esse decreto sendo que fizeram um compilado de decretos da época deles?
 
-Por que
+Jerônimo não colocou livros na vulgata 2 anos depois do Concílio de Roma (332). Ele não incluiu livros que foram considerados canônicos 2 anos antes.
+
+
 
 ---
 ### 1.2 A Teoria do Desenvolvimento de Doutrina (Cardeal Newman) e o "Catolicismo Frankenstein"
