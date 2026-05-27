@@ -23,6 +23,12 @@ O debate em questão é uma participação do Tales na live do Banzoli intitulad
 
 "Roma falou tá acabado", foi interpolação?
 
+Concílio de Cártago sob São Cipriano
+
+Texto do Papa Leão citando o decreto Gelasiano ou o contrário? No decreto atribuído ao Papa Dâmaso (mas que não é dele) tem citações de Agostinho (30 anos mais tarde), condenação de livros 2 séculos mais tarde, introdução de assuntos que só seriam discutidos mais tarde na igreja.
+
+Por que
+
 ---
 ### 1.2 A Teoria do Desenvolvimento de Doutrina (Cardeal Newman) e o "Catolicismo Frankenstein"
 
