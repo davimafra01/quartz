@@ -16,4 +16,4 @@ Cardeal Caeteno informou a possibilidade de o canon reformado estar correto?
 
 Concílio de Jerusalém não permite comer comida com sangue? E os católicos?
 
- 
+ Klaus Schatz afirma que não havia exercício de primazia do exercício de Roma. Ele discorda de Roma locuta causa finata est.
