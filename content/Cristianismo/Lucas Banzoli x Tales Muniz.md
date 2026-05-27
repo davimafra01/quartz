@@ -25,6 +25,6 @@ Quando Papa Celestino interferiu na jurisdição da igreja africana (ele falsifi
 
 JND Kelly diz: Os bispos africanos, sarcasticamente, perguntaram a Celestino se há alguém que acredita que nosso Deus escolher dotar apenas uma pessoa com senso de justiça e negar isso a um incontável número de bispos em concílio.
 
-
+Quando Zósimo, bispo de Roma, retrocede na condenação de Apiario. O bispo anterior condenou pelágio, mas os pelagianos conseguiram nova audiência e Zósimo retrocede da condenação, considera pelágio ortodoxo. Os norte-africanos não aceitam, convocam novos sínodos que condenam pelágio e apelam ao imperador para condenar pelágio.
 
 ---
