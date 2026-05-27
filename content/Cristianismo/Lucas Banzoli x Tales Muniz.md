@@ -19,9 +19,9 @@ O debate em questão é uma participação do Tales na live do Banzoli intitulad
 **O Reforço do Argumento (Réplicas e Tréplicas):**
 - **Réplica (Bruno Lima e os protestantes):** Os participantes protestantes reforçam que os elogios feitos a Roma por Optato e Agostinho eram argumentos pragmáticos e contextuais para combater o isolamento geográfico dos donatistas na África. Eles afirmam que a autoridade das "chaves" não pertencia exclusivamente ao Papa, mas à Igreja inteira representada em concílios, e que a ideia de uma jurisdição monárquica e infalibilidade do bispo de Roma é um desenvolvimento posterior que não existia ali.
 
-- **Tréplica de Tales (Defendendo a visão católica):** Tales rebate a linha protestante explicando que os concílios e a autoridade papal não se excluem, mas trabalham em total harmonia no catolicismo. O fato de Agostinho apontar o Concílio Plenário como uma instância ampla não significa que ele rejeitava a primazia de Roma, mas sim que o Concílio era a ferramenta ecumênica para manifestar de forma retumbante e universal a mesma fé que Roma preservava. Para Tales, os protestantes erram ao tentar usar a existência dos concílios para pintar um Agostinho "independente", ignorando que tanto o Concílio quanto a Sé Romana faziam parte do mesmo ecossistema católico que combatia as heresias locais.
+- **Tréplica de Tales (Defendendo a visão católica):** Tales rebate a linha protestante explicando que os concílios e a autoridade papal não se excluem, mas trabalham em total harmonia no catolicismo. O fato de Agostinho apontar o Concílio Plenário como uma instância ampla não significa que ele rejeitava a primazia de Roma, mas s im que o Concílio era a ferramenta ecumênica para manifestar de forma retumbante e universal a mesma fé que Roma preservava. Para Tales, os protestantes erram ao tentar usar a existência dos concílios para pintar um Agostinho "independente", ignorando que tanto o Concílio quanto a Sé Romana faziam parte do mesmo ecossistema católico que combatia as heresias locais.
 
-roma falou tá acabado, foi interpolação?
+"Roma falou tá acabado", foi interpolação?
 
 ---
 ### 1.2 A Teoria do Desenvolvimento de Doutrina (Cardeal Newman) e o "Catolicismo Frankenstein"
