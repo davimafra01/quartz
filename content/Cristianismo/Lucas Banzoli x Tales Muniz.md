@@ -21,8 +21,8 @@ Concílio de Jerusalém não permite comer comida com sangue? E os católicos?
 ---
 
 Para organizar:
-Concílio de Cartago sob São Cipriano (257 d.C.) contra o **batismo herético**.
-Pelagisnismo e caso do presbítero Apiario no século V.
+- -Concílio de Cartago sob São Cipriano (257 d.C.) contra o **batismo herético**.
+- Pelagisnismo e caso do presbítero Apiario no século V.
 
  Klaus Schatz afirma, sobre o ==caso do pelagianismo==, que não havia exercício de primazia do exercício de Roma. Ele discorda de Roma locuta causa finata est. Ele diz que o apelo da igreja norte afriacana a roma não é uma evidência ou prova de que essa igreja acreditava na primazia jurídica de roma a ela. Texto dele: ![[Pasted image 20260527135948.png]]
 ![[Pasted image 20260527161832.png]]
