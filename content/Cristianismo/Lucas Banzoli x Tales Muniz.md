@@ -26,7 +26,7 @@ Para organizar:
 
  Klaus Schatz afirma, sobre o ==caso do pelagianismo==, que não havia exercício de primazia do exercício de Roma. Ele discorda de Roma locuta causa finata est. Ele diz que o apelo da igreja norte afriacana a roma não é uma evidência ou prova de que essa igreja acreditava na primazia jurídica de roma a ela. Texto dele: ![[Pasted image 20260527135948.png]]
 ![[Pasted image 20260527161832.png]]
-O bispo anterior condenou pelágio, mas os pelagianos conseguiram nova audiência e Zósimo retrocede da condenação, considera pelágio ortodoxo. Os norte-africanos não aceitam, convocam novos sínodos que condenam pelágio e apelam ao imperador para condenar pelágio. (Tales diz que, posteriormente, Zósimo condena o pelagianismo).
+O bispo anterior (Inocêncio I) condenou Pelágio, mas os pelagianos conseguiram nova audiência e Zósimo retrocede da condenação (mesmo depois de roma locuta, causa finita), considera Pelágio ortodoxo. Os norte-africanos não aceitam, convocam novos sínodos que condenam pelágio e apelam ao imperador para condenar pelágio. (Tales diz que, posteriormente, Zósimo condena o pelagianismo).
 
 
 Resumo do Caso de Apiário:
