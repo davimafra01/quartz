@@ -23,6 +23,8 @@ Klaus Schatz também mostra como a igreja africana preservou sua autonomia frent
 
 Quando Papa Celestino interferiu na jurisdição da igreja africana (ele falsificou o texto do quinto cânon do primeiro concílio ecumênico), tanto Santo Agostinho quando Bispo Aurélio, no Concílio Africano de 419 o advertiram a não falsificar os documentos da igreja católica (isso está em pear-review).
 
+JND Kelly diz: Os bispos africanos, sarcasticamente, perguntaram a Celestino se há alguém que acredita que nosso Deus escolher dotar apenas uma pessoa com senso de justiça e negar isso a um incontável número de bispos em concílio.
+
 
 
 ---
