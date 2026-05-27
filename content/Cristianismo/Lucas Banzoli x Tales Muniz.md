@@ -31,8 +31,6 @@ Para organizar:
 
 Klaus Schatz também mostra, no ==caso do Apiario== como a igreja africana preservou sua autonomia frente a reivindicações de Roma no caso de Apiário. Os norte africanos não aceitaram a intervenção de Roma e criaram uma instância de recurso interna para que nenhum presbítero apelasse a Roma (ou seja, proibiram recursos ultramarinos não apenas para bispos, como era nos canones de sardica, mas também para presbíteros), opondo-se aos cânones de Sárdica (que fui usado como embasamento por Apiario, mas mesmo assim estava errado, já que os cânones falam apenas de bispos, e não de presbíteros). Nesse caso, diz-se que Roma apresentou os cânones de Sardica como se fossem de Niceia (falsificação | Schatz e "Eno" afirma isso? Os norte-africanos corrigem Roma, mas ela permanece irredutível). Ora, se Roma tinha autoridade, por que falsificar esse canon? Agostinho estava envolvido nesse contexto da igreja norte-africana.
 
-JND Kelly diz: Os bispos africanos, sarcasticamente, perguntaram a Celestino se há alguém que acredita que nosso Deus escolheu dotar apenas uma pessoa com senso de justiça e negar isso a um incontável número de bispos em concílio.
-
 O bispo anterior condenou pelágio, mas os pelagianos conseguiram nova audiência e Zósimo retrocede da condenação, considera pelágio ortodoxo. Os norte-africanos não aceitam, convocam novos sínodos que condenam pelágio e apelam ao imperador para condenar pelágio. (Tales diz que, posteriormente, Zósimo condena o pelagianismo).
 
 Resumo do Caso de Apiário:
@@ -52,6 +50,7 @@ Sobre autoridade papal
   
 Quando Papa Zósimo interferiu na jurisdição da igreja africana (ele confundiu os cânones de sardica com o primeiro concilio de niceia), tanto Santo Agostinho quando Bispo Aurélio, no Concílio Africano de 419 (concilio de cartago) o advertiram a não falsificar os documentos da igreja católica (isso está em pear-review).
 
+JND Kelly diz relativo ao final da controvérsia envolvendo Apiário: Os bispos africanos, sarcasticamente, perguntaram a Celestino se há alguém que acredita que nosso Deus escolheu dotar apenas uma pessoa com senso de justiça e negar isso a um incontável número de bispos em concílio.
 ```
 
 ---
