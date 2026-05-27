@@ -2,9 +2,11 @@
 
 O debate em questão é uma participação do Tales na live do Banzoli intitulada "[AGOSTINHO ERA CATÓLICO ROMANO? (com Bruno Lima, Saulo André, Gabriel Ennes, Juan Oliveira e Gaião)]([AGOSTINHO ERA CATÓLICO ROMANO? (com Bruno Lima, Saulo André, Gabriel Ennes, Juan Oliveira e Gaião)](https://www.youtube.com/watch?v=59GX8q6TijY))", a partir da minutagem 1:14:20. Ele é chamado justamente para isso: para argumentar defendendo a ideia de que Agostinho era católico romano.
 
+---
+
 "Roma falou tá acabado", foi interpolação?
 
-Concílio de Cártago sob São Cipriano mostra que não havia jurisdição universal de Roma.
+Concílio de Cartago sob São Cipriano mostra que não havia jurisdição universal de Roma.
 
 Texto do Papa Leão citando o decreto Gelasiano ou o contrário? No decreto atribuído ao Papa Dâmaso (mas que não é dele) tem citações de Agostinho (30 anos mais tarde), condenação de livros 2 séculos mais tarde, introdução de assuntos que só seriam discutidos mais tarde na igreja. Por que Ansiodoro e Dionísio Esíguo não citaram esse decreto sendo que fizeram um compilado de decretos da época deles?
 
