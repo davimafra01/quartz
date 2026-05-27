@@ -26,12 +26,8 @@ Para organizar:
 
  Klaus Schatz afirma, sobre o ==caso do pelagianismo==, que não havia exercício de primazia do exercício de Roma. Ele discorda de Roma locuta causa finata est. Ele diz que o apelo da igreja norte afriacana a roma não é uma evidência ou prova de que essa igreja acreditava na primazia jurídica de roma a ela. Texto dele: ![[Pasted image 20260527135948.png]]
 ![[Pasted image 20260527161832.png]]
-
-
-
-Klaus Schatz também mostra, no ==caso do Apiario== como a igreja africana preservou sua autonomia frente a reivindicações de Roma no caso de Apiário. Os norte africanos não aceitaram a intervenção de Roma e criaram uma instância de recurso interna para que nenhum presbítero apelasse a Roma (ou seja, proibiram recursos ultramarinos não apenas para bispos, como era nos canones de sardica, mas também para presbíteros), opondo-se aos cânones de Sárdica (que fui usado como embasamento por Apiario, mas mesmo assim estava errado, já que os cânones falam apenas de bispos, e não de presbíteros). Nesse caso, diz-se que Roma apresentou os cânones de Sardica como se fossem de Niceia (falsificação | Schatz e "Eno" afirma isso? Os norte-africanos corrigem Roma, mas ela permanece irredutível). Ora, se Roma tinha autoridade, por que falsificar esse canon? Agostinho estava envolvido nesse contexto da igreja norte-africana.
-
 O bispo anterior condenou pelágio, mas os pelagianos conseguiram nova audiência e Zósimo retrocede da condenação, considera pelágio ortodoxo. Os norte-africanos não aceitam, convocam novos sínodos que condenam pelágio e apelam ao imperador para condenar pelágio. (Tales diz que, posteriormente, Zósimo condena o pelagianismo).
+
 
 Resumo do Caso de Apiário:
 ```
@@ -53,6 +49,8 @@ Quando Papa Zósimo interferiu na jurisdição da igreja africana (ele confundiu
 JND Kelly diz relativo ao final da controvérsia envolvendo Apiário: Os bispos africanos, sarcasticamente, perguntaram a Celestino se há alguém que acredita que nosso Deus escolheu dotar apenas uma pessoa com senso de justiça e negar isso a um incontável número de bispos em concílio.
 
 Os bispos (entre eles Santo Agostinho e Aurélio de Cartago) reafirmaram um sistema interno africano de julgamento e apelação e determinaram que presbíteros, diáconos e até bispos não recorressem “além-mar”, isto é, a Roma, insistindo que causas eclesiásticas deveriam ser resolvidas dentro das próprias instâncias conciliares africanas, começando no bispo local e podendo avançar para sínodos provinciais e concílios regionais africanos; esse posicionamento é frequentemente usado na apologética protestante como evidência de que importantes líderes da Igreja antiga não reconheciam uma jurisdição papal universal e imediata sobre todas as igrejas, mas entendiam que concílios regionais de bispos possuíam autoridade legítima para julgar autonomamente seus próprios casos disciplinares.
+
+Klaus Schatz também mostra, no caso do Apiario como a igreja africana preservou sua autonomia frente a reivindicações de Roma no caso de Apiário.
 ```
 
 ---
