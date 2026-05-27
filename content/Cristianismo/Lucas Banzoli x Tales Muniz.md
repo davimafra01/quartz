@@ -14,3 +14,6 @@ Ninguém considera que o Concílio de Roma existiu?
 
 Cardeal Caeteno informou a possibilidade de o canon reformado estar correto?
 
+Concílio de Jerusalém não permite comer comida com sangue? E os católicos?
+
+ 
