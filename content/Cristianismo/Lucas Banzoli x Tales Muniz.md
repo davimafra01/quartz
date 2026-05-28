@@ -22,10 +22,12 @@ Concílio de Jerusalém não permite comer comida com sangue? E os católicos
 
 Para organizar:
 - Concílio de Cartago sob São Cipriano (257 d.C.) contra o **batismo herético**.
-- Pelagisnismo e caso do presbítero Apiario no século V.
+- Pelagianismo e caso do presbítero Apiario no século V.
 
- Klaus Schatz afirma, sobre o caso do pelagianismo, que não havia exercício de primazia do exercício de Roma. Ele discorda de Roma locuta causa finata est. Ele diz que o apelo da igreja norte afriacana a roma não é uma evidência ou prova de que essa igreja acreditava na primazia jurídica de roma a ela. Texto dele: ![[Pasted image 20260527135948.png]]
+ Klaus Schatz afirma, sobre o caso do pelagianismo, que não havia exercício de primazia do exercício de Roma. Ele discorda de Roma locuta causa finata est. Ele diz que o apelo da igreja norte afriacana a roma não é uma evidência ou prova de que essa igreja acreditava na primazia jurídica de roma a ela. Texto dele:
+ ![[Pasted image 20260527135948.png]]
 ![[Pasted image 20260527161832.png]]
+
 O bispo anterior (Inocêncio I) condenou Pelágio, mas os pelagianos conseguiram nova audiência e Zósimo retrocede da condenação (mesmo depois de roma locuta, causa finita), considera Pelágio ortodoxo. Os norte-africanos não aceitam, convocam novos sínodos que condenam pelágio e apelam ao imperador para condenar pelágio. (Tales diz que, posteriormente, Zósimo condena o pelagianismo).
 
 ---
