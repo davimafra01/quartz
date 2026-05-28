@@ -28,6 +28,11 @@ Cardeal Caeteno informou a possibilidade de o canon reformado estar correto?
 
 Concílio de Jerusalém não permite comer comida com sangue? E os católicos
 
+![Nicene and Post-Nicene Fathers, Series I, Volume VI (Philip Schaff).pdf#page=748&selection=38,0,50,16&color=yellow]]
+
+> [!PDF|yellow] [[Nicene and Post-Nicene Fathers, Series I, Volume VI (Philip Schaff).pdf#page=748&selection=38,3,50,16&color=yellow|For men who wished to be built upon men, said, “I am of Paul; and I of Apollos; and I of Cephas,”2569 who is Peter. But others who did not wish to be built upon Peter, but upon the Rock, said, “But I am of Christ.” And when the Apostle Paul ascertained that he was chosen, and Christ despised, he said, “Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?”2570 And, as not in the name of Paul, so neither in the name of Peter; but in the name of Christ: that Peter might be built upon the Rock, not the Rock upon Peter.]]
+> For men who wished to be built upon men, said, “I am of Paul; and I of Apollos; and I of Cephas,”2569 who is Peter. But others who did not wish to be built upon Peter, but upon the Rock, said, “But I am of Christ.” And when the Apostle Paul ascertained that he was chosen, and Christ despised, he said, “Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?”2570 And, as not in the name of Paul, so neither in the name of Peter; but in the name of Christ: that Peter might be built upon the Rock, not the Rock upon Peter.
+
 ---
 
 Para organizar:
