@@ -1,8 +1,10 @@
-O que constitui um católico:
-- aquele que está em comunhão com o Papa;
-- aceita o depósito da fé como é ensinado pela igreja (interpret, dogmas de fé e etc);
-- participação nos 7 sacramentos dentro da igreja;
-- submissão ao magistério infalível + primazia papal jurídica sobre a igreja universal.
+Na linguagem teológica e canônica católica, considera-se plenamente católico aquele que, incorporado pelo batismo à Igreja Católica, permanece em sua plena comunhão visível mediante:
+
+(i) a profissão integral da fé católica recebida da Escritura e da Tradição apostólica;
+(ii) a comunhão sacramental e participação na vida litúrgica da Igreja; e
+(iii) a submissão ao governo eclesiástico legítimo, especialmente ao bispo de Roma, reconhecendo o primado papal jurídico sobre toda a igreja universal, a autoridade do magistério e as definições dogmáticas obrigatórias da Igreja. 
+
+Essa formulação deriva da eclesiologia católica clássica e é expressa de maneira semelhante no Código de Direito Canônico e em documentos do Concílio Vaticano II, especialmente na _Lumen Gentium_.
 
 ---
 
