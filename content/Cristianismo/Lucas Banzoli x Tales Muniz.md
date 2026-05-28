@@ -4,6 +4,8 @@ O debate em questão é uma participação do Tales na live do Banzoli intitulad
 
 ---
 
+Protestantes catecismo VII são irmãos mas em outros são hereges?
+
 "Roma falou tá acabado", foi interpolação?
 
 Concílio de Cartago sob São Cipriano mostra que não havia jurisdição universal de Roma.
